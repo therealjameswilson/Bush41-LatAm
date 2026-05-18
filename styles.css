@@ -136,6 +136,10 @@ main {
   font-weight: 800;
 }
 
+.compact-stats {
+  padding: 0 0 24px;
+}
+
 .hero-copy {
   align-self: center;
 }
@@ -560,6 +564,11 @@ footer {
 
 .source-list a:nth-child(4) {
   background: #5d4b2a;
+}
+
+.collection-links {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-bottom: 28px;
 }
 
 .timeline {

@@ -1,0 +1,8753 @@
+window.NSC_SOUTH_AMERICA = [
+  {
+    "id": "nsc-428080487",
+    "naid": "428080487",
+    "title": "Cartagena Drug Summit, February 15, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/428080487",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-15--Cartagena-Drug-Summit.pdf",
+    "objectFilename": "1990-02-15--Cartagena-Drug-Summit.pdf",
+    "objectId": "428080488",
+    "objectFileSize": 366555,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Bolivia 2163580",
+      "Bolivian 2163580",
+      "Colombian 2163580",
+      "Garcia 2163580",
+      "Paz Zamora 2163580",
+      "Peru 2163580",
+      "drug 2163580",
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766498",
+    "naid": "470766498",
+    "title": "Latin America - Business Groups",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00192-003",
+    "countries": [],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [
+      "Latin America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766498",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00192-003.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00192-003.pdf",
+    "objectId": "542916310",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00192",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Latin America 2163580",
+      "South America 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761506",
+    "naid": "470761506",
+    "title": "Restricted DC Meeting-Drugs/International Drug Strategy 11:00-12:00",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90043-042",
+    "countries": [],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761506",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-042.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-042.pdf",
+    "objectId": "483296306",
+    "objectFileSize": 2368559,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90043",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2005-1002-F",
+      "FOIA Tracking Number: 2008-1289-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312294094",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-up Files",
+      "url": "https://catalog.archives.gov/id/312294094"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766568",
+    "naid": "470766568",
+    "title": "The Columbus Group [Influential South American Businessmen]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00195-011",
+    "countries": [],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [
+      "South America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766568",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-011.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00195-011.pdf",
+    "objectId": "542916379",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00195",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bolivian 2163580",
+      "Brasilia 2163580",
+      "Brazilian 2163580",
+      "Gaviria 2163580",
+      "Organization of American States 2163580",
+      "South America 2163580",
+      "Venezuelan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766475",
+    "naid": "470766475",
+    "title": "Andean [Drug] Summit 1989 [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00189-002",
+    "countries": [],
+    "sortDate": "1989-01-01",
+    "startDate": "1989-01-01",
+    "endDate": "1989-12-31",
+    "topics": [
+      "Andean",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766475",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-002.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00189-002.pdf",
+    "objectId": "542916287",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00189",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Bolivia 2163580",
+      "Bolivian 2163580",
+      "Colombian 2163580",
+      "Ecuador 2163580",
+      "Ecuadorian 2163580",
+      "Peru 2163580",
+      "Peruvian 2163580",
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766476",
+    "naid": "470766476",
+    "title": "Andean [Drug] Summit 1989 [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00189-003",
+    "countries": [],
+    "sortDate": "1989-01-01",
+    "startDate": "1989-01-01",
+    "endDate": "1989-12-31",
+    "topics": [
+      "Andean",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766476",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-003.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00189-003.pdf",
+    "objectId": "542916288",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00189",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Bolivia 2163580",
+      "Bolivian 2163580",
+      "Ecuador 2163580",
+      "Garcia 2163580",
+      "Paz Zamora 2163580",
+      "Peru 2163580",
+      "Peruvian 2163580",
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766477",
+    "naid": "470766477",
+    "title": "Andean [Drug] Summit 1989 [3]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00189-004",
+    "countries": [],
+    "sortDate": "1989-01-01",
+    "startDate": "1989-01-01",
+    "endDate": "1989-12-31",
+    "topics": [
+      "Andean",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766477",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-004.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00189-004.pdf",
+    "objectId": "542916289",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00189",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Paz Zamora 2163580",
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766605",
+    "naid": "470766605",
+    "title": "Latin America Economic Affairs 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00196-019",
+    "countries": [],
+    "sortDate": "1989-01-01",
+    "startDate": "1989-01-01",
+    "endDate": "1989-12-31",
+    "topics": [
+      "Latin America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766605",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-019.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00196-019.pdf",
+    "objectId": "542916416",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00196",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Latin America 2163580",
+      "Peruvian 2163580",
+      "South America 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766528",
+    "naid": "470766528",
+    "title": "Tokyo Bilaterals - Debt [1989]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00193-013",
+    "countries": [],
+    "sortDate": "1989-01-01",
+    "startDate": "1989-01-01",
+    "endDate": "1989-12-31",
+    "topics": [
+      "debt"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766528",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-013.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00193-013.pdf",
+    "objectId": "542916339",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00193",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Sanguinetti 2163580",
+      "debt 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766536",
+    "naid": "470766536",
+    "title": "Warning [Latin America Meeting December 1989]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00193-021",
+    "countries": [],
+    "sortDate": "1989-01-01",
+    "startDate": "1989-01-01",
+    "endDate": "1989-12-31",
+    "topics": [
+      "Latin America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766536",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-021.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00193-021.pdf",
+    "objectId": "542916347",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00193",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Latin America 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766550",
+    "naid": "470766550",
+    "title": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00194-013",
+    "countries": [],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [
+      "narcotics",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766550",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00194-013.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00194-013.pdf",
+    "objectId": "542916361",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00194",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Ecuador 2163580",
+      "drug 2163580",
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766551",
+    "naid": "470766551",
+    "title": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00194-014",
+    "countries": [],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [
+      "narcotics",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766551",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00194-014.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00194-014.pdf",
+    "objectId": "542916362",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00194",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "drug 2163580",
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766552",
+    "naid": "470766552",
+    "title": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00194-015",
+    "countries": [],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [
+      "narcotics",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766552",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00194-015.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00194-015.pdf",
+    "objectId": "542916363",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00194",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "drug 2163580",
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766553",
+    "naid": "470766553",
+    "title": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00194-016",
+    "countries": [],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [
+      "narcotics",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766553",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00194-016.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00194-016.pdf",
+    "objectId": "542916364",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00194",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Colombian 2163580",
+      "Paraguay 2163580",
+      "Peruvian 2163580",
+      "Rodriguez 2163580",
+      "Stroessner 2163580",
+      "drug 2163580",
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766604",
+    "naid": "470766604",
+    "title": "Latin America - Churches - January 20, 1989-December 31, 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00196-018",
+    "countries": [],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [
+      "Latin America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766604",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-018.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00196-018.pdf",
+    "objectId": "542916415",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00196",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Latin America 2163580",
+      "Rodriguez 2163580",
+      "South America 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766606",
+    "naid": "470766606",
+    "title": "Latin America - General - January 20, 1989-December 31, 1989 [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00196-020",
+    "countries": [],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [
+      "Latin America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766606",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-020.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00196-020.pdf",
+    "objectId": "542916417",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00196",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Alfonsin 2163580",
+      "Gaviria 2163580",
+      "Latin America 2163580",
+      "Paraguay 2163580",
+      "Paraguayan 2163580",
+      "Rodriguez 2163580",
+      "Sanguinetti 2163580",
+      "South America 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766607",
+    "naid": "470766607",
+    "title": "Latin America - General - January 20, 1989-December 31, 1989 [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00196-021",
+    "countries": [],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [
+      "Latin America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766607",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-021.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00196-021.pdf",
+    "objectId": "542916418",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00196",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Latin America 2163580",
+      "Organization of American States 2163580",
+      "Paraguay 2163580",
+      "South America 2163580",
+      "Uruguayan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766496",
+    "naid": "470766496",
+    "title": "Latin America - January 20, 1989-December 31, 1989 [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00192-001",
+    "countries": [],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [
+      "Latin America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766496",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00192-001.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00192-001.pdf",
+    "objectId": "542916308",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00192",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Latin America 2163580",
+      "Organization of American States 2163580",
+      "Rodriguez 2163580",
+      "Stroessner 2163580",
+      "hemispheric 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766497",
+    "naid": "470766497",
+    "title": "Latin America - January 20, 1989-December 31, 1989 [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00192-002",
+    "countries": [],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [
+      "Latin America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766497",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00192-002.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00192-002.pdf",
+    "objectId": "542916309",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00192",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Latin America 2163580",
+      "Rodriguez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766608",
+    "naid": "470766608",
+    "title": "Latin America - USSR - January 20, 1989-December 31, 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00196-022",
+    "countries": [],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [
+      "Latin America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766608",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-022.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00196-022.pdf",
+    "objectId": "542916419",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00196",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580",
+      "Chilean 2163580",
+      "Latin America 2163580",
+      "Rodriguez 2163580",
+      "South America 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766525",
+    "naid": "470766525",
+    "title": "South America - January 20, 1989-December 31, 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00193-010",
+    "countries": [],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [
+      "South America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470766525",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-010.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00193-010.pdf",
+    "objectId": "542916336",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00193",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bolivia 2163580",
+      "Bolivian 2163580",
+      "Latin America 2163580",
+      "South America 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470760887",
+    "naid": "470760887",
+    "title": "NSC0003 - March 14, 1989 - International Debt, Economics, International Finance",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90000-003",
+    "countries": [],
+    "sortDate": "1989-03-14",
+    "startDate": "1989-03-14",
+    "endDate": "1989-03-14",
+    "topics": [
+      "debt"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470760887",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-3-90000-003.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-nsc_mtgs-3-90000-003.pdf",
+    "objectId": "483296405",
+    "objectFileSize": 17060912,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90000",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2009-0857-F",
+      "FOIA Tracking Number: 2005-1003-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312293887",
+      "title": "H-Files - National Security Council (NSC) Meeting Files",
+      "url": "https://catalog.archives.gov/id/312293887"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "debt 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761018",
+    "naid": "470761018",
+    "title": "NSC/DC 044 - August 17, 1989 - NSC/DC Meeting on International Drug Strategy, Keywords: Drugs",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90010-023",
+    "countries": [],
+    "sortDate": "1989-08-17",
+    "startDate": "1989-08-17",
+    "endDate": "1989-08-17",
+    "topics": [
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761018",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-44-90010-023.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-44-90010-023.pdf",
+    "objectId": "483296197",
+    "objectFileSize": 12123773,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90010",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2008-1289-F",
+      "FOIA Tracking Number: 2005-1002-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470760917",
+    "naid": "470760917",
+    "title": "NSC0027 - August 21, 1989 - International Drug Strategy Paper, Counter Narcotics (File located @ LM)",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90001-014",
+    "countries": [],
+    "sortDate": "1989-08-21",
+    "startDate": "1989-08-21",
+    "endDate": "1989-08-21",
+    "topics": [
+      "narcotics",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470760917",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-27-90001-014.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-nsc_mtgs-27-90001-014.pdf",
+    "objectId": "483296401",
+    "objectFileSize": 1004080,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90001",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2005-1003-F",
+      "FOIA Tracking Number: 2009-0857-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312293887",
+      "title": "H-Files - National Security Council (NSC) Meeting Files",
+      "url": "https://catalog.archives.gov/id/312293887"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-446396832",
+    "naid": "446396832",
+    "title": "NSD-18 - August 21, 1989 - International Counternarcotics Strategy",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90003-023",
+    "countries": [],
+    "sortDate": "1989-08-21",
+    "startDate": "1989-08-21",
+    "endDate": "1989-08-21",
+    "topics": [
+      "narcotics"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/446396832",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-18-90003-023.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-nsd-18-90003-023.pdf",
+    "objectId": "483296477",
+    "objectFileSize": 27937126,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90003",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "313189290",
+      "title": "National Security Directives (NSD) Files",
+      "url": "https://catalog.archives.gov/id/313189290"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Bolivia 2163580",
+      "Peru 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761025",
+    "naid": "470761025",
+    "title": "NSC/DC 051 - September 11, 1989 - NSC/DC Meeting on Narcotics Cooperation with Cuba, Keywords: Drugs, Cuba",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90011-004",
+    "countries": [],
+    "sortDate": "1989-09-11",
+    "startDate": "1989-09-11",
+    "endDate": "1989-09-11",
+    "topics": [
+      "narcotics",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761025",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-51-90011-004.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-51-90011-004.pdf",
+    "objectId": "483296205",
+    "objectFileSize": 10968768,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90011",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2005-0995-F",
+      "FOIA Tracking Number: 2008-1289-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2005-1002-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761049",
+    "naid": "470761049",
+    "title": "NSC/DC 072 - November 03, 1989 - NSC/DC Meeting on, Keywords: Drugs",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90012-003",
+    "countries": [],
+    "sortDate": "1989-11-03",
+    "startDate": "1989-11-03",
+    "endDate": "1989-11-03",
+    "topics": [
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761049",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-72-90012-003.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-72-90012-003.pdf",
+    "objectId": "483296230",
+    "objectFileSize": 13211768,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90012",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2005-1002-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2008-1289-F"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761052",
+    "naid": "470761052",
+    "title": "NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90012-006",
+    "countries": [],
+    "sortDate": "1989-11-09",
+    "startDate": "1989-11-09",
+    "endDate": "1989-11-09",
+    "topics": [
+      "Andean",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761052",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-75-90012-006.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-75-90012-006.pdf",
+    "objectId": "483296233",
+    "objectFileSize": 20919496,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90012",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2005-1002-F",
+      "FOIA Tracking Number: 2008-1289-F"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Bolivian 2163580",
+      "Garcia 2163580",
+      "Paz Zamora 2163580",
+      "Peruvian 2163580",
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761063",
+    "naid": "470761063",
+    "title": "NSC/DC 080 - December 07, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90012-017",
+    "countries": [],
+    "sortDate": "1989-12-07",
+    "startDate": "1989-12-07",
+    "endDate": "1989-12-07",
+    "topics": [
+      "Andean",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761063",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-80-90012-017.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-80-90012-017.pdf",
+    "objectId": "483296244",
+    "objectFileSize": 14319114,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90012",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2005-1002-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2008-1289-F"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761079",
+    "naid": "470761079",
+    "title": "NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90013-002",
+    "countries": [],
+    "sortDate": "1990-01-09",
+    "startDate": "1990-01-09",
+    "endDate": "1990-01-09",
+    "topics": [
+      "Andean",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761079",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-95-90013-002.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-95-90013-002.pdf",
+    "objectId": "483296260",
+    "objectFileSize": 8385071,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90013",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2008-1289-F",
+      "FOIA Tracking Number: 2005-1002-F"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761104",
+    "naid": "470761104",
+    "title": "NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90014-001",
+    "countries": [],
+    "sortDate": "1990-04-10",
+    "startDate": "1990-04-10",
+    "endDate": "1990-04-10",
+    "topics": [
+      "Andean",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761104",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-114_1-90014-001.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-114_1-90014-001.pdf",
+    "objectId": "483295807",
+    "objectFileSize": 6088785,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90014",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2008-1289-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2005-1002-F"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Paz Zamora 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761105",
+    "naid": "470761105",
+    "title": "NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90014-002",
+    "countries": [],
+    "sortDate": "1990-04-10",
+    "startDate": "1990-04-10",
+    "endDate": "1990-04-10",
+    "topics": [
+      "Andean",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761105",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-114_2-90014-002.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-114_2-90014-002.pdf",
+    "objectId": "483295808",
+    "objectFileSize": 11752462,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90014",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2005-1002-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2008-1289-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470436987",
+    "naid": "470436987",
+    "title": "Tuesday, 10 April [1990] at 1500 - Situation Room NSC/DC Meeting on Andean Implementation",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "85032-004",
+    "countries": [],
+    "sortDate": "1990-04-10",
+    "startDate": "1990-04-10",
+    "endDate": "1990-04-10",
+    "topics": [
+      "Andean"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470436987",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/gates/nsc_mtg_366547901/41-bpr-nsc-gates-nsc_mtings-85032-004.pdf",
+    "objectFilename": "41-bpr-nsc-gates-nsc_mtings-85032-004.pdf",
+    "objectId": "651326517",
+    "objectFileSize": 2639999,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "85032",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2007-0265-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "366547901",
+      "title": "Robert M. Gates National Security Council (NSC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/366547901"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761118",
+    "naid": "470761118",
+    "title": "NSC/DC 126 - May 09, 1990 - NSC/DC Meeting on Counternarcotic Interdiction in Latin America via SVTS, Keywords: Drugs, Latin America, Counternarcotics",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90014-015",
+    "countries": [],
+    "sortDate": "1990-05-09",
+    "startDate": "1990-05-09",
+    "endDate": "1990-05-09",
+    "topics": [
+      "Latin America",
+      "narcotics",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761118",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-126-90014-015.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-126-90014-015.pdf",
+    "objectId": "483295821",
+    "objectFileSize": 2880139,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90014",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2008-1289-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2005-1002-F"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Latin America 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761229",
+    "naid": "470761229",
+    "title": "NSC/DC 226 - November 29, 1990 - NSC/DC Meeting on Shipboarding and Standoff Policy in Caribbean via SVTS, Keywords: Caribbean, Drugs",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90017-023",
+    "countries": [],
+    "sortDate": "1990-11-29",
+    "startDate": "1990-11-29",
+    "endDate": "1990-11-29",
+    "topics": [
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761229",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-226-90017-023.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-226-90017-023.pdf",
+    "objectId": "483295943",
+    "objectFileSize": 17025612,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90017",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2005-1002-F",
+      "FOIA Tracking Number: 2008-1289-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761307",
+    "naid": "470761307",
+    "title": "NSC/DC 288 - June 24, 1991 - NSC/DC Meeting on Counternarcotics in Latin America, Keywords: Counternarcotics, Latin America",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90020-007",
+    "countries": [],
+    "sortDate": "1991-06-24",
+    "startDate": "1991-06-24",
+    "endDate": "1991-06-24",
+    "topics": [
+      "Latin America",
+      "narcotics"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761307",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-288-90020-007.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-288-90020-007.pdf",
+    "objectId": "483296027",
+    "objectFileSize": 18627798,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90020",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2008-1289-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2005-1002-F",
+      "FOIA Tracking Number: 2011-2116-F"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Latin America 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761330",
+    "naid": "470761330",
+    "title": "NSC/DC 309 - September 06, 1991 - NSC/DC Meeting re: Counternarcotics, Keywords: Counternarcotics",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90020-031",
+    "countries": [],
+    "sortDate": "1991-09-06",
+    "startDate": "1991-09-06",
+    "endDate": "1991-09-06",
+    "topics": [
+      "narcotics"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761330",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-309-90020-031.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-309-90020-031.pdf",
+    "objectId": "483296053",
+    "objectFileSize": 16701599,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90020",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2005-1002-F",
+      "FOIA Tracking Number: 2008-1289-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bolivia 2163580",
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470439285",
+    "naid": "470439285",
+    "title": "DC [Deputies Committee] Meeting, re: Drug Summit - February 14, 1992",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "21365-027",
+    "countries": [],
+    "sortDate": "1992-02-14",
+    "startDate": "1992-02-14",
+    "endDate": "1992-02-14",
+    "topics": [
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470439285",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/howe/howe_2554916/41-bpr-nsc-howe-21365-027.pdf",
+    "objectFilename": "41-bpr-nsc-howe-21365-027.pdf",
+    "objectId": "651326678",
+    "objectFileSize": 19379888,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "21365",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2012-3127-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2554916",
+      "title": "Rear Admiral Jonathan Howe's Files",
+      "url": "https://catalog.archives.gov/id/2554916"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bolivia 2163580",
+      "Ecuador 2163580",
+      "Fujimori 2163580",
+      "Peruvian 2163580",
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761360",
+    "naid": "470761360",
+    "title": "NSC/DC 337 - February 14, 1992 - NSC/DC Meeting on Counternarcotics / San Antonio Summit, Keywords: Drugs, Latin America",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90021-025",
+    "countries": [],
+    "sortDate": "1992-02-14",
+    "startDate": "1992-02-14",
+    "endDate": "1992-02-14",
+    "topics": [
+      "Latin America",
+      "narcotics",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761360",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-337-90021-025.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-337-90021-025.pdf",
+    "objectId": "483296085",
+    "objectFileSize": 18963580,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90021",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2008-1289-F",
+      "FOIA Tracking Number: 2005-1002-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Fujimori 2163580",
+      "Peru 2163580",
+      "Peruvian 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470439279",
+    "naid": "470439279",
+    "title": "[NSC/DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "21365-021",
+    "countries": [],
+    "sortDate": "1992-04-15",
+    "startDate": "1992-04-15",
+    "endDate": "1992-04-15",
+    "topics": [
+      "narcotics"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470439279",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/howe/howe_2554916/41-bpr-nsc-howe-21365-021.pdf",
+    "objectFilename": "41-bpr-nsc-howe-21365-021.pdf",
+    "objectId": "651326672",
+    "objectFileSize": 10413350,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "21365",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2012-3127-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2554916",
+      "title": "Rear Admiral Jonathan Howe's Files",
+      "url": "https://catalog.archives.gov/id/2554916"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Ecuador 2163580",
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470439301",
+    "naid": "470439301",
+    "title": "DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "21365-043",
+    "countries": [],
+    "sortDate": "1992-04-15",
+    "startDate": "1992-04-15",
+    "endDate": "1992-04-15",
+    "topics": [
+      "narcotics"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470439301",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/howe/howe_2554916/41-bpr-nsc-howe-21365-043.pdf",
+    "objectFilename": "41-bpr-nsc-howe-21365-043.pdf",
+    "objectId": "651326694",
+    "objectFileSize": 15975464,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "21365",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2012-3127-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2554916",
+      "title": "Rear Admiral Jonathan Howe's Files",
+      "url": "https://catalog.archives.gov/id/2554916"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "drug 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470439338",
+    "naid": "470439338",
+    "title": "DC [Deputies Committee] Meeting, re: Counternarcotics - July 16, 1992",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "21366-014",
+    "countries": [],
+    "sortDate": "1992-07-16",
+    "startDate": "1992-07-16",
+    "endDate": "1992-07-16",
+    "topics": [
+      "narcotics"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470439338",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/howe/howe_2554916/41-bpr-nsc-howe-21366-014.pdf",
+    "objectFilename": "41-bpr-nsc-howe-21366-014.pdf",
+    "objectId": "651326731",
+    "objectFileSize": 15736647,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "21366",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2012-3127-S"
+    ],
+    "series": {
+      "naid": "2554916",
+      "title": "Rear Admiral Jonathan Howe's Files",
+      "url": "https://catalog.archives.gov/id/2554916"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Rio Group 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081237",
+    "naid": "428081237",
+    "title": "Luncheon with President Carlos Saul Menem of Argentina, December 5, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081237",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-05--Menem.pdf",
+    "objectFilename": "1990-12-05--Menem.pdf",
+    "objectId": "428081238",
+    "objectFileSize": 5083922,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Di Tella 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082023",
+    "naid": "428082023",
+    "title": "Meeting with Carlos Menem, President of Argentina, November 14, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082023",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-11-14--Menem.pdf",
+    "objectFilename": "1991-11-14--Menem.pdf",
+    "objectId": "428082024",
+    "objectFileSize": 275696,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Di Tella 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081425",
+    "naid": "428081425",
+    "title": "Meeting with Foreign Minister Guido Di Tella of Argentina, February 8, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081425",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-08--Di-Tella.pdf",
+    "objectFilename": "1991-02-08--Di-Tella.pdf",
+    "objectId": "428081426",
+    "objectFileSize": 199354,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Aylwin 2163580",
+      "Chilean 2163580",
+      "Di Tella 2163580",
+      "Pinochet 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080237",
+    "naid": "428080237",
+    "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080237",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-27--Menem.pdf",
+    "objectFilename": "1989-09-27--Menem.pdf",
+    "objectId": "428080238",
+    "objectFileSize": 330376,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Di Tella 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081105",
+    "naid": "428081105",
+    "title": "Meeting with President Carlos Saul Menem of Argentina, October 1, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081105",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Menem.pdf",
+    "objectFilename": "1990-10-01--Menem.pdf",
+    "objectId": "428081106",
+    "objectFileSize": 227912,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Chile 2163580",
+      "Di Tella 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082357",
+    "naid": "428082357",
+    "title": "Telcon with Carlos Saul Menem of Argentina on November 5, 1992",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082357",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-11-05--Menem.pdf",
+    "objectFilename": "1992-11-05--Menem.pdf",
+    "objectId": "428082358",
+    "objectFileSize": 23348,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082165",
+    "naid": "428082165",
+    "title": "Telcon with President Carlos Menem of Argentina on April 71 1992, April 7, 1992",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082165",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-04-07--Menem.pdf",
+    "objectFilename": "1992-04-07--Menem.pdf",
+    "objectId": "428082166",
+    "objectFileSize": 97536,
+    "accessRestriction": "Restricted - Partly",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Menem 2163580",
+      "OAS 2163580",
+      "Peru 2163580",
+      "Rio Group 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081839",
+    "naid": "428081839",
+    "title": "Telcon with President Carlos Menem of Argentina on August 20, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081839",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-20--Menem.pdf",
+    "objectFilename": "1991-08-20--Menem.pdf",
+    "objectId": "428081840",
+    "objectFileSize": 2031067,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082385",
+    "naid": "428082385",
+    "title": "Telcon with President Carlos Menem of Argentina on December 1, 1992",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082385",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-12-01--Menem.pdf",
+    "objectFilename": "1992-12-01--Menem.pdf",
+    "objectId": "428082386",
+    "objectFileSize": 3147416,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Menem 2163580",
+      "Rio Group 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082119",
+    "naid": "428082119",
+    "title": "Telcon with President Carlos Saul Menem of Argentina on January 16, 1992",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082119",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-01-16--Menem.pdf",
+    "objectFilename": "1992-01-16--Menem.pdf",
+    "objectId": "428082120",
+    "objectFileSize": 2037659,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428079775",
+    "naid": "428079775",
+    "title": "Telephone Call from the President to President Alfonsin of Argentina, January 23, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428079775",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-01-23--Alfonsin.pdf",
+    "objectFilename": "1989-01-23--Alfonsin.pdf",
+    "objectId": "428079776",
+    "objectFileSize": 54567,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Alfonsin 2163580",
+      "Argentina 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081437",
+    "naid": "428081437",
+    "title": "Telephone Conversation with President Carlos Menem of Argentina, February 8, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081437",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-08--Menem.pdf",
+    "objectFilename": "1991-02-08--Menem.pdf",
+    "objectId": "428081438",
+    "objectFileSize": 110627,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081341",
+    "naid": "428081341",
+    "title": "Telephone conversation with President Carlos Menem of Argentina, January 14, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081341",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-14--Menem.pdf",
+    "objectFilename": "1991-01-14--Menem.pdf",
+    "objectId": "428081342",
+    "objectFileSize": 76665,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081361",
+    "naid": "428081361",
+    "title": "Telephone Conversation with President Carlos Menem of Argentina, January 19, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081361",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-19--Menem.pdf",
+    "objectFilename": "1991-01-19--Menem.pdf",
+    "objectId": "428081362",
+    "objectFileSize": 98394,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080601",
+    "naid": "428080601",
+    "title": "Telephone conversation with President Carlos Menem of Argentina, March 1, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080601",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-01--Menem.pdf",
+    "objectFilename": "1990-03-01--Menem.pdf",
+    "objectId": "428080602",
+    "objectFileSize": 132828,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080817",
+    "naid": "428080817",
+    "title": "Telephone Conversation with President Carlos Saul Menem of Argentina, June 28, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080817",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-28--Menem.pdf",
+    "objectFilename": "1990-06-28--Menem.pdf",
+    "objectId": "428080818",
+    "objectFileSize": 63423,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080455",
+    "naid": "428080455",
+    "title": "Telephone Conversation with President Menem of Argentina, December 20, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080455",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Menem.pdf",
+    "objectFilename": "1989-12-20--Menem.pdf",
+    "objectId": "428080456",
+    "objectFileSize": 100803,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081559",
+    "naid": "428081559",
+    "title": "Telephone Conversation with President Menem of Argentina, March 4, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081559",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-03-04--Menem.pdf",
+    "objectFilename": "1991-03-04--Menem.pdf",
+    "objectId": "428081560",
+    "objectFileSize": 123232,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Menem 2163580",
+      "Rio Group 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080013",
+    "naid": "428080013",
+    "title": "The President's Telephone Conversation with Argentine President Raul Alfonsin, May 13, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080013",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Alfonsin.pdf",
+    "objectFilename": "1989-05-13--Alfonsin.pdf",
+    "objectId": "428080014",
+    "objectFileSize": 111966,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Alfonsin 2163580",
+      "Paraguay 2163580",
+      "Paraguayan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766478",
+    "naid": "470766478",
+    "title": "Argentina - January 20, 1989-December 31, 1989 [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00189-005",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766478",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-005.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00189-005.pdf",
+    "objectId": "542916290",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00189",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Brasilia 2163580",
+      "Di Tella 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766479",
+    "naid": "470766479",
+    "title": "Argentina - January 20, 1989-December 31, 1989 [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00189-006",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766479",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-006.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00189-006.pdf",
+    "objectId": "542916291",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00189",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Argentina 2163580",
+      "Di Tella 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766480",
+    "naid": "470766480",
+    "title": "Argentina - January 20, 1989-December 31, 1989 [3]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00189-007",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766480",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-007.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00189-007.pdf",
+    "objectId": "542916292",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00189",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Alfonsin 2163580",
+      "Argentina 2163580",
+      "Di Tella 2163580",
+      "Menem 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766481",
+    "naid": "470766481",
+    "title": "Argentina - January 20, 1989-December 31, 1989 [4]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00189-008",
+    "countries": [
+      "Argentina"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766481",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-008.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00189-008.pdf",
+    "objectId": "542916293",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00189",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Alfonsin 2163580",
+      "Argentina 2163580",
+      "Paraguayan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080019",
+    "naid": "428080019",
+    "title": "Presidential Telephone Calls to Presidents Sanguinetti, Alfonsin, and Garcia on May 13 (2 of 2)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Argentina",
+      "Peru",
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080019",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Sanguinetti-2.pdf",
+    "objectFilename": "1989-05-13--Sanguinetti-2.pdf",
+    "objectId": "428080020",
+    "objectFileSize": 124036,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Alfonsin 2163580",
+      "Garcia 2163580",
+      "OAS 2163580",
+      "Paraguayan 2163580",
+      "Peru 2163580",
+      "Rodriguez 2163580",
+      "Sanguinetti 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080687",
+    "naid": "428080687",
+    "title": "Meetihg with President Jaime Paz Zamora of Bolivia, May 8, 1990 (2 of 2)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Bolivia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080687",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-08--Zamora-2.pdf",
+    "objectFilename": "1990-05-08--Zamora-2.pdf",
+    "objectId": "428080688",
+    "objectFileSize": 307667,
+    "accessRestriction": "Restricted - Partly",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bolivia 2163580",
+      "Bolivian 2163580",
+      "Colombian 2163580",
+      "Paz Zamora 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080261",
+    "naid": "428080261",
+    "title": "Meeting with Jaime Paz Zamora, September 25, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Bolivia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080261",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Zamora.pdf",
+    "objectFilename": "1989-09-25--Zamora.pdf",
+    "objectId": "428080262",
+    "objectFileSize": 12325,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bolivia 2163580",
+      "Paz Zamora 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080685",
+    "naid": "428080685",
+    "title": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Bolivia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080685",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-08--Zamora-1.pdf",
+    "objectFilename": "1990-05-08--Zamora-1.pdf",
+    "objectId": "428080686",
+    "objectFileSize": 175001,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bolivia 2163580",
+      "Bolivian 2163580",
+      "Paz Zamora 2163580",
+      "Rodriguez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080119",
+    "naid": "428080119",
+    "title": "Telephone Conversation with Victor Paz Estenssoro of Bolivia, July 7, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Bolivia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080119",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-07--Estenssoro.pdf",
+    "objectFilename": "1989-07-07--Estenssoro.pdf",
+    "objectId": "428080120",
+    "objectFileSize": 87874,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bolivia 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766485",
+    "naid": "470766485",
+    "title": "Bolivia - January 20, 1989-December 31, 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00189-012",
+    "countries": [
+      "Bolivia"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766485",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-012.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00189-012.pdf",
+    "objectId": "542916297",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00189",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Bolivia 2163580",
+      "Bolivian 2163580",
+      "Paz Zamora 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080489",
+    "naid": "428080489",
+    "title": "Meeting with Fernando Collor de Mello of Brazil, January 26, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080489",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-26--Collor-de-Mello.pdf",
+    "objectFilename": "1990-01-26--Collor-de-Mello.pdf",
+    "objectId": "428080490",
+    "objectFileSize": 11995,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Collor 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081693",
+    "naid": "428081693",
+    "title": "Meeting with Fernando Collor de Mello, President of Brazil, June 18, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081693",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-18--Collor-de-Mello.pdf",
+    "objectFilename": "1991-06-18--Collor-de-Mello.pdf",
+    "objectId": "428081694",
+    "objectFileSize": 340365,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Brazilian 2163580",
+      "Collor 2163580",
+      "Rio Group 2163580",
+      "debt 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081891",
+    "naid": "428081891",
+    "title": "Meeting with Fernando Collor de Mello, President of the Federative Republic of Brazil at UNGA, Waldorf Astoria Hotel, New York",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081891",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-23--Collor-de-Mello.pdf",
+    "objectFilename": "1991-09-23--Collor-de-Mello.pdf",
+    "objectId": "428081892",
+    "objectFileSize": 234182,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Collor 2163580",
+      "Suriname 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080259",
+    "naid": "428080259",
+    "title": "Meeting with Jose Sarney, September 25, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080259",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Sarney.pdf",
+    "objectFilename": "1989-09-25--Sarney.pdf",
+    "objectId": "428080260",
+    "objectFileSize": 12154,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Sarney 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081233",
+    "naid": "428081233",
+    "title": "Meeting with President Fernando Col lor de Mello of Brazil, December 3, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081233",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-03--Collor-de-Mello.pdf",
+    "objectFilename": "1990-12-03--Collor-de-Mello.pdf",
+    "objectId": "428081234",
+    "objectFileSize": 282960,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brasilia 2163580",
+      "Brazil 2163580",
+      "Collor 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081095",
+    "naid": "428081095",
+    "title": "Memorandum of Conversation with President Collor of Brazil, October 1, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081095",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Collor-de-Mello.pdf",
+    "objectFilename": "1990-10-01--Collor-de-Mello.pdf",
+    "objectId": "428081096",
+    "objectFileSize": 247963,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Brazilian 2163580",
+      "Collor 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428079873",
+    "naid": "428079873",
+    "title": "President's Meeting with President Jose Sarney of Brazil, February 25, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428079873",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-25--Sarney.pdf",
+    "objectFilename": "1989-02-25--Sarney.pdf",
+    "objectId": "428079874",
+    "objectFileSize": 212539,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Brazilian 2163580",
+      "Sarney 2163580",
+      "debt 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082219",
+    "naid": "428082219",
+    "title": "Telcon with Fernando Coller, President of Brazil, May 12, 1992",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082219",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-05-12--Collor-de-Mello.pdf",
+    "objectFilename": "1992-05-12--Collor-de-Mello.pdf",
+    "objectId": "428082220",
+    "objectFileSize": 2037659,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Collor 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082309",
+    "naid": "428082309",
+    "title": "Telcon with Fernando Collor, President of Brazil, on July 10, 1992",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082309",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-07-10--Collor-de-Mello.pdf",
+    "objectFilename": "1992-07-10--Collor-de-Mello.pdf",
+    "objectId": "428082310",
+    "objectFileSize": 2044251,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Collor 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082459",
+    "naid": "428082459",
+    "title": "Telcon with President Sarney of Brazil, May 17, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082459",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-17--Sarney.pdf",
+    "objectFilename": "1989-05-17--Sarney.pdf",
+    "objectId": "428082460",
+    "objectFileSize": 156970,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Brazilian 2163580",
+      "OAS 2163580",
+      "Sarney 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080813",
+    "naid": "428080813",
+    "title": "Telephone Conversation with President Fernando Collor de Mello of Brazil, June 28, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080813",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-28--Collor-de-Mello.pdf",
+    "objectFilename": "1990-06-28--Collor-de-Mello.pdf",
+    "objectId": "428080814",
+    "objectFileSize": 64581,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Collor 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080767",
+    "naid": "428080767",
+    "title": "Telephone Conversation with President Fernando Collor de Mello of Brazil, June 6, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080767",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-06--Collor-de-Mello.pdf",
+    "objectFilename": "1990-06-06--Collor-de-Mello.pdf",
+    "objectId": "428080768",
+    "objectFileSize": 130005,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Collor 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080617",
+    "naid": "428080617",
+    "title": "Telephone conversation with President Fernando Collor of Brazil, March 23, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080617",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-23--Collor-de-Mello.pdf",
+    "objectFilename": "1990-03-23--Collor-de-Mello.pdf",
+    "objectId": "428080618",
+    "objectFileSize": 65502,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Collor 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766486",
+    "naid": "470766486",
+    "title": "Brazil - January 20, 1989-December 31, 1989 [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00189-013",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766486",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-013.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00189-013.pdf",
+    "objectId": "542916298",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00189",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2009-1186-F",
+      "FOIA Tracking Number: 2004-0734-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brasilia 2163580",
+      "Brazil 2163580",
+      "Brazilian 2163580",
+      "Collor 2163580",
+      "Lacalle 2163580",
+      "Sarney 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766487",
+    "naid": "470766487",
+    "title": "Brazil - January 20, 1989-December 31, 1989 [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00189-014",
+    "countries": [
+      "Brazil"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766487",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-014.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00189-014.pdf",
+    "objectId": "542916299",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00189",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2009-1186-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2004-0734-F"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Brazilian 2163580",
+      "Sarney 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470768997",
+    "naid": "470768997",
+    "title": "Presidential Briefing Book: The President's Trip to South America 12/2-8/90 - Vol. I: Brazil and Uruguay [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF01696-005",
+    "countries": [
+      "Brazil",
+      "Uruguay"
+    ],
+    "sortDate": "1990-12-02",
+    "startDate": "1990-12-02",
+    "endDate": "1990-12-08",
+    "topics": [
+      "South America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470768997",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/sum_brief_books_376217868/41-bpr-nsc-sum_brief_bks-cf01696-005.pdf",
+    "objectFilename": "41-bpr-nsc-sum_brief_bks-cf01696-005.pdf",
+    "objectId": "631611005",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF01696",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2009-1186-F",
+      "Other Finding Aid Identifier: 2010-1893-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2004-0734-F"
+    ],
+    "series": {
+      "naid": "376217868",
+      "title": "Summit Briefing Books Files",
+      "url": "https://catalog.archives.gov/id/376217868"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Alfonsin 2163580",
+      "Borja 2163580",
+      "Bouterse 2163580",
+      "Brasilia 2163580",
+      "Brazil 2163580",
+      "Collor 2163580",
+      "Fujimori 2163580",
+      "Lacalle 2163580",
+      "Menem 2163580",
+      "Paraguay 2163580",
+      "Pinochet 2163580",
+      "Sarney 2163580",
+      "South America 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470768998",
+    "naid": "470768998",
+    "title": "Presidential Briefing Book: The President's Trip to South America 12/2-8/90 - Vol. I: Brazil and Uruguay [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF01696-006",
+    "countries": [
+      "Brazil",
+      "Uruguay"
+    ],
+    "sortDate": "1990-12-02",
+    "startDate": "1990-12-02",
+    "endDate": "1990-12-08",
+    "topics": [
+      "South America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470768998",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/sum_brief_books_376217868/41-bpr-nsc-sum_brief_bks-cf01696-006.pdf",
+    "objectFilename": "41-bpr-nsc-sum_brief_bks-cf01696-006.pdf",
+    "objectId": "631611006",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF01696",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2009-1186-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2004-0734-F",
+      "Other Finding Aid Identifier: 2010-1893-S"
+    ],
+    "series": {
+      "naid": "376217868",
+      "title": "Summit Briefing Books Files",
+      "url": "https://catalog.archives.gov/id/376217868"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brasilia 2163580",
+      "Brazil 2163580",
+      "Brazilian 2163580",
+      "Collor 2163580",
+      "Lacalle 2163580",
+      "Rio Group 2163580",
+      "South America 2163580",
+      "Suriname 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470768999",
+    "naid": "470768999",
+    "title": "Presidential Briefing Book: The President's Trip to South America 12/2-8/90 - Vol. I: Brazil and Uruguay [3]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF01696-007",
+    "countries": [
+      "Brazil",
+      "Uruguay"
+    ],
+    "sortDate": "1990-12-02",
+    "startDate": "1990-12-02",
+    "endDate": "1990-12-08",
+    "topics": [
+      "South America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470768999",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/sum_brief_books_376217868/41-bpr-nsc-sum_brief_bks-cf01696-007.pdf",
+    "objectFilename": "41-bpr-nsc-sum_brief_bks-cf01696-007.pdf",
+    "objectId": "631611007",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF01696",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2010-1893-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2004-0734-F",
+      "FOIA Tracking Number: 2009-1186-F"
+    ],
+    "series": {
+      "naid": "376217868",
+      "title": "Summit Briefing Books Files",
+      "url": "https://catalog.archives.gov/id/376217868"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bolivian 2163580",
+      "Brazil 2163580",
+      "Lacalle 2163580",
+      "Paraguay 2163580",
+      "Sanguinetti 2163580",
+      "South America 2163580",
+      "Uruguay 2163580",
+      "Uruguayan 2163580",
+      "hemispheric 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470430102",
+    "naid": "470430102",
+    "title": "[VHS Video Tape]: Patricio Aylwin, President of Chile",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF01944-017",
+    "countries": [
+      "Chile"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470430102",
+    "pdfUrl": "",
+    "objectFilename": "",
+    "objectId": "",
+    "objectFileSize": null,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF01944",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2004-0731-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2012-3121-S"
+    ],
+    "series": {
+      "naid": "2575539",
+      "title": "Robert Pastorino Subject Files",
+      "url": "https://catalog.archives.gov/id/2575539"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580"
+    ]
+  },
+  {
+    "id": "nsc-471822143",
+    "naid": "471822143",
+    "title": "9003723 Reply to President Aylwin of Chile",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "9003723",
+    "countries": [
+      "Chile"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/471822143",
+    "pdfUrl": "",
+    "objectFilename": "",
+    "objectId": "",
+    "objectFileSize": null,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00803",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-1037-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2198142",
+      "title": "PRS (Presidential Records System) Chronological Files",
+      "url": "https://catalog.archives.gov/id/2198142"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580"
+    ]
+  },
+  {
+    "id": "nsc-471823769",
+    "naid": "471823769",
+    "title": "9007748 Meeting with Chilean President Patricio Aylwin",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "9007748",
+    "countries": [
+      "Chile"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/471823769",
+    "pdfUrl": "",
+    "objectFilename": "",
+    "objectId": "",
+    "objectFileSize": null,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00811",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-1037-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2198142",
+      "title": "PRS (Presidential Records System) Chronological Files",
+      "url": "https://catalog.archives.gov/id/2198142"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580"
+    ]
+  },
+  {
+    "id": "nsc-471826641",
+    "naid": "471826641",
+    "title": "9106655 President's National Day Message to Chilean President Aylwin",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "9106655",
+    "countries": [
+      "Chile"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/471826641",
+    "pdfUrl": "",
+    "objectFilename": "",
+    "objectId": "",
+    "objectFileSize": null,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00974",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-1037-S"
+    ],
+    "series": {
+      "naid": "2198142",
+      "title": "PRS (Presidential Records System) Chronological Files",
+      "url": "https://catalog.archives.gov/id/2198142"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082199",
+    "naid": "428082199",
+    "title": "Meeting with Patricio Aylwin Azocar, President of the Republic of Chile, May 13, 1992",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Chile"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082199",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-05-13--Azocar.pdf",
+    "objectFilename": "1992-05-13--Azocar.pdf",
+    "objectId": "428082200",
+    "objectFileSize": 7154316,
+    "accessRestriction": "Restricted - Partly",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580",
+      "Chile 2163580",
+      "Chilean 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081115",
+    "naid": "428081115",
+    "title": "Memorandum of Conversation with President Patricio Aylwin of Chile, October 2, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Chile"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081115",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-02--Aylwin.pdf",
+    "objectFilename": "1990-10-02--Aylwin.pdf",
+    "objectId": "428081116",
+    "objectFileSize": 227330,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580",
+      "Chile 2163580",
+      "Chilean 2163580",
+      "Pinochet 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080659",
+    "naid": "428080659",
+    "title": "PRESIDENT BUSH'S TELEPHONE CALL TO PRESIDENT AYLWIN, March 30, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Chile"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080659",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-30--Aylwin.pdf",
+    "objectFilename": "1990-03-30--Aylwin.pdf",
+    "objectId": "428080660",
+    "objectFileSize": 71967,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580",
+      "Chile 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766562",
+    "naid": "470766562",
+    "title": "Chile - January 20, 1989-December 31, 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00195-005",
+    "countries": [
+      "Chile"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766562",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-005.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00195-005.pdf",
+    "objectId": "542916373",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00195",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2004-0731-F"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580",
+      "Chile 2163580",
+      "Chilean 2163580",
+      "Pinochet 2163580",
+      "Suriname 2163580",
+      "Surinamese 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470769000",
+    "naid": "470769000",
+    "title": "Presidential Briefing Book: The President's Trip to South America 12/2-8/90 - Vol. III: Chile and Venezuela [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF01696-008",
+    "countries": [
+      "Chile",
+      "Venezuela"
+    ],
+    "sortDate": "1990-12-02",
+    "startDate": "1990-12-02",
+    "endDate": "1990-12-08",
+    "topics": [
+      "South America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470769000",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/sum_brief_books_376217868/41-bpr-nsc-sum_brief_bks-cf01696-008.pdf",
+    "objectFilename": "41-bpr-nsc-sum_brief_bks-cf01696-008.pdf",
+    "objectId": "631611008",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF01696",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2004-0731-F",
+      "Other Finding Aid Identifier: 2010-1893-S",
+      "FOIA Tracking Number: 2009-0704-F"
+    ],
+    "series": {
+      "naid": "376217868",
+      "title": "Summit Briefing Books Files",
+      "url": "https://catalog.archives.gov/id/376217868"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580",
+      "Brazilian 2163580",
+      "Chile 2163580",
+      "Chilean 2163580",
+      "Collor 2163580",
+      "Lacalle 2163580",
+      "Paraguay 2163580",
+      "Pinochet 2163580",
+      "South America 2163580",
+      "Uruguayan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470769001",
+    "naid": "470769001",
+    "title": "Presidential Briefing Book: The President's Trip to South America 12/2-8/90 - Vol. III: Chile and Venezuela [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF01696-009",
+    "countries": [
+      "Chile",
+      "Venezuela"
+    ],
+    "sortDate": "1990-12-02",
+    "startDate": "1990-12-02",
+    "endDate": "1990-12-08",
+    "topics": [
+      "South America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470769001",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/sum_brief_books_376217868/41-bpr-nsc-sum_brief_bks-cf01696-009.pdf",
+    "objectFilename": "41-bpr-nsc-sum_brief_bks-cf01696-009.pdf",
+    "objectId": "631611009",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF01696",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2010-1893-S",
+      "FOIA Tracking Number: 2009-0704-F",
+      "FOIA Tracking Number: 2004-0731-F"
+    ],
+    "series": {
+      "naid": "376217868",
+      "title": "Summit Briefing Books Files",
+      "url": "https://catalog.archives.gov/id/376217868"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580",
+      "Chile 2163580",
+      "Chilean 2163580",
+      "Pinochet 2163580",
+      "South America 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470769002",
+    "naid": "470769002",
+    "title": "Presidential Briefing Book: The President's Trip to South America 12/2-8/90 - Vol. III: Chile and Venezuela [3]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF01696-010",
+    "countries": [
+      "Chile",
+      "Venezuela"
+    ],
+    "sortDate": "1990-12-02",
+    "startDate": "1990-12-02",
+    "endDate": "1990-12-08",
+    "topics": [
+      "South America"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470769002",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/sum_brief_books_376217868/41-bpr-nsc-sum_brief_bks-cf01696-010.pdf",
+    "objectFilename": "41-bpr-nsc-sum_brief_bks-cf01696-010.pdf",
+    "objectId": "631611010",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF01696",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2009-0704-F",
+      "FOIA Tracking Number: 2004-0731-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2010-1893-S"
+    ],
+    "series": {
+      "naid": "376217868",
+      "title": "Summit Briefing Books Files",
+      "url": "https://catalog.archives.gov/id/376217868"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Chile 2163580",
+      "Guyana 2163580",
+      "South America 2163580",
+      "Venezuelan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082499",
+    "naid": "428082499",
+    "title": "Meeting with President Cesar Gaviria of Colombia, February 26, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082499",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-26--Gaviria-Trujillo.pdf",
+    "objectFilename": "1991-02-26--Gaviria-Trujillo.pdf",
+    "objectId": "428082500",
+    "objectFileSize": 354708,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Colombia 2163580",
+      "Colombian 2163580",
+      "Garcia 2163580",
+      "Gaviria 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080241",
+    "naid": "428080241",
+    "title": "Meeting with President Virgilio Barco of Colombia, September 28, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080241",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-28--Barco.pdf",
+    "objectFilename": "1989-09-28--Barco.pdf",
+    "objectId": "428080242",
+    "objectFileSize": 311463,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Colombia 2163580",
+      "Colombian 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080837",
+    "naid": "428080837",
+    "title": "Meeting with President-Elect Gaviria of Colombia, July 13, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080837",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-13--Gaviria-Trujillo.pdf",
+    "objectFilename": "1990-07-13--Gaviria-Trujillo.pdf",
+    "objectId": "428080838",
+    "objectFileSize": 258828,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Colombia 2163580",
+      "Colombian 2163580",
+      "Gaviria 2163580",
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081077",
+    "naid": "428081077",
+    "title": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia, September 29, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081077",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-29--Gaviria-Trujillo.pdf",
+    "objectFilename": "1990-09-29--Gaviria-Trujillo.pdf",
+    "objectId": "428081078",
+    "objectFileSize": 258433,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bolivian 2163580",
+      "Gaviria 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080733",
+    "naid": "428080733",
+    "title": "Memorandum of Conversation with President Virgilio Barco of Colombia, June 5, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080733",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-05--Barco.pdf",
+    "objectFilename": "1990-06-05--Barco.pdf",
+    "objectId": "428080734",
+    "objectFileSize": 277466,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Colombian 2163580",
+      "Gaviria 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080203",
+    "naid": "428080203",
+    "title": "President Received Incoming Call FromVirgilio Barco, September 25, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080203",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-09-25--Barco.pdf",
+    "objectFilename": "1989-09-25--Barco.pdf",
+    "objectId": "428080204",
+    "objectFileSize": 9748,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428079919",
+    "naid": "428079919",
+    "title": "President's Telephone Call to Colombian President Barco, March 8, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428079919",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-03-08--Barco.pdf",
+    "objectFilename": "1989-03-08--Barco.pdf",
+    "objectId": "428079920",
+    "objectFileSize": 75083,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Colombian 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081721",
+    "naid": "428081721",
+    "title": "Telcon with Cesar Gaviria Trujillo, President of Colombia, June 20, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081721",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-20--Gaviria-Trujillo.pdf",
+    "objectFilename": "1991-06-20--Gaviria-Trujillo.pdf",
+    "objectId": "428081722",
+    "objectFileSize": 94728,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Colombia 2163580",
+      "Gaviria 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082453",
+    "naid": "428082453",
+    "title": "Telcon with President Barco of Colombia, May 16, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082453",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-16--Barco.pdf",
+    "objectFilename": "1989-05-16--Barco.pdf",
+    "objectId": "428082454",
+    "objectFileSize": 109870,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Colombia 2163580",
+      "Colombian 2163580",
+      "OAS 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080447",
+    "naid": "428080447",
+    "title": "Telephone Call to Virgilio Barco, January 10, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080447",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-01-10--Barco.pdf",
+    "objectFilename": "1990-01-10--Barco.pdf",
+    "objectId": "428080448",
+    "objectFileSize": 8049,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081223",
+    "naid": "428081223",
+    "title": "Telephone Conversation -with President Gaviria of Colombia, November 23, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081223",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-11-23--Gaviria-Trujillo.pdf",
+    "objectFilename": "1990-11-23--Gaviria-Trujillo.pdf",
+    "objectId": "428081224",
+    "objectFileSize": 54564,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Colombia 2163580",
+      "Gaviria 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080421",
+    "naid": "428080421",
+    "title": "Telephone Conversation with President Barco of Colombia, December 20, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080421",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Barco.pdf",
+    "objectFilename": "1989-12-20--Barco.pdf",
+    "objectId": "428080422",
+    "objectFileSize": 69051,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Colombia 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080509",
+    "naid": "428080509",
+    "title": "Telephone Conversation with President Barco of Colombia, January 28, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080509",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-01-28--Barco.pdf",
+    "objectFilename": "1990-01-28--Barco.pdf",
+    "objectId": "428080510",
+    "objectFileSize": 128840,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Collor 2163580",
+      "Colombia 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080357",
+    "naid": "428080357",
+    "title": "Telephone Conversation with President Barco of Colombia, November 27, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080357",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-11-27--Barco.pdf",
+    "objectFilename": "1989-11-27--Barco.pdf",
+    "objectId": "428080358",
+    "objectFileSize": 202388,
+    "accessRestriction": "Restricted - Partly",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Bolivia 2163580",
+      "Colombia 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080315",
+    "naid": "428080315",
+    "title": "Telephone Conversation with President Barco of Colombia, October 30, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080315",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-10-30--Barco.pdf",
+    "objectFilename": "1989-10-30--Barco.pdf",
+    "objectId": "428080316",
+    "objectFileSize": 47239,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Colombia 2163580",
+      "Ecuador 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080673",
+    "naid": "428080673",
+    "title": "Telephone Conversation with President Virgilio Barco of Colombia, April 27, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080673",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-04-27--Barco.pdf",
+    "objectFilename": "1990-04-27--Barco.pdf",
+    "objectId": "428080674",
+    "objectFileSize": 97343,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Colombia 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080265",
+    "naid": "428080265",
+    "title": "Telephone Conversation with President Virgilio Barco of Colombia, September 26, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080265",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-09-26--Barco.pdf",
+    "objectFilename": "1989-09-26--Barco.pdf",
+    "objectId": "428080266",
+    "objectFileSize": 65117,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080207",
+    "naid": "428080207",
+    "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080207",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-21--Barco.pdf",
+    "objectFilename": "1989-08-21--Barco.pdf",
+    "objectId": "428080208",
+    "objectFileSize": 152637,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Colombia 2163580",
+      "Colombian 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080215",
+    "naid": "428080215",
+    "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080215",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-28--Barco.pdf",
+    "objectFilename": "1989-08-28--Barco.pdf",
+    "objectId": "428080216",
+    "objectFileSize": 102171,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Colombia 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428079963",
+    "naid": "428079963",
+    "title": "The President's Telephone Conversation with President Barco of Colombia, April 14, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428079963",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-04-14--Barco.pdf",
+    "objectFilename": "1989-04-14--Barco.pdf",
+    "objectId": "428079964",
+    "objectFileSize": 72597,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Colombia 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766564",
+    "naid": "470766564",
+    "title": "Colombia - January 20, 1989-December 31, 1989 [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00195-007",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766564",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-007.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00195-007.pdf",
+    "objectId": "542916375",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00195",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "FOIA Tracking Number: 2001-0434-F"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Colombia 2163580",
+      "Colombian 2163580",
+      "Ecuadoran 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766565",
+    "naid": "470766565",
+    "title": "Colombia - January 20, 1989-December 31, 1989 [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00195-008",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766565",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-008.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00195-008.pdf",
+    "objectId": "542916376",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00195",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "FOIA Tracking Number: 2001-0434-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Barco 2163580",
+      "Colombia 2163580",
+      "Colombian 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766566",
+    "naid": "470766566",
+    "title": "Colombia - January 20, 1989-December 31, 1989 [3]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00195-009",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766566",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-009.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00195-009.pdf",
+    "objectId": "542916377",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00195",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2001-0434-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Colombia 2163580",
+      "Colombian 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766567",
+    "naid": "470766567",
+    "title": "Colombia - January 20, 1989-December 31, 1989 [4]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00195-010",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766567",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-010.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00195-010.pdf",
+    "objectId": "542916378",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00195",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2001-0434-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Barco 2163580",
+      "Borja 2163580",
+      "Colombia 2163580",
+      "Colombian 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761532",
+    "naid": "470761532",
+    "title": "DC - Counternarcotics -- Colombia July 16, 1992 11:00 - 12:00 Situation Room",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90044-020",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "1992-07-16",
+    "startDate": "1992-07-16",
+    "endDate": "1992-07-16",
+    "topics": [
+      "narcotics"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761532",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90044-020.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs_foll_up-90044-020.pdf",
+    "objectId": "483296332",
+    "objectFileSize": 1510771,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90044",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2008-1289-F",
+      "FOIA Tracking Number: 2005-1002-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312294094",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-up Files",
+      "url": "https://catalog.archives.gov/id/312294094"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Colombia 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470761393",
+    "naid": "470761393",
+    "title": "NSC/DC 365 - July 16, 1992 - NSC/DC Meeting on Colombia Counternarcotics Programs, Keywords: Counternarcotics, Colombia",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90023-003",
+    "countries": [
+      "Colombia"
+    ],
+    "sortDate": "1992-07-16",
+    "startDate": "1992-07-16",
+    "endDate": "1992-07-16",
+    "topics": [
+      "narcotics"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470761393",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-365-90023-003.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-365-90023-003.pdf",
+    "objectId": "483296120",
+    "objectFileSize": 18759808,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90023",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2008-1289-F",
+      "FOIA Tracking Number: 2005-1002-F",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Colombia 2163580"
+    ]
+  },
+  {
+    "id": "nsc-471822947",
+    "naid": "471822947",
+    "title": "9005718 President's Meeting with Ecuadorian President Rodrigo Borja",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "9005718",
+    "countries": [
+      "Ecuador"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/471822947",
+    "pdfUrl": "",
+    "objectFilename": "",
+    "objectId": "",
+    "objectFileSize": null,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00807",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-1037-S"
+    ],
+    "series": {
+      "naid": "2198142",
+      "title": "PRS (Presidential Records System) Chronological Files",
+      "url": "https://catalog.archives.gov/id/2198142"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Ecuadorian 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080839",
+    "naid": "428080839",
+    "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Ecuador"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080839",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-1.pdf",
+    "objectFilename": "1990-07-23--Borja-1.pdf",
+    "objectId": "428080840",
+    "objectFileSize": 348034,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Borja 2163580",
+      "Ecuador 2163580",
+      "Ecuadorian 2163580",
+      "Gaviria 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080841",
+    "naid": "428080841",
+    "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Ecuador"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080841",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-2.pdf",
+    "objectFilename": "1990-07-23--Borja-2.pdf",
+    "objectId": "428080842",
+    "objectFileSize": 285227,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Borja 2163580",
+      "Ecuador 2163580",
+      "Ecuadorian 2163580",
+      "Fujimori 2163580",
+      "Peru 2163580",
+      "Peruvian 2163580",
+      "debt 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082307",
+    "naid": "428082307",
+    "title": "Meeting with Sixto Duran Ballen, PresidentElect of Ecuador, Julyu 28, 1992",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Ecuador"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082307",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-28--Ballen.pdf",
+    "objectFilename": "1992-07-28--Ballen.pdf",
+    "objectId": "428082308",
+    "objectFileSize": 4088277,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Ecuador 2163580",
+      "Gaviria 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766556",
+    "naid": "470766556",
+    "title": "Ecuador - January 20, 1989-December 31, 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00194-019",
+    "countries": [
+      "Ecuador"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766556",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00194-019.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00194-019.pdf",
+    "objectId": "542916367",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00194",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Borja 2163580",
+      "Ecuador 2163580",
+      "Ecuadorian 2163580",
+      "Rio Group 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080045",
+    "naid": "428080045",
+    "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Guyana"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080045",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-19--Hoyte.pdf",
+    "objectFilename": "1989-06-19--Hoyte.pdf",
+    "objectId": "428080046",
+    "objectFileSize": 181301,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Guyana 2163580",
+      "Hoyte 2163580"
+    ]
+  },
+  {
+    "id": "nsc-472438179",
+    "naid": "472438179",
+    "title": "8901185 Meeting with the Guyanese Minister of Finance",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "8901185",
+    "countries": [
+      "Guyana"
+    ],
+    "sortDate": "1989-01-01",
+    "startDate": "1989-01-01",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/472438179",
+    "pdfUrl": "",
+    "objectFilename": "",
+    "objectId": "",
+    "objectFileSize": null,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00215",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2013-0520-S"
+    ],
+    "series": {
+      "naid": "374000540",
+      "title": "Executive Secretary PRS (Presidential Records System) Files",
+      "url": "https://catalog.archives.gov/id/374000540"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Guyanese 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766599",
+    "naid": "470766599",
+    "title": "Guyana - January 20, 1989-December 31, 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00196-013",
+    "countries": [
+      "Guyana"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766599",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-013.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00196-013.pdf",
+    "objectId": "542916410",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00196",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Guyana 2163580",
+      "Guyanese 2163580",
+      "Hoyte 2163580"
+    ]
+  },
+  {
+    "id": "nsc-471822314",
+    "naid": "471822314",
+    "title": "9004131 Support for Process on Paraguayan Democracy",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "9004131",
+    "countries": [
+      "Paraguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/471822314",
+    "pdfUrl": "",
+    "objectFilename": "",
+    "objectId": "",
+    "objectFileSize": null,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00804",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-1037-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2198142",
+      "title": "PRS (Presidential Records System) Chronological Files",
+      "url": "https://catalog.archives.gov/id/2198142"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Paraguayan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080795",
+    "naid": "428080795",
+    "title": "Meeting with Andres Rodriguez of Paraguay, June 15, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Paraguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080795",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-15--Rodriguez.pdf",
+    "objectFilename": "1990-06-15--Rodriguez.pdf",
+    "objectId": "428080796",
+    "objectFileSize": 13110,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Paraguay 2163580",
+      "Rodriguez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081403",
+    "naid": "428081403",
+    "title": "Telephone ccmversation with President Andres Rodriguez of Paraguay, January 31, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Paraguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081403",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-31--Rodriguez.pdf",
+    "objectFilename": "1991-01-31--Rodriguez.pdf",
+    "objectId": "428081404",
+    "objectFileSize": 64370,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Paraguay 2163580",
+      "Paraguayan 2163580",
+      "Rodriguez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766516",
+    "naid": "470766516",
+    "title": "Paraguay - January 20, 1989-December 31, 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00193-001",
+    "countries": [
+      "Paraguay"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-20",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766516",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-001.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00193-001.pdf",
+    "objectId": "542916327",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00193",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brasilia 2163580",
+      "Garcia 2163580",
+      "Paraguay 2163580",
+      "Paraguayan 2163580",
+      "Rodriguez 2163580",
+      "Stroessner 2163580"
+    ]
+  },
+  {
+    "id": "nsc-472441706",
+    "naid": "472441706",
+    "title": "9004773 Meeting with Paraguayan President Rodriguez",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "9004773",
+    "countries": [
+      "Paraguay"
+    ],
+    "sortDate": "1990-01-01",
+    "startDate": "1990-01-01",
+    "endDate": "1990-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/472441706",
+    "pdfUrl": "",
+    "objectFilename": "",
+    "objectId": "",
+    "objectFileSize": null,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00829",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2013-0520-S"
+    ],
+    "series": {
+      "naid": "374000540",
+      "title": "Executive Secretary PRS (Presidential Records System) Files",
+      "url": "https://catalog.archives.gov/id/374000540"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Paraguayan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-471826673",
+    "naid": "471826673",
+    "title": "9106739 Visit of President Fujimori  of Peru",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "9106739",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/471826673",
+    "pdfUrl": "",
+    "objectFilename": "",
+    "objectId": "",
+    "objectFileSize": null,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00974",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2011-1613-F",
+      "Other Finding Aid Identifier: 2015-1037-S"
+    ],
+    "series": {
+      "naid": "2198142",
+      "title": "PRS (Presidential Records System) Chronological Files",
+      "url": "https://catalog.archives.gov/id/2198142"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Fujimori 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081889",
+    "naid": "428081889",
+    "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081889",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-2.pdf",
+    "objectFilename": "1991-09-17--Fujimori-2.pdf",
+    "objectId": "428081890",
+    "objectFileSize": 314166,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Colombian 2163580",
+      "Ecuador 2163580",
+      "Fujimori 2163580",
+      "Peru 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081887",
+    "naid": "428081887",
+    "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081887",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-1.pdf",
+    "objectFilename": "1991-09-17--Fujimori-1.pdf",
+    "objectId": "428081888",
+    "objectFileSize": 315381,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Fujimori 2163580",
+      "Peru 2163580",
+      "Peruvian 2163580",
+      "debt 2163580",
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082203",
+    "naid": "428082203",
+    "title": "Telcon with Alberto Fujimori of Peru on April 20, 1992",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082203",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-04-20--Fujimori.pdf",
+    "objectFilename": "1992-04-20--Fujimori.pdf",
+    "objectId": "428082204",
+    "objectFileSize": 4081685,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Fujimori 2163580",
+      "OAS 2163580",
+      "Peru 2163580",
+      "Peruvian 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080015",
+    "naid": "428080015",
+    "title": "Telephone Conversation with President Alan Garcia of Peru, May 13, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080015",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Garcia.pdf",
+    "objectFilename": "1989-05-13--Garcia.pdf",
+    "objectId": "428080016",
+    "objectFileSize": 196327,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Garcia 2163580",
+      "Paraguay 2163580",
+      "Peru 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766518",
+    "naid": "470766518",
+    "title": "Peru - January 20, 1989-December 31, 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00193-003",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-20",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766518",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-003.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00193-003.pdf",
+    "objectId": "542916329",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00193",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2001-0010-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Alfonsin 2163580",
+      "Garcia 2163580",
+      "Paraguayan 2163580",
+      "Peru 2163580",
+      "Peruvian 2163580",
+      "Sanguinetti 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470436968",
+    "naid": "470436968",
+    "title": "Friday, 5 May [1989] at 1400 - Situation Room NSC/DC Meeting on Peru",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "85031-016",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "1989-05-05",
+    "startDate": "1989-05-05",
+    "endDate": "1989-05-05",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470436968",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/gates/nsc_mtg_366547901/41-bpr-nsc-gates-nsc_mtings-85031-016.pdf",
+    "objectFilename": "41-bpr-nsc-gates-nsc_mtings-85031-016.pdf",
+    "objectId": "651326498",
+    "objectFileSize": 2165751,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "85031",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2007-0265-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "366547901",
+      "title": "Robert M. Gates National Security Council (NSC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/366547901"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Peru 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470760997",
+    "naid": "470760997",
+    "title": "NSC/DC 023 - May 10, 1989 - NSC/DC Meeting on Counternarcotics Program in Peru, Keywords: Peru Drugs",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90010-002",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "1989-05-10",
+    "startDate": "1989-05-10",
+    "endDate": "1989-05-10",
+    "topics": [
+      "narcotics",
+      "drug"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470760997",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-23-90010-002.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-23-90010-002.pdf",
+    "objectId": "483295947",
+    "objectFileSize": 16665964,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90010",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2005-1002-F",
+      "FOIA Tracking Number: 2008-1289-F"
+    ],
+    "series": {
+      "naid": "312294079",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "url": "https://catalog.archives.gov/id/312294079"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Peru 2163580",
+      "Peruvian 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470760903",
+    "naid": "470760903",
+    "title": "NSC0016 - May 15, 1989 - Counter Narcotics in Peru",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90000-019",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "1989-05-15",
+    "startDate": "1989-05-15",
+    "endDate": "1989-05-15",
+    "topics": [
+      "narcotics"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470760903",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-16-90000-019.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-nsc_mtgs-16-90000-019.pdf",
+    "objectId": "483296386",
+    "objectFileSize": 10547785,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90000",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2009-0857-F",
+      "FOIA Tracking Number: 2005-1003-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312293887",
+      "title": "H-Files - National Security Council (NSC) Meeting Files",
+      "url": "https://catalog.archives.gov/id/312293887"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Peru 2163580",
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470760907",
+    "naid": "470760907",
+    "title": "NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90001-004",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "1989-05-25",
+    "startDate": "1989-05-25",
+    "endDate": "1989-05-25",
+    "topics": [
+      "narcotics"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470760907",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-20_1-90001-004.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-nsc_mtgs-20_1-90001-004.pdf",
+    "objectId": "483296391",
+    "objectFileSize": 8177953,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90001",
+    "variantControlNumbers": [
+      "FOIA Tracking Number: 2005-1003-F",
+      "FOIA Tracking Number: 2009-0857-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "312293887",
+      "title": "H-Files - National Security Council (NSC) Meeting Files",
+      "url": "https://catalog.archives.gov/id/312293887"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Peru 2163580",
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470760908",
+    "naid": "470760908",
+    "title": "NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "90001-005",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "1989-05-25",
+    "startDate": "1989-05-25",
+    "endDate": "1989-05-25",
+    "topics": [
+      "narcotics"
+    ],
+    "catalogUrl": "https://catalog.archives.gov/id/470760908",
+    "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-20_2-90001-005.pdf",
+    "objectFilename": "41-bpr-nsc-hfiles-nsc_mtgs-20_2-90001-005.pdf",
+    "objectId": "483296392",
+    "objectFileSize": 5569878,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "90001",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2005-1003-F",
+      "FOIA Tracking Number: 2009-0857-F"
+    ],
+    "series": {
+      "naid": "312293887",
+      "title": "H-Files - National Security Council (NSC) Meeting Files",
+      "url": "https://catalog.archives.gov/id/312293887"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Peru 2163580",
+      "narcotics 2163580"
+    ]
+  },
+  {
+    "id": "nsc-472441869",
+    "naid": "472441869",
+    "title": "9005464 Letter from President - Elect Fujimori of Peru",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "9005464",
+    "countries": [
+      "Peru"
+    ],
+    "sortDate": "1990-01-01",
+    "startDate": "1990-01-01",
+    "endDate": "1990-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/472441869",
+    "pdfUrl": "",
+    "objectFilename": "",
+    "objectId": "",
+    "objectFileSize": null,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00338",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2013-0520-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "374000540",
+      "title": "Executive Secretary PRS (Presidential Records System) Files",
+      "url": "https://catalog.archives.gov/id/374000540"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Fujimori 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766527",
+    "naid": "470766527",
+    "title": "Suriname - January 20, 1989-December 31, 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00193-012",
+    "countries": [
+      "Suriname"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766527",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-012.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00193-012.pdf",
+    "objectId": "542916338",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00193",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bouterse 2163580",
+      "Guyana 2163580",
+      "Suriname 2163580",
+      "Surinamese 2163580"
+    ]
+  },
+  {
+    "id": "nsc-471828722",
+    "naid": "471828722",
+    "title": "9203538 Reply to President Lacalle of Uruguay",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "9203538",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/471828722",
+    "pdfUrl": "",
+    "objectFilename": "",
+    "objectId": "",
+    "objectFileSize": null,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF01674",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-1037-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2198142",
+      "title": "PRS (Presidential Records System) Chronological Files",
+      "url": "https://catalog.archives.gov/id/2198142"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Lacalle 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081229",
+    "naid": "428081229",
+    "title": "Meeting regarding Soviet Grain Purchases and the Uruguay Round, November 28, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081229",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-28--Soviet-Grain-Purchases.pdf",
+    "objectFilename": "1990-11-28--Soviet-Grain-Purchases.pdf",
+    "objectId": "428081230",
+    "objectFileSize": 372486,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Uruguay 2163580",
+      "hemispheric 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081235",
+    "naid": "428081235",
+    "title": "Meeting with Luis Alberto Lacalle of Uruguay, December 4, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081235",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-04--Lacalle.pdf",
+    "objectFilename": "1990-12-04--Lacalle.pdf",
+    "objectId": "428081236",
+    "objectFileSize": 137873,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Lacalle 2163580",
+      "Paraguay 2163580",
+      "Uruguay 2163580",
+      "Uruguayan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081675",
+    "naid": "428081675",
+    "title": "Meeting with President Luis Alberto Lacalle of Uruguay, May 21, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081675",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-21--Lacalle.pdf",
+    "objectFilename": "1991-05-21--Lacalle.pdf",
+    "objectId": "428081676",
+    "objectFileSize": 282215,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Aylwin 2163580",
+      "Collor 2163580",
+      "Lacalle 2163580",
+      "Pinochet 2163580",
+      "Uruguay 2163580",
+      "Uruguayan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081103",
+    "naid": "428081103",
+    "title": "Meeting with President Luis Alberto Lacalle of Uruguay, October 1, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081103",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Lacalle.pdf",
+    "objectFilename": "1990-10-01--Lacalle.pdf",
+    "objectId": "428081104",
+    "objectFileSize": 160127,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Lacalle 2163580",
+      "Uruguay 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080481",
+    "naid": "428080481",
+    "title": "Meeting with President-elect Luis Alberto Lacalle of Uruguay, February 5, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080481",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-05--Lacalle.pdf",
+    "objectFilename": "1990-02-05--Lacalle.pdf",
+    "objectId": "428080482",
+    "objectFileSize": 233187,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Brazil 2163580",
+      "Colombian 2163580",
+      "Lacalle 2163580",
+      "Uruguay 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080181",
+    "naid": "428080181",
+    "title": "Meeting with Uruguayan President Julio Maria Sanguinetti, September 15, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080181",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-15--Sanguinetti.pdf",
+    "objectFilename": "1989-09-15--Sanguinetti.pdf",
+    "objectId": "428080182",
+    "objectFileSize": 304827,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Paraguay 2163580",
+      "Paraguayan 2163580",
+      "Rodriguez 2163580",
+      "Sanguinetti 2163580",
+      "Stroessner 2163580",
+      "Uruguay 2163580",
+      "Uruguayan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081349",
+    "naid": "428081349",
+    "title": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay, January 16, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081349",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-16--Lacalle.pdf",
+    "objectFilename": "1991-01-16--Lacalle.pdf",
+    "objectId": "428081350",
+    "objectFileSize": 37641,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Lacalle 2163580",
+      "Uruguay 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080815",
+    "naid": "428080815",
+    "title": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay, June 28, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080815",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-28--Lacalle.pdf",
+    "objectFilename": "1990-06-28--Lacalle.pdf",
+    "objectId": "428080816",
+    "objectFileSize": 69476,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Lacalle 2163580",
+      "Uruguay 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080017",
+    "naid": "428080017",
+    "title": "The President's Telephone Conversation with President Sanguinetti of Uruguay, May 13, 1989 (1 of 2)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080017",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Sanguinetti-1.pdf",
+    "objectFilename": "1989-05-13--Sanguinetti-1.pdf",
+    "objectId": "428080018",
+    "objectFileSize": 150805,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "OAS 2163580",
+      "Paraguay 2163580",
+      "Sanguinetti 2163580",
+      "Uruguay 2163580",
+      "Uruguayan 2163580",
+      "hemispheric 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082021",
+    "naid": "428082021",
+    "title": "Uruguay Round, November 9, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082021",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-11-09--Lubbers.pdf",
+    "objectFilename": "1991-11-09--Lubbers.pdf",
+    "objectId": "428082022",
+    "objectFileSize": 600438,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Uruguay 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766531",
+    "naid": "470766531",
+    "title": "Uruguay - January 20, 1989-December 31, 1989",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00193-016",
+    "countries": [
+      "Uruguay"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766531",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-016.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00193-016.pdf",
+    "objectId": "542916342",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00193",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Lacalle 2163580",
+      "Paraguayan 2163580",
+      "Sanguinetti 2163580",
+      "Uruguay 2163580",
+      "Uruguayan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080731",
+    "naid": "428080731",
+    "title": "Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080731",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-04--Perez-de-Cuellar.pdf",
+    "objectFilename": "1990-06-04--Perez-de-Cuellar.pdf",
+    "objectId": "428080732",
+    "objectFileSize": 271206,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081643",
+    "naid": "428081643",
+    "title": "Luncheon with Secretary General Javier Perez de Cuellar of the United Nations, May 9, 1991 (3 of 3)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081643",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-09--Perez-de-Cuellar-3.pdf",
+    "objectFilename": "1991-05-09--Perez-de-Cuellar-3.pdf",
+    "objectId": "428081644",
+    "objectFileSize": 241042,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080655",
+    "naid": "428080655",
+    "title": "Meeting with Carlos Andres Perez of Venezuela, April 26, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080655",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-26--Perez.pdf",
+    "objectFilename": "1990-04-26--Perez.pdf",
+    "objectId": "428080656",
+    "objectFileSize": 12361,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081905",
+    "naid": "428081905",
+    "title": "Meeting with Carlos Andres Perez, President of the Republic of Venezuela at UNGA, Waldorf Astoria Hotel, New York",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081905",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-24--Perez.pdf",
+    "objectFilename": "1991-09-24--Perez.pdf",
+    "objectId": "428081906",
+    "objectFileSize": 370893,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Bouterse 2163580",
+      "Fujimori 2163580",
+      "Suriname 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428079887",
+    "naid": "428079887",
+    "title": "Meeting with Javier Perez de Cuellar of the United Nations, January 24, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428079887",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-01-24--Perez-de-Cuellar.pdf",
+    "objectFilename": "1989-01-24--Perez-de-Cuellar.pdf",
+    "objectId": "428079888",
+    "objectFileSize": 7547,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428079937",
+    "naid": "428079937",
+    "title": "Meeting with President Carlos Andres Perez of Venezuela, April 1, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428079937",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-01--Perez.pdf",
+    "objectFilename": "1989-04-01--Perez.pdf",
+    "objectId": "428079938",
+    "objectFileSize": 364286,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Garcia 2163580",
+      "Rio Group 2163580",
+      "Venezuela 2163580",
+      "Venezuelan 2163580",
+      "hemispheric 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081627",
+    "naid": "428081627",
+    "title": "Meeting with President Carlos Andres Perez of Venezuela, May 3, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081627",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-03--Perez.pdf",
+    "objectFilename": "1991-05-03--Perez.pdf",
+    "objectId": "428081628",
+    "objectFileSize": 415786,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Borja 2163580",
+      "Bouterse 2163580",
+      "Carlos Andres Perez 2163580",
+      "Fujimori 2163580",
+      "Peru 2163580",
+      "Peruvian 2163580",
+      "Suriname 2163580",
+      "Venezuela 2163580",
+      "Venezuelan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081109",
+    "naid": "428081109",
+    "title": "Meeting with President Carlos Andres Perez of Venezuela, October 1, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081109",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Perez.pdf",
+    "objectFilename": "1990-10-01--Perez.pdf",
+    "objectId": "428081110",
+    "objectFileSize": 247885,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Gaviria 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081641",
+    "naid": "428081641",
+    "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, May 9, 1991 (2 of 3)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081641",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-09--Perez-de-Cuellar-2.pdf",
+    "objectFilename": "1991-05-09--Perez-de-Cuellar-2.pdf",
+    "objectId": "428081642",
+    "objectFileSize": 308767,
+    "accessRestriction": "Restricted - Partly",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081111",
+    "naid": "428081111",
+    "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, October 1, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081111",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Perez-de-Cuellar.pdf",
+    "objectFilename": "1990-10-01--Perez-de-Cuellar.pdf",
+    "objectId": "428081112",
+    "objectFileSize": 152317,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081893",
+    "naid": "428081893",
+    "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081893",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-23--Perez-de-Cuellar.pdf",
+    "objectFilename": "1991-09-23--Perez-de-Cuellar.pdf",
+    "objectId": "428081894",
+    "objectFileSize": 174515,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081639",
+    "naid": "428081639",
+    "title": "Meeting with UN Secretary General Javier Perez de Cuellar, May 9, 1991 (1 of 3)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081639",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-09--Perez-de-Cuellar-1.pdf",
+    "objectFilename": "1991-05-09--Perez-de-Cuellar-1.pdf",
+    "objectId": "428081640",
+    "objectFileSize": 239122,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080737",
+    "naid": "428080737",
+    "title": "Meeting with United Nations Secretary General Perez de Cuellar, June 6, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080737",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-06--Perez-de-Cuellar.pdf",
+    "objectFilename": "1990-06-06--Perez-de-Cuellar.pdf",
+    "objectId": "428080738",
+    "objectFileSize": 166704,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080229",
+    "naid": "428080229",
+    "title": "Meeting with Venezuelan President Carlos Andres Perez, September 25, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080229",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Perez.pdf",
+    "objectFilename": "1989-09-25--Perez.pdf",
+    "objectId": "428080230",
+    "objectFileSize": 191975,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Ecuador 2163580",
+      "Venezuelan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081239",
+    "naid": "428081239",
+    "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081239",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-08--Perez.pdf",
+    "objectFilename": "1990-12-08--Perez.pdf",
+    "objectId": "428081240",
+    "objectFileSize": 393643,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Andean 2163580",
+      "Pinochet 2163580",
+      "Venezuelan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081441",
+    "naid": "428081441",
+    "title": "President's Call to the UN Secretary General, February 8, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081441",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-08--Perez-de-Cuellar.pdf",
+    "objectFilename": "1991-02-08--Perez-de-Cuellar.pdf",
+    "objectId": "428081442",
+    "objectFileSize": 171598,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081657",
+    "naid": "428081657",
+    "title": "Te1coll with Javier Perez de Cuellar, United Nations Secretary General, on April 25, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081657",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-25--Perez-de-Cuellar.pdf",
+    "objectFilename": "1991-04-25--Perez-de-Cuellar.pdf",
+    "objectId": "428081658",
+    "objectFileSize": 166354,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081653",
+    "naid": "428081653",
+    "title": "Telcon with Carlos Andres Perez, President of Venezuela on April 20, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081653",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-20--Perez.pdf",
+    "objectFilename": "1991-04-20--Perez.pdf",
+    "objectId": "428081654",
+    "objectFileSize": 141445,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082369",
+    "naid": "428082369",
+    "title": "Telcon with Carlos Andres Perez, President of Venezuela on November 27, 1992 (1 of 2)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082369",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-11-27--Perez-1.pdf",
+    "objectFilename": "1992-11-27--Perez-1.pdf",
+    "objectId": "428082370",
+    "objectFileSize": 31886,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082371",
+    "naid": "428082371",
+    "title": "Telcon with Carlos Andres Perez, President of Venezuela on November 27, 1992 (2 of 2)",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082371",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-11-27--Perez-2.pdf",
+    "objectFilename": "1992-11-27--Perez-2.pdf",
+    "objectId": "428082372",
+    "objectFileSize": 2044251,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498039",
+      "title": "Presidential Memcon Files",
+      "url": "https://catalog.archives.gov/id/321498039"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082247",
+    "naid": "428082247",
+    "title": "Telcon with Carlos Andres Perez, President of Venezuela, on June 20, 1992",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082247",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-06-20--Perez.pdf",
+    "objectFilename": "1992-06-20--Perez.pdf",
+    "objectId": "428082248",
+    "objectFileSize": 3066264,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Rio Group 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081909",
+    "naid": "428081909",
+    "title": "Telcon with President Carlos Andres Perez of Venezuela on september 5, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081909",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-05--Perez.pdf",
+    "objectFilename": "1991-09-05--Perez.pdf",
+    "objectId": "428081910",
+    "objectFileSize": 155214,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082007",
+    "naid": "428082007",
+    "title": "Telcon with President Carlos Andres Perez President of Venezuela on October 10, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082007",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-10-10--Perez.pdf",
+    "objectFilename": "1991-10-10--Perez.pdf",
+    "objectId": "428082008",
+    "objectFileSize": 125202,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Borja 2163580",
+      "Bouterse 2163580",
+      "Ecuador 2163580",
+      "Ecuadoran 2163580",
+      "Fujimori 2163580",
+      "Suriname 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080985",
+    "naid": "428080985",
+    "title": "Telcon with United Nations Secretary General Javier Perez de Cuellar, August 28, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080985",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-28--Perez-de-Cuellar.pdf",
+    "objectFilename": "1990-08-28--Perez-de-Cuellar.pdf",
+    "objectId": "428080986",
+    "objectFileSize": 101844,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080011",
+    "naid": "428080011",
+    "title": "Telephone Call Initiated From Oval Office to Carlos Andres Perez, May 11, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080011",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-11--Perez.pdf",
+    "objectFilename": "1989-05-11--Perez.pdf",
+    "objectId": "428080012",
+    "objectFileSize": 8145,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428079999",
+    "naid": "428079999",
+    "title": "Telephone Call Initiated to Carlos Andres Perez, May 9, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428079999",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-09--Perez.pdf",
+    "objectFilename": "1989-05-09--Perez.pdf",
+    "objectId": "428080000",
+    "objectFileSize": 8446,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080135",
+    "naid": "428080135",
+    "title": "Telephone Call Initiated to Javier Perez de Cuellar, July 31, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080135",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-31--Perez-de-Cuellar.pdf",
+    "objectFilename": "1989-07-31--Perez-de-Cuellar.pdf",
+    "objectId": "428080136",
+    "objectFileSize": 7297,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081587",
+    "naid": "428081587",
+    "title": "Telephone Call to Javier Perez de Cuellar, April 10, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081587",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-10--Perez-de-Cuellar.pdf",
+    "objectFilename": "1991-04-10--Perez-de-Cuellar.pdf",
+    "objectId": "428081588",
+    "objectFileSize": 9031,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081589",
+    "naid": "428081589",
+    "title": "Telephone Call to Javier Perez de Cuellar, April 16, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081589",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-16--Perez-de-Cuellar.pdf",
+    "objectFilename": "1991-04-16--Perez-de-Cuellar.pdf",
+    "objectId": "428081590",
+    "objectFileSize": 9154,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080449",
+    "naid": "428080449",
+    "title": "Telephone Call to Javier Perez de Cuellar, January 19, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080449",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-01-19--Perez-de-Cuellar.pdf",
+    "objectFilename": "1990-01-19--Perez-de-Cuellar.pdf",
+    "objectId": "428080450",
+    "objectFileSize": 7537,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081013",
+    "naid": "428081013",
+    "title": "Telephone Call to the UN Secretary General, September 5, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081013",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-09-05--Perez-de-Cuellar.pdf",
+    "objectFilename": "1990-09-05--Perez-de-Cuellar.pdf",
+    "objectId": "428081014",
+    "objectFileSize": 116672,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080003",
+    "naid": "428080003",
+    "title": "Telephone Call with Carlos Andres Perez of Venezuela, May 10, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080003",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-10--Perez.pdf",
+    "objectFilename": "1989-05-10--Perez.pdf",
+    "objectId": "428080004",
+    "objectFileSize": 101171,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Ecuador 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428082109",
+    "naid": "428082109",
+    "title": "Telephone Conversation with Carlos Andres Perez, December 18, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428082109",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-12-17--Perez.pdf",
+    "objectFilename": "1991-12-17--Perez.pdf",
+    "objectId": "428082110",
+    "objectFileSize": 42128,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080211",
+    "naid": "428080211",
+    "title": "Telephone Conversation with Carlos Andres Perez, President of Venezuela",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080211",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-22--Perez.pdf",
+    "objectFilename": "1989-08-22--Perez.pdf",
+    "objectId": "428080212",
+    "objectFileSize": 132261,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "OAS 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081595",
+    "naid": "428081595",
+    "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, April 9, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081595",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-09--Perez.pdf",
+    "objectFilename": "1991-04-09--Perez.pdf",
+    "objectId": "428081596",
+    "objectFileSize": 214300,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080951",
+    "naid": "428080951",
+    "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, August 13, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080951",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-13--Perez.pdf",
+    "objectFilename": "1990-08-13--Perez.pdf",
+    "objectId": "428080952",
+    "objectFileSize": 178318,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080569",
+    "naid": "428080569",
+    "title": "Telephone conversation with President Carlos Andres Perez of Venezuela, February 26, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080569",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-02-26--Perez.pdf",
+    "objectFilename": "1990-02-26--Perez.pdf",
+    "objectId": "428080570",
+    "objectFileSize": 132670,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081439",
+    "naid": "428081439",
+    "title": "Telephone conversation with President Carlos Andres Perez of Venezuela, February 8, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081439",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-08--Perez.pdf",
+    "objectFilename": "1991-02-08--Perez.pdf",
+    "objectId": "428081440",
+    "objectFileSize": 278523,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080615",
+    "naid": "428080615",
+    "title": "Telephone conversation with President Carlos Andres Perez of Venezuela, March 21, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080615",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-21--Perez.pdf",
+    "objectFilename": "1990-03-21--Perez.pdf",
+    "objectId": "428080616",
+    "objectFileSize": 155868,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081965",
+    "naid": "428081965",
+    "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, October 1, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081965",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-10-01--Perez.pdf",
+    "objectFilename": "1991-10-01--Perez.pdf",
+    "objectId": "428081966",
+    "objectFileSize": 130972,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "OAS 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428081963",
+    "naid": "428081963",
+    "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, September 30, 1991",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428081963",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-30--Perez.pdf",
+    "objectFilename": "1991-09-30--Perez.pdf",
+    "objectId": "428081964",
+    "objectFileSize": 142933,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "OAS 2163580",
+      "Suriname 2163580",
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080461",
+    "naid": "428080461",
+    "title": "Telephone Conversation with President Perez of Venezuela, December 20, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080461",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Perez.pdf",
+    "objectFilename": "1989-12-20--Perez.pdf",
+    "objectId": "428080462",
+    "objectFileSize": 119656,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Venezuela 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080665",
+    "naid": "428080665",
+    "title": "Telephone Conversation with UN Secretary General Perez de Cuellar, April 11, 1990",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080665",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-04-11--Perez-de-Cuellar.pdf",
+    "objectFilename": "1990-04-11--Perez-de-Cuellar.pdf",
+    "objectId": "428080666",
+    "objectFileSize": 58451,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080313",
+    "naid": "428080313",
+    "title": "Telephone Conversation with United Nations Secretary-General Perez de Cuellar, October 25, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080313",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-10-25--Perez-de-Cuellar.pdf",
+    "objectFilename": "1989-10-25--Perez-de-Cuellar.pdf",
+    "objectId": "428080314",
+    "objectFileSize": 38594,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Perez 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080319",
+    "naid": "428080319",
+    "title": "Telephone Conversation with Venezuelan President Carlos Andres Perez, November 1, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080319",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-11-01--Perez.pdf",
+    "objectFilename": "1989-11-01--Perez.pdf",
+    "objectId": "428080320",
+    "objectFileSize": 115919,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Carlos Andres Perez 2163580",
+      "Venezuelan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428079917",
+    "naid": "428079917",
+    "title": "The President's Telephone Conversation with President Carlos Andres Perez of Venezuela on March 3, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428079917",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-03-03--Perez.pdf",
+    "objectFilename": "1989-03-03--Perez.pdf",
+    "objectId": "428079918",
+    "objectFileSize": 129708,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Sarney 2163580",
+      "Venezuelan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-428080073",
+    "naid": "428080073",
+    "title": "The President's Telephone Conversation with President Carlos Andres Perez of Venezuela, June 23, 1989",
+    "levelOfDescription": "item",
+    "localIdentifier": "",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "",
+    "startDate": "",
+    "endDate": "",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/428080073",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-06-23--Perez.pdf",
+    "objectFilename": "1989-06-23--Perez.pdf",
+    "objectId": "428080074",
+    "objectFileSize": 157519,
+    "accessRestriction": "Unrestricted",
+    "useRestriction": "Unrestricted",
+    "containerId": "",
+    "variantControlNumbers": [],
+    "series": {
+      "naid": "321498139",
+      "title": "Presidential Telcon Files",
+      "url": "https://catalog.archives.gov/id/321498139"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Ecuador 2163580",
+      "OAS 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766533",
+    "naid": "470766533",
+    "title": "Venezuela - January 20, 1989-December 31, 1989 [1]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00193-018",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766533",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-018.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00193-018.pdf",
+    "objectId": "542916344",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00193",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2009-0704-F",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Ecuadorian 2163580",
+      "Paraguayan 2163580",
+      "Venezuela 2163580",
+      "Venezuelan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766534",
+    "naid": "470766534",
+    "title": "Venezuela - January 20, 1989-December 31, 1989 [2]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00193-019",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "1989-01-20",
+    "startDate": "1989-01-20",
+    "endDate": "1989-12-31",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766534",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-019.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00193-019.pdf",
+    "objectId": "542916345",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00193",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2009-0704-F",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Borja 2163580",
+      "Venezuela 2163580",
+      "Venezuelan 2163580"
+    ]
+  },
+  {
+    "id": "nsc-470766537",
+    "naid": "470766537",
+    "title": "[Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]",
+    "levelOfDescription": "fileUnit",
+    "localIdentifier": "CF00193-022",
+    "countries": [
+      "Venezuela"
+    ],
+    "sortDate": "1989-04-01",
+    "startDate": "1989-04-01",
+    "endDate": "1989-04-30",
+    "topics": [],
+    "catalogUrl": "https://catalog.archives.gov/id/470766537",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-022.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-subj-cf00193-022.pdf",
+    "objectId": "542916348",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00193",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "FOIA Tracking Number: 2009-0704-F",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "376217847",
+      "title": "Latin American Affairs Directorate Subject Files",
+      "url": "https://catalog.archives.gov/id/376217847"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library",
+    "matchedQueries": [
+      "Venezuelan 2163580"
+    ]
+  }
+];

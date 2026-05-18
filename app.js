@@ -16,6 +16,9 @@ const CHAPTER_ORDER = [
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
 const totalPages = document.querySelector("#total-pages");
+const nscTotalRecords = document.querySelector("#nsc-total-records");
+const nscPdfRecords = document.querySelector("#nsc-pdf-records");
+const nscRoot = document.querySelector("#nsc-root");
 
 function chapterId(chapterName) {
   return `chapter-${chapterName.toLowerCase().replaceAll(" ", "-")}`;
@@ -155,6 +158,71 @@ function createRecordRow(record) {
   return row;
 }
 
+function createNscRow(record) {
+  const row = document.createElement("article");
+  row.className = "record-row";
+
+  const date = document.createElement("time");
+  date.className = "record-date";
+  date.dateTime = record.startDate || "";
+  date.textContent = record.startDate ? shortDate(record.startDate) : "Undated";
+
+  const body = document.createElement("div");
+  const title = document.createElement("a");
+  title.className = "record-title";
+  title.href = record.catalogUrl || record.pdfUrl;
+  title.rel = "noreferrer";
+  title.textContent = record.title;
+
+  const dateLine = document.createElement("p");
+  dateLine.className = "record-date-line";
+  dateLine.textContent = [record.startDate, record.endDate].filter(Boolean).join(" to ") || "Date pending";
+
+  const subject = document.createElement("p");
+  subject.className = "record-subject";
+  subject.textContent = record.series?.title || record.levelOfDescription;
+
+  const meta = document.createElement("div");
+  meta.className = "record-meta";
+  for (const value of [
+    record.countries?.length ? record.countries.join(", ") : "Regional / multi-country",
+    record.levelOfDescription,
+    record.localIdentifier,
+    `NAID ${record.naid}`,
+    record.accessRestriction
+  ]) {
+    if (!value) continue;
+    const item = document.createElement("span");
+    item.textContent = value;
+    meta.append(item);
+  }
+
+  body.append(title, dateLine, subject, meta);
+
+  const links = document.createElement("div");
+  links.className = "record-links";
+
+  if (record.catalogUrl) {
+    const catalog = document.createElement("a");
+    catalog.href = record.catalogUrl;
+    catalog.rel = "noreferrer";
+    catalog.textContent = "Catalog";
+    links.append(catalog);
+  }
+
+  if (record.pdfUrl) {
+    const pdf = document.createElement("a");
+    pdf.href = record.pdfUrl;
+    pdf.rel = "noreferrer";
+    pdf.target = "_blank";
+    pdf.textContent = "Open PDF";
+    links.append(pdf);
+  }
+
+  row.append(date, body, links);
+  return row;
+}
+
 function renderRecords(records) {
   const sorted = [...records].sort(byChapterThenDate);
   recordsRoot.replaceChildren();
@@ -188,6 +256,52 @@ function renderRecords(records) {
   }
 }
 
+function renderNscCollection(records) {
+  if (!nscRoot) return;
+
+  const groups = new Map();
+  for (const record of records) {
+    const groupName = record.countries?.[0] || "Regional / Multi-country";
+    if (!groups.has(groupName)) groups.set(groupName, []);
+    groups.get(groupName).push(record);
+  }
+
+  const groupOrder = [...CHAPTER_ORDER, "Regional / Multi-country"];
+  nscRoot.replaceChildren();
+
+  for (const groupName of groupOrder) {
+    const groupRecords = groups.get(groupName) || [];
+    if (!groupRecords.length) continue;
+
+    groupRecords.sort((a, b) => {
+      return (a.startDate || "").localeCompare(b.startDate || "") || a.title.localeCompare(b.title);
+    });
+
+    const section = document.createElement("section");
+    section.className = "record-chapter";
+
+    const header = document.createElement("div");
+    header.className = "record-chapter-header";
+
+    const heading = document.createElement("h3");
+    heading.textContent = groupName;
+
+    const count = document.createElement("p");
+    count.className = "record-count";
+    count.textContent = `${groupRecords.length} records`;
+    header.append(heading, count);
+
+    const list = document.createElement("div");
+    list.className = "record-list";
+    for (const record of groupRecords) {
+      list.append(createNscRow(record));
+    }
+
+    section.append(header, list);
+    nscRoot.append(section);
+  }
+}
+
 function enableChapterCards() {
   for (const card of document.querySelectorAll(".chapter-card")) {
     card.addEventListener("click", (event) => {
@@ -207,8 +321,14 @@ function enableChapterCards() {
 async function init() {
   try {
     const records = window.MEMCONS || window.MEMCON_RECORDS || (await loadRecords());
+    const nscRecords = window.NSC_SOUTH_AMERICA || [];
     setChapterCounts(records);
     renderRecords(records);
+    if (nscTotalRecords) nscTotalRecords.textContent = nscRecords.length.toString();
+    if (nscPdfRecords) {
+      nscPdfRecords.textContent = nscRecords.filter((record) => record.pdfUrl).length.toString();
+    }
+    renderNscCollection(nscRecords);
     enableChapterCards();
     if (window.location.hash) {
       document.querySelector(window.location.hash)?.scrollIntoView();

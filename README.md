@@ -8,6 +8,10 @@ The repository follows the same static-site pattern as `Bush41-Western-Europe`: 
 into one chronological chapter for each South America country. Central America is intentionally
 excluded because it belongs in a separate FRUS volume.
 
+The site also carries a broader South America index from the parent National Security Council
+collection, so the compiler can move from formal memcons/telcons into country files, regional
+packets, summit files, drug-policy material, debt/economic files, and related online PDFs.
+
 ## Priority Collection
 
 The first source to prioritize is the National Archives Catalog series:
@@ -23,6 +27,22 @@ node scripts/harvest-latin-american-directorate.js
 
 This writes `data/priority-collection.json` and
 `reports/latin-american-directorate-harvest.json`.
+
+## Broader NSC Parent Collection
+
+The parent collection should be mined heavily for South America material:
+
+- Search within Records of the National Security Council, NAID 2163580: <https://catalog.archives.gov/search-within/2163580>
+
+Run the broader collection harvester with:
+
+```bash
+node scripts/harvest-nsc-south-america.js
+```
+
+This writes `data/nsc-south-america.json` and `reports/nsc-south-america-harvest.json`.
+The harvester searches country names, selected leader names, and regional terms, then filters
+results back to records with NAID 2163580 in their Catalog ancestry.
 
 ## Chapter Arrangement
 
@@ -56,6 +76,7 @@ the compiler-priority collection.
 ## Source Anchors
 
 - FRUS 1989-1992, Volume XXV, Latin America: <https://history.state.gov/historicaldocuments/frus1989-92v25>
+- Records of the National Security Council, NAID 2163580: <https://catalog.archives.gov/search-within/2163580>
 - Latin American Directorate Chronological Files: <https://catalog.archives.gov/id/2197972>
 - Bush Library Memcons and Telcons index: <https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons>
 - FOIA 2000-0429-F finding aid: <https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991>
