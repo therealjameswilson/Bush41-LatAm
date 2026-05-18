@@ -1,0 +1,2372 @@
+window.PRIORITY_COLLECTION = [
+  {
+    "id": "latin-american-directorate-470766402",
+    "naid": "470766402",
+    "title": "1989 [Everett E. Briggs File] [1]",
+    "localIdentifier": "CF00300-001",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-01-01",
+    "endDate": "1989-12-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766402",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-001.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-001.pdf",
+    "objectId": "542916214",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766403",
+    "naid": "470766403",
+    "title": "1989 [Everett E. Briggs File] [2]",
+    "localIdentifier": "CF00300-002",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-01-01",
+    "endDate": "1989-12-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766403",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-002.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-002.pdf",
+    "objectId": "542916215",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766404",
+    "naid": "470766404",
+    "title": "January 20, 1989-February 1, 1989 [1]",
+    "localIdentifier": "CF00300-003",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-01-20",
+    "endDate": "1989-02-01",
+    "catalogUrl": "https://catalog.archives.gov/id/470766404",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-003.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-003.pdf",
+    "objectId": "542916216",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766405",
+    "naid": "470766405",
+    "title": "January 20, 1989-February 1, 1989 [2]",
+    "localIdentifier": "CF00300-004",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-01-20",
+    "endDate": "1989-02-01",
+    "catalogUrl": "https://catalog.archives.gov/id/470766405",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-004.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-004.pdf",
+    "objectId": "542916217",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766406",
+    "naid": "470766406",
+    "title": "February 1, 1989-March 1, 1989 [1]",
+    "localIdentifier": "CF00300-005",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-02-01",
+    "endDate": "1989-03-01",
+    "catalogUrl": "https://catalog.archives.gov/id/470766406",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-005.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-005.pdf",
+    "objectId": "542916218",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766407",
+    "naid": "470766407",
+    "title": "February 1, 1989-March 1, 1989 [2]",
+    "localIdentifier": "CF00300-006",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-02-01",
+    "endDate": "1989-03-01",
+    "catalogUrl": "https://catalog.archives.gov/id/470766407",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-006.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-006.pdf",
+    "objectId": "542916219",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766408",
+    "naid": "470766408",
+    "title": "February 1, 1989-March 1, 1989 [3]",
+    "localIdentifier": "CF00300-007",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-02-01",
+    "endDate": "1989-03-01",
+    "catalogUrl": "https://catalog.archives.gov/id/470766408",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-007.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-007.pdf",
+    "objectId": "542916220",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766409",
+    "naid": "470766409",
+    "title": "February 1, 1989-March 1, 1989 [4]",
+    "localIdentifier": "CF00300-008",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-02-01",
+    "endDate": "1989-03-01",
+    "catalogUrl": "https://catalog.archives.gov/id/470766409",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-008.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-008.pdf",
+    "objectId": "542916221",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766410",
+    "naid": "470766410",
+    "title": "February 1, 1989-March 1, 1989 [5]",
+    "localIdentifier": "CF00300-009",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-02-01",
+    "endDate": "1989-03-01",
+    "catalogUrl": "https://catalog.archives.gov/id/470766410",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-009.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-009.pdf",
+    "objectId": "542916222",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766411",
+    "naid": "470766411",
+    "title": "March 1, 1989-March 16, 1989 [1]",
+    "localIdentifier": "CF00300-010",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-03-01",
+    "endDate": "1989-03-16",
+    "catalogUrl": "https://catalog.archives.gov/id/470766411",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-010.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-010.pdf",
+    "objectId": "542916223",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766412",
+    "naid": "470766412",
+    "title": "March 1, 1989-March 16, 1989 [2]",
+    "localIdentifier": "CF00300-011",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-03-01",
+    "endDate": "1989-03-16",
+    "catalogUrl": "https://catalog.archives.gov/id/470766412",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-011.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-011.pdf",
+    "objectId": "542916224",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766413",
+    "naid": "470766413",
+    "title": "March 1, 1989-March 16, 1989 [3]",
+    "localIdentifier": "CF00300-012",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-03-01",
+    "endDate": "1989-03-16",
+    "catalogUrl": "https://catalog.archives.gov/id/470766413",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-012.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-012.pdf",
+    "objectId": "542916225",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766414",
+    "naid": "470766414",
+    "title": "March 1, 1989-March 16, 1989 [4]",
+    "localIdentifier": "CF00300-013",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-03-01",
+    "endDate": "1989-03-16",
+    "catalogUrl": "https://catalog.archives.gov/id/470766414",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-013.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-013.pdf",
+    "objectId": "542916226",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766415",
+    "naid": "470766415",
+    "title": "March 17, 1989-March 31, 1989 [1]",
+    "localIdentifier": "CF00300-014",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-03-17",
+    "endDate": "1989-03-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766415",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-014.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-014.pdf",
+    "objectId": "542916227",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766416",
+    "naid": "470766416",
+    "title": "March 17, 1989-March 31, 1989 [2]",
+    "localIdentifier": "CF00300-015",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-03-17",
+    "endDate": "1989-03-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766416",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-015.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-015.pdf",
+    "objectId": "542916228",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766417",
+    "naid": "470766417",
+    "title": "March 17, 1989-March 31, 1989 [3]",
+    "localIdentifier": "CF00300-016",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-03-17",
+    "endDate": "1989-03-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766417",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-016.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00300-016.pdf",
+    "objectId": "542916229",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00300",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766418",
+    "naid": "470766418",
+    "title": "April 1, 1989-April 15, 1989 [1]",
+    "localIdentifier": "CF00301-001",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-04-01",
+    "endDate": "1989-04-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766418",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-001.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-001.pdf",
+    "objectId": "542916230",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766419",
+    "naid": "470766419",
+    "title": "April 1, 1989-April 15, 1989 [2]",
+    "localIdentifier": "CF00301-002",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-04-01",
+    "endDate": "1989-04-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766419",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-002.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-002.pdf",
+    "objectId": "542916231",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766420",
+    "naid": "470766420",
+    "title": "April 1, 1989-April 15, 1989 [3]",
+    "localIdentifier": "CF00301-003",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-04-01",
+    "endDate": "1989-04-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766420",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-003.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-003.pdf",
+    "objectId": "542916232",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766421",
+    "naid": "470766421",
+    "title": "April 16, 1989-April 30, 1989 [1]",
+    "localIdentifier": "CF00301-004",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-04-16",
+    "endDate": "1989-04-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766421",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-004.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-004.pdf",
+    "objectId": "542916233",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766422",
+    "naid": "470766422",
+    "title": "April 16, 1989-April 30, 1989 [2]",
+    "localIdentifier": "CF00301-005",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-04-16",
+    "endDate": "1989-04-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766422",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-005.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-005.pdf",
+    "objectId": "542916234",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766423",
+    "naid": "470766423",
+    "title": "April 16, 1989-April 30, 1989 [3]",
+    "localIdentifier": "CF00301-006",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-04-16",
+    "endDate": "1989-04-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766423",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-006.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-006.pdf",
+    "objectId": "542916235",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766424",
+    "naid": "470766424",
+    "title": "April 16, 1989-April 30, 1989 [4]",
+    "localIdentifier": "CF00301-007",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-04-16",
+    "endDate": "1989-04-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766424",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-007.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-007.pdf",
+    "objectId": "542916236",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766425",
+    "naid": "470766425",
+    "title": "April 16, 1989-April 30, 1989 [5]",
+    "localIdentifier": "CF00301-008",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-04-16",
+    "endDate": "1989-04-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766425",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-008.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-008.pdf",
+    "objectId": "542916237",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766426",
+    "naid": "470766426",
+    "title": "April 16, 1989-April 30, 1989 [6]",
+    "localIdentifier": "CF00301-009",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-04-16",
+    "endDate": "1989-04-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766426",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-009.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-009.pdf",
+    "objectId": "542916238",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766427",
+    "naid": "470766427",
+    "title": "May 1, 1989-May 15, 1989 [1]",
+    "localIdentifier": "CF00301-010",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-05-01",
+    "endDate": "1989-05-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766427",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-010.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-010.pdf",
+    "objectId": "542916239",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766428",
+    "naid": "470766428",
+    "title": "May 1, 1989-May 15, 1989 [2]",
+    "localIdentifier": "CF00301-011",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-05-01",
+    "endDate": "1989-05-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766428",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-011.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-011.pdf",
+    "objectId": "542916240",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766429",
+    "naid": "470766429",
+    "title": "May 1, 1989-May 15, 1989 [3]",
+    "localIdentifier": "CF00301-012",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-05-01",
+    "endDate": "1989-05-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766429",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-012.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-012.pdf",
+    "objectId": "542916241",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766430",
+    "naid": "470766430",
+    "title": "May 16, 1989-May 30, 1989 [1]",
+    "localIdentifier": "CF00301-013",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-05-16",
+    "endDate": "1989-05-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766430",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-013.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-013.pdf",
+    "objectId": "542916242",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766431",
+    "naid": "470766431",
+    "title": "May 16, 1989-May 30, 1989 [2]",
+    "localIdentifier": "CF00301-014",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-05-16",
+    "endDate": "1989-05-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766431",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-014.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-014.pdf",
+    "objectId": "542916243",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766432",
+    "naid": "470766432",
+    "title": "May 16, 1989-May 30, 1989 [3]",
+    "localIdentifier": "CF00301-015",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-05-16",
+    "endDate": "1989-05-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766432",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-015.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-015.pdf",
+    "objectId": "542916244",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766433",
+    "naid": "470766433",
+    "title": "June 1, 1989-June 30, 1989 [1]",
+    "localIdentifier": "CF00301-016",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-06-01",
+    "endDate": "1989-06-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766433",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-016.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-016.pdf",
+    "objectId": "542916245",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766434",
+    "naid": "470766434",
+    "title": "June 1, 1989-June 30, 1989 [2]",
+    "localIdentifier": "CF00301-017",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-06-01",
+    "endDate": "1989-06-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766434",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-017.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-017.pdf",
+    "objectId": "542916246",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766435",
+    "naid": "470766435",
+    "title": "June 1, 1989-June 30, 1989 [3]",
+    "localIdentifier": "CF00301-018",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-06-01",
+    "endDate": "1989-06-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766435",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-018.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-018.pdf",
+    "objectId": "542916247",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766436",
+    "naid": "470766436",
+    "title": "June 1, 1989-June 30, 1989 [4]",
+    "localIdentifier": "CF00301-019",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-06-01",
+    "endDate": "1989-06-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766436",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-019.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-019.pdf",
+    "objectId": "542916248",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766437",
+    "naid": "470766437",
+    "title": "June 1, 1989-June 30, 1989 [5]",
+    "localIdentifier": "CF00301-020",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-06-01",
+    "endDate": "1989-06-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766437",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-020.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00301-020.pdf",
+    "objectId": "542916249",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00301",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766438",
+    "naid": "470766438",
+    "title": "July 1, 1989-July 15, 1989 [1]",
+    "localIdentifier": "CF00302-001",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-07-01",
+    "endDate": "1989-07-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766438",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-001.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-001.pdf",
+    "objectId": "542916250",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766439",
+    "naid": "470766439",
+    "title": "July 1, 1989-July 15, 1989 [2]",
+    "localIdentifier": "CF00302-002",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-07-01",
+    "endDate": "1989-07-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766439",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-002.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-002.pdf",
+    "objectId": "542916251",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766440",
+    "naid": "470766440",
+    "title": "July 1, 1989-July 15, 1989 [3]",
+    "localIdentifier": "CF00302-003",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-07-01",
+    "endDate": "1989-07-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766440",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-003.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-003.pdf",
+    "objectId": "542916252",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766441",
+    "naid": "470766441",
+    "title": "July 16, 1989-July 30, 1989 [1]",
+    "localIdentifier": "CF00302-004",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-07-16",
+    "endDate": "1989-07-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766441",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-004.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-004.pdf",
+    "objectId": "542916253",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766442",
+    "naid": "470766442",
+    "title": "July 16, 1989-July 30, 1989 [2]",
+    "localIdentifier": "CF00302-005",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-07-16",
+    "endDate": "1989-07-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766442",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-005.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-005.pdf",
+    "objectId": "542916254",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766443",
+    "naid": "470766443",
+    "title": "July 16, 1989-July 30, 1989 [3]",
+    "localIdentifier": "CF00302-006",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-07-16",
+    "endDate": "1989-07-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766443",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-006.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-006.pdf",
+    "objectId": "542916255",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766444",
+    "naid": "470766444",
+    "title": "August 1, 1989-August 15, 1989 [1]",
+    "localIdentifier": "CF00302-007",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-08-01",
+    "endDate": "1989-08-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766444",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-007.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-007.pdf",
+    "objectId": "542916256",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766445",
+    "naid": "470766445",
+    "title": "August 1, 1989-August 15, 1989 [2]",
+    "localIdentifier": "CF00302-008",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-08-01",
+    "endDate": "1989-08-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766445",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-008.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-008.pdf",
+    "objectId": "542916257",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766446",
+    "naid": "470766446",
+    "title": "August 1, 1989-August 15, 1989 [3]",
+    "localIdentifier": "CF00302-009",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-08-01",
+    "endDate": "1989-08-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766446",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-009.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-009.pdf",
+    "objectId": "542916258",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766447",
+    "naid": "470766447",
+    "title": "August 1, 1989-August 15, 1989 [4]",
+    "localIdentifier": "CF00302-010",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-08-01",
+    "endDate": "1989-08-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766447",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-010.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-010.pdf",
+    "objectId": "542916259",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766448",
+    "naid": "470766448",
+    "title": "August 16, 1989-August 31, 1989 [1]",
+    "localIdentifier": "CF00302-011",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-08-16",
+    "endDate": "1989-08-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766448",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-011.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-011.pdf",
+    "objectId": "542916260",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766449",
+    "naid": "470766449",
+    "title": "August 16, 1989-August 31, 1989 [2]",
+    "localIdentifier": "CF00302-012",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-08-16",
+    "endDate": "1989-08-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766449",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-012.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-012.pdf",
+    "objectId": "542916261",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766450",
+    "naid": "470766450",
+    "title": "August 16, 1989-August 31, 1989 [3]",
+    "localIdentifier": "CF00302-013",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-08-16",
+    "endDate": "1989-08-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766450",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-013.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-013.pdf",
+    "objectId": "542916262",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766451",
+    "naid": "470766451",
+    "title": "August 16, 1989-August 31, 1989 [4]",
+    "localIdentifier": "CF00302-014",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-08-16",
+    "endDate": "1989-08-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766451",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-014.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-014.pdf",
+    "objectId": "542916263",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766452",
+    "naid": "470766452",
+    "title": "September 1, 1989-September 15, 1989 [1]",
+    "localIdentifier": "CF00302-015",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-09-01",
+    "endDate": "1989-09-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766452",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-015.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-015.pdf",
+    "objectId": "542916264",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766453",
+    "naid": "470766453",
+    "title": "September 1, 1989-September 15, 1989 [2]",
+    "localIdentifier": "CF00302-016",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-09-01",
+    "endDate": "1989-09-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766453",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-016.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-016.pdf",
+    "objectId": "542916265",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766454",
+    "naid": "470766454",
+    "title": "September 16, 1989-September 30, 1989 [1]",
+    "localIdentifier": "CF00302-017",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-09-16",
+    "endDate": "1989-09-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766454",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-017.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-017.pdf",
+    "objectId": "542916266",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766455",
+    "naid": "470766455",
+    "title": "September 16, 1989-September 30, 1989 [2]",
+    "localIdentifier": "CF00302-018",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-09-16",
+    "endDate": "1989-09-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766455",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-018.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-018.pdf",
+    "objectId": "542916267",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766456",
+    "naid": "470766456",
+    "title": "September 16, 1989-September 30, 1989 [3]",
+    "localIdentifier": "CF00302-019",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-09-16",
+    "endDate": "1989-09-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766456",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-019.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-019.pdf",
+    "objectId": "542916268",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766457",
+    "naid": "470766457",
+    "title": "September 16, 1989-September 30, 1989 [4]",
+    "localIdentifier": "CF00302-020",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-09-16",
+    "endDate": "1989-09-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766457",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-020.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00302-020.pdf",
+    "objectId": "542916269",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00302",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766458",
+    "naid": "470766458",
+    "title": "October 1, 1989-October 15, 1989 [1]",
+    "localIdentifier": "CF00303-001",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-10-01",
+    "endDate": "1989-10-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766458",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-001.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-001.pdf",
+    "objectId": "542916270",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766459",
+    "naid": "470766459",
+    "title": "October 1, 1989-October 15, 1989 [2]",
+    "localIdentifier": "CF00303-002",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-10-01",
+    "endDate": "1989-10-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766459",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-002.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-002.pdf",
+    "objectId": "542916271",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766460",
+    "naid": "470766460",
+    "title": "October 1, 1989-October 15, 1989 [3]",
+    "localIdentifier": "CF00303-003",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-10-01",
+    "endDate": "1989-10-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766460",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-003.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-003.pdf",
+    "objectId": "542916272",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766461",
+    "naid": "470766461",
+    "title": "October 16, 1989-October 31, 1989 [1]",
+    "localIdentifier": "CF00303-004",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-10-16",
+    "endDate": "1989-10-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766461",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-004.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-004.pdf",
+    "objectId": "542916273",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766462",
+    "naid": "470766462",
+    "title": "October 16, 1989-October 31, 1989 [2]",
+    "localIdentifier": "CF00303-005",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-10-16",
+    "endDate": "1989-10-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766462",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-005.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-005.pdf",
+    "objectId": "542916274",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766463",
+    "naid": "470766463",
+    "title": "October 16, 1989-October 31, 1989 [3]",
+    "localIdentifier": "CF00303-006",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-10-16",
+    "endDate": "1989-10-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766463",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-006.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-006.pdf",
+    "objectId": "542916275",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766464",
+    "naid": "470766464",
+    "title": "October 16, 1989-October 31, 1989 [4]",
+    "localIdentifier": "CF00303-007",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-10-16",
+    "endDate": "1989-10-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766464",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-007.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-007.pdf",
+    "objectId": "542916276",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766465",
+    "naid": "470766465",
+    "title": "October 16, 1989-October 31, 1989 [5]",
+    "localIdentifier": "CF00303-008",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-10-16",
+    "endDate": "1989-10-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766465",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-008.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-008.pdf",
+    "objectId": "542916277",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766466",
+    "naid": "470766466",
+    "title": "November 1, 1989-November 15, 1989 [1]",
+    "localIdentifier": "CF00303-009",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-11-01",
+    "endDate": "1989-11-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766466",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-009.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-009.pdf",
+    "objectId": "542916278",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766467",
+    "naid": "470766467",
+    "title": "November 1, 1989-November 15, 1989 [2]",
+    "localIdentifier": "CF00303-010",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-11-01",
+    "endDate": "1989-11-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766467",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-010.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-010.pdf",
+    "objectId": "542916279",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766468",
+    "naid": "470766468",
+    "title": "November 16, 1989-November 30, 1989 [1]",
+    "localIdentifier": "CF00303-011",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-11-16",
+    "endDate": "1989-11-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766468",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-011.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-011.pdf",
+    "objectId": "542916280",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766469",
+    "naid": "470766469",
+    "title": "November 16, 1989-November 30, 1989 [2]",
+    "localIdentifier": "CF00303-012",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-11-16",
+    "endDate": "1989-11-30",
+    "catalogUrl": "https://catalog.archives.gov/id/470766469",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-012.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-012.pdf",
+    "objectId": "542916281",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766470",
+    "naid": "470766470",
+    "title": "December 1, 1989-December 15, 1989 [1]",
+    "localIdentifier": "CF00303-013",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-12-01",
+    "endDate": "1989-12-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766470",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-013.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-013.pdf",
+    "objectId": "542916282",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766471",
+    "naid": "470766471",
+    "title": "December 1, 1989-December 15, 1989 [2]",
+    "localIdentifier": "CF00303-014",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-12-01",
+    "endDate": "1989-12-15",
+    "catalogUrl": "https://catalog.archives.gov/id/470766471",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-014.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-014.pdf",
+    "objectId": "542916283",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766472",
+    "naid": "470766472",
+    "title": "December 16, 1989-December 31, 1989 [1]",
+    "localIdentifier": "CF00303-015",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-12-16",
+    "endDate": "1989-12-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766472",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-015.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-015.pdf",
+    "objectId": "542916284",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  },
+  {
+    "id": "latin-american-directorate-470766473",
+    "naid": "470766473",
+    "title": "December 16, 1989-December 31, 1989 [2]",
+    "localIdentifier": "CF00303-016",
+    "levelOfDescription": "fileUnit",
+    "startDate": "1989-12-16",
+    "endDate": "1989-12-31",
+    "catalogUrl": "https://catalog.archives.gov/id/470766473",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-016.pdf",
+    "objectFilename": "41-bpr-nsc-lat_amer_dir-chron-cf00303-016.pdf",
+    "objectId": "542916285",
+    "objectFileSize": 1234,
+    "accessRestriction": "Restricted - Possibly",
+    "useRestriction": "Unrestricted",
+    "containerId": "CF00303",
+    "variantControlNumbers": [
+      "Other Finding Aid Identifier: 2015-0017-S",
+      "Other Finding Aid Identifier: Pres-Bush",
+      "Other Finding Aid Identifier: Pres-Bush"
+    ],
+    "series": {
+      "naid": "2197972",
+      "title": "Latin American Directorate Chronological Files",
+      "url": "https://catalog.archives.gov/id/2197972"
+    },
+    "collection": {
+      "naid": "2163580",
+      "title": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580"
+    },
+    "referenceUnit": "George Bush Library"
+  }
+];

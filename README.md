@@ -1,0 +1,76 @@
+# FRUS 1989-1992 Volume XXV Memcons and Telcons
+
+A GitHub Pages website for housing declassified memoranda and telephone conversations relevant to
+*Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America*.
+
+The repository follows the same static-site pattern as `Bush41-Western-Europe`: records live in
+`data/memcons.json`, with `data/memcons.js` as a filesystem-friendly mirror. The site groups records
+into one chronological chapter for each South America country. Central America is intentionally
+excluded because it belongs in a separate FRUS volume.
+
+## Priority Collection
+
+The first source to prioritize is the National Archives Catalog series:
+
+- Latin American Directorate Chronological Files, NAID 2197972: <https://catalog.archives.gov/id/2197972>
+- Parent collection, Records of the National Security Council (George H. W. Bush Administration), NAID 2163580: <https://catalog.archives.gov/id/2163580>
+
+Run the priority collection harvester to refresh its file-unit index:
+
+```bash
+node scripts/harvest-latin-american-directorate.js
+```
+
+This writes `data/priority-collection.json` and
+`reports/latin-american-directorate-harvest.json`.
+
+## Chapter Arrangement
+
+1. Argentina
+2. Bolivia
+3. Brazil
+4. Chile
+5. Colombia
+6. Ecuador
+7. Guyana
+8. Paraguay
+9. Peru
+10. Suriname
+11. Uruguay
+12. Venezuela
+
+Records inside each chapter are arranged chronologically by `sortDate`.
+
+## Bush Library Memcons and Telcons
+
+Run the Bush Library table harvester to build the initial memcon/telcon dataset:
+
+```bash
+node scripts/harvest-bush-library-memcons.js
+```
+
+The harvester filters for South America countries, excludes Central America, enriches rows from the
+National Archives Catalog, and cross-references the Latin American Directorate Chronological Files as
+the compiler-priority collection.
+
+## Source Anchors
+
+- FRUS 1989-1992, Volume XXV, Latin America: <https://history.state.gov/historicaldocuments/frus1989-92v25>
+- Latin American Directorate Chronological Files: <https://catalog.archives.gov/id/2197972>
+- Bush Library Memcons and Telcons index: <https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons>
+- FOIA 2000-0429-F finding aid: <https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991>
+- National Archives Catalog: <https://catalog.archives.gov/>
+
+## Local Preview
+
+Run a local static server so the page can fetch JSON:
+
+```bash
+python3 -m http.server 4181
+```
+
+Then open <http://127.0.0.1:4181/>.
+
+## Publish
+
+This repository deploys through GitHub Pages with `.github/workflows/deploy-pages.yml`.

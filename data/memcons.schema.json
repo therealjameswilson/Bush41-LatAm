@@ -1,0 +1,158 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bush 41 Declassified Memcon",
+  "type": "object",
+  "required": [
+    "id",
+    "date",
+    "type",
+    "title",
+    "participants",
+    "countries",
+    "chapter",
+    "releaseStatus",
+    "naid",
+    "catalogUrl",
+    "frusVolume",
+    "frusTopics",
+    "source"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable local identifier, preferably date plus participant slug."
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["Memcon", "Telcon"]
+    },
+    "title": {
+      "type": "string"
+    },
+    "sourceTitle": {
+      "type": "string"
+    },
+    "participants": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "countries": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "chapter": {
+      "type": "object",
+      "required": ["number", "name"],
+      "properties": {
+        "number": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 12
+        },
+        "name": {
+          "type": "string",
+          "enum": [
+            "Argentina",
+            "Bolivia",
+            "Brazil",
+            "Chile",
+            "Colombia",
+            "Ecuador",
+            "Guyana",
+            "Paraguay",
+            "Peru",
+            "Suriname",
+            "Uruguay",
+            "Venezuela"
+          ]
+        }
+      }
+    },
+    "sortDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date used for chronological ordering within the assigned chapter."
+    },
+    "releaseStatus": {
+      "type": "string",
+      "enum": ["Full", "Partial", "Denied", "Unknown"]
+    },
+    "naid": {
+      "type": "string"
+    },
+    "pdfUrl": {
+      "type": "string",
+      "format": "uri-reference"
+    },
+    "pageCount": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "description": "Number of pages in the official PDF scan."
+    },
+    "catalogUrl": {
+      "type": "string",
+      "format": "uri-reference"
+    },
+    "source": {
+      "type": "object",
+      "required": ["name", "url"],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "foiaNumber": {
+          "type": "string"
+        }
+      }
+    },
+    "frusVolume": {
+      "type": "object",
+      "required": ["id", "title", "url", "status"],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "status": {
+          "type": "string"
+        }
+      }
+    },
+    "frusTopics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "string"
+    },
+    "localOriginalFile": {
+      "type": "string"
+    }
+  }
+}

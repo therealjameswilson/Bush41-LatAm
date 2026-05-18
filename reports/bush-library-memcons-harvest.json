@@ -1,0 +1,823 @@
+{
+  "generatedAt": "2026-05-18T21:56:46.490Z",
+  "tableUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons",
+  "sourceCollection": {
+    "name": "Records of the National Security Council (George H. W. Bush Administration)",
+    "url": "https://catalog.archives.gov/id/2163580",
+    "findingAidUrl": "https://www.bush41library.gov/digital-research-room/finding-aid/records-national-security-council-george-h-w-bush-administration",
+    "referenceUnit": "George Bush Library"
+  },
+  "priorityCollection": {
+    "name": "Latin American Directorate Chronological Files",
+    "naid": "2197972",
+    "url": "https://catalog.archives.gov/id/2197972",
+    "localIdentifier": "GB-NSC-267"
+  },
+  "rowsScanned": 1365,
+  "relevantRowCount": 100,
+  "addedOrReplacedRecords": 100,
+  "dedupedRecords": 0,
+  "dedupeLog": [],
+  "relevantRows": [
+    {
+      "date": "1/23/1989",
+      "type": "Telcon",
+      "participants": "Alfonsin, Raul",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428079775"
+    },
+    {
+      "date": "1/24/1989",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428079799"
+    },
+    {
+      "date": "2/25/1989",
+      "type": "Memcon",
+      "participants": "Sarney, Jose",
+      "country": "Brazil",
+      "status": "Full",
+      "naid": "428079873"
+    },
+    {
+      "date": "3/3/1989",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428079917"
+    },
+    {
+      "date": "3/8/1989",
+      "type": "Telcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428079919"
+    },
+    {
+      "date": "4/1/1989",
+      "type": "Memcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428079937"
+    },
+    {
+      "date": "4/14/1989",
+      "type": "Telcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428079963"
+    },
+    {
+      "date": "5/10/1989",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428080003"
+    },
+    {
+      "date": "5/13/1989",
+      "type": "Telcon",
+      "participants": "Alfonsin, Raul",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428080013"
+    },
+    {
+      "date": "5/13/1989",
+      "type": "Telcon",
+      "participants": "Garcia, Alan",
+      "country": "Peru",
+      "status": "Full",
+      "naid": "428080015"
+    },
+    {
+      "date": "5/13/1989",
+      "type": "Telcon",
+      "participants": "Sanguinetti, Julio Maria",
+      "country": "Uruguay",
+      "status": "Full",
+      "naid": "428080017"
+    },
+    {
+      "date": "5/13/1989",
+      "type": "Telcon",
+      "participants": "Sanguinetti, Julio Maria; Garcia, Alan; Afonsin, Raul",
+      "country": "Uruguay",
+      "status": "Full",
+      "naid": "428080019"
+    },
+    {
+      "date": "5/16/1989",
+      "type": "Telcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428082453"
+    },
+    {
+      "date": "5/17/1989",
+      "type": "Telcon",
+      "participants": "Sarney, Jose",
+      "country": "Brazil",
+      "status": "Full",
+      "naid": "428082459"
+    },
+    {
+      "date": "6/19/1989",
+      "type": "Memcon",
+      "participants": "Hoyte, Desmond",
+      "country": "Guyana",
+      "status": "Full",
+      "naid": "428080045"
+    },
+    {
+      "date": "6/23/1989",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428080073"
+    },
+    {
+      "date": "7/7/1989",
+      "type": "Telcon",
+      "participants": "Estenssoro, Victor Paz",
+      "country": "Bolivia",
+      "status": "Full",
+      "naid": "428080119"
+    },
+    {
+      "date": "8/21/1989",
+      "type": "Telcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428080207"
+    },
+    {
+      "date": "8/22/1989",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428080211"
+    },
+    {
+      "date": "8/28/1989",
+      "type": "Telcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428080215"
+    },
+    {
+      "date": "9/15/1989",
+      "type": "Memcon",
+      "participants": "Sanguinetti, Julio Maria",
+      "country": "Uruguay",
+      "status": "Full",
+      "naid": "428080181"
+    },
+    {
+      "date": "9/25/1989",
+      "type": "Memcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428080229"
+    },
+    {
+      "date": "9/26/1989",
+      "type": "Telcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428080265"
+    },
+    {
+      "date": "9/27/1989",
+      "type": "Memcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428080237"
+    },
+    {
+      "date": "9/28/1989",
+      "type": "Memcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428080241"
+    },
+    {
+      "date": "10/30/1989",
+      "type": "Telcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428080315"
+    },
+    {
+      "date": "11/1/1989",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428080319"
+    },
+    {
+      "date": "11/27/1989",
+      "type": "Telcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Partial",
+      "naid": "428080357"
+    },
+    {
+      "date": "12/20/1989",
+      "type": "Telcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428080421"
+    },
+    {
+      "date": "12/20/1989",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428080455"
+    },
+    {
+      "date": "12/20/1989",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428080461"
+    },
+    {
+      "date": "1/28/1990",
+      "type": "Telcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428080509"
+    },
+    {
+      "date": "2/5/1990",
+      "type": "Memcon",
+      "participants": "Lacalle, Luis Alberto",
+      "country": "Uruguay",
+      "status": "Full",
+      "naid": "428080481"
+    },
+    {
+      "date": "2/26/1990",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428080569"
+    },
+    {
+      "date": "3/1/1990",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428080601"
+    },
+    {
+      "date": "3/21/1990",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428080615"
+    },
+    {
+      "date": "3/23/1990",
+      "type": "Telcon",
+      "participants": "Collor de Mello, Fernando",
+      "country": "Brazil",
+      "status": "Full",
+      "naid": "428080617"
+    },
+    {
+      "date": "3/30/1990",
+      "type": "Telcon",
+      "participants": "Aylwin, Patricio",
+      "country": "Chile",
+      "status": "Full",
+      "naid": "428080659"
+    },
+    {
+      "date": "4/27/1990",
+      "type": "Telcon",
+      "participants": "Barco, Virgilio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428080673"
+    },
+    {
+      "date": "5/8/1990",
+      "type": "Memcon",
+      "participants": "Zamora, Jaime Paz",
+      "country": "Bolivia",
+      "status": "Full",
+      "naid": "428080685"
+    },
+    {
+      "date": "5/8/1990",
+      "type": "Memcon",
+      "participants": "Zamora, Jaime Paz",
+      "country": "Bolivia",
+      "status": "Partial",
+      "naid": "428080687"
+    },
+    {
+      "date": "6/5/1990",
+      "type": "Memcon",
+      "participants": "Barco, Virgillio",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428080733"
+    },
+    {
+      "date": "6/6/1990",
+      "type": "Telcon",
+      "participants": "Collor de Mello, Fernando",
+      "country": "Brazil",
+      "status": "Full",
+      "naid": "428080767"
+    },
+    {
+      "date": "6/28/1990",
+      "type": "Telcon",
+      "participants": "Collor de Mello, Fernando",
+      "country": "Brazil",
+      "status": "Full",
+      "naid": "428080813"
+    },
+    {
+      "date": "6/28/1990",
+      "type": "Telcon",
+      "participants": "Lacalle, Luis Alberto",
+      "country": "Uruguay",
+      "status": "Full",
+      "naid": "428080815"
+    },
+    {
+      "date": "6/28/1990",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428080817"
+    },
+    {
+      "date": "7/13/1990",
+      "type": "Memcon",
+      "participants": "Gaviria Trujillo, Cesar",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428080837"
+    },
+    {
+      "date": "7/23/1990",
+      "type": "Memcon",
+      "participants": "Borja, Rodrigo",
+      "country": "Ecuador",
+      "status": "Full",
+      "naid": "428080839"
+    },
+    {
+      "date": "7/23/1990",
+      "type": "Memcon",
+      "participants": "Borja, Rodrigo",
+      "country": "Ecuador",
+      "status": "Full",
+      "naid": "428080841"
+    },
+    {
+      "date": "8/13/1990",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428080951"
+    },
+    {
+      "date": "9/29/1990",
+      "type": "Memcon",
+      "participants": "Gaviria Trujillo, Cesar",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428081077"
+    },
+    {
+      "date": "10/1/1990",
+      "type": "Memcon",
+      "participants": "Collor de Mello, Fernando",
+      "country": "Brazil",
+      "status": "Full",
+      "naid": "428081095"
+    },
+    {
+      "date": "10/1/1990",
+      "type": "Memcon",
+      "participants": "Lacalle, Luis Alberto",
+      "country": "Uruguay",
+      "status": "Full",
+      "naid": "428081103"
+    },
+    {
+      "date": "10/1/1990",
+      "type": "Memcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428081105"
+    },
+    {
+      "date": "10/1/1990",
+      "type": "Memcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428081109"
+    },
+    {
+      "date": "10/2/1990",
+      "type": "Memcon",
+      "participants": "Aylwin, Patricio",
+      "country": "Chile",
+      "status": "Full",
+      "naid": "428081115"
+    },
+    {
+      "date": "11/23/1990",
+      "type": "Telcon",
+      "participants": "Gaviria Trujillo, Cesar",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428081223"
+    },
+    {
+      "date": "12/3/1990",
+      "type": "Memcon",
+      "participants": "Collor de Mello, Fernando",
+      "country": "Brazil",
+      "status": "Full",
+      "naid": "428081233"
+    },
+    {
+      "date": "12/4/1990",
+      "type": "Memcon",
+      "participants": "Lacalle, Luis Alberto",
+      "country": "Uruguay",
+      "status": "Full",
+      "naid": "428081235"
+    },
+    {
+      "date": "12/5/1990",
+      "type": "Memcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428081237"
+    },
+    {
+      "date": "12/8/1990",
+      "type": "Memcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428081239"
+    },
+    {
+      "date": "1/14/1991",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428081341"
+    },
+    {
+      "date": "1/16/1991",
+      "type": "Telcon",
+      "participants": "Lacalle, Luis Alberto",
+      "country": "Uruguay",
+      "status": "Full",
+      "naid": "428081349"
+    },
+    {
+      "date": "1/19/1991",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428081361"
+    },
+    {
+      "date": "1/31/1991",
+      "type": "Telcon",
+      "participants": "Rodriguez, Andres",
+      "country": "Paraguay",
+      "status": "Full",
+      "naid": "428081403"
+    },
+    {
+      "date": "2/8/1991",
+      "type": "Memcon",
+      "participants": "Di Tella, Guido",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428081425"
+    },
+    {
+      "date": "2/8/1991",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428081437"
+    },
+    {
+      "date": "2/8/1991",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428081439"
+    },
+    {
+      "date": "2/26/1991",
+      "type": "Memcon",
+      "participants": "Gaviria Trujillo, Cesar",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428082499"
+    },
+    {
+      "date": "3/4/1991",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428081559"
+    },
+    {
+      "date": "4/9/1991",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428081595"
+    },
+    {
+      "date": "4/20/1991",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428081653"
+    },
+    {
+      "date": "5/3/1991",
+      "type": "Memcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428081627"
+    },
+    {
+      "date": "5/21/1991",
+      "type": "Memcon",
+      "participants": "Lacalle, Luis Alberto",
+      "country": "Uruguay",
+      "status": "Full",
+      "naid": "428081675"
+    },
+    {
+      "date": "6/18/1991",
+      "type": "Memcon",
+      "participants": "Collor de Mello, Fernando",
+      "country": "Brazil",
+      "status": "Full",
+      "naid": "428081693"
+    },
+    {
+      "date": "6/20/1991",
+      "type": "Telcon",
+      "participants": "Gaviria Trujillo, Cesar",
+      "country": "Colombia",
+      "status": "Full",
+      "naid": "428081721"
+    },
+    {
+      "date": "8/20/1991",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428081839"
+    },
+    {
+      "date": "9/5/1991",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428081909"
+    },
+    {
+      "date": "9/30/1991",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428081963"
+    },
+    {
+      "date": "10/1/1991",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428081965"
+    },
+    {
+      "date": "10/10/1991",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428082007"
+    },
+    {
+      "date": "11/14/1991",
+      "type": "Memcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428082023"
+    },
+    {
+      "date": "11/15/1991",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428082045"
+    },
+    {
+      "date": "12/17/1991",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428082109"
+    },
+    {
+      "date": "7/28/1992",
+      "type": "Memcon",
+      "participants": "Ballen, Sixto Duran",
+      "country": "Ecuador",
+      "status": "Full",
+      "naid": "428082307"
+    },
+    {
+      "date": "11/27/1992",
+      "type": "Memcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428082369"
+    },
+    {
+      "date": "11/27/1992",
+      "type": "Memcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428082371"
+    },
+    {
+      "date": "9/17/1991",
+      "type": "Memcon",
+      "participants": "Fujimori, Alberto",
+      "country": "Peru",
+      "status": "Full",
+      "naid": "428081887"
+    },
+    {
+      "date": "9/17/1991",
+      "type": "Memcon",
+      "participants": "Fujimori, Alberto",
+      "country": "Peru",
+      "status": "Full",
+      "naid": "428081889"
+    },
+    {
+      "date": "9/23/1991",
+      "type": "Memcon",
+      "participants": "Collor de Mello, Fernando",
+      "country": "Brazil",
+      "status": "Full",
+      "naid": "428081891"
+    },
+    {
+      "date": "9/24/1991",
+      "type": "Memcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428081905"
+    },
+    {
+      "date": "5/13/1992",
+      "type": "Memcon",
+      "participants": "Aylwin, Patricio",
+      "country": "Chile",
+      "status": "Partial",
+      "naid": "428082199"
+    },
+    {
+      "date": "4/7/1992",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Partial",
+      "naid": "428082165"
+    },
+    {
+      "date": "11/5/1992",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428082357"
+    },
+    {
+      "date": "1/16/1992",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428082119"
+    },
+    {
+      "date": "4/20/1992",
+      "type": "Telcon",
+      "participants": "Fujimori, Alberto",
+      "country": "Peru",
+      "status": "Full",
+      "naid": "428082203"
+    },
+    {
+      "date": "5/12/1992",
+      "type": "Telcon",
+      "participants": "Collor de Mello, Fernando",
+      "country": "Brazil",
+      "status": "Full",
+      "naid": "428082219"
+    },
+    {
+      "date": "6/20/1992",
+      "type": "Telcon",
+      "participants": "Perez, Carlos Andres",
+      "country": "Venezuela",
+      "status": "Full",
+      "naid": "428082247"
+    },
+    {
+      "date": "7/10/1992",
+      "type": "Telcon",
+      "participants": "Collor de Mello, Fernando",
+      "country": "Brazil",
+      "status": "Full",
+      "naid": "428082309"
+    },
+    {
+      "date": "12/1/1992",
+      "type": "Telcon",
+      "participants": "Menem, Carlos",
+      "country": "Argentina",
+      "status": "Full",
+      "naid": "428082385"
+    }
+  ]
+}
