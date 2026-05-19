@@ -81,7 +81,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Call from the President to President Alfonsin of Argentina, January 23, 1989",
@@ -170,7 +170,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "The President's Telephone Conversation with Argentine President Raul Alfonsin, May 13, 1989",
@@ -302,7 +302,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 8,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
@@ -378,7 +378,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Menem of Argentina, December 20, 1989",
@@ -510,7 +510,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone conversation with President Carlos Menem of Argentina, March 1, 1990",
@@ -642,7 +642,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Carlos Saul Menem of Argentina, June 28, 1990",
@@ -718,7 +718,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 6,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Carlos Saul Menem of Argentina, October 1, 1990",
@@ -850,7 +850,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 6,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Luncheon with President Carlos Saul Menem of Argentina, December 5, 1990",
@@ -982,7 +982,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone conversation with President Carlos Menem of Argentina, January 14, 1991",
@@ -1114,7 +1114,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Carlos Menem of Argentina, January 19, 1991",
@@ -1203,7 +1203,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Foreign Minister Guido Di Tella of Argentina, February 8, 1991",
@@ -1335,7 +1335,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Carlos Menem of Argentina, February 8, 1991",
@@ -1467,7 +1467,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Menem of Argentina, March 4, 1991",
@@ -1543,7 +1543,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with President Carlos Menem of Argentina on August 20, 1991",
@@ -1675,7 +1675,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Carlos Menem, President of Argentina, November 14, 1991",
@@ -1751,7 +1751,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with President Carlos Saul Menem of Argentina on January 16, 1992",
@@ -1827,7 +1827,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with President Carlos Menem of Argentina on April 71 1992, April 7, 1992",
@@ -1959,7 +1959,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with Carlos Saul Menem of Argentina on November 5, 1992",
@@ -2091,7 +2091,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with President Carlos Menem of Argentina on December 1, 1992",
@@ -2223,7 +2223,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with Victor Paz Estenssoro of Bolivia, July 7, 1989",
@@ -2355,7 +2355,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 6,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meetihg with President Jaime Paz Zamora of Bolivia, May 8, 1990 (2 of 2)",
@@ -2431,7 +2431,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
@@ -2520,7 +2520,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "President's Meeting with President Jose Sarney of Brazil, February 25, 1989",
@@ -2609,7 +2609,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with President Sarney of Brazil, May 17, 1989",
@@ -2665,7 +2665,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 2,
     "notes": "Integrated from a focused National Archives Catalog audit of Presidential Memcon/Telcon series records.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Jose Sarney, September 25, 1989",
@@ -2721,7 +2721,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 2,
     "notes": "Integrated from a focused National Archives Catalog audit of Presidential Memcon/Telcon series records.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Fernando Collor de Mello of Brazil, January 26, 1990",
@@ -2810,7 +2810,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone conversation with President Fernando Collor of Brazil, March 23, 1990",
@@ -2899,7 +2899,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Fernando Collor de Mello of Brazil, June 6, 1990",
@@ -2988,7 +2988,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Fernando Collor de Mello of Brazil, June 28, 1990",
@@ -3077,7 +3077,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 6,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Memorandum of Conversation with President Collor of Brazil, October 1, 1990",
@@ -3166,7 +3166,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 7,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Fernando Col lor de Mello of Brazil, December 3, 1990",
@@ -3255,7 +3255,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 7,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Fernando Collor de Mello, President of Brazil, June 18, 1991",
@@ -3344,7 +3344,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 6,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Fernando Collor de Mello, President of the Federative Republic of Brazil at UNGA, Waldorf Astoria Hotel, New York",
@@ -3489,7 +3489,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with Fernando Coller, President of Brazil, May 12, 1992",
@@ -3578,7 +3578,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with Fernando Collor, President of Brazil, on July 10, 1992",
@@ -3654,7 +3654,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "PRESIDENT BUSH'S TELEPHONE CALL TO PRESIDENT AYLWIN, March 30, 1990",
@@ -3743,7 +3743,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 6,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Memorandum of Conversation with President Patricio Aylwin of Chile, October 2, 1990",
@@ -3832,7 +3832,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 7,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Patricio Aylwin Azocar, President of the Republic of Chile, May 13, 1992",
@@ -3908,7 +3908,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 2,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "President's Telephone Call to Colombian President Barco, March 8, 1989",
@@ -3997,7 +3997,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "The President's Telephone Conversation with President Barco of Colombia, April 14, 1989",
@@ -4073,7 +4073,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with President Barco of Colombia, May 16, 1989",
@@ -4218,7 +4218,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
@@ -4307,7 +4307,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
@@ -4396,7 +4396,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Virgilio Barco of Colombia, September 26, 1989",
@@ -4472,7 +4472,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 9,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Virgilio Barco of Colombia, September 28, 1989",
@@ -4548,7 +4548,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 2,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Barco of Colombia, October 30, 1989",
@@ -4624,7 +4624,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Barco of Colombia, November 27, 1989",
@@ -4700,7 +4700,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Barco of Colombia, December 20, 1989",
@@ -4789,7 +4789,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Barco of Colombia, January 28, 1990",
@@ -4878,7 +4878,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Virgilio Barco of Colombia, April 27, 1990",
@@ -4954,7 +4954,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 8,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Memorandum of Conversation with President Virgilio Barco of Colombia, June 5, 1990",
@@ -5086,7 +5086,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 7,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President-Elect Gaviria of Colombia, July 13, 1990",
@@ -5218,7 +5218,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 7,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia, September 29, 1990",
@@ -5294,7 +5294,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation -with President Gaviria of Colombia, November 23, 1990",
@@ -5482,7 +5482,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 8,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Cesar Gaviria of Colombia, February 26, 1991",
@@ -5558,7 +5558,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with Cesar Gaviria Trujillo, President of Colombia, June 20, 1991",
@@ -5715,7 +5715,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 8,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
@@ -5791,7 +5791,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 7,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
@@ -5880,7 +5880,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Sixto Duran Ballen, PresidentElect of Ecuador, Julyu 28, 1992",
@@ -5969,7 +5969,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
@@ -6025,7 +6025,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 2,
     "notes": "Integrated from a focused National Archives Catalog audit of Presidential Memcon/Telcon series records.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Andres Rodriguez of Paraguay, June 15, 1990",
@@ -6101,7 +6101,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone ccmversation with President Andres Rodriguez of Paraguay, January 31, 1991",
@@ -6190,7 +6190,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Alan Garcia of Peru, May 13, 1989",
@@ -6279,7 +6279,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 7,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
@@ -6355,7 +6355,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 7,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
@@ -6444,7 +6444,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with Alberto Fujimori of Peru on April 20, 1992",
@@ -6520,7 +6520,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Presidential Telephone Calls to Presidents Sanguinetti, Alfonsin, and Garcia on May 13 (2 of 2)",
@@ -6609,7 +6609,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "The President's Telephone Conversation with President Sanguinetti of Uruguay, May 13, 1989 (1 of 2)",
@@ -6698,7 +6698,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 7,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Uruguayan President Julio Maria Sanguinetti, September 15, 1989",
@@ -6787,7 +6787,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 6,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President-elect Luis Alberto Lacalle of Uruguay, February 5, 1990",
@@ -6876,7 +6876,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay, June 28, 1990",
@@ -6965,7 +6965,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Luis Alberto Lacalle of Uruguay, October 1, 1990",
@@ -7041,7 +7041,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Luis Alberto Lacalle of Uruguay, December 4, 1990",
@@ -7130,7 +7130,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 2,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay, January 16, 1991",
@@ -7219,7 +7219,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 7,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Luis Alberto Lacalle of Uruguay, May 21, 1991",
@@ -7308,7 +7308,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Memorandum of Conversation Between the President and President-Elect Carlos Andres Perez of Venezuela, January 24, 1989",
@@ -7397,7 +7397,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "The President's Telephone Conversation with President Carlos Andres Perez of Venezuela on March 3, 1989",
@@ -7486,7 +7486,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 7,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Carlos Andres Perez of Venezuela, April 1, 1989",
@@ -7575,7 +7575,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Call with Carlos Andres Perez of Venezuela, May 10, 1989",
@@ -7664,7 +7664,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "The President's Telephone Conversation with President Carlos Andres Perez of Venezuela, June 23, 1989",
@@ -7753,7 +7753,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with Carlos Andres Perez, President of Venezuela",
@@ -7842,7 +7842,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Venezuelan President Carlos Andres Perez, September 25, 1989",
@@ -7918,7 +7918,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with Venezuelan President Carlos Andres Perez, November 1, 1989",
@@ -7994,7 +7994,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Perez of Venezuela, December 20, 1989",
@@ -8083,7 +8083,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone conversation with President Carlos Andres Perez of Venezuela, February 26, 1990",
@@ -8172,7 +8172,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 5,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone conversation with President Carlos Andres Perez of Venezuela, March 21, 1990",
@@ -8228,7 +8228,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 2,
     "notes": "Integrated from a focused National Archives Catalog audit of Presidential Memcon/Telcon series records.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Carlos Andres Perez of Venezuela, April 26, 1990",
@@ -8317,7 +8317,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Carlos Andres Perez of Venezuela, August 13, 1990",
@@ -8406,7 +8406,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 6,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Carlos Andres Perez of Venezuela, October 1, 1990",
@@ -8482,7 +8482,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 9,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
@@ -8583,7 +8583,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 8,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone conversation with President Carlos Andres Perez of Venezuela, February 8, 1991",
@@ -8659,7 +8659,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 6,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Carlos Andres Perez of Venezuela, April 9, 1991",
@@ -8748,7 +8748,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with Carlos Andres Perez, President of Venezuela on April 20, 1991",
@@ -8837,7 +8837,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 9,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Carlos Andres Perez of Venezuela, May 3, 1991",
@@ -8926,7 +8926,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with President Carlos Andres Perez of Venezuela on september 5, 1991",
@@ -9002,7 +9002,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 9,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with Carlos Andres Perez, President of the Republic of Venezuela at UNGA, Waldorf Astoria Hotel, New York",
@@ -9091,7 +9091,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Carlos Andres Perez of Venezuela, September 30, 1991",
@@ -9180,7 +9180,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Carlos Andres Perez of Venezuela, October 1, 1991",
@@ -9269,7 +9269,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with President Carlos Andres Perez President of Venezuela on October 10, 1991",
@@ -9358,7 +9358,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with Carlos Andres Perez, President of Venezuela on November 15, 1991",
@@ -9447,7 +9447,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 6,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telephone Conversation with Carlos Andres Perez, December 18, 1991",
@@ -9592,7 +9592,7 @@ window.MEMCONS = [
       "Telcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 4,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Telephone Conversation",
     "subjectLine": "Telcon with Carlos Andres Perez, President of Venezuela, on June 20, 1992",
@@ -9668,7 +9668,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 1,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Telcon with Carlos Andres Perez, President of Venezuela on November 27, 1992 (1 of 2)",
@@ -9744,7 +9744,7 @@ window.MEMCONS = [
       "Memcon",
       "Head of state"
     ],
-    "pageCount": 0,
+    "pageCount": 3,
     "notes": "Integrated from the Bush Library Memcons and Telcons table, enriched from the National Archives Catalog item record, and cross-referenced to the Latin American Directorate Chronological Files collection.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Telcon with Carlos Andres Perez, President of Venezuela on November 27, 1992 (2 of 2)",

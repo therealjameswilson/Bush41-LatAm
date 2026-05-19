@@ -1,0 +1,738 @@
+{
+  "generatedAt": "2026-05-19T01:26:07.873Z",
+  "totalRecords": 126,
+  "recordsWithMissingPageCountBefore": 104,
+  "updatedRecords": [
+    {
+      "id": "bush-library-428079775",
+      "title": "Telephone Call from the President to President Alfonsin of Argentina, January 23, 1989",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-01-23--Alfonsin.pdf"
+    },
+    {
+      "id": "bush-library-428080013",
+      "title": "The President's Telephone Conversation with Argentine President Raul Alfonsin, May 13, 1989",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Alfonsin.pdf"
+    },
+    {
+      "id": "bush-library-428080237",
+      "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+      "previousPageCount": 0,
+      "pageCount": 8,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-27--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428080455",
+      "title": "Telephone Conversation with President Menem of Argentina, December 20, 1989",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428080601",
+      "title": "Telephone conversation with President Carlos Menem of Argentina, March 1, 1990",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-01--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428080817",
+      "title": "Telephone Conversation with President Carlos Saul Menem of Argentina, June 28, 1990",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-28--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428081105",
+      "title": "Meeting with President Carlos Saul Menem of Argentina, October 1, 1990",
+      "previousPageCount": 0,
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428081237",
+      "title": "Luncheon with President Carlos Saul Menem of Argentina, December 5, 1990",
+      "previousPageCount": 0,
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-05--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428081341",
+      "title": "Telephone conversation with President Carlos Menem of Argentina, January 14, 1991",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-14--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428081361",
+      "title": "Telephone Conversation with President Carlos Menem of Argentina, January 19, 1991",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-19--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428081425",
+      "title": "Meeting with Foreign Minister Guido Di Tella of Argentina, February 8, 1991",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-08--Di-Tella.pdf"
+    },
+    {
+      "id": "bush-library-428081437",
+      "title": "Telephone Conversation with President Carlos Menem of Argentina, February 8, 1991",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-08--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428081559",
+      "title": "Telephone Conversation with President Menem of Argentina, March 4, 1991",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-03-04--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428081839",
+      "title": "Telcon with President Carlos Menem of Argentina on August 20, 1991",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-20--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428082023",
+      "title": "Meeting with Carlos Menem, President of Argentina, November 14, 1991",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-11-14--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428082119",
+      "title": "Telcon with President Carlos Saul Menem of Argentina on January 16, 1992",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-01-16--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428082165",
+      "title": "Telcon with President Carlos Menem of Argentina on April 71 1992, April 7, 1992",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-04-07--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428082357",
+      "title": "Telcon with Carlos Saul Menem of Argentina on November 5, 1992",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-11-05--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428082385",
+      "title": "Telcon with President Carlos Menem of Argentina on December 1, 1992",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-12-01--Menem.pdf"
+    },
+    {
+      "id": "bush-library-428080119",
+      "title": "Telephone Conversation with Victor Paz Estenssoro of Bolivia, July 7, 1989",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-07--Estenssoro.pdf"
+    },
+    {
+      "id": "bush-library-428080687",
+      "title": "Meetihg with President Jaime Paz Zamora of Bolivia, May 8, 1990 (2 of 2)",
+      "previousPageCount": 0,
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-08--Zamora-2.pdf"
+    },
+    {
+      "id": "bush-library-428080685",
+      "title": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-08--Zamora-1.pdf"
+    },
+    {
+      "id": "bush-library-428079873",
+      "title": "President's Meeting with President Jose Sarney of Brazil, February 25, 1989",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-25--Sarney.pdf"
+    },
+    {
+      "id": "bush-library-428082459",
+      "title": "Telcon with President Sarney of Brazil, May 17, 1989",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-17--Sarney.pdf"
+    },
+    {
+      "id": "presidential-series-428080259",
+      "title": "Meeting with Jose Sarney, September 25, 1989",
+      "previousPageCount": 0,
+      "pageCount": 2,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Sarney.pdf"
+    },
+    {
+      "id": "presidential-series-428080489",
+      "title": "Meeting with Fernando Collor de Mello of Brazil, January 26, 1990",
+      "previousPageCount": 0,
+      "pageCount": 2,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-26--Collor-de-Mello.pdf"
+    },
+    {
+      "id": "bush-library-428080617",
+      "title": "Telephone conversation with President Fernando Collor of Brazil, March 23, 1990",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-23--Collor-de-Mello.pdf"
+    },
+    {
+      "id": "bush-library-428080767",
+      "title": "Telephone Conversation with President Fernando Collor de Mello of Brazil, June 6, 1990",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-06--Collor-de-Mello.pdf"
+    },
+    {
+      "id": "bush-library-428080813",
+      "title": "Telephone Conversation with President Fernando Collor de Mello of Brazil, June 28, 1990",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-28--Collor-de-Mello.pdf"
+    },
+    {
+      "id": "bush-library-428081095",
+      "title": "Memorandum of Conversation with President Collor of Brazil, October 1, 1990",
+      "previousPageCount": 0,
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Collor-de-Mello.pdf"
+    },
+    {
+      "id": "bush-library-428081233",
+      "title": "Meeting with President Fernando Col lor de Mello of Brazil, December 3, 1990",
+      "previousPageCount": 0,
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-03--Collor-de-Mello.pdf"
+    },
+    {
+      "id": "bush-library-428081693",
+      "title": "Meeting with Fernando Collor de Mello, President of Brazil, June 18, 1991",
+      "previousPageCount": 0,
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-18--Collor-de-Mello.pdf"
+    },
+    {
+      "id": "bush-library-428081891",
+      "title": "Meeting with Fernando Collor de Mello, President of the Federative Republic of Brazil at UNGA, Waldorf Astoria Hotel, New York",
+      "previousPageCount": 0,
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-23--Collor-de-Mello.pdf"
+    },
+    {
+      "id": "bush-library-428082219",
+      "title": "Telcon with Fernando Coller, President of Brazil, May 12, 1992",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-05-12--Collor-de-Mello.pdf"
+    },
+    {
+      "id": "bush-library-428082309",
+      "title": "Telcon with Fernando Collor, President of Brazil, on July 10, 1992",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-07-10--Collor-de-Mello.pdf"
+    },
+    {
+      "id": "bush-library-428080659",
+      "title": "PRESIDENT BUSH'S TELEPHONE CALL TO PRESIDENT AYLWIN, March 30, 1990",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-30--Aylwin.pdf"
+    },
+    {
+      "id": "bush-library-428081115",
+      "title": "Memorandum of Conversation with President Patricio Aylwin of Chile, October 2, 1990",
+      "previousPageCount": 0,
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-02--Aylwin.pdf"
+    },
+    {
+      "id": "bush-library-428082199",
+      "title": "Meeting with Patricio Aylwin Azocar, President of the Republic of Chile, May 13, 1992",
+      "previousPageCount": 0,
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-05-13--Azocar.pdf"
+    },
+    {
+      "id": "bush-library-428079919",
+      "title": "President's Telephone Call to Colombian President Barco, March 8, 1989",
+      "previousPageCount": 0,
+      "pageCount": 2,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-03-08--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428079963",
+      "title": "The President's Telephone Conversation with President Barco of Colombia, April 14, 1989",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-04-14--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428082453",
+      "title": "Telcon with President Barco of Colombia, May 16, 1989",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-16--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428080207",
+      "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-21--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428080215",
+      "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-28--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428080265",
+      "title": "Telephone Conversation with President Virgilio Barco of Colombia, September 26, 1989",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-09-26--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428080241",
+      "title": "Meeting with President Virgilio Barco of Colombia, September 28, 1989",
+      "previousPageCount": 0,
+      "pageCount": 9,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-28--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428080315",
+      "title": "Telephone Conversation with President Barco of Colombia, October 30, 1989",
+      "previousPageCount": 0,
+      "pageCount": 2,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-10-30--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428080357",
+      "title": "Telephone Conversation with President Barco of Colombia, November 27, 1989",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-11-27--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428080421",
+      "title": "Telephone Conversation with President Barco of Colombia, December 20, 1989",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428080509",
+      "title": "Telephone Conversation with President Barco of Colombia, January 28, 1990",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-01-28--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428080673",
+      "title": "Telephone Conversation with President Virgilio Barco of Colombia, April 27, 1990",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-04-27--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428080733",
+      "title": "Memorandum of Conversation with President Virgilio Barco of Colombia, June 5, 1990",
+      "previousPageCount": 0,
+      "pageCount": 8,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-05--Barco.pdf"
+    },
+    {
+      "id": "bush-library-428080837",
+      "title": "Meeting with President-Elect Gaviria of Colombia, July 13, 1990",
+      "previousPageCount": 0,
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-13--Gaviria-Trujillo.pdf"
+    },
+    {
+      "id": "bush-library-428081077",
+      "title": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia, September 29, 1990",
+      "previousPageCount": 0,
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-29--Gaviria-Trujillo.pdf"
+    },
+    {
+      "id": "bush-library-428081223",
+      "title": "Telephone Conversation -with President Gaviria of Colombia, November 23, 1990",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-11-23--Gaviria-Trujillo.pdf"
+    },
+    {
+      "id": "bush-library-428082499",
+      "title": "Meeting with President Cesar Gaviria of Colombia, February 26, 1991",
+      "previousPageCount": 0,
+      "pageCount": 8,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-26--Gaviria-Trujillo.pdf"
+    },
+    {
+      "id": "bush-library-428081721",
+      "title": "Telcon with Cesar Gaviria Trujillo, President of Colombia, June 20, 1991",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-20--Gaviria-Trujillo.pdf"
+    },
+    {
+      "id": "bush-library-428080839",
+      "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+      "previousPageCount": 0,
+      "pageCount": 8,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-1.pdf"
+    },
+    {
+      "id": "bush-library-428080841",
+      "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+      "previousPageCount": 0,
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-2.pdf"
+    },
+    {
+      "id": "bush-library-428082307",
+      "title": "Meeting with Sixto Duran Ballen, PresidentElect of Ecuador, Julyu 28, 1992",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-28--Ballen.pdf"
+    },
+    {
+      "id": "bush-library-428080045",
+      "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-19--Hoyte.pdf"
+    },
+    {
+      "id": "presidential-series-428080795",
+      "title": "Meeting with Andres Rodriguez of Paraguay, June 15, 1990",
+      "previousPageCount": 0,
+      "pageCount": 2,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-15--Rodriguez.pdf"
+    },
+    {
+      "id": "bush-library-428081403",
+      "title": "Telephone ccmversation with President Andres Rodriguez of Paraguay, January 31, 1991",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-31--Rodriguez.pdf"
+    },
+    {
+      "id": "bush-library-428080015",
+      "title": "Telephone Conversation with President Alan Garcia of Peru, May 13, 1989",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Garcia.pdf"
+    },
+    {
+      "id": "bush-library-428081889",
+      "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+      "previousPageCount": 0,
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-2.pdf"
+    },
+    {
+      "id": "bush-library-428081887",
+      "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+      "previousPageCount": 0,
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-1.pdf"
+    },
+    {
+      "id": "bush-library-428082203",
+      "title": "Telcon with Alberto Fujimori of Peru on April 20, 1992",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-04-20--Fujimori.pdf"
+    },
+    {
+      "id": "bush-library-428080019",
+      "title": "Presidential Telephone Calls to Presidents Sanguinetti, Alfonsin, and Garcia on May 13 (2 of 2)",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Sanguinetti-2.pdf"
+    },
+    {
+      "id": "bush-library-428080017",
+      "title": "The President's Telephone Conversation with President Sanguinetti of Uruguay, May 13, 1989 (1 of 2)",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Sanguinetti-1.pdf"
+    },
+    {
+      "id": "bush-library-428080181",
+      "title": "Meeting with Uruguayan President Julio Maria Sanguinetti, September 15, 1989",
+      "previousPageCount": 0,
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-15--Sanguinetti.pdf"
+    },
+    {
+      "id": "bush-library-428080481",
+      "title": "Meeting with President-elect Luis Alberto Lacalle of Uruguay, February 5, 1990",
+      "previousPageCount": 0,
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-05--Lacalle.pdf"
+    },
+    {
+      "id": "bush-library-428080815",
+      "title": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay, June 28, 1990",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-28--Lacalle.pdf"
+    },
+    {
+      "id": "bush-library-428081103",
+      "title": "Meeting with President Luis Alberto Lacalle of Uruguay, October 1, 1990",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Lacalle.pdf"
+    },
+    {
+      "id": "bush-library-428081235",
+      "title": "Meeting with Luis Alberto Lacalle of Uruguay, December 4, 1990",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-04--Lacalle.pdf"
+    },
+    {
+      "id": "bush-library-428081349",
+      "title": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay, January 16, 1991",
+      "previousPageCount": 0,
+      "pageCount": 2,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-16--Lacalle.pdf"
+    },
+    {
+      "id": "bush-library-428081675",
+      "title": "Meeting with President Luis Alberto Lacalle of Uruguay, May 21, 1991",
+      "previousPageCount": 0,
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-21--Lacalle.pdf"
+    },
+    {
+      "id": "bush-library-428079799",
+      "title": "Memorandum of Conversation Between the President and President-Elect Carlos Andres Perez of Venezuela, January 24, 1989",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-01-24--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428079917",
+      "title": "The President's Telephone Conversation with President Carlos Andres Perez of Venezuela on March 3, 1989",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-03-03--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428079937",
+      "title": "Meeting with President Carlos Andres Perez of Venezuela, April 1, 1989",
+      "previousPageCount": 0,
+      "pageCount": 7,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-01--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428080003",
+      "title": "Telephone Call with Carlos Andres Perez of Venezuela, May 10, 1989",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-10--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428080073",
+      "title": "The President's Telephone Conversation with President Carlos Andres Perez of Venezuela, June 23, 1989",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-06-23--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428080211",
+      "title": "Telephone Conversation with Carlos Andres Perez, President of Venezuela",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-22--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428080229",
+      "title": "Meeting with Venezuelan President Carlos Andres Perez, September 25, 1989",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428080319",
+      "title": "Telephone Conversation with Venezuelan President Carlos Andres Perez, November 1, 1989",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-11-01--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428080461",
+      "title": "Telephone Conversation with President Perez of Venezuela, December 20, 1989",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428080569",
+      "title": "Telephone conversation with President Carlos Andres Perez of Venezuela, February 26, 1990",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-02-26--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428080615",
+      "title": "Telephone conversation with President Carlos Andres Perez of Venezuela, March 21, 1990",
+      "previousPageCount": 0,
+      "pageCount": 5,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-21--Perez.pdf"
+    },
+    {
+      "id": "presidential-series-428080655",
+      "title": "Meeting with Carlos Andres Perez of Venezuela, April 26, 1990",
+      "previousPageCount": 0,
+      "pageCount": 2,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-26--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428080951",
+      "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, August 13, 1990",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-13--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428081109",
+      "title": "Meeting with President Carlos Andres Perez of Venezuela, October 1, 1990",
+      "previousPageCount": 0,
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428081239",
+      "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+      "previousPageCount": 0,
+      "pageCount": 9,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-08--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428081439",
+      "title": "Telephone conversation with President Carlos Andres Perez of Venezuela, February 8, 1991",
+      "previousPageCount": 0,
+      "pageCount": 8,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-08--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428081595",
+      "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, April 9, 1991",
+      "previousPageCount": 0,
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-09--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428081653",
+      "title": "Telcon with Carlos Andres Perez, President of Venezuela on April 20, 1991",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-20--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428081627",
+      "title": "Meeting with President Carlos Andres Perez of Venezuela, May 3, 1991",
+      "previousPageCount": 0,
+      "pageCount": 9,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-03--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428081909",
+      "title": "Telcon with President Carlos Andres Perez of Venezuela on september 5, 1991",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-05--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428081905",
+      "title": "Meeting with Carlos Andres Perez, President of the Republic of Venezuela at UNGA, Waldorf Astoria Hotel, New York",
+      "previousPageCount": 0,
+      "pageCount": 9,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-24--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428081963",
+      "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, September 30, 1991",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-30--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428081965",
+      "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, October 1, 1991",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-10-01--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428082007",
+      "title": "Telcon with President Carlos Andres Perez President of Venezuela on October 10, 1991",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-10-10--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428082045",
+      "title": "Telephone Conversation with Carlos Andres Perez, President of Venezuela on November 15, 1991",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-11-15--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428082109",
+      "title": "Telephone Conversation with Carlos Andres Perez, December 18, 1991",
+      "previousPageCount": 0,
+      "pageCount": 6,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-12-17--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428082247",
+      "title": "Telcon with Carlos Andres Perez, President of Venezuela, on June 20, 1992",
+      "previousPageCount": 0,
+      "pageCount": 4,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-06-20--Perez.pdf"
+    },
+    {
+      "id": "bush-library-428082369",
+      "title": "Telcon with Carlos Andres Perez, President of Venezuela on November 27, 1992 (1 of 2)",
+      "previousPageCount": 0,
+      "pageCount": 1,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-11-27--Perez-1.pdf"
+    },
+    {
+      "id": "bush-library-428082371",
+      "title": "Telcon with Carlos Andres Perez, President of Venezuela on November 27, 1992 (2 of 2)",
+      "previousPageCount": 0,
+      "pageCount": 3,
+      "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-11-27--Perez-2.pdf"
+    }
+  ],
+  "failedRecords": [],
+  "recordsWithMissingPageCountAfter": 0,
+  "totalPagesAfter": 559
+}
