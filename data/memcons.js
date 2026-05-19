@@ -2832,6 +2832,118 @@ window.MEMCONS = [
     "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 91111-002, NAID 366551687, source pages 41-43."
   },
   {
+    "id": "presidential-series-428080259",
+    "date": "1989-09-25",
+    "sortDate": "1989-09-25",
+    "type": "Memcon",
+    "title": "Meeting with Jose Sarney, September 25, 1989",
+    "sourceTitle": "Presidential Memcon Files",
+    "participants": [
+      "George H. W. Bush",
+      "Jose Sarney"
+    ],
+    "countries": [
+      "United States",
+      "Brazil"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Brazil"
+    },
+    "releaseStatus": "Unrestricted",
+    "naid": "428080259",
+    "localIdentifier": "",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Sarney.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080259",
+    "source": {
+      "name": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580",
+      "referenceUnit": "George Bush Library",
+      "series": "Presidential Memcon Files",
+      "seriesNaid": "321498039",
+      "seriesUrl": "https://catalog.archives.gov/id/321498039",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Sarney.pdf",
+      "objectFilename": "1989-09-25--Sarney.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
+    "frusTopics": [
+      "Latin America",
+      "South America",
+      "Brazil",
+      "Presidential Memcon Files",
+      "Memcon"
+    ],
+    "topics": [
+      "Latin America",
+      "South America",
+      "Brazil",
+      "Memcon",
+      "Head of state"
+    ],
+    "pageCount": 0,
+    "notes": "Integrated from a focused National Archives Catalog audit of Presidential Memcon/Telcon series records.",
+    "documentTitle": "Memorandum of Conversation",
+    "subjectLine": "Meeting with Jose Sarney, September 25, 1989",
+    "dateLine": "September 25, 1989",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, NAID 321498039; item Meeting with Jose Sarney, September 25, 1989, NAID 428080259. Digital object: 1989-09-25--Sarney.pdf."
+  },
+  {
+    "id": "presidential-series-428080489",
+    "date": "1990-01-26",
+    "sortDate": "1990-01-26",
+    "type": "Memcon",
+    "title": "Meeting with Fernando Collor de Mello of Brazil, January 26, 1990",
+    "sourceTitle": "Presidential Memcon Files",
+    "participants": [
+      "George H. W. Bush",
+      "Fernando Collor de Mello"
+    ],
+    "countries": [
+      "United States",
+      "Brazil"
+    ],
+    "chapter": {
+      "number": 3,
+      "name": "Brazil"
+    },
+    "releaseStatus": "Unrestricted",
+    "naid": "428080489",
+    "localIdentifier": "",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-26--Collor-de-Mello.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080489",
+    "source": {
+      "name": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580",
+      "referenceUnit": "George Bush Library",
+      "series": "Presidential Memcon Files",
+      "seriesNaid": "321498039",
+      "seriesUrl": "https://catalog.archives.gov/id/321498039",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-26--Collor-de-Mello.pdf",
+      "objectFilename": "1990-01-26--Collor-de-Mello.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
+    "frusTopics": [
+      "Latin America",
+      "South America",
+      "Brazil",
+      "Presidential Memcon Files",
+      "Memcon"
+    ],
+    "topics": [
+      "Latin America",
+      "South America",
+      "Brazil",
+      "Memcon",
+      "Head of state"
+    ],
+    "pageCount": 0,
+    "notes": "Integrated from a focused National Archives Catalog audit of Presidential Memcon/Telcon series records.",
+    "documentTitle": "Memorandum of Conversation",
+    "subjectLine": "Meeting with Fernando Collor de Mello of Brazil, January 26, 1990",
+    "dateLine": "January 26, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, NAID 321498039; item Meeting with Fernando Collor de Mello of Brazil, January 26, 1990, NAID 428080489. Digital object: 1990-01-26--Collor-de-Mello.pdf."
+  },
+  {
     "id": "scowcroft-366551691-25-fernando-collor-de-mello-telcon",
     "date": "1990-03-23",
     "sortDate": "1990-03-23",
@@ -6984,6 +7096,62 @@ window.MEMCONS = [
     "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 6/19/1989; Type Memcon; Participants Hoyte, Desmond; Country Guyana; Release Status Full; NAID 428080045. Priority collection for volume compilation: Latin American Directorate Chronological Files, NAID 2197972, https://catalog.archives.gov/id/2197972. National Archives Catalog item: The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989, NAID 428080045. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Memcon Files, NAID 321498039. File unit: [Memorandum of Conversations (Memcons) - June 1989-December 1989]: June 1989, NAID 325377389. Digital object: 1989-06-19--Hoyte.pdf, object ID 428080046, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-19--Hoyte.pdf. Access restriction: Unrestricted."
   },
   {
+    "id": "presidential-series-428080795",
+    "date": "1990-06-15",
+    "sortDate": "1990-06-15",
+    "type": "Memcon",
+    "title": "Meeting with Andres Rodriguez of Paraguay, June 15, 1990",
+    "sourceTitle": "Presidential Memcon Files",
+    "participants": [
+      "George H. W. Bush",
+      "Andres Rodriguez"
+    ],
+    "countries": [
+      "United States",
+      "Paraguay"
+    ],
+    "chapter": {
+      "number": 8,
+      "name": "Paraguay"
+    },
+    "releaseStatus": "Unrestricted",
+    "naid": "428080795",
+    "localIdentifier": "",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-15--Rodriguez.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080795",
+    "source": {
+      "name": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580",
+      "referenceUnit": "George Bush Library",
+      "series": "Presidential Memcon Files",
+      "seriesNaid": "321498039",
+      "seriesUrl": "https://catalog.archives.gov/id/321498039",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-15--Rodriguez.pdf",
+      "objectFilename": "1990-06-15--Rodriguez.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
+    "frusTopics": [
+      "Latin America",
+      "South America",
+      "Paraguay",
+      "Presidential Memcon Files",
+      "Memcon"
+    ],
+    "topics": [
+      "Latin America",
+      "South America",
+      "Paraguay",
+      "Memcon",
+      "Head of state"
+    ],
+    "pageCount": 0,
+    "notes": "Integrated from a focused National Archives Catalog audit of Presidential Memcon/Telcon series records.",
+    "documentTitle": "Memorandum of Conversation",
+    "subjectLine": "Meeting with Andres Rodriguez of Paraguay, June 15, 1990",
+    "dateLine": "June 15, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, NAID 321498039; item Meeting with Andres Rodriguez of Paraguay, June 15, 1990, NAID 428080795. Digital object: 1990-06-15--Rodriguez.pdf."
+  },
+  {
     "id": "bush-library-428081403",
     "date": "1991-01-31",
     "sortDate": "1991-01-31",
@@ -9946,6 +10114,62 @@ window.MEMCONS = [
     "subjectLine": "Telephone conversation with President Carlos Andres Perez of Venezuela, March 21, 1990",
     "dateLine": "March 21, 1990",
     "sourceNote": "Source: George H.W. Bush Presidential Library and Museum, Digital Research Room, \"Memcons and Telcons\" table (https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons), row: Date 3/21/1990; Type Telcon; Participants Perez, Carlos Andres; Country Venezuela; Release Status Full; NAID 428080615. Priority collection for volume compilation: Latin American Directorate Chronological Files, NAID 2197972, https://catalog.archives.gov/id/2197972. National Archives Catalog item: Telephone conversation with President Carlos Andres Perez of Venezuela, March 21, 1990, NAID 428080615. Collection: Records of the National Security Council (George H. W. Bush Administration), NAID 2163580. Series: Presidential Telcon Files, NAID 321498139. File unit: [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: March 1990, NAID 325592642. Digital object: 1990-03-21--Perez.pdf, object ID 428080616, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-21--Perez.pdf. Access restriction: Unrestricted."
+  },
+  {
+    "id": "presidential-series-428080655",
+    "date": "1990-04-26",
+    "sortDate": "1990-04-26",
+    "type": "Memcon",
+    "title": "Meeting with Carlos Andres Perez of Venezuela, April 26, 1990",
+    "sourceTitle": "Presidential Memcon Files",
+    "participants": [
+      "George H. W. Bush",
+      "Carlos Andres Perez"
+    ],
+    "countries": [
+      "United States",
+      "Venezuela"
+    ],
+    "chapter": {
+      "number": 12,
+      "name": "Venezuela"
+    },
+    "releaseStatus": "Unrestricted",
+    "naid": "428080655",
+    "localIdentifier": "",
+    "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-26--Perez.pdf",
+    "catalogUrl": "https://catalog.archives.gov/id/428080655",
+    "source": {
+      "name": "Records of the National Security Council (George H. W. Bush Administration)",
+      "url": "https://catalog.archives.gov/id/2163580",
+      "referenceUnit": "George Bush Library",
+      "series": "Presidential Memcon Files",
+      "seriesNaid": "321498039",
+      "seriesUrl": "https://catalog.archives.gov/id/321498039",
+      "objectUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-26--Perez.pdf",
+      "objectFilename": "1990-04-26--Perez.pdf"
+    },
+    "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
+    "frusTopics": [
+      "Latin America",
+      "South America",
+      "Venezuela",
+      "Presidential Memcon Files",
+      "Memcon"
+    ],
+    "topics": [
+      "Latin America",
+      "South America",
+      "Venezuela",
+      "Memcon",
+      "Head of state"
+    ],
+    "pageCount": 0,
+    "notes": "Integrated from a focused National Archives Catalog audit of Presidential Memcon/Telcon series records.",
+    "documentTitle": "Memorandum of Conversation",
+    "subjectLine": "Meeting with Carlos Andres Perez of Venezuela, April 26, 1990",
+    "dateLine": "April 26, 1990",
+    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, NAID 321498039; item Meeting with Carlos Andres Perez of Venezuela, April 26, 1990, NAID 428080655. Digital object: 1990-04-26--Perez.pdf."
   },
   {
     "id": "scowcroft-366551693-85-carlos-andres-perez-telcon",

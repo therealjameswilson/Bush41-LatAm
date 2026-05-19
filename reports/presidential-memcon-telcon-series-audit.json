@@ -1,0 +1,790 @@
+{
+  "generatedAt": "2026-05-19T00:47:48.520Z",
+  "existingMemconTelconRecords": 184,
+  "targets": [
+    {
+      "naid": "321498039",
+      "name": "Presidential Memcon Files",
+      "type": "Memcon",
+      "url": "https://catalog.archives.gov/id/321498039",
+      "scannedRecords": 638,
+      "relevantSouthAmericaItems": 35,
+      "onlinePdfItems": 35,
+      "missingFromSite": [],
+      "records": [
+        {
+          "naid": "428082023",
+          "title": "Meeting with Carlos Menem, President of Argentina, November 14, 1991",
+          "levelOfDescription": "item",
+          "countries": [
+            "Argentina"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428082023",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-11-14--Menem.pdf",
+          "objectFilename": "1991-11-14--Menem.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081425",
+          "title": "Meeting with Foreign Minister Guido Di Tella of Argentina, February 8, 1991",
+          "levelOfDescription": "item",
+          "countries": [
+            "Argentina"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081425",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-08--Di-Tella.pdf",
+          "objectFilename": "1991-02-08--Di-Tella.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080237",
+          "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+          "levelOfDescription": "item",
+          "countries": [
+            "Argentina"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080237",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-27--Menem.pdf",
+          "objectFilename": "1989-09-27--Menem.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081105",
+          "title": "Meeting with President Carlos Saul Menem of Argentina, October 1, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Argentina"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081105",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Menem.pdf",
+          "objectFilename": "1990-10-01--Menem.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080687",
+          "title": "Meetihg with President Jaime Paz Zamora of Bolivia, May 8, 1990 (2 of 2)",
+          "levelOfDescription": "item",
+          "countries": [
+            "Bolivia"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080687",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-08--Zamora-2.pdf",
+          "objectFilename": "1990-05-08--Zamora-2.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Restricted - Partly",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080685",
+          "title": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
+          "levelOfDescription": "item",
+          "countries": [
+            "Bolivia"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080685",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-08--Zamora-1.pdf",
+          "objectFilename": "1990-05-08--Zamora-1.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080489",
+          "title": "Meeting with Fernando Collor de Mello of Brazil, January 26, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Brazil"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080489",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-26--Collor-de-Mello.pdf",
+          "objectFilename": "1990-01-26--Collor-de-Mello.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081693",
+          "title": "Meeting with Fernando Collor de Mello, President of Brazil, June 18, 1991",
+          "levelOfDescription": "item",
+          "countries": [
+            "Brazil"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081693",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-18--Collor-de-Mello.pdf",
+          "objectFilename": "1991-06-18--Collor-de-Mello.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081891",
+          "title": "Meeting with Fernando Collor de Mello, President of the Federative Republic of Brazil at UNGA, Waldorf Astoria Hotel, New York",
+          "levelOfDescription": "item",
+          "countries": [
+            "Brazil"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081891",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-23--Collor-de-Mello.pdf",
+          "objectFilename": "1991-09-23--Collor-de-Mello.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080259",
+          "title": "Meeting with Jose Sarney, September 25, 1989",
+          "levelOfDescription": "item",
+          "countries": [
+            "Brazil"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080259",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Sarney.pdf",
+          "objectFilename": "1989-09-25--Sarney.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081233",
+          "title": "Meeting with President Fernando Col lor de Mello of Brazil, December 3, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Brazil"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081233",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-03--Collor-de-Mello.pdf",
+          "objectFilename": "1990-12-03--Collor-de-Mello.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081095",
+          "title": "Memorandum of Conversation with President Collor of Brazil, October 1, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Brazil"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081095",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Collor-de-Mello.pdf",
+          "objectFilename": "1990-10-01--Collor-de-Mello.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428082199",
+          "title": "Meeting with Patricio Aylwin Azocar, President of the Republic of Chile, May 13, 1992",
+          "levelOfDescription": "item",
+          "countries": [
+            "Chile"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428082199",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-05-13--Azocar.pdf",
+          "objectFilename": "1992-05-13--Azocar.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Restricted - Partly",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081115",
+          "title": "Memorandum of Conversation with President Patricio Aylwin of Chile, October 2, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Chile"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081115",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-02--Aylwin.pdf",
+          "objectFilename": "1990-10-02--Aylwin.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081077",
+          "title": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia, September 29, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Colombia"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081077",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-29--Gaviria-Trujillo.pdf",
+          "objectFilename": "1990-09-29--Gaviria-Trujillo.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080733",
+          "title": "Memorandum of Conversation with President Virgilio Barco of Colombia, June 5, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Colombia"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080733",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-05--Barco.pdf",
+          "objectFilename": "1990-06-05--Barco.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080839",
+          "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+          "levelOfDescription": "item",
+          "countries": [
+            "Ecuador"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080839",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-1.pdf",
+          "objectFilename": "1990-07-23--Borja-1.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080841",
+          "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+          "levelOfDescription": "item",
+          "countries": [
+            "Ecuador"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080841",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-2.pdf",
+          "objectFilename": "1990-07-23--Borja-2.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428082307",
+          "title": "Meeting with Sixto Duran Ballen, PresidentElect of Ecuador, Julyu 28, 1992",
+          "levelOfDescription": "item",
+          "countries": [
+            "Ecuador"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428082307",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-28--Ballen.pdf",
+          "objectFilename": "1992-07-28--Ballen.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080045",
+          "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+          "levelOfDescription": "item",
+          "countries": [
+            "Guyana"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080045",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-19--Hoyte.pdf",
+          "objectFilename": "1989-06-19--Hoyte.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080795",
+          "title": "Meeting with Andres Rodriguez of Paraguay, June 15, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Paraguay"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080795",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-15--Rodriguez.pdf",
+          "objectFilename": "1990-06-15--Rodriguez.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081889",
+          "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+          "levelOfDescription": "item",
+          "countries": [
+            "Peru"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081889",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-2.pdf",
+          "objectFilename": "1991-09-17--Fujimori-2.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081887",
+          "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+          "levelOfDescription": "item",
+          "countries": [
+            "Peru"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081887",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-1.pdf",
+          "objectFilename": "1991-09-17--Fujimori-1.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081235",
+          "title": "Meeting with Luis Alberto Lacalle of Uruguay, December 4, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Uruguay"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081235",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-04--Lacalle.pdf",
+          "objectFilename": "1990-12-04--Lacalle.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081675",
+          "title": "Meeting with President Luis Alberto Lacalle of Uruguay, May 21, 1991",
+          "levelOfDescription": "item",
+          "countries": [
+            "Uruguay"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081675",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-21--Lacalle.pdf",
+          "objectFilename": "1991-05-21--Lacalle.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081103",
+          "title": "Meeting with President Luis Alberto Lacalle of Uruguay, October 1, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Uruguay"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081103",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Lacalle.pdf",
+          "objectFilename": "1990-10-01--Lacalle.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080481",
+          "title": "Meeting with President-elect Luis Alberto Lacalle of Uruguay, February 5, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Uruguay"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080481",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-05--Lacalle.pdf",
+          "objectFilename": "1990-02-05--Lacalle.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080181",
+          "title": "Meeting with Uruguayan President Julio Maria Sanguinetti, September 15, 1989",
+          "levelOfDescription": "item",
+          "countries": [
+            "Uruguay"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080181",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-15--Sanguinetti.pdf",
+          "objectFilename": "1989-09-15--Sanguinetti.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428080655",
+          "title": "Meeting with Carlos Andres Perez of Venezuela, April 26, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Venezuela"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428080655",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-26--Perez.pdf",
+          "objectFilename": "1990-04-26--Perez.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081905",
+          "title": "Meeting with Carlos Andres Perez, President of the Republic of Venezuela at UNGA, Waldorf Astoria Hotel, New York",
+          "levelOfDescription": "item",
+          "countries": [
+            "Venezuela"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081905",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-24--Perez.pdf",
+          "objectFilename": "1991-09-24--Perez.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428079937",
+          "title": "Meeting with President Carlos Andres Perez of Venezuela, April 1, 1989",
+          "levelOfDescription": "item",
+          "countries": [
+            "Venezuela"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428079937",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-01--Perez.pdf",
+          "objectFilename": "1989-04-01--Perez.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081109",
+          "title": "Meeting with President Carlos Andres Perez of Venezuela, October 1, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Venezuela"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081109",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Perez.pdf",
+          "objectFilename": "1990-10-01--Perez.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428081239",
+          "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+          "levelOfDescription": "item",
+          "countries": [
+            "Venezuela"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428081239",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-08--Perez.pdf",
+          "objectFilename": "1990-12-08--Perez.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428082369",
+          "title": "Telcon with Carlos Andres Perez, President of Venezuela on November 27, 1992 (1 of 2)",
+          "levelOfDescription": "item",
+          "countries": [
+            "Venezuela"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428082369",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-11-27--Perez-1.pdf",
+          "objectFilename": "1992-11-27--Perez-1.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428082371",
+          "title": "Telcon with Carlos Andres Perez, President of Venezuela on November 27, 1992 (2 of 2)",
+          "levelOfDescription": "item",
+          "countries": [
+            "Venezuela"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428082371",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-11-27--Perez-2.pdf",
+          "objectFilename": "1992-11-27--Perez-2.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "321498039",
+            "name": "Presidential Memcon Files",
+            "type": "Memcon",
+            "url": "https://catalog.archives.gov/id/321498039"
+          },
+          "presentInSite": true
+        }
+      ]
+    },
+    {
+      "naid": "322361434",
+      "name": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: January 1989",
+      "type": "Telcon",
+      "url": "https://catalog.archives.gov/id/322361434",
+      "scannedRecords": 29,
+      "relevantSouthAmericaItems": 3,
+      "onlinePdfItems": 2,
+      "missingFromSite": [],
+      "records": [
+        {
+          "naid": "325592872",
+          "title": "Telephone Call from the President to President Alfonsin of Argentina",
+          "levelOfDescription": "item",
+          "countries": [
+            "Argentina"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/325592872",
+          "pdfUrl": "",
+          "objectFilename": "",
+          "localIdentifier": "",
+          "accessRestriction": "Restricted - Partly",
+          "seriesOrFileUnit": {
+            "naid": "322361434",
+            "name": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: January 1989",
+            "type": "Telcon",
+            "url": "https://catalog.archives.gov/id/322361434"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428079775",
+          "title": "Telephone Call from the President to President Alfonsin of Argentina, January 23, 1989",
+          "levelOfDescription": "item",
+          "countries": [
+            "Argentina"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428079775",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-01-23--Alfonsin.pdf",
+          "objectFilename": "1989-01-23--Alfonsin.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "322361434",
+            "name": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: January 1989",
+            "type": "Telcon",
+            "url": "https://catalog.archives.gov/id/322361434"
+          },
+          "presentInSite": true
+        },
+        {
+          "naid": "428079799",
+          "title": "Memorandum of Conversation Between the President and President-Elect Carlos Andres Perez of Venezuela, January 24, 1989",
+          "levelOfDescription": "item",
+          "countries": [
+            "Venezuela"
+          ],
+          "catalogUrl": "https://catalog.archives.gov/id/428079799",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-01-24--Perez.pdf",
+          "objectFilename": "1989-01-24--Perez.pdf",
+          "localIdentifier": "",
+          "accessRestriction": "Unrestricted",
+          "seriesOrFileUnit": {
+            "naid": "322361434",
+            "name": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: January 1989",
+            "type": "Telcon",
+            "url": "https://catalog.archives.gov/id/322361434"
+          },
+          "presentInSite": true
+        }
+      ]
+    }
+  ]
+}

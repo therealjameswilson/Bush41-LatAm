@@ -99,6 +99,19 @@ node scripts/audit-bush-library-memcons.js
 The audit writes `reports/bush-library-memcons-audit.json` and flags any South America memcon/telcon
 table rows that are missing from the site dataset.
 
+To audit the National Archives Catalog series records directly, including Presidential Memcon Files
+NAID 321498039 and the January 1989 telcon file unit NAID 322361434, run:
+
+```bash
+node scripts/audit-presidential-memcon-telcon-series.js
+```
+
+If the audit finds South America item records missing from the site, import them with:
+
+```bash
+node scripts/harvest-presidential-series-gaps.js
+```
+
 ## Scowcroft Files
 
 Run the Scowcroft Presidential Correspondence Files extractor to add South America head-of-state
@@ -118,6 +131,8 @@ the records into `data/memcons.json`, and writes
 - Records of the National Security Council, NAID 2163580: <https://catalog.archives.gov/search-within/2163580>
 - Latin American Directorate Chronological Files: <https://catalog.archives.gov/id/2197972>
 - Latin American Affairs Directorate Subject Files: <https://catalog.archives.gov/search-within/376217847>
+- Presidential Memcon Files: <https://catalog.archives.gov/id/321498039>
+- January 1989 Presidential Telcon file unit: <https://catalog.archives.gov/id/322361434>
 - Brent Scowcroft Papers, NAID 4522156: <https://catalog.archives.gov/id/4522156>
 - Scowcroft Presidential Correspondence Files, NAID 4545941: <https://catalog.archives.gov/id/4545941>
 - Bush Library Memcons and Telcons index: <https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons>
