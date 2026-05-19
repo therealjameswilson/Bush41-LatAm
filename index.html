@@ -20,6 +20,7 @@
         <a href="#chapters">Chapters</a>
         <a href="#collection">Collection</a>
         <a href="#priority-collection">Priority</a>
+        <a href="#subject-files">Subject</a>
         <a href="#nsc-collection">NSC</a>
         <a href="#browse">Browse</a>
         <a href="#sources">Sources</a>
@@ -139,6 +140,40 @@
         </div>
       </section>
 
+      <section class="section records-section" id="subject-files" aria-labelledby="subject-title">
+        <div class="section-heading">
+          <p class="kicker">Subject Files</p>
+          <h2 id="subject-title">Latin American Affairs Directorate Subject Files</h2>
+        </div>
+        <p class="records-intro">
+          NAID 376217847 is the Latin American Affairs Directorate Subject Files series. This
+          focused index keeps its South America country files and regional Latin America folders
+          visible beside the chronological and memcon/telcon collections.
+        </p>
+        <section class="stats compact-stats" aria-label="Subject files collection summary">
+          <div>
+            <span id="subject-total-records">0</span>
+            <p>subject-file records</p>
+          </div>
+          <div>
+            <span id="subject-pdf-records">0</span>
+            <p>records with PDFs</p>
+          </div>
+          <div>
+            <span>376217847</span>
+            <p>series NAID</p>
+          </div>
+        </section>
+        <div class="source-list collection-links">
+          <a href="https://catalog.archives.gov/search-within/376217847" rel="noreferrer">Search within NAID 376217847</a>
+          <a href="data/subject-files.json" rel="noreferrer">Subject files data</a>
+          <a href="reports/latin-american-subject-files-harvest.json" rel="noreferrer">Harvest report</a>
+        </div>
+        <div id="subject-root" class="records-root" aria-live="polite">
+          <p class="loading">Loading subject files...</p>
+        </div>
+      </section>
+
       <section class="section records-section" id="nsc-collection" aria-labelledby="nsc-title">
         <div class="section-heading">
           <p class="kicker">Broader NSC Collection</p>
@@ -223,6 +258,7 @@
           <a href="https://history.state.gov/historicaldocuments/frus1989-92v25" rel="noreferrer">FRUS 1989-1992 Volume XXV status page</a>
           <a href="https://catalog.archives.gov/id/4522156" rel="noreferrer">Brent Scowcroft Papers, NAID 4522156</a>
           <a href="https://catalog.archives.gov/id/4545941" rel="noreferrer">Scowcroft Presidential Correspondence Files</a>
+          <a href="https://catalog.archives.gov/search-within/376217847" rel="noreferrer">Latin American Affairs Directorate Subject Files</a>
           <a href="https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons" rel="noreferrer">Bush Library Memcons and Telcons index</a>
           <a href="https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991" rel="noreferrer">FOIA 2000-0429-F finding aid</a>
           <a href="https://catalog.archives.gov/" rel="noreferrer">National Archives Catalog</a>
@@ -238,7 +274,7 @@
           <li><span class="step-number">01</span><span>Harvest released South America memcon or telcon rows from the Bush Library table.</span></li>
           <li><span class="step-number">02</span><span>Exclude Central America and assign each record to its South America country chapter.</span></li>
           <li><span class="step-number">03</span><span>Extract South America page ranges from the Scowcroft Presidential Correspondence Files.</span></li>
-          <li><span class="step-number">04</span><span>Sort records chronologically within each country chapter by meeting date.</span></li>
+          <li><span class="step-number">04</span><span>Index South America and regional folders from the Latin American Affairs subject files.</span></li>
           <li><span class="step-number">05</span><span>Normalize participants, release status, NAIDs, FRUS-style date lines, and Source notes.</span></li>
           <li><span class="step-number">06</span><span>Track page counts and PDF availability for released scans.</span></li>
           <li><span class="step-number">07</span><span>Add topic tags for debt, narcotics, democracy, trade, environment, and bilateral relationships.</span></li>
@@ -251,6 +287,7 @@
       <a href="https://github.com/therealjameswilson/Bush41-LatAm">Repository</a>
     </footer>
     <script src="data/priority-collection.js"></script>
+    <script src="data/subject-files.js"></script>
     <script src="data/nsc-south-america.js"></script>
     <script src="data/memcons.js"></script>
     <script src="app.js"></script>

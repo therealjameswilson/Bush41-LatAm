@@ -19,6 +19,9 @@ const totalPages = document.querySelector("#total-pages");
 const nscTotalRecords = document.querySelector("#nsc-total-records");
 const nscPdfRecords = document.querySelector("#nsc-pdf-records");
 const nscRoot = document.querySelector("#nsc-root");
+const subjectTotalRecords = document.querySelector("#subject-total-records");
+const subjectPdfRecords = document.querySelector("#subject-pdf-records");
+const subjectRoot = document.querySelector("#subject-root");
 
 function chapterId(chapterName) {
   return `chapter-${chapterName.toLowerCase().replaceAll(" ", "-")}`;
@@ -256,8 +259,8 @@ function renderRecords(records) {
   }
 }
 
-function renderNscCollection(records) {
-  if (!nscRoot) return;
+function renderNscCollection(records, root = nscRoot) {
+  if (!root) return;
 
   const groups = new Map();
   for (const record of records) {
@@ -267,7 +270,7 @@ function renderNscCollection(records) {
   }
 
   const groupOrder = [...CHAPTER_ORDER, "Regional / Multi-country"];
-  nscRoot.replaceChildren();
+  root.replaceChildren();
 
   for (const groupName of groupOrder) {
     const groupRecords = groups.get(groupName) || [];
@@ -298,7 +301,7 @@ function renderNscCollection(records) {
     }
 
     section.append(header, list);
-    nscRoot.append(section);
+    root.append(section);
   }
 }
 
@@ -322,6 +325,7 @@ async function init() {
   try {
     const records = window.MEMCONS || window.MEMCON_RECORDS || (await loadRecords());
     const nscRecords = window.NSC_SOUTH_AMERICA || [];
+    const subjectRecords = window.SUBJECT_FILES || [];
     setChapterCounts(records);
     renderRecords(records);
     if (nscTotalRecords) nscTotalRecords.textContent = nscRecords.length.toString();
@@ -329,6 +333,11 @@ async function init() {
       nscPdfRecords.textContent = nscRecords.filter((record) => record.pdfUrl).length.toString();
     }
     renderNscCollection(nscRecords);
+    if (subjectTotalRecords) subjectTotalRecords.textContent = subjectRecords.length.toString();
+    if (subjectPdfRecords) {
+      subjectPdfRecords.textContent = subjectRecords.filter((record) => record.pdfUrl).length.toString();
+    }
+    renderNscCollection(subjectRecords, subjectRoot);
     enableChapterCards();
     if (window.location.hash) {
       document.querySelector(window.location.hash)?.scrollIntoView();

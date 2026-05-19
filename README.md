@@ -44,6 +44,23 @@ This writes `data/nsc-south-america.json` and `reports/nsc-south-america-harvest
 The harvester searches country names, selected leader names, and regional terms, then filters
 results back to records with NAID 2163580 in their Catalog ancestry.
 
+## Latin American Affairs Subject Files
+
+The Latin American Affairs Directorate Subject Files, NAID 376217847, are a second named NSC
+series to keep close to the volume work:
+
+- Search within Latin American Affairs Directorate Subject Files: <https://catalog.archives.gov/search-within/376217847>
+
+Run the focused subject-file harvester with:
+
+```bash
+node scripts/harvest-latin-american-subject-files.js
+```
+
+This scans the full 146-file-unit series and writes South America country files plus regional Latin
+America folders to `data/subject-files.json` and
+`reports/latin-american-subject-files-harvest.json`.
+
 ## Chapter Arrangement
 
 1. Argentina
@@ -73,6 +90,15 @@ The harvester filters for South America countries, excludes Central America, enr
 National Archives Catalog, and cross-references the Latin American Directorate Chronological Files as
 the compiler-priority collection.
 
+To check the live Bush Library table without changing `data/memcons.json`, run:
+
+```bash
+node scripts/audit-bush-library-memcons.js
+```
+
+The audit writes `reports/bush-library-memcons-audit.json` and flags any South America memcon/telcon
+table rows that are missing from the site dataset.
+
 ## Scowcroft Files
 
 Run the Scowcroft Presidential Correspondence Files extractor to add South America head-of-state
@@ -91,6 +117,7 @@ the records into `data/memcons.json`, and writes
 - FRUS 1989-1992, Volume XXV, Latin America: <https://history.state.gov/historicaldocuments/frus1989-92v25>
 - Records of the National Security Council, NAID 2163580: <https://catalog.archives.gov/search-within/2163580>
 - Latin American Directorate Chronological Files: <https://catalog.archives.gov/id/2197972>
+- Latin American Affairs Directorate Subject Files: <https://catalog.archives.gov/search-within/376217847>
 - Brent Scowcroft Papers, NAID 4522156: <https://catalog.archives.gov/id/4522156>
 - Scowcroft Presidential Correspondence Files, NAID 4545941: <https://catalog.archives.gov/id/4545941>
 - Bush Library Memcons and Telcons index: <https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons>
