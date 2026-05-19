@@ -73,11 +73,26 @@ The harvester filters for South America countries, excludes Central America, enr
 National Archives Catalog, and cross-references the Latin American Directorate Chronological Files as
 the compiler-priority collection.
 
+## Scowcroft Files
+
+Run the Scowcroft Presidential Correspondence Files extractor to add South America head-of-state
+memcons and telcons from the Brent Scowcroft Papers:
+
+```bash
+node scripts/harvest-scowcroft-south-america.js
+```
+
+This scans OCR for South America leaders, extracts the relevant page ranges into `documents/`, merges
+the records into `data/memcons.json`, and writes
+`reports/scowcroft-south-america-harvest.json`.
+
 ## Source Anchors
 
 - FRUS 1989-1992, Volume XXV, Latin America: <https://history.state.gov/historicaldocuments/frus1989-92v25>
 - Records of the National Security Council, NAID 2163580: <https://catalog.archives.gov/search-within/2163580>
 - Latin American Directorate Chronological Files: <https://catalog.archives.gov/id/2197972>
+- Brent Scowcroft Papers, NAID 4522156: <https://catalog.archives.gov/id/4522156>
+- Scowcroft Presidential Correspondence Files, NAID 4545941: <https://catalog.archives.gov/id/4545941>
 - Bush Library Memcons and Telcons index: <https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons>
 - FOIA 2000-0429-F finding aid: <https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991>
 - National Archives Catalog: <https://catalog.archives.gov/>

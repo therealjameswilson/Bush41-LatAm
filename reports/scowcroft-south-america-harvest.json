@@ -1,0 +1,1207 @@
+{
+  "generatedAt": "2026-05-19T00:10:27.310Z",
+  "sourceCollection": {
+    "name": "Brent Scowcroft Papers",
+    "url": "https://catalog.archives.gov/id/4522156",
+    "series": "Presidential Correspondence Files",
+    "seriesNaid": "4545941",
+    "referenceUnit": "George Bush Library"
+  },
+  "sourceFolders": [
+    {
+      "naid": "366551660",
+      "title": "Presidential Meetings--Memorandum of Conversations 1/24/89-2/25/89",
+      "localIdentifier": "91107-001",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-001.pdf",
+      "fileName": "366551660-memcon-91107-001.pdf"
+    },
+    {
+      "naid": "366551661",
+      "title": "Presidential Meetings--Memorandum of Conversations 2/26/89-4/19/89",
+      "localIdentifier": "91107-002",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-002.pdf",
+      "fileName": "366551661-memcon-91107-002.pdf"
+    },
+    {
+      "naid": "366551662",
+      "title": "Presidential Meetings--Memorandum of Conversations 4/19/89-5/31/89",
+      "localIdentifier": "91107-003",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-003.pdf",
+      "fileName": "366551662-memcon-91107-003.pdf"
+    },
+    {
+      "naid": "366551663",
+      "title": "Presidential Meetings--Memorandum of Conversations 6/1/89-7/12/89",
+      "localIdentifier": "91107-004",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-004.pdf",
+      "fileName": "366551663-memcon-91107-004.pdf"
+    },
+    {
+      "naid": "366551664",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/14/89-10/2/89",
+      "localIdentifier": "91107-005",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-005.pdf",
+      "fileName": "366551664-memcon-91107-005.pdf"
+    },
+    {
+      "naid": "366551665",
+      "title": "Presidential Meetings--Memorandum of Conversations 10/3/89-12/16/89",
+      "localIdentifier": "91107-006",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-006.pdf",
+      "fileName": "366551665-memcon-91107-006.pdf"
+    },
+    {
+      "naid": "366551666",
+      "title": "Presidential Meetings--Memorandum of Conversations 1/11/90-2/21/90",
+      "localIdentifier": "91107-007",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-007.pdf",
+      "fileName": "366551666-memcon-91107-007.pdf"
+    },
+    {
+      "naid": "366551667",
+      "title": "Presidential Meetings--Memorandum of Conversations 2/22/90-4/11/90",
+      "localIdentifier": "91107-008",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-008.pdf",
+      "fileName": "366551667-memcon-91107-008.pdf"
+    },
+    {
+      "naid": "366551670",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/5/90-9/24/90",
+      "localIdentifier": "91108-001",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91108-001.pdf",
+      "fileName": "366551670-memcon-91108-001.pdf"
+    },
+    {
+      "naid": "366551671",
+      "title": "Presidential Meetings--Memorandum of Conversations 9/25/90-10/31/90",
+      "localIdentifier": "91108-002",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91108-002.pdf",
+      "fileName": "366551671-memcon-91108-002.pdf"
+    },
+    {
+      "naid": "366551672",
+      "title": "Presidential Meetings--Memorandum of Conversations 11/13/90-12/21/90",
+      "localIdentifier": "91108-003",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91108-003.pdf",
+      "fileName": "366551672-memcon-91108-003.pdf"
+    },
+    {
+      "naid": "366551673",
+      "title": "Presidential Meetings--Memorandum of Conversations 1/14/91-3/8/91",
+      "localIdentifier": "91108-004",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91108-004.pdf",
+      "fileName": "366551673-memcon-91108-004.pdf"
+    },
+    {
+      "naid": "366551674",
+      "title": "Presidential Meetings--Memorandum of Conversations 3/11/91-4/24/91",
+      "localIdentifier": "91108-005",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91108-005.pdf",
+      "fileName": "366551674-memcon-91108-005.pdf"
+    },
+    {
+      "naid": "366551675",
+      "title": "Presidential Meetings--Memorandum of Conversations 5/3/91-6/28/91",
+      "localIdentifier": "91108-006",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91108-006.pdf",
+      "fileName": "366551675-memcon-91108-006.pdf"
+    },
+    {
+      "naid": "366551676",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/11/91-7/22/91",
+      "localIdentifier": "91109-001",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-001.pdf",
+      "fileName": "366551676-memcon-91109-001.pdf"
+    },
+    {
+      "naid": "366551677",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/24/91-9/24/91",
+      "localIdentifier": "91109-002",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-002.pdf",
+      "fileName": "366551677-memcon-91109-002.pdf"
+    },
+    {
+      "naid": "366551680",
+      "title": "Presidential Meetings--Memorandum of Conversations 1/1/92-1/31/92",
+      "localIdentifier": "91109-005",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-005.pdf",
+      "fileName": "366551680-memcon-91109-005.pdf"
+    },
+    {
+      "naid": "366551683",
+      "title": "Presidential Meetings--Memorandum of Conversations 5/1/92-6/17/92",
+      "localIdentifier": "91109-008",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91109-008.pdf",
+      "fileName": "366551683-memcon-91109-008.pdf"
+    },
+    {
+      "naid": "366551684",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/1/92-7/9/92",
+      "localIdentifier": "91110-001",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-001.pdf",
+      "fileName": "366551684-memcon-91110-001.pdf"
+    },
+    {
+      "naid": "366551685",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/9/92-12/22/92",
+      "localIdentifier": "91110-002",
+      "type": "Memcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-002.pdf",
+      "fileName": "366551685-memcon-91110-002.pdf"
+    },
+    {
+      "naid": "366551686",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89",
+      "localIdentifier": "91111-001",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-001.pdf",
+      "fileName": "366551686-telcon-91111-001.pdf"
+    },
+    {
+      "naid": "366551687",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89",
+      "localIdentifier": "91111-002",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
+      "fileName": "366551687-telcon-91111-002.pdf"
+    },
+    {
+      "naid": "366551688",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89",
+      "localIdentifier": "91111-003",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-003.pdf",
+      "fileName": "366551688-telcon-91111-003.pdf"
+    },
+    {
+      "naid": "366551690",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90",
+      "localIdentifier": "91111-005",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
+      "fileName": "366551690-telcon-91111-005.pdf"
+    },
+    {
+      "naid": "366551691",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90",
+      "localIdentifier": "91111-006",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-006.pdf",
+      "fileName": "366551691-telcon-91111-006.pdf"
+    },
+    {
+      "naid": "366551692",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90",
+      "localIdentifier": "91111-007",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-007.pdf",
+      "fileName": "366551692-telcon-91111-007.pdf"
+    },
+    {
+      "naid": "366551693",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90",
+      "localIdentifier": "91112-001",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-001.pdf",
+      "fileName": "366551693-telcon-91112-001.pdf"
+    },
+    {
+      "naid": "366551694",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90",
+      "localIdentifier": "91112-002",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-002.pdf",
+      "fileName": "366551694-telcon-91112-002.pdf"
+    },
+    {
+      "naid": "366551695",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90",
+      "localIdentifier": "91112-003",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
+      "fileName": "366551695-telcon-91112-003.pdf"
+    },
+    {
+      "naid": "366551696",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91",
+      "localIdentifier": "91112-004",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
+      "fileName": "366551696-telcon-91112-004.pdf"
+    },
+    {
+      "naid": "366551697",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91",
+      "localIdentifier": "91112-005",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-005.pdf",
+      "fileName": "366551697-telcon-91112-005.pdf"
+    },
+    {
+      "naid": "366551698",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 2/22/91-3/6/91",
+      "localIdentifier": "91112-006",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-006.pdf",
+      "fileName": "366551698-telcon-91112-006.pdf"
+    },
+    {
+      "naid": "366551699",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91",
+      "localIdentifier": "91112-007",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-007.pdf",
+      "fileName": "366551699-telcon-91112-007.pdf"
+    },
+    {
+      "naid": "366551700",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 5/3/91-7/21/91",
+      "localIdentifier": "91112-008",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-008.pdf",
+      "fileName": "366551700-telcon-91112-008.pdf"
+    },
+    {
+      "naid": "366551701",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91",
+      "localIdentifier": "91113-001",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
+      "fileName": "366551701-telcon-91113-001.pdf"
+    },
+    {
+      "naid": "366551702",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91",
+      "localIdentifier": "91113-002",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-002.pdf",
+      "fileName": "366551702-telcon-91113-002.pdf"
+    },
+    {
+      "naid": "366551703",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 1/2/92-4/9/92",
+      "localIdentifier": "91113-003",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-003.pdf",
+      "fileName": "366551703-telcon-91113-003.pdf"
+    },
+    {
+      "naid": "366551704",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92",
+      "localIdentifier": "91113-004",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-004.pdf",
+      "fileName": "366551704-telcon-91113-004.pdf"
+    },
+    {
+      "naid": "366551705",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92",
+      "localIdentifier": "91113-005",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
+      "fileName": "366551705-telcon-91113-005.pdf"
+    },
+    {
+      "naid": "366551706",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 11/5/92-1/2/93",
+      "localIdentifier": "91113-006",
+      "type": "Telcon",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-006.pdf",
+      "fileName": "366551706-telcon-91113-006.pdf"
+    }
+  ],
+  "addedRecords": 80,
+  "folderReports": [
+    {
+      "naid": "366551660",
+      "title": "Presidential Meetings--Memorandum of Conversations 1/24/89-2/25/89",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551660-92-jose-sarney-memcon",
+          "date": "1989-02-25",
+          "type": "Memcon",
+          "title": "President’s Meeting with President Jose Sarney of Brazil (9)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1989-02-25-bush-jose-sarney-memcon-91107-001-p92-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551661",
+      "title": "Presidential Meetings--Memorandum of Conversations 2/26/89-4/19/89",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551661-90-carlos-andres-perez-memcon",
+          "date": "1989-04-01",
+          "type": "Memcon",
+          "title": "Meeting with President Carlos Andres Perez of Venezuela",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1989-04-01-bush-carlos-andres-perez-memcon-91107-002-p90-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551662",
+      "title": "Presidential Meetings--Memorandum of Conversations 4/19/89-5/31/89",
+      "extractedRecords": []
+    },
+    {
+      "naid": "366551663",
+      "title": "Presidential Meetings--Memorandum of Conversations 6/1/89-7/12/89",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551663-45-desmond-hoyte-memcon",
+          "date": "1989-06-19",
+          "type": "Memcon",
+          "title": "The President’s Meeting with President Desmond Hoyte of Guyana (U)",
+          "chapter": "Guyana",
+          "pdfUrl": "documents/guyana/1989-06-19-bush-desmond-hoyte-memcon-91107-004-p45-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551664",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/14/89-10/2/89",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551664-53-julio-maria-sanguinetti-memcon",
+          "date": "1989-09-15",
+          "type": "Memcon",
+          "title": "Meeting with Uruguayan President Julio Maria Sanguinetti (U)",
+          "chapter": "Uruguay",
+          "pdfUrl": "documents/uruguay/1989-09-15-bush-julio-maria-sanguinetti-memcon-91107-005-p53-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551664-86-carlos-andres-perez-memcon",
+          "date": "1989-09-25",
+          "type": "Memcon",
+          "title": "Meeting with Venezuelan President Carlos Andres Perez (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1989-09-25-bush-carlos-andres-perez-memcon-91107-005-p86-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551664-100-carlos-saul-menem-memcon",
+          "date": "1989-09-27",
+          "type": "Memcon",
+          "title": "Meeting with President Carlos Menem of Argentina",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1989-09-27-bush-carlos-saul-menem-memcon-91107-005-p100-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551665",
+      "title": "Presidential Meetings--Memorandum of Conversations 10/3/89-12/16/89",
+      "extractedRecords": []
+    },
+    {
+      "naid": "366551666",
+      "title": "Presidential Meetings--Memorandum of Conversations 1/11/90-2/21/90",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551666-57-luis-alberto-lacalle-memcon",
+          "date": "1990-02-05",
+          "type": "Memcon",
+          "title": "Meeting with President-elect Luis Alberto Lacalle of Uruguay ()",
+          "chapter": "Uruguay",
+          "pdfUrl": "documents/uruguay/1990-02-05-bush-luis-alberto-lacalle-memcon-91107-007-p57-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551666-73-jaime-paz-zamora-memcon",
+          "date": "1990-02-15",
+          "type": "Memcon",
+          "title": "Cartagena Drug Summit",
+          "chapter": "Bolivia",
+          "pdfUrl": "documents/bolivia/1990-02-15-bush-jaime-paz-zamora-memcon-91107-007-p73-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551667",
+      "title": "Presidential Meetings--Memorandum of Conversations 2/22/90-4/11/90",
+      "extractedRecords": []
+    },
+    {
+      "naid": "366551670",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/5/90-9/24/90",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551670-73-virgilio-barco-memcon",
+          "date": "1990-07-13",
+          "type": "Memcon",
+          "title": "Meeting with President-Elect Gaviria of Colombia (U)",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1990-07-13-bush-virgilio-barco-memcon-91108-001-p73-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551670-79-rodrigo-borja-memcon",
+          "date": "1990-07-23",
+          "type": "Memcon",
+          "title": "Meeting with President Rodrigo Borja of Ecuador (VU)",
+          "chapter": "Ecuador",
+          "pdfUrl": "documents/ecuador/1990-07-23-bush-rodrigo-borja-memcon-91108-001-p79-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551670-86-rodrigo-borja-memcon",
+          "date": "1990-07-23",
+          "type": "Memcon",
+          "title": "Meeting with President Rodrigo Borja of Ecuador (U)",
+          "chapter": "Ecuador",
+          "pdfUrl": "documents/ecuador/1990-07-23-bush-rodrigo-borja-memcon-91108-001-p86-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551671",
+      "title": "Presidential Meetings--Memorandum of Conversations 9/25/90-10/31/90",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551671-27-cesar-gaviria-memcon",
+          "date": "1990-09-29",
+          "type": "Memcon",
+          "title": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia (UV)",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1990-09-29-bush-cesar-gaviria-memcon-91108-002-p27-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551671-82-fernando-collor-de-mello-memcon",
+          "date": "1990-10-01",
+          "type": "Memcon",
+          "title": "Memorandum of Conversation with President Collor of Brazil (U)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1990-10-01-bush-fernando-collor-de-mello-memcon-91108-002-p82-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551671-107-carlos-andres-perez-memcon",
+          "date": "1990-10-01",
+          "type": "Memcon",
+          "title": "Meeting with President Carlos Andres Perez of Venezuela _ (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1990-10-01-bush-carlos-andres-perez-memcon-91108-002-p107-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551671-112-luis-alberto-lacalle-memcon",
+          "date": "1990-10-01",
+          "type": "Memcon",
+          "title": "Meeting with President Luis Alberto Lacalle of Uruguay (UU)",
+          "chapter": "Uruguay",
+          "pdfUrl": "documents/uruguay/1990-10-01-bush-luis-alberto-lacalle-memcon-91108-002-p112-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551671-119-patricio-aylwin-memcon",
+          "date": "1990-10-02",
+          "type": "Memcon",
+          "title": "Memorandum of Conversation with President Patricio Aylwin of Chile (U)",
+          "chapter": "Chile",
+          "pdfUrl": "documents/chile/1990-10-02-bush-patricio-aylwin-memcon-91108-002-p119-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551672",
+      "title": "Presidential Meetings--Memorandum of Conversations 11/13/90-12/21/90",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551672-103-fernando-collor-de-mello-memcon",
+          "date": "1990-12-03",
+          "type": "Memcon",
+          "title": "Meeting with President Fernando Collor de Mello of Brazil (U)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1990-12-03-bush-fernando-collor-de-mello-memcon-91108-003-p103-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551672-112-carlos-saul-menem-memcon",
+          "date": "1990-12-05",
+          "type": "Memcon",
+          "title": "Luncheon with President Carlos Saul Menem of Argentina (U)",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1990-12-05-bush-carlos-saul-menem-memcon-91108-003-p112-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551673",
+      "title": "Presidential Meetings--Memorandum of Conversations 1/14/91-3/8/91",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551673-21-guido-di-tella-memcon",
+          "date": "1991-02-08",
+          "type": "Memcon",
+          "title": "Meeting with Foreign Minister Guido Di Tella of Argentina",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1991-02-08-bush-guido-di-tella-memcon-91108-004-p21-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551673-33-cesar-gaviria-memcon",
+          "date": "1991-02-26",
+          "type": "Memcon",
+          "title": "Meeting with President Cesar Gaviria of Colombia (U)",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1991-02-26-bush-cesar-gaviria-memcon-91108-004-p33-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551674",
+      "title": "Presidential Meetings--Memorandum of Conversations 3/11/91-4/24/91",
+      "extractedRecords": []
+    },
+    {
+      "naid": "366551675",
+      "title": "Presidential Meetings--Memorandum of Conversations 5/3/91-6/28/91",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551675-6-carlos-andres-perez-memcon",
+          "date": "1991-05-03",
+          "type": "Memcon",
+          "title": "Meeting with President Carlos Andres Perez of Venezuela",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1991-05-03-bush-carlos-andres-perez-memcon-91108-006-p6-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551675-55-luis-alberto-lacalle-memcon",
+          "date": "1991-05-21",
+          "type": "Memcon",
+          "title": "Meeting with President Luis Alberto Lacalle of Uruguay",
+          "chapter": "Uruguay",
+          "pdfUrl": "documents/uruguay/1991-05-21-bush-luis-alberto-lacalle-memcon-91108-006-p55-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551675-98-fernando-collor-de-mello-memcon",
+          "date": "1991-06-18",
+          "type": "Memcon",
+          "title": "Meeting with Fernando Collor de Mello, President of Brazil (VU)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1991-06-18-bush-fernando-collor-de-mello-memcon-91108-006-p98-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551676",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/11/91-7/22/91",
+      "extractedRecords": []
+    },
+    {
+      "naid": "366551677",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/24/91-9/24/91",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551677-82-alberto-fujimori-memcon",
+          "date": "1991-09-17",
+          "type": "Memcon",
+          "title": "Luncheon with Alberto Fujimori, President of Peru (U)",
+          "chapter": "Peru",
+          "pdfUrl": "documents/peru/1991-09-17-bush-alberto-fujimori-memcon-91109-002-p82-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551677-96-fernando-collor-de-mello-memcon",
+          "date": "1991-09-23",
+          "type": "Memcon",
+          "title": "Meeting with Fernando Collor de Mello, President of the Federative Republic of Brazil at UNGA, Waldorf Astoria Hotel, New York (U)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1991-09-23-bush-fernando-collor-de-mello-memcon-91109-002-p96-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551680",
+      "title": "Presidential Meetings--Memorandum of Conversations 1/1/92-1/31/92",
+      "extractedRecords": []
+    },
+    {
+      "naid": "366551683",
+      "title": "Presidential Meetings--Memorandum of Conversations 5/1/92-6/17/92",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551683-49-patricio-aylwin-memcon",
+          "date": "1992-05-13",
+          "type": "Memcon",
+          "title": "Meeting with Patricio Aylwin Azocar, President of the Republic of Chile (VU)",
+          "chapter": "Chile",
+          "pdfUrl": "documents/chile/1992-05-13-bush-patricio-aylwin-memcon-91109-008-p49-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551684",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/1/92-7/9/92",
+      "extractedRecords": []
+    },
+    {
+      "naid": "366551685",
+      "title": "Presidential Meetings--Memorandum of Conversations 7/9/92-12/22/92",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551685-24-sixto-duran-ballen-memcon",
+          "date": "1992-07-28",
+          "type": "Memcon",
+          "title": "Meeting with Sixto Duran Ballen, President- Elect of Ecuador",
+          "chapter": "Ecuador",
+          "pdfUrl": "documents/ecuador/1992-07-28-bush-sixto-duran-ballen-memcon-91110-002-p24-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551685-65-carlos-andres-perez-telcon",
+          "date": "1992-11-27",
+          "type": "Telcon",
+          "title": "Telcon with Carlos Andres Perez, President of Venezuela on November 27, 1992 (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1992-11-27-bush-carlos-andres-perez-telcon-91110-002-p65-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551686",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551686-12-raul-alfonsin-telcon",
+          "date": "1989-01-23",
+          "type": "Telcon",
+          "title": "Telephone Call from the President to President Alfonsin of Argentina",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1989-01-23-bush-raul-alfonsin-telcon-91111-001-p12-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551686-29-carlos-andres-perez-telcon",
+          "date": "1989-01-24",
+          "type": "Telcon",
+          "title": "Memorandum of Conversation Between the President and President-Elect Carlos Andres Perez of Venezuela",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1989-01-24-bush-carlos-andres-perez-telcon-91111-001-p29-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551686-55-carlos-andres-perez-telcon",
+          "date": "1989-03-03",
+          "type": "Telcon",
+          "title": "The President’s Telephone Conversation with President Carlos Andres Perez of Venezuela on March 3, 1989 (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1989-03-03-bush-carlos-andres-perez-telcon-91111-001-p55-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551686-76-virgilio-barco-telcon",
+          "date": "1989-04-14",
+          "type": "Telcon",
+          "title": "The President’s Telephone Conversation with President Barco of Colombia",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1989-04-14-bush-virgilio-barco-telcon-91111-001-p76-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551687",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551687-7-carlos-andres-perez-telcon",
+          "date": "1989-05-10",
+          "type": "Telcon",
+          "title": "Telephone Call with Carlos Andres Perez of Venezuela",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1989-05-10-bush-carlos-andres-perez-telcon-91111-002-p7-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551687-17-alan-garcia-telcon",
+          "date": "1989-05-13",
+          "type": "Telcon",
+          "title": "Telephone Conversation with President Alan Garcia of Peru (VU)",
+          "chapter": "Peru",
+          "pdfUrl": "documents/peru/1989-05-13-bush-alan-garcia-telcon-91111-002-p17-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551687-21-julio-maria-sanguinetti-telcon",
+          "date": "1989-05-13",
+          "type": "Telcon",
+          "title": "The President’s Telephone Conversation with President Sanguinetti of Uruguay (U)",
+          "chapter": "Uruguay",
+          "pdfUrl": "documents/uruguay/1989-05-13-bush-julio-maria-sanguinetti-telcon-91111-002-p21-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551687-24-raul-alfonsin-telcon",
+          "date": "1989-05-13",
+          "type": "Telcon",
+          "title": "The President’s Telephone Conversation with Argentine President Raul Alfonsin",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1989-05-13-bush-raul-alfonsin-telcon-91111-002-p24-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551687-38-virgilio-barco-telcon",
+          "date": "1989-05-31",
+          "type": "Telcon",
+          "title": "Telephone Conversation Between the President and President Barco of Colombia",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1989-05-31-bush-virgilio-barco-telcon-91111-002-p38-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551687-41-jose-sarney-telcon",
+          "date": "1989-05-17",
+          "type": "Telcon",
+          "title": "Telephone Call from President Bush to President Sarney of Brazil Reference Panama (9)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1989-05-17-bush-jose-sarney-telcon-91111-002-p41-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551687-73-carlos-andres-perez-telcon",
+          "date": "1989-06-23",
+          "type": "Telcon",
+          "title": "The President’s Telephone Conversation with President Carlos Andres Perez of Venezuela (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1989-06-23-bush-carlos-andres-perez-telcon-91111-002-p73-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551688",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551688-43-virgilio-barco-telcon",
+          "date": "1989-08-21",
+          "type": "Telcon",
+          "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1989-08-21-bush-virgilio-barco-telcon-91111-003-p43-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551688-46-carlos-andres-perez-telcon",
+          "date": "1989-08-22",
+          "type": "Telcon",
+          "title": "Telephone Conversation with Carlos Andres Perez, President of Venezuela",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1989-08-22-bush-carlos-andres-perez-telcon-91111-003-p46-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551688-55-virgilio-barco-telcon",
+          "date": "1989-08-28",
+          "type": "Telcon",
+          "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1989-08-28-bush-virgilio-barco-telcon-91111-003-p55-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551688-72-virgilio-barco-telcon",
+          "date": "1989-09-26",
+          "type": "Telcon",
+          "title": "Telephone Conversation with President Virgilio Barco of Colombia",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1989-09-26-bush-virgilio-barco-telcon-91111-003-p72-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551690",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551690-34-virgilio-barco-telcon",
+          "date": "1990-01-28",
+          "type": "Telcon",
+          "title": "Telephone Conversation with President Barco of Colombia",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1990-01-28-bush-virgilio-barco-telcon-91111-005-p34-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551690-76-carlos-andres-perez-telcon",
+          "date": "1990-02-26",
+          "type": "Telcon",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venezuela _ (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1990-02-26-bush-carlos-andres-perez-telcon-91111-005-p76-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551690-88-carlos-saul-menem-telcon",
+          "date": "1990-03-01",
+          "type": "Telcon",
+          "title": "Telephone conversation with President Carlos Menem of Argentina (U)",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1990-03-01-bush-carlos-saul-menem-telcon-91111-005-p88-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551691",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551691-17-carlos-andres-perez-telcon",
+          "date": "1990-03-21",
+          "type": "Telcon",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venezuela _ (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1990-03-21-bush-carlos-andres-perez-telcon-91111-006-p17-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551691-25-fernando-collor-de-mello-telcon",
+          "date": "1990-03-23",
+          "type": "Telcon",
+          "title": "Telephone conversation with President Fernando Collor of Brazil (VU)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1990-03-23-bush-fernando-collor-de-mello-telcon-91111-006-p25-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551691-55-virgilio-barco-telcon",
+          "date": "1990-04-27",
+          "type": "Telcon",
+          "title": "Telephone Conversation with President Virgilio Barco of Colombia (U)",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1990-04-27-bush-virgilio-barco-telcon-91111-006-p55-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551691-91-fernando-collor-de-mello-telcon",
+          "date": "1990-06-06",
+          "type": "Telcon",
+          "title": "Telephone Conversation with President Fernando Collor de Mello of Brazil (U)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1990-06-06-bush-fernando-collor-de-mello-telcon-91111-006-p91-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551692",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551692-14-fernando-collor-de-mello-telcon",
+          "date": "1990-06-28",
+          "type": "Telcon",
+          "title": "Telephone Conversation with President Fernando Collor de Mello of Brazil (U)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1990-06-28-bush-fernando-collor-de-mello-telcon-91111-007-p14-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551692-16-luis-alberto-lacalle-telcon",
+          "date": "1990-06-28",
+          "type": "Telcon",
+          "title": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay (UV)",
+          "chapter": "Uruguay",
+          "pdfUrl": "documents/uruguay/1990-06-28-bush-luis-alberto-lacalle-telcon-91111-007-p16-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551692-20-carlos-saul-menem-telcon",
+          "date": "1990-06-28",
+          "type": "Telcon",
+          "title": "Telephone Conversation with President Carlos Sail Menem of Argentina (VU)",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1990-06-28-bush-carlos-saul-menem-telcon-91111-007-p20-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551693",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551693-85-carlos-andres-perez-telcon",
+          "date": "1990-08-13",
+          "type": "Telcon",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venezuela _ (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1990-08-13-bush-carlos-andres-perez-telcon-91112-001-p85-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551694",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 8/22/90-10/5/90",
+      "extractedRecords": []
+    },
+    {
+      "naid": "366551695",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551695-63-cesar-gaviria-telcon",
+          "date": "1990-11-23",
+          "type": "Telcon",
+          "title": "Telephone Conversation with President Gaviria of Colombia (U)",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1990-11-23-bush-cesar-gaviria-telcon-91112-003-p63-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551696",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551696-45-carlos-saul-menem-telcon",
+          "date": "1991-01-14",
+          "type": "Telcon",
+          "title": "Telephone conversation with President Carlos Menem of Argentina (U)",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1991-01-14-bush-carlos-saul-menem-telcon-91112-004-p45-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551696-51-luis-alberto-lacalle-telcon",
+          "date": "1991-01-16",
+          "type": "Telcon",
+          "title": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay (U)",
+          "chapter": "Uruguay",
+          "pdfUrl": "documents/uruguay/1991-01-16-bush-luis-alberto-lacalle-telcon-91112-004-p51-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551696-71-carlos-saul-menem-telcon",
+          "date": "1991-01-19",
+          "type": "Telcon",
+          "title": "Telephone conversation with President Carlos Menem of Argentina (U)",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1991-01-19-bush-carlos-saul-menem-telcon-91112-004-p71-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551697",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551697-49-carlos-saul-menem-telcon",
+          "date": "1991-02-08",
+          "type": "Telcon",
+          "title": "Telephone conversation with President Carlos Menem of Argentina (U)",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1991-02-08-bush-carlos-saul-menem-telcon-91112-005-p49-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551697-56-carlos-andres-perez-telcon",
+          "date": "1991-02-08",
+          "type": "Telcon",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venr -?la_ (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1991-02-08-bush-carlos-andres-perez-telcon-91112-005-p56-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551697-57-carlos-andres-perez-telcon",
+          "date": "1991-02-08",
+          "type": "Telcon",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venezuela _ (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1991-02-08-bush-carlos-andres-perez-telcon-91112-005-p57-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551698",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 2/22/91-3/6/91",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551698-76-carlos-saul-menem-telcon",
+          "date": "1991-03-04",
+          "type": "Telcon",
+          "title": "Telephone conversation with President Menem of Argentina (U)",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1991-03-04-bush-carlos-saul-menem-telcon-91112-006-p76-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551699",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551699-61-carlos-andres-perez-telcon",
+          "date": "1991-04-20",
+          "type": "Telcon",
+          "title": "Telcon with Carlos Andres Perez, President of Venezuela on April 20, 1991 (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1991-04-20-bush-carlos-andres-perez-telcon-91112-007-p61-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551700",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 5/3/91-7/21/91",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551700-74-cesar-gaviria-telcon",
+          "date": "1991-06-20",
+          "type": "Telcon",
+          "title": "Telcon with Cesar Gaviria Trujillo, President of Colombia, June 20, 1991",
+          "chapter": "Colombia",
+          "pdfUrl": "documents/colombia/1991-06-20-bush-cesar-gaviria-telcon-91112-008-p74-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551701",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551701-44-carlos-saul-menem-telcon",
+          "date": "1991-08-20",
+          "type": "Telcon",
+          "title": "Telcon with President Carlos Menem of Argentina on August 20, 1991 (JU)",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1991-08-20-bush-carlos-saul-menem-telcon-91113-001-p44-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551701-93-carlos-andres-perez-telcon",
+          "date": "1991-09-05",
+          "type": "Telcon",
+          "title": "Telcon with President Carlos Andres Perez of Venezuela on September 5, 1991 (f)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1991-09-05-bush-carlos-andres-perez-telcon-91113-001-p93-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551702",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551702-26-carlos-andres-perez-telcon",
+          "date": "1991-09-30",
+          "type": "Telcon",
+          "title": "Telcon with President Carlos Andres Perez of Venezuela on September 30, 1991 ()",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1991-09-30-bush-carlos-andres-perez-telcon-91113-002-p26-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551702-29-carlos-andres-perez-telcon",
+          "date": "1991-10-01",
+          "type": "Telcon",
+          "title": "Telcon with President Carlos Andres Perez of Venezuela on October 1, 1991 (ah",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1991-10-01-bush-carlos-andres-perez-telcon-91113-002-p29-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551702-36-carlos-andres-perez-telcon",
+          "date": "1991-10-10",
+          "type": "Telcon",
+          "title": "Telcon with President Carlos Andres Perez President of Venezuela on October 10, 1991 (Z)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1991-10-10-bush-carlos-andres-perez-telcon-91113-002-p36-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551702-62-carlos-andres-perez-telcon",
+          "date": "1991-11-15",
+          "type": "Telcon",
+          "title": "Telcon with Carlos Andres Perez, President of Venezuela on November 15, 1991 (U)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1991-11-15-bush-carlos-andres-perez-telcon-91113-002-p62-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551702-139-carlos-andres-perez-telcon",
+          "date": "1991-12-17",
+          "type": "Telcon",
+          "title": "Telcon with President Carlos Andres Perez of Venezuela on December 17, 1991 (8%",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1991-12-17-bush-carlos-andres-perez-telcon-91113-002-p139-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551703",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 1/2/92-4/9/92",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551703-45-fernando-collor-de-mello-telcon",
+          "date": "1992-03-25",
+          "type": "Telcon",
+          "title": "Telcon with Fernando Collor of Brazil on March 25, 1992 (U)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1992-03-25-bush-fernando-collor-de-mello-telcon-91113-003-p45-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551703-61-carlos-andres-perez-telcon",
+          "date": "1992-04-09",
+          "type": "Telcon",
+          "title": "Telcon with Carlos Andres Perez of Venezuela on April 9, 1992 (&",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1992-04-09-bush-carlos-andres-perez-telcon-91113-003-p61-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551704",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551704-11-alberto-fujimori-telcon",
+          "date": "1992-04-20",
+          "type": "Telcon",
+          "title": "Telcon with Alberto Fujimori of Peru on April 20, 1992 (fg)",
+          "chapter": "Peru",
+          "pdfUrl": "documents/peru/1992-04-20-bush-alberto-fujimori-telcon-91113-004-p11-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551704-33-fernando-collor-de-mello-telcon",
+          "date": "1992-05-12",
+          "type": "Telcon",
+          "title": "Telcon with Fernando Collor, President of Brazil (¢)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1992-05-12-bush-fernando-collor-de-mello-telcon-91113-004-p33-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551704-54-carlos-andres-perez-telcon",
+          "date": "1992-06-20",
+          "type": "Telcon",
+          "title": "Telcon with Carlos Andres Perez, President of Venezuela, on June 20, 1992 (f)",
+          "chapter": "Venezuela",
+          "pdfUrl": "documents/venezuela/1992-06-20-bush-carlos-andres-perez-telcon-91113-004-p54-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551705",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551705-6-fernando-collor-de-mello-telcon",
+          "date": "1992-07-10",
+          "type": "Telcon",
+          "title": "Telcon with Fernando Collor, President of Brazil, on July 10, 1992 (£)",
+          "chapter": "Brazil",
+          "pdfUrl": "documents/brazil/1992-07-10-bush-fernando-collor-de-mello-telcon-91113-005-p6-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551705-70-carlos-saul-menem-telcon",
+          "date": "1992-10-31",
+          "type": "Telcon",
+          "title": "Telcon with Carlos Menem President of Argentina on October 31, 1992 ()",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1992-10-31-bush-carlos-saul-menem-telcon-91113-005-p70-scowcroft.pdf"
+        },
+        {
+          "id": "scowcroft-366551705-83-carlos-saul-menem-telcon",
+          "date": "1992-11-05",
+          "type": "Telcon",
+          "title": "Telcon with Carlos Saul Menem of Argentina on November 5, 1992",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1992-11-05-bush-carlos-saul-menem-telcon-91113-005-p83-scowcroft.pdf"
+        }
+      ]
+    },
+    {
+      "naid": "366551706",
+      "title": "Presidential Telephone Calls--Memorandum of Conversations 11/5/92-1/2/93",
+      "extractedRecords": [
+        {
+          "id": "scowcroft-366551706-34-carlos-saul-menem-telcon",
+          "date": "1992-12-01",
+          "type": "Telcon",
+          "title": "Telcon with President Carlos Menem of Argentina on December 1, 1992 (D)",
+          "chapter": "Argentina",
+          "pdfUrl": "documents/argentina/1992-12-01-bush-carlos-saul-menem-telcon-91113-006-p34-scowcroft.pdf"
+        }
+      ]
+    }
+  ]
+}
