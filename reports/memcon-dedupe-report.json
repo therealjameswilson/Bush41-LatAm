@@ -1,0 +1,1154 @@
+{
+  "generatedAt": "2026-05-19T01:20:12.250Z",
+  "originalRecords": 184,
+  "removedRecords": 58,
+  "remainingRecords": 126,
+  "groups": [
+    {
+      "key": "Argentina::Telcon::1989-01-23::Raul Alfonsin",
+      "kept": [
+        {
+          "id": "bush-library-428079775",
+          "naid": "428079775",
+          "title": "Telephone Call from the President to President Alfonsin of Argentina, January 23, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-01-23--Alfonsin.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551686-12-raul-alfonsin-telcon",
+          "naid": "366551686",
+          "title": "Telephone Call from the President to President Alfonsin of Argentina",
+          "pdfUrl": "documents/argentina/1989-01-23-bush-raul-alfonsin-telcon-91111-001-p12-scowcroft.pdf",
+          "sourcePages": "12-13"
+        }
+      ]
+    },
+    {
+      "key": "Argentina::Telcon::1989-05-13::Raul Alfonsin",
+      "kept": [
+        {
+          "id": "bush-library-428080013",
+          "naid": "428080013",
+          "title": "The President's Telephone Conversation with Argentine President Raul Alfonsin, May 13, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Alfonsin.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551687-24-raul-alfonsin-telcon",
+          "naid": "366551687",
+          "title": "The President’s Telephone Conversation with Argentine President Raul Alfonsin",
+          "pdfUrl": "documents/argentina/1989-05-13-bush-raul-alfonsin-telcon-91111-002-p24-scowcroft.pdf",
+          "sourcePages": "24-28"
+        }
+      ]
+    },
+    {
+      "key": "Argentina::Memcon::1991-02-08::Guido Di Tella",
+      "kept": [
+        {
+          "id": "bush-library-428081425",
+          "naid": "428081425",
+          "title": "Meeting with Foreign Minister Guido Di Tella of Argentina, February 8, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-08--Di-Tella.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551673-21-guido-di-tella-memcon",
+          "naid": "366551673",
+          "title": "Meeting with Foreign Minister Guido Di Tella of Argentina",
+          "pdfUrl": "documents/argentina/1991-02-08-bush-guido-di-tella-memcon-91108-004-p21-scowcroft.pdf",
+          "sourcePages": "21-24"
+        }
+      ]
+    },
+    {
+      "key": "Brazil::Memcon::1989-02-25::Jose Sarney",
+      "kept": [
+        {
+          "id": "bush-library-428079873",
+          "naid": "428079873",
+          "title": "President's Meeting with President Jose Sarney of Brazil, February 25, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-25--Sarney.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551660-92-jose-sarney-memcon",
+          "naid": "366551660",
+          "title": "President’s Meeting with President Jose Sarney of Brazil (9)",
+          "pdfUrl": "documents/brazil/1989-02-25-bush-jose-sarney-memcon-91107-001-p92-scowcroft.pdf",
+          "sourcePages": "92-95"
+        }
+      ]
+    },
+    {
+      "key": "Brazil::Telcon::1989-05-17::Jose Sarney",
+      "kept": [
+        {
+          "id": "bush-library-428082459",
+          "naid": "428082459",
+          "title": "Telcon with President Sarney of Brazil, May 17, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-17--Sarney.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551687-41-jose-sarney-telcon",
+          "naid": "366551687",
+          "title": "Telephone Call from President Bush to President Sarney of Brazil Reference Panama (9)",
+          "pdfUrl": "documents/brazil/1989-05-17-bush-jose-sarney-telcon-91111-002-p41-scowcroft.pdf",
+          "sourcePages": "41-43"
+        }
+      ]
+    },
+    {
+      "key": "Brazil::Telcon::1990-03-23::Fernando Collor de Mello",
+      "kept": [
+        {
+          "id": "bush-library-428080617",
+          "naid": "428080617",
+          "title": "Telephone conversation with President Fernando Collor of Brazil, March 23, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-23--Collor-de-Mello.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551691-25-fernando-collor-de-mello-telcon",
+          "naid": "366551691",
+          "title": "Telephone conversation with President Fernando Collor of Brazil (VU)",
+          "pdfUrl": "documents/brazil/1990-03-23-bush-fernando-collor-de-mello-telcon-91111-006-p25-scowcroft.pdf",
+          "sourcePages": "25-26"
+        }
+      ]
+    },
+    {
+      "key": "Brazil::Telcon::1990-06-06::Fernando Collor de Mello",
+      "kept": [
+        {
+          "id": "bush-library-428080767",
+          "naid": "428080767",
+          "title": "Telephone Conversation with President Fernando Collor de Mello of Brazil, June 6, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-06--Collor-de-Mello.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551691-91-fernando-collor-de-mello-telcon",
+          "naid": "366551691",
+          "title": "Telephone Conversation with President Fernando Collor de Mello of Brazil (U)",
+          "pdfUrl": "documents/brazil/1990-06-06-bush-fernando-collor-de-mello-telcon-91111-006-p91-scowcroft.pdf",
+          "sourcePages": "91-93"
+        }
+      ]
+    },
+    {
+      "key": "Brazil::Telcon::1990-06-28::Fernando Collor de Mello",
+      "kept": [
+        {
+          "id": "bush-library-428080813",
+          "naid": "428080813",
+          "title": "Telephone Conversation with President Fernando Collor de Mello of Brazil, June 28, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-28--Collor-de-Mello.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551692-14-fernando-collor-de-mello-telcon",
+          "naid": "366551692",
+          "title": "Telephone Conversation with President Fernando Collor de Mello of Brazil (U)",
+          "pdfUrl": "documents/brazil/1990-06-28-bush-fernando-collor-de-mello-telcon-91111-007-p14-scowcroft.pdf",
+          "sourcePages": "14-15"
+        }
+      ]
+    },
+    {
+      "key": "Brazil::Memcon::1990-10-01::Fernando Collor de Mello",
+      "kept": [
+        {
+          "id": "bush-library-428081095",
+          "naid": "428081095",
+          "title": "Memorandum of Conversation with President Collor of Brazil, October 1, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Collor-de-Mello.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551671-82-fernando-collor-de-mello-memcon",
+          "naid": "366551671",
+          "title": "Memorandum of Conversation with President Collor of Brazil (U)",
+          "pdfUrl": "documents/brazil/1990-10-01-bush-fernando-collor-de-mello-memcon-91108-002-p82-scowcroft.pdf",
+          "sourcePages": "82-86"
+        }
+      ]
+    },
+    {
+      "key": "Brazil::Memcon::1990-12-03::Fernando Collor de Mello",
+      "kept": [
+        {
+          "id": "bush-library-428081233",
+          "naid": "428081233",
+          "title": "Meeting with President Fernando Col lor de Mello of Brazil, December 3, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-03--Collor-de-Mello.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551672-103-fernando-collor-de-mello-memcon",
+          "naid": "366551672",
+          "title": "Meeting with President Fernando Collor de Mello of Brazil (U)",
+          "pdfUrl": "documents/brazil/1990-12-03-bush-fernando-collor-de-mello-memcon-91108-003-p103-scowcroft.pdf",
+          "sourcePages": "103-108"
+        }
+      ]
+    },
+    {
+      "key": "Brazil::Memcon::1991-06-18::Fernando Collor de Mello",
+      "kept": [
+        {
+          "id": "bush-library-428081693",
+          "naid": "428081693",
+          "title": "Meeting with Fernando Collor de Mello, President of Brazil, June 18, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-18--Collor-de-Mello.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551675-98-fernando-collor-de-mello-memcon",
+          "naid": "366551675",
+          "title": "Meeting with Fernando Collor de Mello, President of Brazil (VU)",
+          "pdfUrl": "documents/brazil/1991-06-18-bush-fernando-collor-de-mello-memcon-91108-006-p98-scowcroft.pdf",
+          "sourcePages": "98-103"
+        }
+      ]
+    },
+    {
+      "key": "Brazil::Memcon::1991-09-23::Fernando Collor de Mello",
+      "kept": [
+        {
+          "id": "bush-library-428081891",
+          "naid": "428081891",
+          "title": "Meeting with Fernando Collor de Mello, President of the Federative Republic of Brazil at UNGA, Waldorf Astoria Hotel, New York",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-23--Collor-de-Mello.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551677-96-fernando-collor-de-mello-memcon",
+          "naid": "366551677",
+          "title": "Meeting with Fernando Collor de Mello, President of the Federative Republic of Brazil at UNGA, Waldorf Astoria Hotel, New York (U)",
+          "pdfUrl": "documents/brazil/1991-09-23-bush-fernando-collor-de-mello-memcon-91109-002-p96-scowcroft.pdf",
+          "sourcePages": "96-100"
+        }
+      ]
+    },
+    {
+      "key": "Brazil::Telcon::1992-05-12::Fernando Collor de Mello",
+      "kept": [
+        {
+          "id": "bush-library-428082219",
+          "naid": "428082219",
+          "title": "Telcon with Fernando Coller, President of Brazil, May 12, 1992",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-05-12--Collor-de-Mello.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551704-33-fernando-collor-de-mello-telcon",
+          "naid": "366551704",
+          "title": "Telcon with Fernando Collor, President of Brazil (¢)",
+          "pdfUrl": "documents/brazil/1992-05-12-bush-fernando-collor-de-mello-telcon-91113-004-p33-scowcroft.pdf",
+          "sourcePages": "33-34"
+        }
+      ]
+    },
+    {
+      "key": "Brazil::Telcon::1992-07-10::Fernando Collor de Mello",
+      "kept": [
+        {
+          "id": "bush-library-428082309",
+          "naid": "428082309",
+          "title": "Telcon with Fernando Collor, President of Brazil, on July 10, 1992",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-07-10--Collor-de-Mello.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551705-6-fernando-collor-de-mello-telcon",
+          "naid": "366551705",
+          "title": "Telcon with Fernando Collor, President of Brazil, on July 10, 1992 (£)",
+          "pdfUrl": "documents/brazil/1992-07-10-bush-fernando-collor-de-mello-telcon-91113-005-p6-scowcroft.pdf",
+          "sourcePages": "6-7"
+        }
+      ]
+    },
+    {
+      "key": "Chile::Memcon::1990-10-02::Patricio Aylwin",
+      "kept": [
+        {
+          "id": "bush-library-428081115",
+          "naid": "428081115",
+          "title": "Memorandum of Conversation with President Patricio Aylwin of Chile, October 2, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-02--Aylwin.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551671-119-patricio-aylwin-memcon",
+          "naid": "366551671",
+          "title": "Memorandum of Conversation with President Patricio Aylwin of Chile (U)",
+          "pdfUrl": "documents/chile/1990-10-02-bush-patricio-aylwin-memcon-91108-002-p119-scowcroft.pdf",
+          "sourcePages": "119-124"
+        }
+      ]
+    },
+    {
+      "key": "Chile::Memcon::1992-05-13::Patricio Aylwin",
+      "kept": [
+        {
+          "id": "bush-library-428082199",
+          "naid": "428082199",
+          "title": "Meeting with Patricio Aylwin Azocar, President of the Republic of Chile, May 13, 1992",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-05-13--Azocar.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551683-49-patricio-aylwin-memcon",
+          "naid": "366551683",
+          "title": "Meeting with Patricio Aylwin Azocar, President of the Republic of Chile (VU)",
+          "pdfUrl": "documents/chile/1992-05-13-bush-patricio-aylwin-memcon-91109-008-p49-scowcroft.pdf",
+          "sourcePages": "49-54"
+        }
+      ]
+    },
+    {
+      "key": "Colombia::Telcon::1989-04-14::Virgilio Barco",
+      "kept": [
+        {
+          "id": "bush-library-428079963",
+          "naid": "428079963",
+          "title": "The President's Telephone Conversation with President Barco of Colombia, April 14, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-04-14--Barco.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551686-76-virgilio-barco-telcon",
+          "naid": "366551686",
+          "title": "The President’s Telephone Conversation with President Barco of Colombia",
+          "pdfUrl": "documents/colombia/1989-04-14-bush-virgilio-barco-telcon-91111-001-p76-scowcroft.pdf",
+          "sourcePages": "76-77"
+        }
+      ]
+    },
+    {
+      "key": "Colombia::Telcon::1989-08-21::Virgilio Barco",
+      "kept": [
+        {
+          "id": "bush-library-428080207",
+          "naid": "428080207",
+          "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-21--Barco.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551688-43-virgilio-barco-telcon",
+          "naid": "366551688",
+          "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+          "pdfUrl": "documents/colombia/1989-08-21-bush-virgilio-barco-telcon-91111-003-p43-scowcroft.pdf",
+          "sourcePages": "43-45"
+        }
+      ]
+    },
+    {
+      "key": "Colombia::Telcon::1989-08-28::Virgilio Barco",
+      "kept": [
+        {
+          "id": "bush-library-428080215",
+          "naid": "428080215",
+          "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-28--Barco.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551688-55-virgilio-barco-telcon",
+          "naid": "366551688",
+          "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+          "pdfUrl": "documents/colombia/1989-08-28-bush-virgilio-barco-telcon-91111-003-p55-scowcroft.pdf",
+          "sourcePages": "55-58"
+        }
+      ]
+    },
+    {
+      "key": "Colombia::Telcon::1989-09-26::Virgilio Barco",
+      "kept": [
+        {
+          "id": "bush-library-428080265",
+          "naid": "428080265",
+          "title": "Telephone Conversation with President Virgilio Barco of Colombia, September 26, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-09-26--Barco.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551688-72-virgilio-barco-telcon",
+          "naid": "366551688",
+          "title": "Telephone Conversation with President Virgilio Barco of Colombia",
+          "pdfUrl": "documents/colombia/1989-09-26-bush-virgilio-barco-telcon-91111-003-p72-scowcroft.pdf",
+          "sourcePages": "72-73"
+        }
+      ]
+    },
+    {
+      "key": "Colombia::Telcon::1990-01-28::Virgilio Barco",
+      "kept": [
+        {
+          "id": "bush-library-428080509",
+          "naid": "428080509",
+          "title": "Telephone Conversation with President Barco of Colombia, January 28, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-01-28--Barco.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551690-34-virgilio-barco-telcon",
+          "naid": "366551690",
+          "title": "Telephone Conversation with President Barco of Colombia",
+          "pdfUrl": "documents/colombia/1990-01-28-bush-virgilio-barco-telcon-91111-005-p34-scowcroft.pdf",
+          "sourcePages": "34-36"
+        }
+      ]
+    },
+    {
+      "key": "Colombia::Telcon::1990-04-27::Virgilio Barco",
+      "kept": [
+        {
+          "id": "bush-library-428080673",
+          "naid": "428080673",
+          "title": "Telephone Conversation with President Virgilio Barco of Colombia, April 27, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-04-27--Barco.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551691-55-virgilio-barco-telcon",
+          "naid": "366551691",
+          "title": "Telephone Conversation with President Virgilio Barco of Colombia (U)",
+          "pdfUrl": "documents/colombia/1990-04-27-bush-virgilio-barco-telcon-91111-006-p55-scowcroft.pdf",
+          "sourcePages": "55-57"
+        }
+      ]
+    },
+    {
+      "key": "Ecuador::Memcon::1990-07-23::Rodrigo Borja",
+      "kept": [
+        {
+          "id": "bush-library-428080839",
+          "naid": "428080839",
+          "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-1.pdf"
+        },
+        {
+          "id": "bush-library-428080841",
+          "naid": "428080841",
+          "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-2.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551670-86-rodrigo-borja-memcon",
+          "naid": "366551670",
+          "title": "Meeting with President Rodrigo Borja of Ecuador (U)",
+          "pdfUrl": "documents/ecuador/1990-07-23-bush-rodrigo-borja-memcon-91108-001-p86-scowcroft.pdf",
+          "sourcePages": "86-91"
+        },
+        {
+          "id": "scowcroft-366551670-79-rodrigo-borja-memcon",
+          "naid": "366551670",
+          "title": "Meeting with President Rodrigo Borja of Ecuador (VU)",
+          "pdfUrl": "documents/ecuador/1990-07-23-bush-rodrigo-borja-memcon-91108-001-p79-scowcroft.pdf",
+          "sourcePages": "79-85"
+        }
+      ]
+    },
+    {
+      "key": "Ecuador::Memcon::1992-07-28::Sixto Duran Ballen",
+      "kept": [
+        {
+          "id": "bush-library-428082307",
+          "naid": "428082307",
+          "title": "Meeting with Sixto Duran Ballen, PresidentElect of Ecuador, Julyu 28, 1992",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-28--Ballen.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551685-24-sixto-duran-ballen-memcon",
+          "naid": "366551685",
+          "title": "Meeting with Sixto Duran Ballen, President- Elect of Ecuador",
+          "pdfUrl": "documents/ecuador/1992-07-28-bush-sixto-duran-ballen-memcon-91110-002-p24-scowcroft.pdf",
+          "sourcePages": "24-28"
+        }
+      ]
+    },
+    {
+      "key": "Guyana::Memcon::1989-06-19::Desmond Hoyte",
+      "kept": [
+        {
+          "id": "bush-library-428080045",
+          "naid": "428080045",
+          "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-19--Hoyte.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551663-45-desmond-hoyte-memcon",
+          "naid": "366551663",
+          "title": "The President’s Meeting with President Desmond Hoyte of Guyana (U)",
+          "pdfUrl": "documents/guyana/1989-06-19-bush-desmond-hoyte-memcon-91107-004-p45-scowcroft.pdf",
+          "sourcePages": "45-48"
+        }
+      ]
+    },
+    {
+      "key": "Peru::Telcon::1989-05-13::Alan Garcia",
+      "kept": [
+        {
+          "id": "bush-library-428080015",
+          "naid": "428080015",
+          "title": "Telephone Conversation with President Alan Garcia of Peru, May 13, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Garcia.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551687-17-alan-garcia-telcon",
+          "naid": "366551687",
+          "title": "Telephone Conversation with President Alan Garcia of Peru (VU)",
+          "pdfUrl": "documents/peru/1989-05-13-bush-alan-garcia-telcon-91111-002-p17-scowcroft.pdf",
+          "sourcePages": "17-20"
+        }
+      ]
+    },
+    {
+      "key": "Peru::Memcon::1991-09-17::Alberto Fujimori",
+      "kept": [
+        {
+          "id": "bush-library-428081889",
+          "naid": "428081889",
+          "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-2.pdf"
+        },
+        {
+          "id": "bush-library-428081887",
+          "naid": "428081887",
+          "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-1.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551677-82-alberto-fujimori-memcon",
+          "naid": "366551677",
+          "title": "Luncheon with Alberto Fujimori, President of Peru (U)",
+          "pdfUrl": "documents/peru/1991-09-17-bush-alberto-fujimori-memcon-91109-002-p82-scowcroft.pdf",
+          "sourcePages": "82-87"
+        }
+      ]
+    },
+    {
+      "key": "Peru::Telcon::1992-04-20::Alberto Fujimori",
+      "kept": [
+        {
+          "id": "bush-library-428082203",
+          "naid": "428082203",
+          "title": "Telcon with Alberto Fujimori of Peru on April 20, 1992",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-04-20--Fujimori.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551704-11-alberto-fujimori-telcon",
+          "naid": "366551704",
+          "title": "Telcon with Alberto Fujimori of Peru on April 20, 1992 (fg)",
+          "pdfUrl": "documents/peru/1992-04-20-bush-alberto-fujimori-telcon-91113-004-p11-scowcroft.pdf",
+          "sourcePages": "11-14"
+        }
+      ]
+    },
+    {
+      "key": "Uruguay::Telcon::1989-05-13::Julio Maria Sanguinetti",
+      "kept": [
+        {
+          "id": "bush-library-428080017",
+          "naid": "428080017",
+          "title": "The President's Telephone Conversation with President Sanguinetti of Uruguay, May 13, 1989 (1 of 2)",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Sanguinetti-1.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551687-21-julio-maria-sanguinetti-telcon",
+          "naid": "366551687",
+          "title": "The President’s Telephone Conversation with President Sanguinetti of Uruguay (U)",
+          "pdfUrl": "documents/uruguay/1989-05-13-bush-julio-maria-sanguinetti-telcon-91111-002-p21-scowcroft.pdf",
+          "sourcePages": "21-23"
+        }
+      ]
+    },
+    {
+      "key": "Uruguay::Memcon::1989-09-15::Julio Maria Sanguinetti",
+      "kept": [
+        {
+          "id": "bush-library-428080181",
+          "naid": "428080181",
+          "title": "Meeting with Uruguayan President Julio Maria Sanguinetti, September 15, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-15--Sanguinetti.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551664-53-julio-maria-sanguinetti-memcon",
+          "naid": "366551664",
+          "title": "Meeting with Uruguayan President Julio Maria Sanguinetti (U)",
+          "pdfUrl": "documents/uruguay/1989-09-15-bush-julio-maria-sanguinetti-memcon-91107-005-p53-scowcroft.pdf",
+          "sourcePages": "53-62"
+        }
+      ]
+    },
+    {
+      "key": "Uruguay::Memcon::1990-02-05::Luis Alberto Lacalle",
+      "kept": [
+        {
+          "id": "bush-library-428080481",
+          "naid": "428080481",
+          "title": "Meeting with President-elect Luis Alberto Lacalle of Uruguay, February 5, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-05--Lacalle.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551666-57-luis-alberto-lacalle-memcon",
+          "naid": "366551666",
+          "title": "Meeting with President-elect Luis Alberto Lacalle of Uruguay ()",
+          "pdfUrl": "documents/uruguay/1990-02-05-bush-luis-alberto-lacalle-memcon-91107-007-p57-scowcroft.pdf",
+          "sourcePages": "57-61"
+        }
+      ]
+    },
+    {
+      "key": "Uruguay::Telcon::1990-06-28::Luis Alberto Lacalle",
+      "kept": [
+        {
+          "id": "bush-library-428080815",
+          "naid": "428080815",
+          "title": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay, June 28, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-28--Lacalle.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551692-16-luis-alberto-lacalle-telcon",
+          "naid": "366551692",
+          "title": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay (UV)",
+          "pdfUrl": "documents/uruguay/1990-06-28-bush-luis-alberto-lacalle-telcon-91111-007-p16-scowcroft.pdf",
+          "sourcePages": "16-17"
+        }
+      ]
+    },
+    {
+      "key": "Uruguay::Memcon::1990-10-01::Luis Alberto Lacalle",
+      "kept": [
+        {
+          "id": "bush-library-428081103",
+          "naid": "428081103",
+          "title": "Meeting with President Luis Alberto Lacalle of Uruguay, October 1, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Lacalle.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551671-112-luis-alberto-lacalle-memcon",
+          "naid": "366551671",
+          "title": "Meeting with President Luis Alberto Lacalle of Uruguay (UU)",
+          "pdfUrl": "documents/uruguay/1990-10-01-bush-luis-alberto-lacalle-memcon-91108-002-p112-scowcroft.pdf",
+          "sourcePages": "112-115"
+        }
+      ]
+    },
+    {
+      "key": "Uruguay::Telcon::1991-01-16::Luis Alberto Lacalle",
+      "kept": [
+        {
+          "id": "bush-library-428081349",
+          "naid": "428081349",
+          "title": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay, January 16, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-16--Lacalle.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551696-51-luis-alberto-lacalle-telcon",
+          "naid": "366551696",
+          "title": "Telephone Conversation with President Luis Alberto Lacalle of Uruguay (U)",
+          "pdfUrl": "documents/uruguay/1991-01-16-bush-luis-alberto-lacalle-telcon-91112-004-p51-scowcroft.pdf",
+          "sourcePages": "51-51"
+        }
+      ]
+    },
+    {
+      "key": "Uruguay::Memcon::1991-05-21::Luis Alberto Lacalle",
+      "kept": [
+        {
+          "id": "bush-library-428081675",
+          "naid": "428081675",
+          "title": "Meeting with President Luis Alberto Lacalle of Uruguay, May 21, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-21--Lacalle.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551675-55-luis-alberto-lacalle-memcon",
+          "naid": "366551675",
+          "title": "Meeting with President Luis Alberto Lacalle of Uruguay",
+          "pdfUrl": "documents/uruguay/1991-05-21-bush-luis-alberto-lacalle-memcon-91108-006-p55-scowcroft.pdf",
+          "sourcePages": "55-60"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1989-01-24::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428079799",
+          "naid": "428079799",
+          "title": "Memorandum of Conversation Between the President and President-Elect Carlos Andres Perez of Venezuela, January 24, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-01-24--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551686-29-carlos-andres-perez-telcon",
+          "naid": "366551686",
+          "title": "Memorandum of Conversation Between the President and President-Elect Carlos Andres Perez of Venezuela",
+          "pdfUrl": "documents/venezuela/1989-01-24-bush-carlos-andres-perez-telcon-91111-001-p29-scowcroft.pdf",
+          "sourcePages": "29-30"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1989-03-03::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428079917",
+          "naid": "428079917",
+          "title": "The President's Telephone Conversation with President Carlos Andres Perez of Venezuela on March 3, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-03-03--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551686-55-carlos-andres-perez-telcon",
+          "naid": "366551686",
+          "title": "The President’s Telephone Conversation with President Carlos Andres Perez of Venezuela on March 3, 1989 (U)",
+          "pdfUrl": "documents/venezuela/1989-03-03-bush-carlos-andres-perez-telcon-91111-001-p55-scowcroft.pdf",
+          "sourcePages": "55-59"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Memcon::1989-04-01::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428079937",
+          "naid": "428079937",
+          "title": "Meeting with President Carlos Andres Perez of Venezuela, April 1, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-01--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551661-90-carlos-andres-perez-memcon",
+          "naid": "366551661",
+          "title": "Meeting with President Carlos Andres Perez of Venezuela",
+          "pdfUrl": "documents/venezuela/1989-04-01-bush-carlos-andres-perez-memcon-91107-002-p90-scowcroft.pdf",
+          "sourcePages": "90-99"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1989-05-10::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428080003",
+          "naid": "428080003",
+          "title": "Telephone Call with Carlos Andres Perez of Venezuela, May 10, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-10--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551687-7-carlos-andres-perez-telcon",
+          "naid": "366551687",
+          "title": "Telephone Call with Carlos Andres Perez of Venezuela",
+          "pdfUrl": "documents/venezuela/1989-05-10-bush-carlos-andres-perez-telcon-91111-002-p7-scowcroft.pdf",
+          "sourcePages": "7-9"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1989-06-23::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428080073",
+          "naid": "428080073",
+          "title": "The President's Telephone Conversation with President Carlos Andres Perez of Venezuela, June 23, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-06-23--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551687-73-carlos-andres-perez-telcon",
+          "naid": "366551687",
+          "title": "The President’s Telephone Conversation with President Carlos Andres Perez of Venezuela (U)",
+          "pdfUrl": "documents/venezuela/1989-06-23-bush-carlos-andres-perez-telcon-91111-002-p73-scowcroft.pdf",
+          "sourcePages": "73-75"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1989-08-22::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428080211",
+          "naid": "428080211",
+          "title": "Telephone Conversation with Carlos Andres Perez, President of Venezuela",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-22--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551688-46-carlos-andres-perez-telcon",
+          "naid": "366551688",
+          "title": "Telephone Conversation with Carlos Andres Perez, President of Venezuela",
+          "pdfUrl": "documents/venezuela/1989-08-22-bush-carlos-andres-perez-telcon-91111-003-p46-scowcroft.pdf",
+          "sourcePages": "46-51"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Memcon::1989-09-25::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428080229",
+          "naid": "428080229",
+          "title": "Meeting with Venezuelan President Carlos Andres Perez, September 25, 1989",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551664-86-carlos-andres-perez-memcon",
+          "naid": "366551664",
+          "title": "Meeting with Venezuelan President Carlos Andres Perez (U)",
+          "pdfUrl": "documents/venezuela/1989-09-25-bush-carlos-andres-perez-memcon-91107-005-p86-scowcroft.pdf",
+          "sourcePages": "86-89"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1990-02-26::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428080569",
+          "naid": "428080569",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venezuela, February 26, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-02-26--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551690-76-carlos-andres-perez-telcon",
+          "naid": "366551690",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venezuela _ (U)",
+          "pdfUrl": "documents/venezuela/1990-02-26-bush-carlos-andres-perez-telcon-91111-005-p76-scowcroft.pdf",
+          "sourcePages": "76-78"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1990-03-21::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428080615",
+          "naid": "428080615",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venezuela, March 21, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-21--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551691-17-carlos-andres-perez-telcon",
+          "naid": "366551691",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venezuela _ (U)",
+          "pdfUrl": "documents/venezuela/1990-03-21-bush-carlos-andres-perez-telcon-91111-006-p17-scowcroft.pdf",
+          "sourcePages": "17-20"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1990-08-13::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428080951",
+          "naid": "428080951",
+          "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, August 13, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-13--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551693-85-carlos-andres-perez-telcon",
+          "naid": "366551693",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venezuela _ (U)",
+          "pdfUrl": "documents/venezuela/1990-08-13-bush-carlos-andres-perez-telcon-91112-001-p85-scowcroft.pdf",
+          "sourcePages": "85-87"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Memcon::1990-10-01::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428081109",
+          "naid": "428081109",
+          "title": "Meeting with President Carlos Andres Perez of Venezuela, October 1, 1990",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551671-107-carlos-andres-perez-memcon",
+          "naid": "366551671",
+          "title": "Meeting with President Carlos Andres Perez of Venezuela _ (U)",
+          "pdfUrl": "documents/venezuela/1990-10-01-bush-carlos-andres-perez-memcon-91108-002-p107-scowcroft.pdf",
+          "sourcePages": "107-111"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1991-02-08::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428081439",
+          "naid": "428081439",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venezuela, February 8, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-08--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551697-57-carlos-andres-perez-telcon",
+          "naid": "366551697",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venezuela _ (U)",
+          "pdfUrl": "documents/venezuela/1991-02-08-bush-carlos-andres-perez-telcon-91112-005-p57-scowcroft.pdf",
+          "sourcePages": "57-62"
+        },
+        {
+          "id": "scowcroft-366551697-56-carlos-andres-perez-telcon",
+          "naid": "366551697",
+          "title": "Telephone conversation with President Carlos Andres Perez of Venr -?la_ (U)",
+          "pdfUrl": "documents/venezuela/1991-02-08-bush-carlos-andres-perez-telcon-91112-005-p56-scowcroft.pdf",
+          "sourcePages": "56-56"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1991-04-20::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428081653",
+          "naid": "428081653",
+          "title": "Telcon with Carlos Andres Perez, President of Venezuela on April 20, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-20--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551699-61-carlos-andres-perez-telcon",
+          "naid": "366551699",
+          "title": "Telcon with Carlos Andres Perez, President of Venezuela on April 20, 1991 (U)",
+          "pdfUrl": "documents/venezuela/1991-04-20-bush-carlos-andres-perez-telcon-91112-007-p61-scowcroft.pdf",
+          "sourcePages": "61-64"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Memcon::1991-05-03::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428081627",
+          "naid": "428081627",
+          "title": "Meeting with President Carlos Andres Perez of Venezuela, May 3, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-03--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551675-6-carlos-andres-perez-memcon",
+          "naid": "366551675",
+          "title": "Meeting with President Carlos Andres Perez of Venezuela",
+          "pdfUrl": "documents/venezuela/1991-05-03-bush-carlos-andres-perez-memcon-91108-006-p6-scowcroft.pdf",
+          "sourcePages": "6-13"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1991-09-05::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428081909",
+          "naid": "428081909",
+          "title": "Telcon with President Carlos Andres Perez of Venezuela on september 5, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-05--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551701-93-carlos-andres-perez-telcon",
+          "naid": "366551701",
+          "title": "Telcon with President Carlos Andres Perez of Venezuela on September 5, 1991 (f)",
+          "pdfUrl": "documents/venezuela/1991-09-05-bush-carlos-andres-perez-telcon-91113-001-p93-scowcroft.pdf",
+          "sourcePages": "93-95"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1991-09-30::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428081963",
+          "naid": "428081963",
+          "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, September 30, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-09-30--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551702-26-carlos-andres-perez-telcon",
+          "naid": "366551702",
+          "title": "Telcon with President Carlos Andres Perez of Venezuela on September 30, 1991 ()",
+          "pdfUrl": "documents/venezuela/1991-09-30-bush-carlos-andres-perez-telcon-91113-002-p26-scowcroft.pdf",
+          "sourcePages": "26-28"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1991-10-01::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428081965",
+          "naid": "428081965",
+          "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, October 1, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-10-01--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551702-29-carlos-andres-perez-telcon",
+          "naid": "366551702",
+          "title": "Telcon with President Carlos Andres Perez of Venezuela on October 1, 1991 (ah",
+          "pdfUrl": "documents/venezuela/1991-10-01-bush-carlos-andres-perez-telcon-91113-002-p29-scowcroft.pdf",
+          "sourcePages": "29-30"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1991-10-10::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428082007",
+          "naid": "428082007",
+          "title": "Telcon with President Carlos Andres Perez President of Venezuela on October 10, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-10-10--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551702-36-carlos-andres-perez-telcon",
+          "naid": "366551702",
+          "title": "Telcon with President Carlos Andres Perez President of Venezuela on October 10, 1991 (Z)",
+          "pdfUrl": "documents/venezuela/1991-10-10-bush-carlos-andres-perez-telcon-91113-002-p36-scowcroft.pdf",
+          "sourcePages": "36-45"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1991-11-15::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428082045",
+          "naid": "428082045",
+          "title": "Telephone Conversation with Carlos Andres Perez, President of Venezuela on November 15, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-11-15--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551702-62-carlos-andres-perez-telcon",
+          "naid": "366551702",
+          "title": "Telcon with Carlos Andres Perez, President of Venezuela on November 15, 1991 (U)",
+          "pdfUrl": "documents/venezuela/1991-11-15-bush-carlos-andres-perez-telcon-91113-002-p62-scowcroft.pdf",
+          "sourcePages": "62-64"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1991-12-17::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428082109",
+          "naid": "428082109",
+          "title": "Telephone Conversation with Carlos Andres Perez, December 18, 1991",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-12-17--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551702-139-carlos-andres-perez-telcon",
+          "naid": "366551702",
+          "title": "Telcon with President Carlos Andres Perez of Venezuela on December 17, 1991 (8%",
+          "pdfUrl": "documents/venezuela/1991-12-17-bush-carlos-andres-perez-telcon-91113-002-p139-scowcroft.pdf",
+          "sourcePages": "139-143"
+        }
+      ]
+    },
+    {
+      "key": "Venezuela::Telcon::1992-06-20::Carlos Andres Perez",
+      "kept": [
+        {
+          "id": "bush-library-428082247",
+          "naid": "428082247",
+          "title": "Telcon with Carlos Andres Perez, President of Venezuela, on June 20, 1992",
+          "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-06-20--Perez.pdf"
+        }
+      ],
+      "removed": [
+        {
+          "id": "scowcroft-366551704-54-carlos-andres-perez-telcon",
+          "naid": "366551704",
+          "title": "Telcon with Carlos Andres Perez, President of Venezuela, on June 20, 1992 (f)",
+          "pdfUrl": "documents/venezuela/1992-06-20-bush-carlos-andres-perez-telcon-91113-004-p54-scowcroft.pdf",
+          "sourcePages": "54-58"
+        }
+      ]
+    }
+  ]
+}
