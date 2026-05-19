@@ -19,9 +19,6 @@
       <nav aria-label="Primary navigation">
         <a href="#chapters">Chapters</a>
         <a href="#collection">Collection</a>
-        <a href="#priority-collection">Priority</a>
-        <a href="#subject-files">Subject</a>
-        <a href="#nsc-collection">NSC</a>
         <a href="#browse">Browse</a>
         <a href="#sources">Sources</a>
         <a href="#ingest">Ingest</a>
@@ -111,102 +108,9 @@
         </div>
         <div class="feature-grid">
           <article><h3>Released PDFs</h3><p>Direct links to declassified scans hosted by the Bush Presidential Library and National Archives.</p></article>
-          <article><h3>Document Metadata</h3><p>Date, type, participants, country, release status, NAID, PDF link, source collection, chapter, and FRUS topic tags.</p></article>
+          <article><h3>Document Metadata</h3><p>Date, type, participants, country, release status, NAID, PDF link, source collection, chapter, provenance note, and FRUS topic tags.</p></article>
           <article><h3>Research Notes</h3><p>Short, separable notes for debt, narcotics, democratic transitions, trade, summits, and bilateral relationships.</p></article>
-          <article><h3>Declassification Trail</h3><p>Tracking for full, partial, denied, and newly released records while the official volume is compiled.</p></article>
-        </div>
-      </section>
-
-      <section class="section source-section" id="priority-collection" aria-labelledby="priority-title">
-        <div class="section-heading">
-          <p class="kicker">Priority Collection</p>
-          <h2 id="priority-title">Latin American Directorate Chronological Files</h2>
-        </div>
-        <div class="browse-layout">
-          <div class="browse-note">
-            <h3>NAID 2197972</h3>
-            <p>
-              The first archival collection to work through is the National Security Council's
-              <em>Latin American Directorate Chronological Files</em>. Its file-unit index is
-              harvested separately so the compiler can use those chronological packets alongside
-              released memcon and telcon rows.
-            </p>
-          </div>
-          <div class="source-list">
-            <a href="https://catalog.archives.gov/id/2197972" rel="noreferrer">Open priority collection</a>
-            <a href="data/priority-collection.json" rel="noreferrer">Priority collection data</a>
-            <a href="reports/latin-american-directorate-harvest.json" rel="noreferrer">Harvest report</a>
-          </div>
-        </div>
-      </section>
-
-      <section class="section records-section" id="subject-files" aria-labelledby="subject-title">
-        <div class="section-heading">
-          <p class="kicker">Subject Files</p>
-          <h2 id="subject-title">Latin American Affairs Directorate Subject Files</h2>
-        </div>
-        <p class="records-intro">
-          NAID 376217847 is the Latin American Affairs Directorate Subject Files series. This
-          focused index keeps its South America country files and regional Latin America folders
-          visible beside the chronological and memcon/telcon collections.
-        </p>
-        <section class="stats compact-stats" aria-label="Subject files collection summary">
-          <div>
-            <span id="subject-total-records">0</span>
-            <p>subject-file records</p>
-          </div>
-          <div>
-            <span id="subject-pdf-records">0</span>
-            <p>records with PDFs</p>
-          </div>
-          <div>
-            <span>376217847</span>
-            <p>series NAID</p>
-          </div>
-        </section>
-        <div class="source-list collection-links">
-          <a href="https://catalog.archives.gov/search-within/376217847" rel="noreferrer">Search within NAID 376217847</a>
-          <a href="data/subject-files.json" rel="noreferrer">Subject files data</a>
-          <a href="reports/latin-american-subject-files-harvest.json" rel="noreferrer">Harvest report</a>
-        </div>
-        <div id="subject-root" class="records-root" aria-live="polite">
-          <p class="loading">Loading subject files...</p>
-        </div>
-      </section>
-
-      <section class="section records-section" id="nsc-collection" aria-labelledby="nsc-title">
-        <div class="section-heading">
-          <p class="kicker">Broader NSC Collection</p>
-          <h2 id="nsc-title">South America Records in NAID 2163580</h2>
-        </div>
-        <p class="records-intro">
-          This companion index draws heavily on South America-relevant file units and items from
-          <em>Records of the National Security Council (George H. W. Bush Administration)</em>,
-          NAID 2163580. It includes country records, regional packets, economic files, drug summit
-          files, and other online Catalog records that can support compilation beyond formal
-          memcons and telcons.
-        </p>
-        <section class="stats compact-stats" aria-label="Broader NSC collection summary">
-          <div>
-            <span id="nsc-total-records">0</span>
-            <p>NSC South America records</p>
-          </div>
-          <div>
-            <span id="nsc-pdf-records">0</span>
-            <p>records with PDFs</p>
-          </div>
-          <div>
-            <span>2163580</span>
-            <p>parent collection NAID</p>
-          </div>
-        </section>
-        <div class="source-list collection-links">
-          <a href="https://catalog.archives.gov/search-within/2163580" rel="noreferrer">Search within NAID 2163580</a>
-          <a href="data/nsc-south-america.json" rel="noreferrer">Broader NSC data</a>
-          <a href="reports/nsc-south-america-harvest.json" rel="noreferrer">Harvest report</a>
-        </div>
-        <div id="nsc-root" class="records-root" aria-live="polite">
-          <p class="loading">Loading broader NSC records...</p>
+          <article><h3>Provenance Trail</h3><p>Visible Source notes distinguish Bush Library table rows, National Archives Catalog items, and Scowcroft page-range extracts.</p></article>
         </div>
       </section>
 
@@ -241,8 +145,9 @@
         <p class="records-intro">
           Each chapter below is ordered by date and uses a FRUS-style structure: generic document
           title, place/date/time line, subject cue, page count, Source note, and a direct PDF link
-          when a digital object is available. The list combines Bush Library release rows with
-          South America page-range extracts from the Brent Scowcroft Papers.
+          when a digital object is available. The provenance note is displayed directly on each
+          record so the compiler can distinguish Bush Library table rows, Catalog item records,
+          and Scowcroft page-range extracts.
         </p>
         <div id="records-root" class="records-root" aria-live="polite">
           <p class="loading">Loading memcon records...</p>
@@ -258,7 +163,6 @@
           <a href="https://history.state.gov/historicaldocuments/frus1989-92v25" rel="noreferrer">FRUS 1989-1992 Volume XXV status page</a>
           <a href="https://catalog.archives.gov/id/4522156" rel="noreferrer">Brent Scowcroft Papers, NAID 4522156</a>
           <a href="https://catalog.archives.gov/id/4545941" rel="noreferrer">Scowcroft Presidential Correspondence Files</a>
-          <a href="https://catalog.archives.gov/search-within/376217847" rel="noreferrer">Latin American Affairs Directorate Subject Files</a>
           <a href="https://catalog.archives.gov/id/321498039" rel="noreferrer">Presidential Memcon Files</a>
           <a href="https://catalog.archives.gov/id/322361434" rel="noreferrer">January 1989 Presidential Telcon folder</a>
           <a href="https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons" rel="noreferrer">Bush Library Memcons and Telcons index</a>
@@ -288,9 +192,6 @@
       <p>Published with GitHub Pages.</p>
       <a href="https://github.com/therealjameswilson/Bush41-LatAm">Repository</a>
     </footer>
-    <script src="data/priority-collection.js"></script>
-    <script src="data/subject-files.js"></script>
-    <script src="data/nsc-south-america.js"></script>
     <script src="data/memcons.js"></script>
     <script src="app.js"></script>
   </body>
