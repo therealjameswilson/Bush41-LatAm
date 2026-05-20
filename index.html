@@ -19,6 +19,7 @@
       <nav aria-label="Primary navigation">
         <a href="#chapters">Chapters</a>
         <a href="#provenance">Provenance</a>
+        <a href="#method">Method</a>
         <a href="#records">Records</a>
         <a href="#sources">Sources</a>
       </nav>
@@ -38,7 +39,7 @@
           </p>
           <div class="hero-actions" aria-label="Primary actions">
             <a class="button primary" href="#records">Browse the Records</a>
-            <a class="button secondary" href="#provenance">Review Provenance</a>
+            <a class="button secondary" href="#method">Compiler Method</a>
           </div>
         </div>
         <aside class="brief" aria-label="Archive scope">
@@ -113,6 +114,23 @@
         </div>
       </section>
 
+      <section class="section" id="method" aria-labelledby="method-title">
+        <div class="section-heading">
+          <p class="kicker">FRUS Method</p>
+          <h2 id="method-title">Compiler-Facing Review Points</h2>
+        </div>
+        <div class="method-grid">
+          <article><h3>Selection Standard</h3><p>Flag records that document major policy decisions, significant diplomatic activity, and high-level decision pathways for the South America chapter sequence.</p></article>
+          <article><h3>Chronology Rule</h3><p>Memcons and telcons are sorted by the date of the conversation, matching the FRUS practice of arranging documents by Washington, DC time.</p></article>
+          <article><h3>Source Note Test</h3><p>Each public row keeps repository, collection, series, file unit, NAID, release status, PDF, source pages, and deduped cross-references visible.</p></article>
+          <article><h3>Declassification Check</h3><p>Partial releases, local page-range extracts, and catalog-only provenance are exposed as review cues for later comparison with restricted or newly opened files.</p></article>
+        </div>
+        <p class="method-source">
+          Method anchor:
+          <a href="https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries" rel="noreferrer">Office of the Historian, About the Foreign Relations Series</a>.
+        </p>
+      </section>
+
       <section class="section records-section" id="records" aria-labelledby="records-title">
         <div class="section-heading">
           <p class="kicker">Chronological Files</p>
@@ -125,6 +143,41 @@
           record so the compiler can distinguish Bush Library table rows, Catalog item records,
           and Scowcroft page-range extracts.
         </p>
+        <div class="record-tools" aria-label="Compiler record filters">
+          <label>
+            Search
+            <input id="record-search" type="search" placeholder="Menem, narcotics, 321498039, partial" />
+          </label>
+          <label>
+            Country
+            <select id="country-filter">
+              <option value="">All countries</option>
+            </select>
+          </label>
+          <label>
+            Type
+            <select id="type-filter">
+              <option value="">All types</option>
+            </select>
+          </label>
+          <label>
+            Source
+            <select id="source-filter">
+              <option value="">All sources</option>
+              <option value="telcon">Presidential Telcon Files</option>
+              <option value="memcon">Presidential Memcon Files</option>
+              <option value="scowcroft">Scowcroft extracts</option>
+            </select>
+          </label>
+          <label>
+            Release
+            <select id="release-filter">
+              <option value="">All releases</option>
+            </select>
+          </label>
+          <button id="clear-filters" class="button secondary small" type="button">Clear</button>
+          <p id="result-summary" class="result-summary">0 records / 0 pages</p>
+        </div>
         <div id="records-root" class="records-root" aria-live="polite">
           <p class="loading">Loading memcon records...</p>
         </div>

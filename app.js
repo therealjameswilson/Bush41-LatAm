@@ -17,6 +17,14 @@ const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
 const totalChapters = document.querySelector("#total-chapters");
 const totalPages = document.querySelector("#total-pages");
+const resultSummary = document.querySelector("#result-summary");
+const searchInput = document.querySelector("#record-search");
+const countryFilter = document.querySelector("#country-filter");
+const typeFilter = document.querySelector("#type-filter");
+const sourceFilter = document.querySelector("#source-filter");
+const releaseFilter = document.querySelector("#release-filter");
+const clearFilters = document.querySelector("#clear-filters");
+let allRecords = [];
 
 function chapterId(chapterName) {
   return `chapter-${chapterName.toLowerCase().replace(/\s+/g, "-")}`;
@@ -35,7 +43,9 @@ function formatDate(dateString) {
 }
 
 function shortDate(dateString) {
+  if (!dateString) return "Undated";
   const date = new Date(`${dateString}T00:00:00Z`);
+  if (Number.isNaN(date.getTime())) return dateString;
   return new Intl.DateTimeFormat("en-US", {
     month: "short",
     day: "numeric",
@@ -59,6 +69,50 @@ function chapterNumber(record) {
 function setText(selector, value) {
   const node = document.querySelector(selector);
   if (node) node.textContent = value.toString();
+}
+
+function unique(values) {
+  return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b));
+}
+
+function sourceBucket(record) {
+  if (record.source?.name === "Brent Scowcroft Papers") return "scowcroft";
+  if (record.source?.series === "Presidential Memcon Files") return "memcon";
+  if (record.source?.series === "Presidential Telcon Files") return "telcon";
+  return "other";
+}
+
+function sourceLabel(record) {
+  switch (sourceBucket(record)) {
+    case "scowcroft":
+      return "Scowcroft extract";
+    case "memcon":
+      return "Presidential Memcon Files";
+    case "telcon":
+      return "Presidential Telcon Files";
+    default:
+      return record.source?.series || record.source?.name || "Source pending";
+  }
+}
+
+function reviewFlags(record) {
+  const flags = [];
+  if (record.releaseStatus && record.releaseStatus !== "Full") {
+    flags.push(record.releaseStatus);
+  }
+  if (record.source?.sourcePages) {
+    flags.push(`Source pages ${record.source.sourcePages}`);
+  }
+  if ((record.source?.duplicateSources || []).length) {
+    flags.push("Deduped cross-reference");
+  }
+  if (sourceBucket(record) === "scowcroft") {
+    flags.push("Local page-range extract");
+  }
+  if (record.source?.priorityCollection) {
+    flags.push("Priority collection");
+  }
+  return flags;
 }
 
 function setChapterCounts(records) {
@@ -94,6 +148,24 @@ function setProvenanceCounts(records) {
   }
 }
 
+function populateSelect(select, values) {
+  if (!select) return;
+  const existing = new Set([...select.options].map((option) => option.value));
+  for (const value of values) {
+    if (existing.has(value)) continue;
+    const option = document.createElement("option");
+    option.value = value;
+    option.textContent = value;
+    select.append(option);
+  }
+}
+
+function populateFilters(records) {
+  populateSelect(countryFilter, CHAPTER_ORDER);
+  populateSelect(typeFilter, unique(records.map((record) => record.type)));
+  populateSelect(releaseFilter, unique(records.map((record) => record.releaseStatus)));
+}
+
 function createMeta(record) {
   const meta = document.createElement("div");
   meta.className = "record-meta";
@@ -107,6 +179,7 @@ function createMeta(record) {
 
   for (const value of [
     countries,
+    sourceLabel(record),
     record.pageCount ? `${record.pageCount} pages` : "Pages pending",
     naid,
     record.releaseStatus
@@ -118,6 +191,32 @@ function createMeta(record) {
   }
 
   return meta;
+}
+
+function createDetailLine(label, values) {
+  const items = Array.isArray(values) ? values.filter(Boolean) : [values].filter(Boolean);
+  if (!items.length) return null;
+
+  const detail = document.createElement("p");
+  detail.className = "record-detail-line";
+  const labelNode = document.createElement("strong");
+  labelNode.textContent = `${label}: `;
+  detail.append(labelNode, document.createTextNode(items.join(", ")));
+  return detail;
+}
+
+function createReviewFlags(record) {
+  const flags = reviewFlags(record);
+  if (!flags.length) return null;
+
+  const container = document.createElement("div");
+  container.className = "record-flags";
+  for (const flag of flags) {
+    const item = document.createElement("span");
+    item.textContent = flag;
+    container.append(item);
+  }
+  return container;
 }
 
 function createSourceNote(record) {
@@ -156,7 +255,17 @@ function createRecordRow(record) {
   title.href = record.catalogUrl || record.pdfUrl;
   title.rel = "noreferrer";
   title.textContent = record.documentTitle || record.title;
-  body.append(title, createDateLine(record), createSubject(record), createMeta(record), createSourceNote(record));
+  const bodyParts = [
+    title,
+    createDateLine(record),
+    createSubject(record),
+    createDetailLine("Participants", record.participants),
+    createDetailLine("Topics", record.frusTopics || record.topics),
+    createMeta(record),
+    createReviewFlags(record),
+    createSourceNote(record)
+  ].filter(Boolean);
+  body.append(...bodyParts);
 
   const links = document.createElement("div");
   links.className = "record-links";
@@ -189,11 +298,91 @@ function createRecordRow(record) {
   return row;
 }
 
-function renderRecords(records) {
+function searchText(record) {
+  return [
+    record.title,
+    record.documentTitle,
+    record.subjectLine,
+    record.dateLine,
+    record.date,
+    record.type,
+    record.releaseStatus,
+    record.naid,
+    record.localIdentifier,
+    record.sourceTitle,
+    record.sourceNote,
+    record.notes,
+    record.participants,
+    record.countries,
+    record.topics,
+    record.frusTopics,
+    record.source?.name,
+    record.source?.series,
+    record.source?.fileUnitTitle,
+    record.source?.priorityCollection?.name,
+    record.source?.priorityCollection?.naid,
+    record.source?.sourcePages
+  ]
+    .flat()
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function activeFilters() {
+  return {
+    query: searchInput?.value.trim().toLowerCase() || "",
+    country: countryFilter?.value || "",
+    type: typeFilter?.value || "",
+    source: sourceFilter?.value || "",
+    release: releaseFilter?.value || ""
+  };
+}
+
+function hasActiveFilters(filters) {
+  return Object.values(filters).some(Boolean);
+}
+
+function recordMatches(record, filters) {
+  if (filters.query && !searchText(record).includes(filters.query)) return false;
+  if (filters.country && record.chapter?.name !== filters.country) return false;
+  if (filters.type && record.type !== filters.type) return false;
+  if (filters.source && sourceBucket(record) !== filters.source) return false;
+  if (filters.release && record.releaseStatus !== filters.release) return false;
+  return true;
+}
+
+function filteredRecords(records) {
+  const filters = activeFilters();
+  return {
+    filters,
+    records: records.filter((record) => recordMatches(record, filters))
+  };
+}
+
+function updateResultSummary(records) {
+  if (!resultSummary) return;
+  const pageTotal = records.reduce((sum, record) => sum + (record.pageCount || 0), 0);
+  resultSummary.textContent = `${records.length} records / ${pageTotal} pages`;
+}
+
+function renderRecords(records, options = {}) {
   const sorted = [...records].sort(byChapterThenDate);
   recordsRoot.replaceChildren();
 
-  for (const chapterName of CHAPTER_ORDER) {
+  if (!sorted.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-chapter";
+    empty.textContent = "No records match the current compiler filters.";
+    recordsRoot.append(empty);
+    return;
+  }
+
+  const visibleChapters = options.filtered
+    ? CHAPTER_ORDER.filter((chapterName) => sorted.some((record) => record.chapter.name === chapterName))
+    : CHAPTER_ORDER;
+
+  for (const chapterName of visibleChapters) {
     const chapterRecords = sorted.filter((record) => record.chapter.name === chapterName);
     const section = document.createElement("section");
     section.className = "record-chapter";
@@ -230,6 +419,29 @@ function renderRecords(records) {
   }
 }
 
+function updateRecords() {
+  const { filters, records } = filteredRecords(allRecords);
+  updateResultSummary(records);
+  renderRecords(records, { filtered: hasActiveFilters(filters) });
+}
+
+function enableRecordFilters() {
+  for (const control of [searchInput, countryFilter, typeFilter, sourceFilter, releaseFilter]) {
+    control?.addEventListener("input", updateRecords);
+    control?.addEventListener("change", updateRecords);
+  }
+
+  clearFilters?.addEventListener("click", () => {
+    if (searchInput) searchInput.value = "";
+    if (countryFilter) countryFilter.value = "";
+    if (typeFilter) typeFilter.value = "";
+    if (sourceFilter) sourceFilter.value = "";
+    if (releaseFilter) releaseFilter.value = "";
+    updateRecords();
+    searchInput?.focus();
+  });
+}
+
 function enableChapterCards() {
   for (const card of document.querySelectorAll(".chapter-card")) {
     card.addEventListener("click", (event) => {
@@ -249,9 +461,12 @@ function enableChapterCards() {
 async function init() {
   try {
     const records = window.MEMCONS || window.MEMCON_RECORDS || (await loadRecords());
+    allRecords = records;
     setChapterCounts(records);
     setProvenanceCounts(records);
-    renderRecords(records);
+    populateFilters(records);
+    enableRecordFilters();
+    updateRecords();
     enableChapterCards();
     if (window.location.hash) {
       const target = document.getElementById(decodeURIComponent(window.location.hash.slice(1)));

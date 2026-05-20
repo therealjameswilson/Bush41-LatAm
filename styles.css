@@ -269,7 +269,8 @@ h2 {
 }
 
 .feature-grid,
-.chapter-grid {
+.chapter-grid,
+.method-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 14px;
@@ -343,12 +344,22 @@ h3 {
   border-radius: 6px;
 }
 
+.method-source,
 article p,
 .chapter-card p,
 .timeline span,
 footer {
   color: var(--muted);
   line-height: 1.6;
+}
+
+.method-source {
+  margin: 18px 0 0;
+  font-weight: 800;
+}
+
+.method-source a {
+  color: var(--navy);
 }
 
 .source-count {
@@ -406,6 +417,62 @@ footer {
   color: var(--muted);
   font-size: 1.04rem;
   line-height: 1.6;
+}
+
+.record-tools {
+  display: grid;
+  grid-template-columns: minmax(240px, 1.35fr) repeat(4, minmax(128px, 0.75fr)) auto;
+  gap: 10px;
+  align-items: end;
+  margin: 0 0 28px;
+  padding: 14px;
+  background: rgba(255, 253, 248, 0.78);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.record-tools label {
+  display: grid;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.record-tools input,
+.record-tools select {
+  width: 100%;
+  min-height: 42px;
+  padding: 0 11px;
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: none;
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.record-tools input:focus,
+.record-tools select:focus {
+  border-color: var(--navy);
+  outline: 3px solid rgba(24, 59, 91, 0.14);
+}
+
+.button.small {
+  justify-content: center;
+  min-height: 42px;
+}
+
+.result-summary {
+  grid-column: 1 / -1;
+  margin: 0;
+  color: var(--navy);
+  font-weight: 900;
 }
 
 .record-chapter {
@@ -500,6 +567,17 @@ footer {
   line-height: 1.45;
 }
 
+.record-detail-line {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.record-detail-line strong {
+  color: var(--ink);
+}
+
 .record-source-note {
   margin: 10px 0 0;
   color: var(--muted);
@@ -508,7 +586,8 @@ footer {
 }
 
 .record-meta span,
-.record-links a {
+.record-links a,
+.record-flags span {
   display: inline-flex;
   min-height: 28px;
   align-items: center;
@@ -518,6 +597,18 @@ footer {
   font-weight: 800;
   background: rgba(24, 59, 91, 0.06);
   border-radius: 6px;
+}
+
+.record-flags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.record-flags span {
+  color: var(--red);
+  background: rgba(159, 47, 58, 0.08);
 }
 
 .record-links {
@@ -628,7 +719,12 @@ footer a {
 @media (max-width: 980px) {
   .feature-grid,
   .chapter-grid,
+  .method-grid,
   .source-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .record-tools {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -670,8 +766,10 @@ footer a {
 
   .feature-grid,
   .chapter-grid,
+  .method-grid,
   .source-list,
-  .timeline li {
+  .timeline li,
+  .record-tools {
     grid-template-columns: 1fr;
   }
 
