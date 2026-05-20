@@ -585,6 +585,35 @@ footer {
   line-height: 1.5;
 }
 
+.record-citation {
+  margin-top: 10px;
+}
+
+.record-citation .record-source-note {
+  margin: 0;
+}
+
+.record-provenance {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.84rem;
+  line-height: 1.5;
+}
+
+.record-provenance summary {
+  width: fit-content;
+  color: var(--navy);
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.record-provenance p {
+  margin: 8px 0 0;
+  padding: 10px 12px;
+  background: rgba(24, 59, 91, 0.05);
+  border-left: 3px solid rgba(24, 59, 91, 0.22);
+}
+
 .record-meta span,
 .record-links a,
 .record-flags span {

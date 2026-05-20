@@ -115,6 +115,84 @@ function reviewFlags(record) {
   return flags;
 }
 
+function cleanFileTitle(title) {
+  return (title || "")
+    .replace(/;\s*source pages\s+\S+$/i, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function sentence(value) {
+  if (!value) return "";
+  return /[.!?]$/.test(value) ? value : `${value}.`;
+}
+
+function sourceIdentifiers(record) {
+  const source = record.source || {};
+  const parts = [];
+  if (source.fileUnitNaid) parts.push(`file unit NAID ${source.fileUnitNaid}`);
+  if (record.naid) parts.push(`item NAID ${record.naid}`);
+  if (source.objectFilename) parts.push(`digital object ${source.objectFilename}`);
+  return parts.join("; ");
+}
+
+function duplicateSourceLine(record) {
+  const duplicates = record.source?.duplicateSources || [];
+  if (!duplicates.length) return "";
+  const citations = duplicates.map((source) => {
+    const parts = [
+      source.sourceName,
+      source.series,
+      source.localIdentifier,
+      source.naid ? `NAID ${source.naid}` : "",
+      source.sourcePages ? `source pages ${source.sourcePages}` : ""
+    ].filter(Boolean);
+    return parts.join(", ");
+  });
+  return `Related copy retained as provenance: ${citations.join("; ")}.`;
+}
+
+function frusSourceNote(record) {
+  const source = record.source || {};
+  const release = record.releaseStatus ? `Release status: ${record.releaseStatus}.` : "";
+
+  if (source.name === "Brent Scowcroft Papers") {
+    const title = cleanFileTitle(record.sourceTitle || source.objectFilename);
+    return [
+      "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Papers, Presidential Correspondence Files",
+      title,
+      record.localIdentifier,
+      record.naid ? `NAID ${record.naid}` : "",
+      source.sourcePages ? `source pages ${source.sourcePages}` : ""
+    ]
+      .filter(Boolean)
+      .join(", ")
+      .concat(". ", release, " Local PDF extract prepared from the public catalog scan.");
+  }
+
+  if (source.name === "Records of the National Security Council (George H. W. Bush Administration)") {
+    const sourcePath = [
+      "Source: George H.W. Bush Library",
+      "Bush Presidential Records",
+      "National Security Council",
+      source.series || "Presidential Memcon/Telcon Files",
+      source.fileUnitTitle
+    ]
+      .filter(Boolean)
+      .join(", ");
+    const identifiers = sourceIdentifiers(record);
+    return [
+      identifiers ? `${sourcePath}, ${identifiers}.` : `${sourcePath}.`,
+      release,
+      duplicateSourceLine(record)
+    ]
+      .filter(Boolean)
+      .join(" ");
+  }
+
+  return sentence(record.sourceNote || "Source: Provenance pending.");
+}
+
 function setChapterCounts(records) {
   totalRecords.textContent = records.length.toString();
   totalChapters.textContent = CHAPTER_ORDER.length.toString();
@@ -220,10 +298,26 @@ function createReviewFlags(record) {
 }
 
 function createSourceNote(record) {
+  const citation = document.createElement("div");
+  citation.className = "record-citation";
+
   const sourceNote = document.createElement("p");
   sourceNote.className = "record-source-note";
-  sourceNote.textContent = record.sourceNote || "Source: Provenance pending.";
-  return sourceNote;
+  sourceNote.textContent = frusSourceNote(record);
+  citation.append(sourceNote);
+
+  if (record.sourceNote && record.sourceNote !== sourceNote.textContent) {
+    const details = document.createElement("details");
+    details.className = "record-provenance";
+    const summary = document.createElement("summary");
+    summary.textContent = "Catalog provenance details";
+    const raw = document.createElement("p");
+    raw.textContent = record.sourceNote;
+    details.append(summary, raw);
+    citation.append(details);
+  }
+
+  return citation;
 }
 
 function createSubject(record) {
