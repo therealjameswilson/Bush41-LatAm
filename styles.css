@@ -351,6 +351,15 @@ footer {
   line-height: 1.6;
 }
 
+.source-count {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--navy);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.4rem;
+  line-height: 1;
+}
+
 .browse-layout {
   display: grid;
   grid-template-columns: 230px 1fr;
@@ -525,7 +534,8 @@ footer {
 }
 
 .loading,
-.error {
+.error,
+.empty-chapter {
   margin: 0;
   padding: 18px;
   color: var(--muted);

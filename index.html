@@ -18,10 +18,9 @@
       </a>
       <nav aria-label="Primary navigation">
         <a href="#chapters">Chapters</a>
-        <a href="#collection">Collection</a>
-        <a href="#browse">Browse</a>
+        <a href="#provenance">Provenance</a>
+        <a href="#records">Records</a>
         <a href="#sources">Sources</a>
-        <a href="#ingest">Ingest</a>
       </nav>
     </header>
 
@@ -39,7 +38,7 @@
           </p>
           <div class="hero-actions" aria-label="Primary actions">
             <a class="button primary" href="#records">Browse the Records</a>
-            <a class="button secondary" href="#ingest">Add a Memcon</a>
+            <a class="button secondary" href="#provenance">Review Provenance</a>
           </div>
         </div>
         <aside class="brief" aria-label="Archive scope">
@@ -71,8 +70,8 @@
           <p>South America files</p>
         </div>
         <div>
-          <span>12</span>
-          <p>country chapters</p>
+          <span id="total-chapters">12</span>
+          <p>South America countries</p>
         </div>
         <div>
           <span id="total-pages">0</span>
@@ -95,45 +94,22 @@
           <a class="chapter-card" href="#chapter-guyana"><p class="chapter-number">Chapter 7</p><h3>Guyana</h3><p class="chapter-count"><span data-chapter-count="Guyana">0</span> records / <span data-chapter-pages="Guyana">0</span> pages</p><p>Guyana materials and conversations connected to northern South America and Caribbean-facing policy.</p><span class="chapter-action">View chronological files</span></a>
           <a class="chapter-card" href="#chapter-paraguay"><p class="chapter-number">Chapter 8</p><h3>Paraguay</h3><p class="chapter-count"><span data-chapter-count="Paraguay">0</span> records / <span data-chapter-pages="Paraguay">0</span> pages</p><p>Paraguay records around transition politics and bilateral relations.</p><span class="chapter-action">View chronological files</span></a>
           <a class="chapter-card" href="#chapter-peru"><p class="chapter-number">Chapter 9</p><h3>Peru</h3><p class="chapter-count"><span data-chapter-count="Peru">0</span> records / <span data-chapter-pages="Peru">0</span> pages</p><p>Peru conversations on democracy, debt, insurgency, narcotics, and regional diplomacy.</p><span class="chapter-action">View chronological files</span></a>
-          <a class="chapter-card" href="#chapter-suriname"><p class="chapter-number">Chapter 10</p><h3>Suriname</h3><p class="chapter-count"><span data-chapter-count="Suriname">0</span> records / <span data-chapter-pages="Suriname">0</span> pages</p><p>Suriname materials as released or identified through the Bush Library and NARA Catalog.</p><span class="chapter-action">View chronological files</span></a>
+          <a class="chapter-card" href="#chapter-suriname"><p class="chapter-number">Chapter 10</p><h3>Suriname</h3><p class="chapter-count"><span data-chapter-count="Suriname">0</span> records / <span data-chapter-pages="Suriname">0</span> pages</p><p>No released Suriname memcon or telcon has been identified yet; the placeholder preserves one chapter per South America country.</p><span class="chapter-action">View chronological files</span></a>
           <a class="chapter-card" href="#chapter-uruguay"><p class="chapter-number">Chapter 11</p><h3>Uruguay</h3><p class="chapter-count"><span data-chapter-count="Uruguay">0</span> records / <span data-chapter-pages="Uruguay">0</span> pages</p><p>Uruguay records on bilateral, regional, and hemispheric questions.</p><span class="chapter-action">View chronological files</span></a>
           <a class="chapter-card" href="#chapter-venezuela"><p class="chapter-number">Chapter 12</p><h3>Venezuela</h3><p class="chapter-count"><span data-chapter-count="Venezuela">0</span> records / <span data-chapter-pages="Venezuela">0</span> pages</p><p>Venezuela conversations, including oil, democracy, debt, and regional diplomacy.</p><span class="chapter-action">View chronological files</span></a>
         </div>
       </section>
 
-      <section class="section" id="collection" aria-labelledby="collection-title">
+      <section class="section" id="provenance" aria-labelledby="provenance-title">
         <div class="section-heading">
-          <p class="kicker">Collection Design</p>
-          <h2 id="collection-title">What This Site Will House</h2>
+          <p class="kicker">Provenance</p>
+          <h2 id="provenance-title">Where These Records Come From</h2>
         </div>
         <div class="feature-grid">
-          <article><h3>Released PDFs</h3><p>Direct links to declassified scans hosted by the Bush Presidential Library and National Archives.</p></article>
-          <article><h3>Document Metadata</h3><p>Date, type, participants, country, release status, NAID, PDF link, source collection, chapter, provenance note, and FRUS topic tags.</p></article>
-          <article><h3>Research Notes</h3><p>Short, separable notes for debt, narcotics, democratic transitions, trade, summits, and bilateral relationships.</p></article>
-          <article><h3>Provenance Trail</h3><p>Visible Source notes distinguish Bush Library table rows, National Archives Catalog items, and Scowcroft page-range extracts.</p></article>
-        </div>
-      </section>
-
-      <section class="section browse-section" id="browse" aria-labelledby="browse-title">
-        <div class="section-heading">
-          <p class="kicker">Volume Finding Map</p>
-          <h2 id="browse-title">South America Browse Paths</h2>
-        </div>
-        <div class="browse-layout">
-          <div class="facet-list" aria-label="Browse facets">
-            <a href="#source-records">By country</a>
-            <a href="#source-records">By chapter</a>
-            <a href="#source-records">By leader</a>
-            <a href="#source-records">By year</a>
-            <a href="#source-records">By summit</a>
-            <a href="#source-records">By FRUS topic</a>
-            <a href="#source-records">By release status</a>
-            <a href="#source-records">By NAID</a>
-          </div>
-          <div class="browse-note" id="source-records">
-            <h3>Country-first, date-ordered</h3>
-            <p>The record list below is generated from the Bush Library table and grouped into South America country chapters.</p>
-          </div>
+          <article><h3>Presidential Telcon Files</h3><p><strong class="source-count" data-source-count="telcon">0</strong> telephone-conversation records harvested from the Bush Library memcons and telcons table and enriched from National Archives Catalog item metadata.</p></article>
+          <article><h3>Presidential Memcon Files</h3><p><strong class="source-count" data-source-count="memcon">0</strong> memorandum-of-conversation records from the same public table and the Presidential Memcon Files series.</p></article>
+          <article><h3>Scowcroft Page Ranges</h3><p><strong class="source-count" data-source-count="scowcroft">0</strong> local PDF extracts from the Brent Scowcroft Papers, Presidential Correspondence Files, when the cataloged scan bundles multiple conversations.</p></article>
+          <article><h3>Deduped Cross-References</h3><p><strong class="source-count" data-source-count="duplicates">0</strong> records retain Scowcroft or catalog cross-references inside the Source note rather than appearing twice in the public list.</p></article>
         </div>
       </section>
 
@@ -161,30 +137,16 @@
         </div>
         <div class="source-list">
           <a href="https://history.state.gov/historicaldocuments/frus1989-92v25" rel="noreferrer">FRUS 1989-1992 Volume XXV status page</a>
+          <a href="https://catalog.archives.gov/id/2197972" rel="noreferrer">Latin American Directorate Chronological Files, NAID 2197972</a>
+          <a href="https://catalog.archives.gov/id/2163580" rel="noreferrer">Records of the National Security Council, NAID 2163580</a>
+          <a href="https://catalog.archives.gov/id/376217847" rel="noreferrer">Latin American Affairs Directorate Subject Files, NAID 376217847</a>
           <a href="https://catalog.archives.gov/id/4522156" rel="noreferrer">Brent Scowcroft Papers, NAID 4522156</a>
           <a href="https://catalog.archives.gov/id/4545941" rel="noreferrer">Scowcroft Presidential Correspondence Files</a>
           <a href="https://catalog.archives.gov/id/321498039" rel="noreferrer">Presidential Memcon Files</a>
           <a href="https://catalog.archives.gov/id/322361434" rel="noreferrer">January 1989 Presidential Telcon folder</a>
           <a href="https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons" rel="noreferrer">Bush Library Memcons and Telcons index</a>
           <a href="https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991" rel="noreferrer">FOIA 2000-0429-F finding aid</a>
-          <a href="https://catalog.archives.gov/" rel="noreferrer">National Archives Catalog</a>
         </div>
-      </section>
-
-      <section class="section ingest-section" id="ingest" aria-labelledby="ingest-title">
-        <div class="section-heading">
-          <p class="kicker">Build Plan</p>
-          <h2 id="ingest-title">Ingest Checklist</h2>
-        </div>
-        <ol class="timeline">
-          <li><span class="step-number">01</span><span>Harvest released South America memcon or telcon rows from the Bush Library table.</span></li>
-          <li><span class="step-number">02</span><span>Exclude Central America and assign each record to its South America country chapter.</span></li>
-          <li><span class="step-number">03</span><span>Extract South America page ranges from the Scowcroft Presidential Correspondence Files.</span></li>
-          <li><span class="step-number">04</span><span>Index South America and regional folders from the Latin American Affairs subject files.</span></li>
-          <li><span class="step-number">05</span><span>Normalize participants, release status, NAIDs, FRUS-style date lines, and Source notes.</span></li>
-          <li><span class="step-number">06</span><span>Track page counts and PDF availability for released scans.</span></li>
-          <li><span class="step-number">07</span><span>Add topic tags for debt, narcotics, democracy, trade, environment, and bilateral relationships.</span></li>
-        </ol>
       </section>
     </main>
 

@@ -15,14 +15,17 @@ const CHAPTER_ORDER = [
 
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
+const totalChapters = document.querySelector("#total-chapters");
 const totalPages = document.querySelector("#total-pages");
 
 function chapterId(chapterName) {
-  return `chapter-${chapterName.toLowerCase().replaceAll(" ", "-")}`;
+  return `chapter-${chapterName.toLowerCase().replace(/\s+/g, "-")}`;
 }
 
 function formatDate(dateString) {
+  if (!dateString) return "Undated";
   const date = new Date(`${dateString}T00:00:00Z`);
+  if (Number.isNaN(date.getTime())) return dateString;
   return new Intl.DateTimeFormat("en-US", {
     month: "short",
     day: "numeric",
@@ -43,14 +46,24 @@ function shortDate(dateString) {
 
 function byChapterThenDate(a, b) {
   return (
-    a.chapter.number - b.chapter.number ||
-    a.sortDate.localeCompare(b.sortDate) ||
-    a.title.localeCompare(b.title)
+    chapterNumber(a) - chapterNumber(b) ||
+    (a.sortDate || a.date || "").localeCompare(b.sortDate || b.date || "") ||
+    (a.title || "").localeCompare(b.title || "")
   );
+}
+
+function chapterNumber(record) {
+  return record.chapter?.number || CHAPTER_ORDER.indexOf(record.chapter?.name) + 1 || 999;
+}
+
+function setText(selector, value) {
+  const node = document.querySelector(selector);
+  if (node) node.textContent = value.toString();
 }
 
 function setChapterCounts(records) {
   totalRecords.textContent = records.length.toString();
+  totalChapters.textContent = CHAPTER_ORDER.length.toString();
   totalPages.textContent = records.reduce((sum, record) => sum + (record.pageCount || 0), 0).toString();
 
   for (const chapterName of CHAPTER_ORDER) {
@@ -68,14 +81,34 @@ function setChapterCounts(records) {
   }
 }
 
+function setProvenanceCounts(records) {
+  const counts = {
+    telcon: records.filter((record) => record.source?.series === "Presidential Telcon Files").length,
+    memcon: records.filter((record) => record.source?.series === "Presidential Memcon Files").length,
+    scowcroft: records.filter((record) => record.source?.name === "Brent Scowcroft Papers").length,
+    duplicates: records.filter((record) => (record.source?.duplicateSources || []).length > 0).length
+  };
+
+  for (const [name, value] of Object.entries(counts)) {
+    setText(`[data-source-count="${name}"]`, value);
+  }
+}
+
 function createMeta(record) {
   const meta = document.createElement("div");
   meta.className = "record-meta";
 
+  const countries = (record.countries || []).filter((country) => country !== "United States").join(", ");
+  const naid = record.naid?.startsWith("local-")
+    ? "Local PDF"
+    : record.naid
+      ? `NAID ${record.naid}`
+      : record.localIdentifier || "";
+
   for (const value of [
-    record.countries.filter((country) => country !== "United States").join(", "),
+    countries,
     record.pageCount ? `${record.pageCount} pages` : "Pages pending",
-    record.naid?.startsWith("local-") ? "Local PDF" : `NAID ${record.naid}`,
+    naid,
     record.releaseStatus
   ]) {
     if (!value) continue;
@@ -114,7 +147,7 @@ function createRecordRow(record) {
 
   const date = document.createElement("time");
   date.className = "record-date";
-  date.dateTime = record.date;
+  date.dateTime = record.date || "";
   date.textContent = shortDate(record.date);
 
   const body = document.createElement("div");
@@ -140,6 +173,7 @@ function createRecordRow(record) {
     const pdf = document.createElement("a");
     pdf.href = record.pdfUrl;
     pdf.rel = "noreferrer";
+    pdf.target = "_blank";
     pdf.textContent = "Open PDF";
     links.append(pdf);
 
@@ -179,8 +213,16 @@ function renderRecords(records) {
 
     const list = document.createElement("div");
     list.className = "record-list";
-    for (const record of chapterRecords) {
-      list.append(createRecordRow(record));
+    if (chapterRecords.length) {
+      for (const record of chapterRecords) {
+        list.append(createRecordRow(record));
+      }
+    } else {
+      const empty = document.createElement("p");
+      empty.className = "empty-chapter";
+      empty.textContent =
+        "No released memcons or telcons for this country have been identified in the public record set yet.";
+      list.append(empty);
     }
 
     section.append(header, list);
@@ -208,10 +250,12 @@ async function init() {
   try {
     const records = window.MEMCONS || window.MEMCON_RECORDS || (await loadRecords());
     setChapterCounts(records);
+    setProvenanceCounts(records);
     renderRecords(records);
     enableChapterCards();
     if (window.location.hash) {
-      document.querySelector(window.location.hash)?.scrollIntoView();
+      const target = document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
+      target?.scrollIntoView();
     }
   } catch (error) {
     recordsRoot.innerHTML =
