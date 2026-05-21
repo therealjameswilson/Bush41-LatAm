@@ -125,9 +125,31 @@ This scans OCR for South America leaders, extracts the relevant page ranges into
 the records into `data/memcons.json`, and writes
 `reports/scowcroft-south-america-harvest.json`.
 
+The published Scowcroft extracts include page 1 of the source folder PDF as a provenance sheet before
+the conversation pages. If the cached source-folder PDFs are already present and the local extracts
+need to be refreshed without rerunning the full harvester, run:
+
+```bash
+node scripts/refresh-scowcroft-provenance-sheets.js
+```
+
+The refresh script reads the PDF provenance-sheet OCR, rewrites Scowcroft citation metadata in the
+Volume XXXI Bush-document Source Note pattern, prepends the provenance sheet to each local PDF, keeps
+`pageCount` scoped to conversation text by setting `provenancePages: 1`, and writes
+`reports/scowcroft-provenance-sheet-refresh.json`.
+
+## Source Note Standard
+
+The visible Source note follows the model used in *Foreign Relations, 1989-1992, Volume XXXI, START I,
+1989-1991*: repository, Bush Presidential Records, office or collection, series, OA/ID or file unit,
+folder title, then release facts. Working metadata such as NAIDs, catalog URLs, digital-object
+filenames, source page ranges, duplicate provenance, and project-PDF construction remains in the
+expanded provenance trail for each record.
+
 ## Source Anchors
 
 - FRUS 1989-1992, Volume XXV, Latin America: <https://history.state.gov/historicaldocuments/frus1989-92v25>
+- FRUS 1989-1992, Volume XXXI, START I source-note model: <https://history.state.gov/historicaldocuments/frus1989-92v31>
 - Records of the National Security Council, NAID 2163580: <https://catalog.archives.gov/search-within/2163580>
 - Latin American Directorate Chronological Files: <https://catalog.archives.gov/id/2197972>
 - Latin American Affairs Directorate Subject Files: <https://catalog.archives.gov/search-within/376217847>

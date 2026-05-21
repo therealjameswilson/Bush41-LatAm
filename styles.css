@@ -591,6 +591,10 @@ footer {
 
 .record-citation .record-source-note {
   margin: 0;
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.94rem;
+  line-height: 1.58;
 }
 
 .record-provenance {

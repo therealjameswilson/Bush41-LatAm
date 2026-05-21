@@ -60,9 +60,18 @@
           "localIdentifier": "91111-001",
           "sourcePages": "12-13",
           "catalogUrl": "https://catalog.archives.gov/id/366551686",
-          "pdfUrl": "documents/argentina/1989-01-23-bush-raul-alfonsin-telcon-91111-001-p12-scowcroft.pdf",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 91111-001, NAID 366551686, source pages 12-13."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 12-13. Catalog: https://catalog.archives.gov/id/366551686.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-001",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89"
+          }
         }
       ]
     },
@@ -149,9 +158,18 @@
           "localIdentifier": "91111-002",
           "sourcePages": "24-28",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
-          "pdfUrl": "documents/argentina/1989-05-13-bush-raul-alfonsin-telcon-91111-002-p24-scowcroft.pdf",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 91111-002, NAID 366551687, source pages 24-28."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 24-28. Catalog: https://catalog.archives.gov/id/366551687.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-002",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
+          }
         }
       ]
     },
@@ -183,7 +201,7 @@
     "sortDate": "1989-09-27",
     "type": "Memcon",
     "title": "Meeting with President Carlos Menem of Argentina",
-    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 7/14/89-10/2/89; source pages 100-106",
+    "sourceTitle": "Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89; 41-bpr-scow-pcor-memcon-91107-005.pdf; source pages 100-106",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -209,7 +227,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-005.pdf",
       "objectFilename": "41-bpr-scow-pcor-memcon-91107-005.pdf",
-      "sourcePages": "100-106"
+      "sourcePages": "100-106",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Memcons Files",
+        "oaIdNumber": "91107",
+        "folderIdNumber": "91107-005",
+        "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -227,11 +257,12 @@
       "Head of state"
     ],
     "pageCount": 7,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91107-005.pdf as a provenance sheet, followed by source pages 100-106; pageCount counts only the 7 pages of conversation text.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Carlos Menem of Argentina",
     "dateLine": "September 27, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 7/14/89-10/2/89, 91107-005, NAID 366551664, source pages 100-106."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-005, Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 100-106. Digital source file: 41-bpr-scow-pcor-memcon-91107-005.pdf. Catalog: https://catalog.archives.gov/id/366551664.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428080237",
@@ -391,7 +422,7 @@
     "sortDate": "1990-03-01",
     "type": "Telcon",
     "title": "Telephone conversation with President Carlos Menem of Argentina (U)",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90; source pages 88-90",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90; 41-bpr-scow-pcor-telcon-91111-005.pdf; source pages 88-90",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -417,7 +448,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-005.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91111-005.pdf",
-      "sourcePages": "88-90"
+      "sourcePages": "88-90",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91111",
+        "folderIdNumber": "91111-005",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -435,11 +478,12 @@
       "Head of state"
     ],
     "pageCount": 3,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-005.pdf as a provenance sheet, followed by source pages 88-90; pageCount counts only the 3 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telephone conversation with President Carlos Menem of Argentina (U)",
     "dateLine": "March 1, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, 91111-005, NAID 366551690, source pages 88-90."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 88-90. Digital source file: 41-bpr-scow-pcor-telcon-91111-005.pdf. Catalog: https://catalog.archives.gov/id/366551690.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428080601",
@@ -523,7 +567,7 @@
     "sortDate": "1990-06-28",
     "type": "Telcon",
     "title": "Telephone Conversation with President Carlos Sail Menem of Argentina (VU)",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90; source pages 20-23",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90; 41-bpr-scow-pcor-telcon-91111-007.pdf; source pages 20-23",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -549,7 +593,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-007.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91111-007.pdf",
-      "sourcePages": "20-23"
+      "sourcePages": "20-23",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91111",
+        "folderIdNumber": "91111-007",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -567,11 +623,12 @@
       "Head of state"
     ],
     "pageCount": 4,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-007.pdf as a provenance sheet, followed by source pages 20-23; pageCount counts only the 4 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Carlos Sail Menem of Argentina (VU)",
     "dateLine": "June 28, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90, 91111-007, NAID 366551692, source pages 20-23."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 20-23. Digital source file: 41-bpr-scow-pcor-telcon-91111-007.pdf. Catalog: https://catalog.archives.gov/id/366551692.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428080817",
@@ -731,7 +788,7 @@
     "sortDate": "1990-12-05",
     "type": "Memcon",
     "title": "Luncheon with President Carlos Saul Menem of Argentina (U)",
-    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 11/13/90-12/21/90; source pages 112-116",
+    "sourceTitle": "Presidential Meetings - Memorandum of Conversations 11/13/90 - 12/21/90; 41-bpr-scow-pcor-memcon-91108-003.pdf; source pages 112-116",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -757,7 +814,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91108-003.pdf",
       "objectFilename": "41-bpr-scow-pcor-memcon-91108-003.pdf",
-      "sourcePages": "112-116"
+      "sourcePages": "112-116",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Memcons Files",
+        "oaIdNumber": "91108",
+        "folderIdNumber": "91108-003",
+        "folderTitle": "Presidential Meetings - Memorandum of Conversations 11/13/90 - 12/21/90"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -775,11 +844,12 @@
       "Head of state"
     ],
     "pageCount": 5,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91108-003.pdf as a provenance sheet, followed by source pages 112-116; pageCount counts only the 5 pages of conversation text.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Luncheon with President Carlos Saul Menem of Argentina (U)",
     "dateLine": "December 5, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 11/13/90-12/21/90, 91108-003, NAID 366551672, source pages 112-116."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-003, Presidential Meetings - Memorandum of Conversations 11/13/90 - 12/21/90. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 112-116. Digital source file: 41-bpr-scow-pcor-memcon-91108-003.pdf. Catalog: https://catalog.archives.gov/id/366551672.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428081237",
@@ -863,7 +933,7 @@
     "sortDate": "1991-01-14",
     "type": "Telcon",
     "title": "Telephone conversation with President Carlos Menem of Argentina (U)",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91; source pages 45-46",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91; 41-bpr-scow-pcor-telcon-91112-004.pdf; source pages 45-46",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -889,7 +959,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91112-004.pdf",
-      "sourcePages": "45-46"
+      "sourcePages": "45-46",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91112",
+        "folderIdNumber": "91112-004",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -907,11 +989,12 @@
       "Head of state"
     ],
     "pageCount": 2,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 45-46; pageCount counts only the 2 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telephone conversation with President Carlos Menem of Argentina (U)",
     "dateLine": "January 14, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, 91112-004, NAID 366551696, source pages 45-46."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 45-46. Digital source file: 41-bpr-scow-pcor-telcon-91112-004.pdf. Catalog: https://catalog.archives.gov/id/366551696.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428081341",
@@ -995,7 +1078,7 @@
     "sortDate": "1991-01-19",
     "type": "Telcon",
     "title": "Telephone conversation with President Carlos Menem of Argentina (U)",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91; source pages 71-72",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91; 41-bpr-scow-pcor-telcon-91112-004.pdf; source pages 71-72",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -1021,7 +1104,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-004.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91112-004.pdf",
-      "sourcePages": "71-72"
+      "sourcePages": "71-72",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91112",
+        "folderIdNumber": "91112-004",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -1039,11 +1134,12 @@
       "Head of state"
     ],
     "pageCount": 2,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-004.pdf as a provenance sheet, followed by source pages 71-72; pageCount counts only the 2 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telephone conversation with President Carlos Menem of Argentina (U)",
     "dateLine": "January 19, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, 91112-004, NAID 366551696, source pages 71-72."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 71-72. Digital source file: 41-bpr-scow-pcor-telcon-91112-004.pdf. Catalog: https://catalog.archives.gov/id/366551696.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428081361",
@@ -1182,9 +1278,18 @@
           "localIdentifier": "91108-004",
           "sourcePages": "21-24",
           "catalogUrl": "https://catalog.archives.gov/id/366551673",
-          "pdfUrl": "documents/argentina/1991-02-08-bush-guido-di-tella-memcon-91108-004-p21-scowcroft.pdf",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 1/14/91-3/8/91, 91108-004, NAID 366551673, source pages 21-24."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-004, Presidential Meetings - Memorandum of Conversations 01/14/91 - 03/08/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 21-24. Catalog: https://catalog.archives.gov/id/366551673.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91108",
+            "folderIdNumber": "91108-004",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 01/14/91 - 03/08/91"
+          }
         }
       ]
     },
@@ -1216,7 +1321,7 @@
     "sortDate": "1991-02-08",
     "type": "Telcon",
     "title": "Telephone conversation with President Carlos Menem of Argentina (U)",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91; source pages 49-51",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91; 41-bpr-scow-pcor-telcon-91112-005.pdf; source pages 49-51",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -1242,7 +1347,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-005.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91112-005.pdf",
-      "sourcePages": "49-51"
+      "sourcePages": "49-51",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91112",
+        "folderIdNumber": "91112-005",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -1260,11 +1377,12 @@
       "Head of state"
     ],
     "pageCount": 3,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-005.pdf as a provenance sheet, followed by source pages 49-51; pageCount counts only the 3 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telephone conversation with President Carlos Menem of Argentina (U)",
     "dateLine": "February 8, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91, 91112-005, NAID 366551697, source pages 49-51."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 49-51. Digital source file: 41-bpr-scow-pcor-telcon-91112-005.pdf. Catalog: https://catalog.archives.gov/id/366551697.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428081437",
@@ -1348,7 +1466,7 @@
     "sortDate": "1991-03-04",
     "type": "Telcon",
     "title": "Telephone conversation with President Menem of Argentina (U)",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 2/22/91-3/6/91; source pages 76-78",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 2/22/91 - 3/6/91; 41-bpr-scow-pcor-telcon-91112-006.pdf; source pages 76-78",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -1374,7 +1492,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-006.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91112-006.pdf",
-      "sourcePages": "76-78"
+      "sourcePages": "76-78",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91112",
+        "folderIdNumber": "91112-006",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 2/22/91 - 3/6/91"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -1392,11 +1522,12 @@
       "Head of state"
     ],
     "pageCount": 3,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-006.pdf as a provenance sheet, followed by source pages 76-78; pageCount counts only the 3 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telephone conversation with President Menem of Argentina (U)",
     "dateLine": "March 4, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 2/22/91-3/6/91, 91112-006, NAID 366551698, source pages 76-78."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-006, Presidential Telephone Calls - Memorandum of Conversations 2/22/91 - 3/6/91. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 76-78. Digital source file: 41-bpr-scow-pcor-telcon-91112-006.pdf. Catalog: https://catalog.archives.gov/id/366551698.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428081559",
@@ -1556,7 +1687,7 @@
     "sortDate": "1991-08-20",
     "type": "Telcon",
     "title": "Telcon with President Carlos Menem of Argentina on August 20, 1991 (JU)",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91; source pages 44-45",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/5/91 - 9/25/91; 41-bpr-scow-pcor-telcon-91113-001.pdf; source pages 44-45",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -1582,7 +1713,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-001.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91113-001.pdf",
-      "sourcePages": "44-45"
+      "sourcePages": "44-45",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91113",
+        "folderIdNumber": "91113-001",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/5/91 - 9/25/91"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -1600,11 +1743,12 @@
       "Head of state"
     ],
     "pageCount": 2,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-001.pdf as a provenance sheet, followed by source pages 44-45; pageCount counts only the 2 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telcon with President Carlos Menem of Argentina on August 20, 1991 (JU)",
     "dateLine": "August 20, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91, 91113-001, NAID 366551701, source pages 44-45."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91 - 9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 44-45. Digital source file: 41-bpr-scow-pcor-telcon-91113-001.pdf. Catalog: https://catalog.archives.gov/id/366551701.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428082023",
@@ -1840,7 +1984,7 @@
     "sortDate": "1992-10-31",
     "type": "Telcon",
     "title": "Telcon with Carlos Menem President of Argentina on October 31, 1992 ()",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92; source pages 70-71",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92; 41-bpr-scow-pcor-telcon-91113-005.pdf; source pages 70-71",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -1866,7 +2010,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91113-005.pdf",
-      "sourcePages": "70-71"
+      "sourcePages": "70-71",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91113",
+        "folderIdNumber": "91113-005",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -1884,11 +2040,12 @@
       "Head of state"
     ],
     "pageCount": 2,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 70-71; pageCount counts only the 2 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telcon with Carlos Menem President of Argentina on October 31, 1992 ()",
     "dateLine": "October 31, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92, 91113-005, NAID 366551705, source pages 70-71."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 70-71. Digital source file: 41-bpr-scow-pcor-telcon-91113-005.pdf. Catalog: https://catalog.archives.gov/id/366551705.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428082357",
@@ -1972,7 +2129,7 @@
     "sortDate": "1992-11-05",
     "type": "Telcon",
     "title": "Telcon with Carlos Saul Menem of Argentina on November 5, 1992",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92; source pages 83-84",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92; 41-bpr-scow-pcor-telcon-91113-005.pdf; source pages 83-84",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -1998,7 +2155,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-005.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91113-005.pdf",
-      "sourcePages": "83-84"
+      "sourcePages": "83-84",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91113",
+        "folderIdNumber": "91113-005",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -2016,11 +2185,12 @@
       "Head of state"
     ],
     "pageCount": 2,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-005.pdf as a provenance sheet, followed by source pages 83-84; pageCount counts only the 2 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telcon with Carlos Saul Menem of Argentina on November 5, 1992",
     "dateLine": "November 5, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92, 91113-005, NAID 366551705, source pages 83-84."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 83-84. Digital source file: 41-bpr-scow-pcor-telcon-91113-005.pdf. Catalog: https://catalog.archives.gov/id/366551705.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428082385",
@@ -2104,7 +2274,7 @@
     "sortDate": "1992-12-01",
     "type": "Telcon",
     "title": "Telcon with President Carlos Menem of Argentina on December 1, 1992 (D)",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 11/5/92-1/2/93; source pages 34-36",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 11/5/92 - 1/2/93; 41-bpr-scow-pcor-telcon-91113-006.pdf; source pages 34-36",
     "participants": [
       "George H. W. Bush",
       "Carlos Saul Menem"
@@ -2130,7 +2300,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-006.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91113-006.pdf",
-      "sourcePages": "34-36"
+      "sourcePages": "34-36",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91113",
+        "folderIdNumber": "91113-006",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 11/5/92 - 1/2/93"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -2148,11 +2330,12 @@
       "Head of state"
     ],
     "pageCount": 3,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-006.pdf as a provenance sheet, followed by source pages 34-36; pageCount counts only the 3 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telcon with President Carlos Menem of Argentina on December 1, 1992 (D)",
     "dateLine": "December 1, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 11/5/92-1/2/93, 91113-006, NAID 366551706, source pages 34-36."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-006, Presidential Telephone Calls - Memorandum of Conversations 11/5/92 - 1/2/93. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 34-36. Digital source file: 41-bpr-scow-pcor-telcon-91113-006.pdf. Catalog: https://catalog.archives.gov/id/366551706.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428080119",
@@ -2236,7 +2419,7 @@
     "sortDate": "1990-02-15",
     "type": "Memcon",
     "title": "Cartagena Drug Summit",
-    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 1/11/90-2/21/90; source pages 73-79",
+    "sourceTitle": "Presidential Meetings - Memorandum of Conversations 1/11/90 - 2/21/90; 41-bpr-scow-pcor-memcon-91107-007.pdf; source pages 73-79",
     "participants": [
       "George H. W. Bush",
       "Jaime Paz Zamora"
@@ -2262,7 +2445,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91107-007.pdf",
       "objectFilename": "41-bpr-scow-pcor-memcon-91107-007.pdf",
-      "sourcePages": "73-79"
+      "sourcePages": "73-79",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Memcons Files",
+        "oaIdNumber": "91107",
+        "folderIdNumber": "91107-007",
+        "folderTitle": "Presidential Meetings - Memorandum of Conversations 1/11/90 - 2/21/90"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -2280,11 +2475,12 @@
       "Head of state"
     ],
     "pageCount": 7,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91107-007.pdf as a provenance sheet, followed by source pages 73-79; pageCount counts only the 7 pages of conversation text.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Cartagena Drug Summit",
     "dateLine": "February 15, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 1/11/90-2/21/90, 91107-007, NAID 366551666, source pages 73-79."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-007, Presidential Meetings - Memorandum of Conversations 1/11/90 - 2/21/90. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 73-79. Digital source file: 41-bpr-scow-pcor-memcon-91107-007.pdf. Catalog: https://catalog.archives.gov/id/366551666.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428080687",
@@ -2499,9 +2695,18 @@
           "localIdentifier": "91107-001",
           "sourcePages": "92-95",
           "catalogUrl": "https://catalog.archives.gov/id/366551660",
-          "pdfUrl": "documents/brazil/1989-02-25-bush-jose-sarney-memcon-91107-001-p92-scowcroft.pdf",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 1/24/89-2/25/89, 91107-001, NAID 366551660, source pages 92-95."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-001, Presidential Meetings - Memorandum of Conversations 1/24/89 - 2/25/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 92-95. Catalog: https://catalog.archives.gov/id/366551660.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91107",
+            "folderIdNumber": "91107-001",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 1/24/89 - 2/25/89"
+          }
         }
       ]
     },
@@ -2588,9 +2793,18 @@
           "localIdentifier": "91111-002",
           "sourcePages": "41-43",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
-          "pdfUrl": "documents/brazil/1989-05-17-bush-jose-sarney-telcon-91111-002-p41-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 91111-002, NAID 366551687, source pages 41-43."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 41-43. Catalog: https://catalog.archives.gov/id/366551687.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-002",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
+          }
         }
       ]
     },
@@ -2789,9 +3003,18 @@
           "localIdentifier": "91111-006",
           "sourcePages": "25-26",
           "catalogUrl": "https://catalog.archives.gov/id/366551691",
-          "pdfUrl": "documents/brazil/1990-03-23-bush-fernando-collor-de-mello-telcon-91111-006-p25-scowcroft.pdf",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90, 91111-006, NAID 366551691, source pages 25-26."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 25-26. Catalog: https://catalog.archives.gov/id/366551691.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-006",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90"
+          }
         }
       ]
     },
@@ -2878,9 +3101,18 @@
           "localIdentifier": "91111-006",
           "sourcePages": "91-93",
           "catalogUrl": "https://catalog.archives.gov/id/366551691",
-          "pdfUrl": "documents/brazil/1990-06-06-bush-fernando-collor-de-mello-telcon-91111-006-p91-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90, 91111-006, NAID 366551691, source pages 91-93."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 91-93. Catalog: https://catalog.archives.gov/id/366551691.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-006",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90"
+          }
         }
       ]
     },
@@ -2967,9 +3199,18 @@
           "localIdentifier": "91111-007",
           "sourcePages": "14-15",
           "catalogUrl": "https://catalog.archives.gov/id/366551692",
-          "pdfUrl": "documents/brazil/1990-06-28-bush-fernando-collor-de-mello-telcon-91111-007-p14-scowcroft.pdf",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90, 91111-007, NAID 366551692, source pages 14-15."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 14-15. Catalog: https://catalog.archives.gov/id/366551692.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-007",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90"
+          }
         }
       ]
     },
@@ -3056,9 +3297,18 @@
           "localIdentifier": "91108-002",
           "sourcePages": "82-86",
           "catalogUrl": "https://catalog.archives.gov/id/366551671",
-          "pdfUrl": "documents/brazil/1990-10-01-bush-fernando-collor-de-mello-memcon-91108-002-p82-scowcroft.pdf",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 9/25/90-10/31/90, 91108-002, NAID 366551671, source pages 82-86."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 82-86. Catalog: https://catalog.archives.gov/id/366551671.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91108",
+            "folderIdNumber": "91108-002",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90"
+          }
         }
       ]
     },
@@ -3145,9 +3395,18 @@
           "localIdentifier": "91108-003",
           "sourcePages": "103-108",
           "catalogUrl": "https://catalog.archives.gov/id/366551672",
-          "pdfUrl": "documents/brazil/1990-12-03-bush-fernando-collor-de-mello-memcon-91108-003-p103-scowcroft.pdf",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 11/13/90-12/21/90, 91108-003, NAID 366551672, source pages 103-108."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-003, Presidential Meetings - Memorandum of Conversations 11/13/90 - 12/21/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 103-108. Catalog: https://catalog.archives.gov/id/366551672.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91108",
+            "folderIdNumber": "91108-003",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 11/13/90 - 12/21/90"
+          }
         }
       ]
     },
@@ -3234,9 +3493,18 @@
           "localIdentifier": "91108-006",
           "sourcePages": "98-103",
           "catalogUrl": "https://catalog.archives.gov/id/366551675",
-          "pdfUrl": "documents/brazil/1991-06-18-bush-fernando-collor-de-mello-memcon-91108-006-p98-scowcroft.pdf",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 5/3/91-6/28/91, 91108-006, NAID 366551675, source pages 98-103."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 98-103. Catalog: https://catalog.archives.gov/id/366551675.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91108",
+            "folderIdNumber": "91108-006",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91"
+          }
         }
       ]
     },
@@ -3323,9 +3591,18 @@
           "localIdentifier": "91109-002",
           "sourcePages": "96-100",
           "catalogUrl": "https://catalog.archives.gov/id/366551677",
-          "pdfUrl": "documents/brazil/1991-09-23-bush-fernando-collor-de-mello-memcon-91109-002-p96-scowcroft.pdf",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 7/24/91-9/24/91, 91109-002, NAID 366551677, source pages 96-100."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-002, Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 96-100. Catalog: https://catalog.archives.gov/id/366551677.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91109",
+            "folderIdNumber": "91109-002",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91"
+          }
         }
       ]
     },
@@ -3357,7 +3634,7 @@
     "sortDate": "1992-03-25",
     "type": "Telcon",
     "title": "Telcon with Fernando Collor of Brazil on March 25, 1992 (U)",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/2/92-4/9/92; source pages 45-47",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/2/92 - 4/9/92; 41-bpr-scow-pcor-telcon-91113-003.pdf; source pages 45-47",
     "participants": [
       "George H. W. Bush",
       "Fernando Collor de Mello"
@@ -3383,7 +3660,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-003.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91113-003.pdf",
-      "sourcePages": "45-47"
+      "sourcePages": "45-47",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91113",
+        "folderIdNumber": "91113-003",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/2/92 - 4/9/92"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -3401,11 +3690,12 @@
       "Head of state"
     ],
     "pageCount": 3,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-003.pdf as a provenance sheet, followed by source pages 45-47; pageCount counts only the 3 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telcon with Fernando Collor of Brazil on March 25, 1992 (U)",
     "dateLine": "March 25, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/2/92-4/9/92, 91113-003, NAID 366551703, source pages 45-47."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-003, Presidential Telephone Calls - Memorandum of Conversations 1/2/92 - 4/9/92. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 45-47. Digital source file: 41-bpr-scow-pcor-telcon-91113-003.pdf. Catalog: https://catalog.archives.gov/id/366551703.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428082219",
@@ -3468,9 +3758,18 @@
           "localIdentifier": "91113-004",
           "sourcePages": "33-34",
           "catalogUrl": "https://catalog.archives.gov/id/366551704",
-          "pdfUrl": "documents/brazil/1992-05-12-bush-fernando-collor-de-mello-telcon-91113-004-p33-scowcroft.pdf",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92, 91113-004, NAID 366551704, source pages 33-34."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 33-34. Catalog: https://catalog.archives.gov/id/366551704.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91113",
+            "folderIdNumber": "91113-004",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92"
+          }
         }
       ]
     },
@@ -3557,9 +3856,18 @@
           "localIdentifier": "91113-005",
           "sourcePages": "6-7",
           "catalogUrl": "https://catalog.archives.gov/id/366551705",
-          "pdfUrl": "documents/brazil/1992-07-10-bush-fernando-collor-de-mello-telcon-91113-005-p6-scowcroft.pdf",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 7/10/92-11/5/92, 91113-005, NAID 366551705, source pages 6-7."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 6-7. Catalog: https://catalog.archives.gov/id/366551705.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91113",
+            "folderIdNumber": "91113-005",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92"
+          }
         }
       ]
     },
@@ -3722,9 +4030,18 @@
           "localIdentifier": "91108-002",
           "sourcePages": "119-124",
           "catalogUrl": "https://catalog.archives.gov/id/366551671",
-          "pdfUrl": "documents/chile/1990-10-02-bush-patricio-aylwin-memcon-91108-002-p119-scowcroft.pdf",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 9/25/90-10/31/90, 91108-002, NAID 366551671, source pages 119-124."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 119-124. Catalog: https://catalog.archives.gov/id/366551671.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91108",
+            "folderIdNumber": "91108-002",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90"
+          }
         }
       ]
     },
@@ -3811,9 +4128,18 @@
           "localIdentifier": "91109-008",
           "sourcePages": "49-54",
           "catalogUrl": "https://catalog.archives.gov/id/366551683",
-          "pdfUrl": "documents/chile/1992-05-13-bush-patricio-aylwin-memcon-91109-008-p49-scowcroft.pdf",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 5/1/92-6/17/92, 91109-008, NAID 366551683, source pages 49-54."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92 - 6/17/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 49-54. Catalog: https://catalog.archives.gov/id/366551683.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91109",
+            "folderIdNumber": "91109-008",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 5/1/92 - 6/17/92"
+          }
         }
       ]
     },
@@ -3976,9 +4302,18 @@
           "localIdentifier": "91111-001",
           "sourcePages": "76-77",
           "catalogUrl": "https://catalog.archives.gov/id/366551686",
-          "pdfUrl": "documents/colombia/1989-04-14-bush-virgilio-barco-telcon-91111-001-p76-scowcroft.pdf",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 91111-001, NAID 366551686, source pages 76-77."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 76-77. Catalog: https://catalog.archives.gov/id/366551686.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-001",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89"
+          }
         }
       ]
     },
@@ -4086,7 +4421,7 @@
     "sortDate": "1989-05-31",
     "type": "Telcon",
     "title": "Telephone Conversation Between the President and President Barco of Colombia",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89; source pages 38-40",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89; 41-bpr-scow-pcor-telcon-91111-002.pdf; source pages 38-40",
     "participants": [
       "George H. W. Bush",
       "Virgilio Barco"
@@ -4112,7 +4447,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91111-002.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91111-002.pdf",
-      "sourcePages": "38-40"
+      "sourcePages": "38-40",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91111",
+        "folderIdNumber": "91111-002",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -4130,11 +4477,12 @@
       "Head of state"
     ],
     "pageCount": 3,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91111-002.pdf as a provenance sheet, followed by source pages 38-40; pageCount counts only the 3 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telephone Conversation Between the President and President Barco of Colombia",
     "dateLine": "May 31, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 91111-002, NAID 366551687, source pages 38-40."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 38-40. Digital source file: 41-bpr-scow-pcor-telcon-91111-002.pdf. Catalog: https://catalog.archives.gov/id/366551687.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428080207",
@@ -4197,9 +4545,18 @@
           "localIdentifier": "91111-003",
           "sourcePages": "43-45",
           "catalogUrl": "https://catalog.archives.gov/id/366551688",
-          "pdfUrl": "documents/colombia/1989-08-21-bush-virgilio-barco-telcon-91111-003-p43-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89, 91111-003, NAID 366551688, source pages 43-45."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 43-45. Catalog: https://catalog.archives.gov/id/366551688.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-003",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89"
+          }
         }
       ]
     },
@@ -4286,9 +4643,18 @@
           "localIdentifier": "91111-003",
           "sourcePages": "55-58",
           "catalogUrl": "https://catalog.archives.gov/id/366551688",
-          "pdfUrl": "documents/colombia/1989-08-28-bush-virgilio-barco-telcon-91111-003-p55-scowcroft.pdf",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89, 91111-003, NAID 366551688, source pages 55-58."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-58. Catalog: https://catalog.archives.gov/id/366551688.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-003",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89"
+          }
         }
       ]
     },
@@ -4375,9 +4741,18 @@
           "localIdentifier": "91111-003",
           "sourcePages": "72-73",
           "catalogUrl": "https://catalog.archives.gov/id/366551688",
-          "pdfUrl": "documents/colombia/1989-09-26-bush-virgilio-barco-telcon-91111-003-p72-scowcroft.pdf",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89, 91111-003, NAID 366551688, source pages 72-73."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 72-73. Catalog: https://catalog.archives.gov/id/366551688.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-003",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89"
+          }
         }
       ]
     },
@@ -4768,9 +5143,18 @@
           "localIdentifier": "91111-005",
           "sourcePages": "34-36",
           "catalogUrl": "https://catalog.archives.gov/id/366551690",
-          "pdfUrl": "documents/colombia/1990-01-28-bush-virgilio-barco-telcon-91111-005-p34-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, 91111-005, NAID 366551690, source pages 34-36."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 34-36. Catalog: https://catalog.archives.gov/id/366551690.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-005",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90"
+          }
         }
       ]
     },
@@ -4857,9 +5241,18 @@
           "localIdentifier": "91111-006",
           "sourcePages": "55-57",
           "catalogUrl": "https://catalog.archives.gov/id/366551691",
-          "pdfUrl": "documents/colombia/1990-04-27-bush-virgilio-barco-telcon-91111-006-p55-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90, 91111-006, NAID 366551691, source pages 55-57."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-57. Catalog: https://catalog.archives.gov/id/366551691.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-006",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90"
+          }
         }
       ]
     },
@@ -4967,7 +5360,7 @@
     "sortDate": "1990-07-13",
     "type": "Memcon",
     "title": "Meeting with President-Elect Gaviria of Colombia (U)",
-    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 7/5/90-9/24/90; source pages 73-78",
+    "sourceTitle": "Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90; 41-bpr-scow-pcor-memcon-91108-001.pdf; source pages 73-78",
     "participants": [
       "George H. W. Bush",
       "Virgilio Barco"
@@ -4993,7 +5386,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91108-001.pdf",
       "objectFilename": "41-bpr-scow-pcor-memcon-91108-001.pdf",
-      "sourcePages": "73-78"
+      "sourcePages": "73-78",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Memcons Files",
+        "oaIdNumber": "91108",
+        "folderIdNumber": "91108-001",
+        "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -5011,11 +5416,12 @@
       "Head of state"
     ],
     "pageCount": 6,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91108-001.pdf as a provenance sheet, followed by source pages 73-78; pageCount counts only the 6 pages of conversation text.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President-Elect Gaviria of Colombia (U)",
     "dateLine": "July 13, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 7/5/90-9/24/90, 91108-001, NAID 366551670, source pages 73-78."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-001, Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 73-78. Digital source file: 41-bpr-scow-pcor-memcon-91108-001.pdf. Catalog: https://catalog.archives.gov/id/366551670.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428080837",
@@ -5099,7 +5505,7 @@
     "sortDate": "1990-09-29",
     "type": "Memcon",
     "title": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia (UV)",
-    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 9/25/90-10/31/90; source pages 27-32",
+    "sourceTitle": "Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90; 41-bpr-scow-pcor-memcon-91108-002.pdf; source pages 27-32",
     "participants": [
       "George H. W. Bush",
       "Cesar Gaviria"
@@ -5125,7 +5531,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91108-002.pdf",
       "objectFilename": "41-bpr-scow-pcor-memcon-91108-002.pdf",
-      "sourcePages": "27-32"
+      "sourcePages": "27-32",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Memcons Files",
+        "oaIdNumber": "91108",
+        "folderIdNumber": "91108-002",
+        "folderTitle": "Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -5143,11 +5561,12 @@
       "Head of state"
     ],
     "pageCount": 6,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91108-002.pdf as a provenance sheet, followed by source pages 27-32; pageCount counts only the 6 pages of conversation text.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia (UV)",
     "dateLine": "September 29, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 9/25/90-10/31/90, 91108-002, NAID 366551671, source pages 27-32."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 27-32. Digital source file: 41-bpr-scow-pcor-memcon-91108-002.pdf. Catalog: https://catalog.archives.gov/id/366551671.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428081077",
@@ -5307,7 +5726,7 @@
     "sortDate": "1990-11-23",
     "type": "Telcon",
     "title": "Telephone Conversation with President Gaviria of Colombia (U)",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90; source pages 63-66",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 10/11/90 - 12/31/90; 41-bpr-scow-pcor-telcon-91112-003.pdf; source pages 63-66",
     "participants": [
       "George H. W. Bush",
       "Cesar Gaviria"
@@ -5333,7 +5752,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-003.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91112-003.pdf",
-      "sourcePages": "63-66"
+      "sourcePages": "63-66",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91112",
+        "folderIdNumber": "91112-003",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 10/11/90 - 12/31/90"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -5351,11 +5782,12 @@
       "Head of state"
     ],
     "pageCount": 4,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-003.pdf as a provenance sheet, followed by source pages 63-66; pageCount counts only the 4 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telephone Conversation with President Gaviria of Colombia (U)",
     "dateLine": "November 23, 1990",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 10/11/90-12/31/90, 91112-003, NAID 366551695, source pages 63-66."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-003, Presidential Telephone Calls - Memorandum of Conversations 10/11/90 - 12/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 63-66. Digital source file: 41-bpr-scow-pcor-telcon-91112-003.pdf. Catalog: https://catalog.archives.gov/id/366551695.",
+    "provenancePages": 1
   },
   {
     "id": "scowcroft-366551673-33-cesar-gaviria-memcon",
@@ -5363,7 +5795,7 @@
     "sortDate": "1991-02-26",
     "type": "Memcon",
     "title": "Meeting with President Cesar Gaviria of Colombia (U)",
-    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 1/14/91-3/8/91; source pages 33-39",
+    "sourceTitle": "Presidential Meetings - Memorandum of Conversations 01/14/91 - 03/08/91; 41-bpr-scow-pcor-memcon-91108-004.pdf; source pages 33-39",
     "participants": [
       "George H. W. Bush",
       "Cesar Gaviria"
@@ -5389,7 +5821,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91108-004.pdf",
       "objectFilename": "41-bpr-scow-pcor-memcon-91108-004.pdf",
-      "sourcePages": "33-39"
+      "sourcePages": "33-39",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Memcons Files",
+        "oaIdNumber": "91108",
+        "folderIdNumber": "91108-004",
+        "folderTitle": "Presidential Meetings - Memorandum of Conversations 01/14/91 - 03/08/91"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -5407,11 +5851,12 @@
       "Head of state"
     ],
     "pageCount": 7,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91108-004.pdf as a provenance sheet, followed by source pages 33-39; pageCount counts only the 7 pages of conversation text.",
     "documentTitle": "Memorandum of Conversation",
     "subjectLine": "Meeting with President Cesar Gaviria of Colombia (U)",
     "dateLine": "February 26, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 1/14/91-3/8/91, 91108-004, NAID 366551673, source pages 33-39."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-004, Presidential Meetings - Memorandum of Conversations 01/14/91 - 03/08/91. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 33-39. Digital source file: 41-bpr-scow-pcor-memcon-91108-004.pdf. Catalog: https://catalog.archives.gov/id/366551673.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428082499",
@@ -5571,7 +6016,7 @@
     "sortDate": "1991-06-20",
     "type": "Telcon",
     "title": "Telcon with Cesar Gaviria Trujillo, President of Colombia, June 20, 1991",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 5/3/91-7/21/91; source pages 74-75",
+    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 5/3/91-7/21/91; source pages 74-75; 41-bpr-scow-pcor-telcon-91112-008.pdf; source pages 74-75; 41-bpr-scow-pcor-telcon-91112-008.pdf; source pages 74-75",
     "participants": [
       "George H. W. Bush",
       "Cesar Gaviria"
@@ -5597,7 +6042,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91112-008.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91112-008.pdf",
-      "sourcePages": "74-75"
+      "sourcePages": "74-75",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91112",
+        "folderIdNumber": "91112-008",
+        "folderTitle": ""
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -5615,11 +6072,12 @@
       "Head of state"
     ],
     "pageCount": 2,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91112-008.pdf as a provenance sheet, followed by source pages 74-75; pageCount counts only the 2 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telcon with Cesar Gaviria Trujillo, President of Colombia, June 20, 1991",
     "dateLine": "June 20, 1991",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 5/3/91-7/21/91, 91112-008, NAID 366551700, source pages 74-75."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-008, Presidential Telephone Calls--Memorandum of Conversations 5/3/91-7/21/91; source pages 74-75; 41-bpr-scow-pcor-telcon-91112-008.pdf; source pages 74-75; 41-bpr-scow-pcor-telcon-91112-008.pdf; source pages 74-75. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 74-75. Digital source file: 41-bpr-scow-pcor-telcon-91112-008.pdf. Catalog: https://catalog.archives.gov/id/366551700.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428080839",
@@ -5682,9 +6140,18 @@
           "localIdentifier": "91108-001",
           "sourcePages": "86-91",
           "catalogUrl": "https://catalog.archives.gov/id/366551670",
-          "pdfUrl": "documents/ecuador/1990-07-23-bush-rodrigo-borja-memcon-91108-001-p86-scowcroft.pdf",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 7/5/90-9/24/90, 91108-001, NAID 366551670, source pages 86-91."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-001, Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 86-91. Catalog: https://catalog.archives.gov/id/366551670.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91108",
+            "folderIdNumber": "91108-001",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90"
+          }
         },
         {
           "id": "scowcroft-366551670-79-rodrigo-borja-memcon",
@@ -5694,9 +6161,18 @@
           "localIdentifier": "91108-001",
           "sourcePages": "79-85",
           "catalogUrl": "https://catalog.archives.gov/id/366551670",
-          "pdfUrl": "documents/ecuador/1990-07-23-bush-rodrigo-borja-memcon-91108-001-p79-scowcroft.pdf",
           "pageCount": 7,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 7/5/90-9/24/90, 91108-001, NAID 366551670, source pages 79-85."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-001, Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 79-85. Catalog: https://catalog.archives.gov/id/366551670.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91108",
+            "folderIdNumber": "91108-001",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90"
+          }
         }
       ]
     },
@@ -5859,9 +6335,18 @@
           "localIdentifier": "91110-002",
           "sourcePages": "24-28",
           "catalogUrl": "https://catalog.archives.gov/id/366551685",
-          "pdfUrl": "documents/ecuador/1992-07-28-bush-sixto-duran-ballen-memcon-91110-002-p24-scowcroft.pdf",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 7/9/92-12/22/92, 91110-002, NAID 366551685, source pages 24-28."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-002, Presidential Meetings - Memorandum of Conversations 7/9/92 - 12/22/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 24-28. Catalog: https://catalog.archives.gov/id/366551685.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91110",
+            "folderIdNumber": "91110-002",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/9/92 - 12/22/92"
+          }
         }
       ]
     },
@@ -5948,9 +6433,18 @@
           "localIdentifier": "91107-004",
           "sourcePages": "45-48",
           "catalogUrl": "https://catalog.archives.gov/id/366551663",
-          "pdfUrl": "documents/guyana/1989-06-19-bush-desmond-hoyte-memcon-91107-004-p45-scowcroft.pdf",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 6/1/89-7/12/89, 91107-004, NAID 366551663, source pages 45-48."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-004, Presidential Meetings - Memorandum of Conversations 6/1/89 - 7/12/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 45-48. Catalog: https://catalog.archives.gov/id/366551663.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91107",
+            "folderIdNumber": "91107-004",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 6/1/89 - 7/12/89"
+          }
         }
       ]
     },
@@ -6169,9 +6663,18 @@
           "localIdentifier": "91111-002",
           "sourcePages": "17-20",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
-          "pdfUrl": "documents/peru/1989-05-13-bush-alan-garcia-telcon-91111-002-p17-scowcroft.pdf",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 91111-002, NAID 366551687, source pages 17-20."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 17-20. Catalog: https://catalog.archives.gov/id/366551687.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-002",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
+          }
         }
       ]
     },
@@ -6258,9 +6761,18 @@
           "localIdentifier": "91109-002",
           "sourcePages": "82-87",
           "catalogUrl": "https://catalog.archives.gov/id/366551677",
-          "pdfUrl": "documents/peru/1991-09-17-bush-alberto-fujimori-memcon-91109-002-p82-scowcroft.pdf",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 7/24/91-9/24/91, 91109-002, NAID 366551677, source pages 82-87."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-002, Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 82-87. Catalog: https://catalog.archives.gov/id/366551677.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91109",
+            "folderIdNumber": "91109-002",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91"
+          }
         }
       ]
     },
@@ -6423,9 +6935,18 @@
           "localIdentifier": "91113-004",
           "sourcePages": "11-14",
           "catalogUrl": "https://catalog.archives.gov/id/366551704",
-          "pdfUrl": "documents/peru/1992-04-20-bush-alberto-fujimori-telcon-91113-004-p11-scowcroft.pdf",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92, 91113-004, NAID 366551704, source pages 11-14."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 11-14. Catalog: https://catalog.archives.gov/id/366551704.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91113",
+            "folderIdNumber": "91113-004",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92"
+          }
         }
       ]
     },
@@ -6588,9 +7109,18 @@
           "localIdentifier": "91111-002",
           "sourcePages": "21-23",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
-          "pdfUrl": "documents/uruguay/1989-05-13-bush-julio-maria-sanguinetti-telcon-91111-002-p21-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 91111-002, NAID 366551687, source pages 21-23."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 21-23. Catalog: https://catalog.archives.gov/id/366551687.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-002",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
+          }
         }
       ]
     },
@@ -6677,9 +7207,18 @@
           "localIdentifier": "91107-005",
           "sourcePages": "53-62",
           "catalogUrl": "https://catalog.archives.gov/id/366551664",
-          "pdfUrl": "documents/uruguay/1989-09-15-bush-julio-maria-sanguinetti-memcon-91107-005-p53-scowcroft.pdf",
           "pageCount": 10,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 7/14/89-10/2/89, 91107-005, NAID 366551664, source pages 53-62."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-005, Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 53-62. Catalog: https://catalog.archives.gov/id/366551664.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91107",
+            "folderIdNumber": "91107-005",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89"
+          }
         }
       ]
     },
@@ -6766,9 +7305,18 @@
           "localIdentifier": "91107-007",
           "sourcePages": "57-61",
           "catalogUrl": "https://catalog.archives.gov/id/366551666",
-          "pdfUrl": "documents/uruguay/1990-02-05-bush-luis-alberto-lacalle-memcon-91107-007-p57-scowcroft.pdf",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 1/11/90-2/21/90, 91107-007, NAID 366551666, source pages 57-61."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-007, Presidential Meetings - Memorandum of Conversations 1/11/90 - 2/21/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 57-61. Catalog: https://catalog.archives.gov/id/366551666.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91107",
+            "folderIdNumber": "91107-007",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 1/11/90 - 2/21/90"
+          }
         }
       ]
     },
@@ -6855,9 +7403,18 @@
           "localIdentifier": "91111-007",
           "sourcePages": "16-17",
           "catalogUrl": "https://catalog.archives.gov/id/366551692",
-          "pdfUrl": "documents/uruguay/1990-06-28-bush-luis-alberto-lacalle-telcon-91111-007-p16-scowcroft.pdf",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 6/23/90-7/31/90, 91111-007, NAID 366551692, source pages 16-17."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 16-17. Catalog: https://catalog.archives.gov/id/366551692.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-007",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90"
+          }
         }
       ]
     },
@@ -6944,9 +7501,18 @@
           "localIdentifier": "91108-002",
           "sourcePages": "112-115",
           "catalogUrl": "https://catalog.archives.gov/id/366551671",
-          "pdfUrl": "documents/uruguay/1990-10-01-bush-luis-alberto-lacalle-memcon-91108-002-p112-scowcroft.pdf",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 9/25/90-10/31/90, 91108-002, NAID 366551671, source pages 112-115."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 112-115. Catalog: https://catalog.archives.gov/id/366551671.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91108",
+            "folderIdNumber": "91108-002",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90"
+          }
         }
       ]
     },
@@ -7109,9 +7675,18 @@
           "localIdentifier": "91112-004",
           "sourcePages": "51-51",
           "catalogUrl": "https://catalog.archives.gov/id/366551696",
-          "pdfUrl": "documents/uruguay/1991-01-16-bush-luis-alberto-lacalle-telcon-91112-004-p51-scowcroft.pdf",
           "pageCount": 1,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/1/91-1/28/91, 91112-004, NAID 366551696, source pages 51-51."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 51-51. Catalog: https://catalog.archives.gov/id/366551696.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91112",
+            "folderIdNumber": "91112-004",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91"
+          }
         }
       ]
     },
@@ -7198,9 +7773,18 @@
           "localIdentifier": "91108-006",
           "sourcePages": "55-60",
           "catalogUrl": "https://catalog.archives.gov/id/366551675",
-          "pdfUrl": "documents/uruguay/1991-05-21-bush-luis-alberto-lacalle-memcon-91108-006-p55-scowcroft.pdf",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 5/3/91-6/28/91, 91108-006, NAID 366551675, source pages 55-60."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-60. Catalog: https://catalog.archives.gov/id/366551675.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91108",
+            "folderIdNumber": "91108-006",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91"
+          }
         }
       ]
     },
@@ -7287,9 +7871,18 @@
           "localIdentifier": "91111-001",
           "sourcePages": "29-30",
           "catalogUrl": "https://catalog.archives.gov/id/366551686",
-          "pdfUrl": "documents/venezuela/1989-01-24-bush-carlos-andres-perez-telcon-91111-001-p29-scowcroft.pdf",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 91111-001, NAID 366551686, source pages 29-30."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 29-30. Catalog: https://catalog.archives.gov/id/366551686.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-001",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89"
+          }
         }
       ]
     },
@@ -7376,9 +7969,18 @@
           "localIdentifier": "91111-001",
           "sourcePages": "55-59",
           "catalogUrl": "https://catalog.archives.gov/id/366551686",
-          "pdfUrl": "documents/venezuela/1989-03-03-bush-carlos-andres-perez-telcon-91111-001-p55-scowcroft.pdf",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/23/89-5/10/89, 91111-001, NAID 366551686, source pages 55-59."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-59. Catalog: https://catalog.archives.gov/id/366551686.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-001",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89"
+          }
         }
       ]
     },
@@ -7465,9 +8067,18 @@
           "localIdentifier": "91107-002",
           "sourcePages": "90-99",
           "catalogUrl": "https://catalog.archives.gov/id/366551661",
-          "pdfUrl": "documents/venezuela/1989-04-01-bush-carlos-andres-perez-memcon-91107-002-p90-scowcroft.pdf",
           "pageCount": 10,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 2/26/89-4/19/89, 91107-002, NAID 366551661, source pages 90-99."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-002, Presidential Meetings - Memorandum of Conversations 2/26/89 - 4/19/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 90-99. Catalog: https://catalog.archives.gov/id/366551661.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91107",
+            "folderIdNumber": "91107-002",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 2/26/89 - 4/19/89"
+          }
         }
       ]
     },
@@ -7554,9 +8165,18 @@
           "localIdentifier": "91111-002",
           "sourcePages": "7-9",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
-          "pdfUrl": "documents/venezuela/1989-05-10-bush-carlos-andres-perez-telcon-91111-002-p7-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 91111-002, NAID 366551687, source pages 7-9."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 7-9. Catalog: https://catalog.archives.gov/id/366551687.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-002",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
+          }
         }
       ]
     },
@@ -7643,9 +8263,18 @@
           "localIdentifier": "91111-002",
           "sourcePages": "73-75",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
-          "pdfUrl": "documents/venezuela/1989-06-23-bush-carlos-andres-perez-telcon-91111-002-p73-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 5/10/89-7/27/89, 91111-002, NAID 366551687, source pages 73-75."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 73-75. Catalog: https://catalog.archives.gov/id/366551687.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-002",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
+          }
         }
       ]
     },
@@ -7732,9 +8361,18 @@
           "localIdentifier": "91111-003",
           "sourcePages": "46-51",
           "catalogUrl": "https://catalog.archives.gov/id/366551688",
-          "pdfUrl": "documents/venezuela/1989-08-22-bush-carlos-andres-perez-telcon-91111-003-p46-scowcroft.pdf",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 8/1/89-10/23/89, 91111-003, NAID 366551688, source pages 46-51."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 46-51. Catalog: https://catalog.archives.gov/id/366551688.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-003",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89"
+          }
         }
       ]
     },
@@ -7821,9 +8459,18 @@
           "localIdentifier": "91107-005",
           "sourcePages": "86-89",
           "catalogUrl": "https://catalog.archives.gov/id/366551664",
-          "pdfUrl": "documents/venezuela/1989-09-25-bush-carlos-andres-perez-memcon-91107-005-p86-scowcroft.pdf",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 7/14/89-10/2/89, 91107-005, NAID 366551664, source pages 86-89."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-005, Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 86-89. Catalog: https://catalog.archives.gov/id/366551664.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91107",
+            "folderIdNumber": "91107-005",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89"
+          }
         }
       ]
     },
@@ -8062,9 +8709,18 @@
           "localIdentifier": "91111-005",
           "sourcePages": "76-78",
           "catalogUrl": "https://catalog.archives.gov/id/366551690",
-          "pdfUrl": "documents/venezuela/1990-02-26-bush-carlos-andres-perez-telcon-91111-005-p76-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/1/90-3/15/90, 91111-005, NAID 366551690, source pages 76-78."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 76-78. Catalog: https://catalog.archives.gov/id/366551690.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-005",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90"
+          }
         }
       ]
     },
@@ -8151,9 +8807,18 @@
           "localIdentifier": "91111-006",
           "sourcePages": "17-20",
           "catalogUrl": "https://catalog.archives.gov/id/366551691",
-          "pdfUrl": "documents/venezuela/1990-03-21-bush-carlos-andres-perez-telcon-91111-006-p17-scowcroft.pdf",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 3/15/90-6/22/90, 91111-006, NAID 366551691, source pages 17-20."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 17-20. Catalog: https://catalog.archives.gov/id/366551691.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91111",
+            "folderIdNumber": "91111-006",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90"
+          }
         }
       ]
     },
@@ -8296,9 +8961,18 @@
           "localIdentifier": "91112-001",
           "sourcePages": "85-87",
           "catalogUrl": "https://catalog.archives.gov/id/366551693",
-          "pdfUrl": "documents/venezuela/1990-08-13-bush-carlos-andres-perez-telcon-91112-001-p85-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 8/2/90-8/20/90, 91112-001, NAID 366551693, source pages 85-87."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90 - 8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 85-87. Catalog: https://catalog.archives.gov/id/366551693.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91112",
+            "folderIdNumber": "91112-001",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/2/90 - 8/20/90"
+          }
         }
       ]
     },
@@ -8385,9 +9059,18 @@
           "localIdentifier": "91108-002",
           "sourcePages": "107-111",
           "catalogUrl": "https://catalog.archives.gov/id/366551671",
-          "pdfUrl": "documents/venezuela/1990-10-01-bush-carlos-andres-perez-memcon-91108-002-p107-scowcroft.pdf",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 9/25/90-10/31/90, 91108-002, NAID 366551671, source pages 107-111."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 107-111. Catalog: https://catalog.archives.gov/id/366551671.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91108",
+            "folderIdNumber": "91108-002",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90"
+          }
         }
       ]
     },
@@ -8550,9 +9233,18 @@
           "localIdentifier": "91112-005",
           "sourcePages": "57-62",
           "catalogUrl": "https://catalog.archives.gov/id/366551697",
-          "pdfUrl": "documents/venezuela/1991-02-08-bush-carlos-andres-perez-telcon-91112-005-p57-scowcroft.pdf",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91, 91112-005, NAID 366551697, source pages 57-62."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 57-62. Catalog: https://catalog.archives.gov/id/366551697.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91112",
+            "folderIdNumber": "91112-005",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91"
+          }
         },
         {
           "id": "scowcroft-366551697-56-carlos-andres-perez-telcon",
@@ -8562,9 +9254,18 @@
           "localIdentifier": "91112-005",
           "sourcePages": "56-56",
           "catalogUrl": "https://catalog.archives.gov/id/366551697",
-          "pdfUrl": "documents/venezuela/1991-02-08-bush-carlos-andres-perez-telcon-91112-005-p56-scowcroft.pdf",
           "pageCount": 1,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/30/91-2/22/91, 91112-005, NAID 366551697, source pages 56-56."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 56-56. Catalog: https://catalog.archives.gov/id/366551697.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91112",
+            "folderIdNumber": "91112-005",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91"
+          }
         }
       ]
     },
@@ -8727,9 +9428,18 @@
           "localIdentifier": "91112-007",
           "sourcePages": "61-64",
           "catalogUrl": "https://catalog.archives.gov/id/366551699",
-          "pdfUrl": "documents/venezuela/1991-04-20-bush-carlos-andres-perez-telcon-91112-007-p61-scowcroft.pdf",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 3/7/91-4/25/91, 91112-007, NAID 366551699, source pages 61-64."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91 - 4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 61-64. Catalog: https://catalog.archives.gov/id/366551699.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91112",
+            "folderIdNumber": "91112-007",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 3/7/91 - 4/25/91"
+          }
         }
       ]
     },
@@ -8816,9 +9526,18 @@
           "localIdentifier": "91108-006",
           "sourcePages": "6-13",
           "catalogUrl": "https://catalog.archives.gov/id/366551675",
-          "pdfUrl": "documents/venezuela/1991-05-03-bush-carlos-andres-perez-memcon-91108-006-p6-scowcroft.pdf",
           "pageCount": 8,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 5/3/91-6/28/91, 91108-006, NAID 366551675, source pages 6-13."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 6-13. Catalog: https://catalog.archives.gov/id/366551675.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Memcons Files",
+            "oaIdNumber": "91108",
+            "folderIdNumber": "91108-006",
+            "folderTitle": "Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91"
+          }
         }
       ]
     },
@@ -8905,9 +9624,18 @@
           "localIdentifier": "91113-001",
           "sourcePages": "93-95",
           "catalogUrl": "https://catalog.archives.gov/id/366551701",
-          "pdfUrl": "documents/venezuela/1991-09-05-bush-carlos-andres-perez-telcon-91113-001-p93-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 8/5/91-9/25/91, 91113-001, NAID 366551701, source pages 93-95."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91 - 9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 93-95. Catalog: https://catalog.archives.gov/id/366551701.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91113",
+            "folderIdNumber": "91113-001",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/5/91 - 9/25/91"
+          }
         }
       ]
     },
@@ -9070,9 +9798,18 @@
           "localIdentifier": "91113-002",
           "sourcePages": "26-28",
           "catalogUrl": "https://catalog.archives.gov/id/366551702",
-          "pdfUrl": "documents/venezuela/1991-09-30-bush-carlos-andres-perez-telcon-91113-002-p26-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 91113-002, NAID 366551702, source pages 26-28."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 26-28. Catalog: https://catalog.archives.gov/id/366551702.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91113",
+            "folderIdNumber": "91113-002",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91"
+          }
         }
       ]
     },
@@ -9159,9 +9896,18 @@
           "localIdentifier": "91113-002",
           "sourcePages": "29-30",
           "catalogUrl": "https://catalog.archives.gov/id/366551702",
-          "pdfUrl": "documents/venezuela/1991-10-01-bush-carlos-andres-perez-telcon-91113-002-p29-scowcroft.pdf",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 91113-002, NAID 366551702, source pages 29-30."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 29-30. Catalog: https://catalog.archives.gov/id/366551702.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91113",
+            "folderIdNumber": "91113-002",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91"
+          }
         }
       ]
     },
@@ -9248,9 +9994,18 @@
           "localIdentifier": "91113-002",
           "sourcePages": "36-45",
           "catalogUrl": "https://catalog.archives.gov/id/366551702",
-          "pdfUrl": "documents/venezuela/1991-10-10-bush-carlos-andres-perez-telcon-91113-002-p36-scowcroft.pdf",
           "pageCount": 10,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 91113-002, NAID 366551702, source pages 36-45."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 36-45. Catalog: https://catalog.archives.gov/id/366551702.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91113",
+            "folderIdNumber": "91113-002",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91"
+          }
         }
       ]
     },
@@ -9337,9 +10092,18 @@
           "localIdentifier": "91113-002",
           "sourcePages": "62-64",
           "catalogUrl": "https://catalog.archives.gov/id/366551702",
-          "pdfUrl": "documents/venezuela/1991-11-15-bush-carlos-andres-perez-telcon-91113-002-p62-scowcroft.pdf",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 91113-002, NAID 366551702, source pages 62-64."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 62-64. Catalog: https://catalog.archives.gov/id/366551702.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91113",
+            "folderIdNumber": "91113-002",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91"
+          }
         }
       ]
     },
@@ -9426,9 +10190,18 @@
           "localIdentifier": "91113-002",
           "sourcePages": "139-143",
           "catalogUrl": "https://catalog.archives.gov/id/366551702",
-          "pdfUrl": "documents/venezuela/1991-12-17-bush-carlos-andres-perez-telcon-91113-002-p139-scowcroft.pdf",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 9/27/91-12/25/91, 91113-002, NAID 366551702, source pages 139-143."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 139-143. Catalog: https://catalog.archives.gov/id/366551702.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91113",
+            "folderIdNumber": "91113-002",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91"
+          }
         }
       ]
     },
@@ -9460,7 +10233,7 @@
     "sortDate": "1992-04-09",
     "type": "Telcon",
     "title": "Telcon with Carlos Andres Perez of Venezuela on April 9, 1992 (&",
-    "sourceTitle": "Presidential Telephone Calls--Memorandum of Conversations 1/2/92-4/9/92; source pages 61-63",
+    "sourceTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/2/92 - 4/9/92; 41-bpr-scow-pcor-telcon-91113-003.pdf; source pages 61-63",
     "participants": [
       "George H. W. Bush",
       "Carlos Andres Perez"
@@ -9486,7 +10259,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-telcon-91113-003.pdf",
       "objectFilename": "41-bpr-scow-pcor-telcon-91113-003.pdf",
-      "sourcePages": "61-63"
+      "sourcePages": "61-63",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Telcon Files",
+        "oaIdNumber": "91113",
+        "folderIdNumber": "91113-003",
+        "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/2/92 - 4/9/92"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -9504,11 +10289,12 @@
       "Head of state"
     ],
     "pageCount": 3,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-telcon-91113-003.pdf as a provenance sheet, followed by source pages 61-63; pageCount counts only the 3 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telcon with Carlos Andres Perez of Venezuela on April 9, 1992 (&",
     "dateLine": "April 9, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 1/2/92-4/9/92, 91113-003, NAID 366551703, source pages 61-63."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-003, Presidential Telephone Calls - Memorandum of Conversations 1/2/92 - 4/9/92. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 61-63. Digital source file: 41-bpr-scow-pcor-telcon-91113-003.pdf. Catalog: https://catalog.archives.gov/id/366551703.",
+    "provenancePages": 1
   },
   {
     "id": "bush-library-428082247",
@@ -9571,9 +10357,18 @@
           "localIdentifier": "91113-004",
           "sourcePages": "54-58",
           "catalogUrl": "https://catalog.archives.gov/id/366551704",
-          "pdfUrl": "documents/venezuela/1992-06-20-bush-carlos-andres-perez-telcon-91113-004-p54-scowcroft.pdf",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Telephone Calls--Memorandum of Conversations 4/10/92-6/30/92, 91113-004, NAID 366551704, source pages 54-58."
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 54-58. Catalog: https://catalog.archives.gov/id/366551704.",
+          "provenanceSheet": {
+            "foiaNumber": "2009-0275-S",
+            "recordGroupCollection": "George H.W. Bush Presidential Records",
+            "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+            "series": "Presidential Correspondence Files",
+            "subseries": "Presidential Telcon Files",
+            "oaIdNumber": "91113",
+            "folderIdNumber": "91113-004",
+            "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92"
+          }
         }
       ]
     },
@@ -9757,7 +10552,7 @@
     "sortDate": "1992-11-27",
     "type": "Telcon",
     "title": "Telcon with Carlos Andres Perez, President of Venezuela on November 27, 1992 (U)",
-    "sourceTitle": "Presidential Meetings--Memorandum of Conversations 7/9/92-12/22/92; source pages 65-67",
+    "sourceTitle": "Presidential Meetings - Memorandum of Conversations 7/9/92 - 12/22/92; 41-bpr-scow-pcor-memcon-91110-002.pdf; source pages 65-67",
     "participants": [
       "George H. W. Bush",
       "Carlos Andres Perez"
@@ -9783,7 +10578,19 @@
       "referenceUnit": "George Bush Library",
       "objectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-gbs/4545941/41-bpr-scow-pcor-memcon-91110-002.pdf",
       "objectFilename": "41-bpr-scow-pcor-memcon-91110-002.pdf",
-      "sourcePages": "65-67"
+      "sourcePages": "65-67",
+      "foiaNumber": "2009-0275-S",
+      "provenanceSheetPage": 1,
+      "provenanceSheet": {
+        "foiaNumber": "2009-0275-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "Scowcroft, Brent, Collection",
+        "series": "Presidential Correspondence Files",
+        "subseries": "Presidential Memcons Files",
+        "oaIdNumber": "91110",
+        "folderIdNumber": "91110-002",
+        "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/9/92 - 12/22/92"
+      }
     },
     "frusVolume": "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
     "frusTopics": [
@@ -9801,10 +10608,11 @@
       "Head of state"
     ],
     "pageCount": 3,
-    "notes": "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+    "notes": "Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of 41-bpr-scow-pcor-memcon-91110-002.pdf as a provenance sheet, followed by source pages 65-67; pageCount counts only the 3 pages of conversation text.",
     "documentTitle": "Memorandum of a Telephone Conversation",
     "subjectLine": "Telcon with Carlos Andres Perez, President of Venezuela on November 27, 1992 (U)",
     "dateLine": "November 27, 1992",
-    "sourceNote": "Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, Presidential Meetings--Memorandum of Conversations 7/9/92-12/22/92, 91110-002, NAID 366551685, source pages 65-67."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-002, Presidential Meetings - Memorandum of Conversations 7/9/92 - 12/22/92. Declassified. Originally processed under FOIA 2009-0275-S. Project PDF begins with the PDF provenance sheet, followed by source pages 65-67. Digital source file: 41-bpr-scow-pcor-memcon-91110-002.pdf. Catalog: https://catalog.archives.gov/id/366551685.",
+    "provenancePages": 1
   }
 ]

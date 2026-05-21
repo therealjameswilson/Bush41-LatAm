@@ -562,10 +562,44 @@ function pageCount(filePath) {
   return match ? Number(match[1]) : 0;
 }
 
+function displayFolderTitle(title) {
+  return (title || "").replace(/\s*--\s*/g, " - ").replace(/\s+/g, " ").trim();
+}
+
+function subseriesForFolder(folder) {
+  return folder.type === "Telcon" ? "Presidential Telcon Files" : "Presidential Memcons Files";
+}
+
+function provenanceSheetForFolder(folder) {
+  return {
+    foiaNumber: "2009-0275-S",
+    recordGroupCollection: "George H.W. Bush Presidential Records",
+    collectionOfficeOfOrigin: "Scowcroft, Brent, Collection",
+    series: "Presidential Correspondence Files",
+    subseries: subseriesForFolder(folder),
+    oaIdNumber: folder.localIdentifier.split("-")[0],
+    folderIdNumber: folder.localIdentifier,
+    folderTitle: displayFolderTitle(folder.title)
+  };
+}
+
+function sourceNoteForFolder(folder, startPage, endPage) {
+  return [
+    `Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, ${subseriesForFolder(folder)}, OA/ID ${folder.localIdentifier}, ${displayFolderTitle(folder.title)}.`,
+    "Declassified.",
+    "Originally processed under FOIA 2009-0275-S.",
+    `Project PDF begins with the PDF provenance sheet, followed by source pages ${startPage}-${endPage}.`,
+    `Digital source file: ${path.basename(folder.pdfUrl)}.`,
+    `Catalog: https://catalog.archives.gov/id/${folder.naid}.`
+  ].join(" ");
+}
+
 function extractPages(sourcePath, startIndex, endIndex, outPath) {
   ensureDir(path.dirname(outPath));
+  const provenancePath = path.join(path.dirname(outPath), "provenance-%04d.pdf");
+  run("pdfseparate", ["-f", "1", "-l", "1", sourcePath, provenancePath]);
   run("pdfseparate", ["-f", String(startIndex + 1), "-l", String(endIndex), sourcePath, path.join(path.dirname(outPath), "page-%04d.pdf")]);
-  const pages = [];
+  const pages = [path.join(path.dirname(outPath), "provenance-0001.pdf")];
   for (let page = startIndex + 1; page <= endIndex; page += 1) {
     pages.push(path.join(path.dirname(outPath), `page-${String(page).padStart(4, "0")}.pdf`));
   }
@@ -613,14 +647,15 @@ function buildRecordsForFolder(folder, sourcePath, sidecarPath) {
       extractPages(sourcePath, start, end, outPath);
     }
 
-    const pagesInDoc = pageCount(outPath);
+    const pagesInDoc = pageCount(outPath) - 1;
+    const sourcePages = `${start + 1}-${end}`;
     records.push({
       id: `scowcroft-${folder.naid}-${start + 1}-${leaderSlug}-${type.toLowerCase()}`,
       date: date.iso,
       sortDate: date.iso,
       type,
       title,
-      sourceTitle: `${folder.title}; source pages ${start + 1}-${end}`,
+      sourceTitle: `${displayFolderTitle(folder.title)}; ${path.basename(folder.pdfUrl)}; source pages ${sourcePages}`,
       participants: ["George H. W. Bush", counterpart.display],
       countries: [...new Set(["United States", topic.country === "Regional" ? null : topic.country, counterpart.country].filter(Boolean))],
       chapter: topic.chapter,
@@ -628,23 +663,27 @@ function buildRecordsForFolder(folder, sourcePath, sidecarPath) {
       naid: folder.naid,
       localIdentifier: folder.localIdentifier,
       pdfUrl: relativePath,
+      provenancePages: 1,
       catalogUrl: `https://catalog.archives.gov/id/${folder.naid}`,
       source: {
         ...SOURCE_COLLECTION,
         objectUrl: folder.pdfUrl,
         objectFilename: path.basename(folder.pdfUrl),
-        sourcePages: `${start + 1}-${end}`
+        sourcePages,
+        foiaNumber: "2009-0275-S",
+        provenanceSheetPage: 1,
+        provenanceSheet: provenanceSheetForFolder(folder)
       },
       frusVolume: "Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America",
       frusTopics: ["Latin America", "South America", topic.country, "Brent Scowcroft Papers", "Head-of-state memcons and telcons"],
       topics: ["Latin America", "South America", topic.country, type, "Head of state"],
       pageCount: pagesInDoc,
       notes:
-        "Extracted from OCR of the Brent Scowcroft Papers Presidential Correspondence Files. Page range is based on detected memorandum-of-conversation headers.",
+        `Extracted from the Brent Scowcroft Papers source folder PDF. The generated PDF begins with page 1 of ${path.basename(folder.pdfUrl)} as a provenance sheet, followed by source pages ${sourcePages}; pageCount counts only the ${pagesInDoc} ${pagesInDoc === 1 ? "page" : "pages"} of conversation text.`,
       documentTitle: type === "Telcon" ? "Memorandum of a Telephone Conversation" : "Memorandum of Conversation",
       subjectLine: title,
       dateLine: date.raw || date.iso,
-      sourceNote: `Source: George H.W. Bush Library, Brent Scowcroft Papers, Presidential Correspondence Files, ${folder.title}, ${folder.localIdentifier}, NAID ${folder.naid}, source pages ${start + 1}-${end}.`
+      sourceNote: sourceNoteForFolder(folder, start + 1, end)
     });
   }
 
