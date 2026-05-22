@@ -28,6 +28,7 @@ const printCandidatesRoot = document.querySelector("#print-candidates-root");
 const candidateSearchInput = document.querySelector("#candidate-search");
 const candidateCountryFilter = document.querySelector("#candidate-country-filter");
 const candidatePriorityFilter = document.querySelector("#candidate-priority-filter");
+const candidateSourceFilter = document.querySelector("#candidate-source-filter");
 const candidateTypeFilter = document.querySelector("#candidate-type-filter");
 const clearCandidateFilters = document.querySelector("#clear-candidate-filters");
 const candidateResultSummary = document.querySelector("#candidate-result-summary");
@@ -110,6 +111,16 @@ function sourceLabel(record) {
     default:
       return record.source?.series || record.source?.name || "Source pending";
   }
+}
+
+function candidateSourceName(candidate) {
+  if (candidate.sourceSeries?.name) return candidate.sourceSeries.name;
+  if (/^chronological-print-/.test(candidate.id || "")) return "Latin American Directorate Chronological Files";
+  return "Latin American Affairs Directorate Subject Files";
+}
+
+function candidateSourceShort(candidate) {
+  return /Chronological/i.test(candidateSourceName(candidate)) ? "Chronological Files" : "Subject Files";
 }
 
 function reviewFlags(record) {
@@ -301,6 +312,7 @@ function populateCandidateFilters(candidates) {
     ...candidateCountries.filter((country) => !CHAPTER_ORDER.includes(country))
   ];
   populateSelect(candidateCountryFilter, orderedCountries);
+  populateSelect(candidateSourceFilter, unique(candidates.map(candidateSourceName)));
   populateSelect(candidateTypeFilter, unique(candidates.map((candidate) => candidate.documentType)));
 }
 
@@ -492,6 +504,8 @@ function candidateSearchText(candidate) {
     candidate.folderNaid,
     candidate.accessRestriction,
     candidate.extraction,
+    candidateSourceName(candidate),
+    candidate.sourceSeries?.naid,
     candidate.reviewReason,
     candidate.sourceNote,
     candidate.ocrSnippet,
@@ -509,6 +523,7 @@ function activeCandidateFilters() {
     query: candidateSearchInput?.value.trim().toLowerCase() || "",
     country: candidateCountryFilter?.value || "",
     priority: candidatePriorityFilter?.value || "",
+    source: candidateSourceFilter?.value || "",
     type: candidateTypeFilter?.value || ""
   };
 }
@@ -517,6 +532,7 @@ function candidateMatches(candidate, filters) {
   if (filters.query && !candidateSearchText(candidate).includes(filters.query)) return false;
   if (filters.country && !(candidate.countries || []).includes(filters.country)) return false;
   if (filters.priority && candidate.priority !== filters.priority) return false;
+  if (filters.source && candidateSourceName(candidate) !== filters.source) return false;
   if (filters.type && candidate.documentType !== filters.type) return false;
   return true;
 }
@@ -531,6 +547,7 @@ function createCandidateMeta(candidate) {
   meta.className = "record-meta candidate-meta";
 
   for (const value of [
+    candidateSourceShort(candidate),
     candidate.documentType,
     (candidate.countries || []).join(", "),
     candidate.localIdentifier,
@@ -806,7 +823,13 @@ function enableRecordFilters() {
 }
 
 function enableCandidateFilters() {
-  for (const control of [candidateSearchInput, candidateCountryFilter, candidatePriorityFilter, candidateTypeFilter]) {
+  for (const control of [
+    candidateSearchInput,
+    candidateCountryFilter,
+    candidatePriorityFilter,
+    candidateSourceFilter,
+    candidateTypeFilter
+  ]) {
     control?.addEventListener("input", updatePrintCandidates);
     control?.addEventListener("change", updatePrintCandidates);
   }
@@ -815,6 +838,7 @@ function enableCandidateFilters() {
     if (candidateSearchInput) candidateSearchInput.value = "";
     if (candidateCountryFilter) candidateCountryFilter.value = "";
     if (candidatePriorityFilter) candidatePriorityFilter.value = "High";
+    if (candidateSourceFilter) candidateSourceFilter.value = "";
     if (candidateTypeFilter) candidateTypeFilter.value = "";
     updatePrintCandidates();
     candidateSearchInput?.focus();
@@ -868,7 +892,9 @@ async function loadRecords() {
 async function initPrintCandidates() {
   if (!printCandidatesRoot) return;
   try {
-    const candidates = window.SUBJECT_PRINT_CANDIDATES || (await loadPrintCandidates());
+    const chronological = window.CHRONOLOGICAL_PRINT_CANDIDATES || (await loadPrintCandidates("data/chronological-print-candidates.json"));
+    const subject = window.SUBJECT_PRINT_CANDIDATES || (await loadPrintCandidates("data/subject-print-candidates.json"));
+    const candidates = [...chronological, ...subject];
     allPrintCandidates = candidates;
     setPrintCandidateCounts(candidates);
     populateCandidateFilters(candidates);
@@ -880,9 +906,9 @@ async function initPrintCandidates() {
   }
 }
 
-async function loadPrintCandidates() {
-  const response = await fetch("data/subject-print-candidates.json");
-  if (!response.ok) throw new Error(`Could not load subject-file candidates: ${response.status}`);
+async function loadPrintCandidates(url) {
+  const response = await fetch(url);
+  if (!response.ok) throw new Error(`Could not load print candidates: ${response.status}`);
   return response.json();
 }
 

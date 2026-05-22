@@ -1,0 +1,1469 @@
+{
+  "generatedAt": "2026-05-22T00:55:23.278Z",
+  "sourceSeries": {
+    "name": "Latin American Directorate Chronological Files",
+    "naid": "2197972",
+    "url": "https://catalog.archives.gov/id/2197972"
+  },
+  "scannedFolders": 72,
+  "candidateCount": 362,
+  "highPriorityCount": 243,
+  "mediumPriorityCount": 103,
+  "referencePriorityCount": 16,
+  "countryCounts": {
+    "Argentina": 63,
+    "Bolivia": 37,
+    "Brazil": 41,
+    "Chile": 26,
+    "Colombia": 63,
+    "Ecuador": 8,
+    "Guyana": 19,
+    "Paraguay": 16,
+    "Peru": 18,
+    "Suriname": 3,
+    "Uruguay": 25,
+    "Venezuela": 84
+  },
+  "folderReports": [
+    {
+      "naid": "470766402",
+      "title": "1989 [Everett E. Briggs File] [1]",
+      "localIdentifier": "CF00300-001",
+      "pageCount": 75,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-001",
+        "folderTitle": "1989 [Everett E. Briggs File] [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766402",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-001.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766403",
+      "title": "1989 [Everett E. Briggs File] [2]",
+      "localIdentifier": "CF00300-002",
+      "pageCount": 134,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-002",
+        "folderTitle": "1989 [Everett E. Briggs File] [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766403",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-002.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766404",
+      "title": "January 20, 1989-February 1, 1989 [1]",
+      "localIdentifier": "CF00300-003",
+      "pageCount": 55,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-003",
+        "folderTitle": "January 20, 1989-February 1, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766404",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-003.pdf",
+      "candidateCount": 9,
+      "highPriorityCount": 7
+    },
+    {
+      "naid": "470766405",
+      "title": "January 20, 1989-February 1, 1989 [2]",
+      "localIdentifier": "CF00300-004",
+      "pageCount": 56,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-004",
+        "folderTitle": "January 20, 1989-February 1, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766405",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-004.pdf",
+      "candidateCount": 5,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766406",
+      "title": "February 1, 1989-March 1, 1989 [1]",
+      "localIdentifier": "CF00300-005",
+      "pageCount": 76,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-005",
+        "folderTitle": "February 1, 1989-March 1, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766406",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-005.pdf",
+      "candidateCount": 6,
+      "highPriorityCount": 4
+    },
+    {
+      "naid": "470766407",
+      "title": "February 1, 1989-March 1, 1989 [2]",
+      "localIdentifier": "CF00300-006",
+      "pageCount": 88,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-006",
+        "folderTitle": "February 1, 1989-March 1, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766407",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-006.pdf",
+      "candidateCount": 6,
+      "highPriorityCount": 3
+    },
+    {
+      "naid": "470766408",
+      "title": "February 1, 1989-March 1, 1989 [3]",
+      "localIdentifier": "CF00300-007",
+      "pageCount": 123,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-007",
+        "folderTitle": "February 1, 1989-March 1, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766408",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-007.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766409",
+      "title": "February 1, 1989-March 1, 1989 [4]",
+      "localIdentifier": "CF00300-008",
+      "pageCount": 91,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-008",
+        "folderTitle": "February 1, 1989-March 1, 1989 [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766409",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-008.pdf",
+      "candidateCount": 7,
+      "highPriorityCount": 7
+    },
+    {
+      "naid": "470766410",
+      "title": "February 1, 1989-March 1, 1989 [5]",
+      "localIdentifier": "CF00300-009",
+      "pageCount": 149,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-009",
+        "folderTitle": "February 1, 1989-March 1, 1989 [5]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766410",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-009.pdf",
+      "candidateCount": 8,
+      "highPriorityCount": 5
+    },
+    {
+      "naid": "470766411",
+      "title": "March 1, 1989-March 16, 1989 [1]",
+      "localIdentifier": "CF00300-010",
+      "pageCount": 67,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-010",
+        "folderTitle": "March 1, 1989-March 16, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766411",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-010.pdf",
+      "candidateCount": 6,
+      "highPriorityCount": 6
+    },
+    {
+      "naid": "470766412",
+      "title": "March 1, 1989-March 16, 1989 [2]",
+      "localIdentifier": "CF00300-011",
+      "pageCount": 104,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-011",
+        "folderTitle": "March 1, 1989-March 16, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766412",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-011.pdf",
+      "candidateCount": 1,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766413",
+      "title": "March 1, 1989-March 16, 1989 [3]",
+      "localIdentifier": "CF00300-012",
+      "pageCount": 52,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-012",
+        "folderTitle": "March 1, 1989-March 16, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766413",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-012.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766414",
+      "title": "March 1, 1989-March 16, 1989 [4]",
+      "localIdentifier": "CF00300-013",
+      "pageCount": 83,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-013",
+        "folderTitle": "March 1, 1989-March 16, 1989 [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766414",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-013.pdf",
+      "candidateCount": 15,
+      "highPriorityCount": 11
+    },
+    {
+      "naid": "470766415",
+      "title": "March 17, 1989-March 31, 1989 [1]",
+      "localIdentifier": "CF00300-014",
+      "pageCount": 68,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-014",
+        "folderTitle": "March 17, 1989-March 31, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766415",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-014.pdf",
+      "candidateCount": 5,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766416",
+      "title": "March 17, 1989-March 31, 1989 [2]",
+      "localIdentifier": "CF00300-015",
+      "pageCount": 106,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-015",
+        "folderTitle": "March 17, 1989-March 31, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766416",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-015.pdf",
+      "candidateCount": 5,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766417",
+      "title": "March 17, 1989-March 31, 1989 [3]",
+      "localIdentifier": "CF00300-016",
+      "pageCount": 89,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00300",
+        "folderIdNumber": "CF00300-016",
+        "folderTitle": "March 17, 1989-March 31, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766417",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00300-016.pdf",
+      "candidateCount": 6,
+      "highPriorityCount": 4
+    },
+    {
+      "naid": "470766418",
+      "title": "April 1, 1989-April 15, 1989 [1]",
+      "localIdentifier": "CF00301-001",
+      "pageCount": 131,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-001",
+        "folderTitle": "April 1, 1989-April 15, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766418",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-001.pdf",
+      "candidateCount": 4,
+      "highPriorityCount": 3
+    },
+    {
+      "naid": "470766419",
+      "title": "April 1, 1989-April 15, 1989 [2]",
+      "localIdentifier": "CF00301-002",
+      "pageCount": 100,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-002",
+        "folderTitle": "April 1, 1989-April 15, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766419",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-002.pdf",
+      "candidateCount": 4,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "470766420",
+      "title": "April 1, 1989-April 15, 1989 [3]",
+      "localIdentifier": "CF00301-003",
+      "pageCount": 117,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-003",
+        "folderTitle": "April 1, 1989-April 15, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766420",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-003.pdf",
+      "candidateCount": 6,
+      "highPriorityCount": 5
+    },
+    {
+      "naid": "470766421",
+      "title": "April 16, 1989-April 30, 1989 [1]",
+      "localIdentifier": "CF00301-004",
+      "pageCount": 94,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-004",
+        "folderTitle": "April 16, 1989-April 30, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766421",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-004.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 3
+    },
+    {
+      "naid": "470766422",
+      "title": "April 16, 1989-April 30, 1989 [2]",
+      "localIdentifier": "CF00301-005",
+      "pageCount": 50,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-005",
+        "folderTitle": "April 16, 1989-April 30, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766422",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-005.pdf",
+      "candidateCount": 2,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "470766423",
+      "title": "April 16, 1989-April 30, 1989 [3]",
+      "localIdentifier": "CF00301-006",
+      "pageCount": 104,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-006",
+        "folderTitle": "April 16, 1989-April 30, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766423",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-006.pdf",
+      "candidateCount": 4,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766424",
+      "title": "April 16, 1989-April 30, 1989 [4]",
+      "localIdentifier": "CF00301-007",
+      "pageCount": 143,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-007",
+        "folderTitle": "April 16, 1989-April 30, 1989 [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766424",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-007.pdf",
+      "candidateCount": 6,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766425",
+      "title": "April 16, 1989-April 30, 1989 [5]",
+      "localIdentifier": "CF00301-008",
+      "pageCount": 123,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-008",
+        "folderTitle": "April 16, 1989-April 30, 1989 [5]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766425",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-008.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766426",
+      "title": "April 16, 1989-April 30, 1989 [6]",
+      "localIdentifier": "CF00301-009",
+      "pageCount": 91,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-009",
+        "folderTitle": "April 16, 1989-April 30, 1989 [6]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766426",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-009.pdf",
+      "candidateCount": 1,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766427",
+      "title": "May 1, 1989-May 15, 1989 [1]",
+      "localIdentifier": "CF00301-010",
+      "pageCount": 85,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-010",
+        "folderTitle": "May 1, 1989-May 15, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766427",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-010.pdf",
+      "candidateCount": 9,
+      "highPriorityCount": 5
+    },
+    {
+      "naid": "470766428",
+      "title": "May 1, 1989-May 15, 1989 [2]",
+      "localIdentifier": "CF00301-011",
+      "pageCount": 69,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-011",
+        "folderTitle": "May 1, 1989-May 15, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766428",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-011.pdf",
+      "candidateCount": 4,
+      "highPriorityCount": 3
+    },
+    {
+      "naid": "470766429",
+      "title": "May 1, 1989-May 15, 1989 [3]",
+      "localIdentifier": "CF00301-012",
+      "pageCount": 128,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-012",
+        "folderTitle": "May 1, 1989-May 15, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766429",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-012.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766430",
+      "title": "May 16, 1989-May 30, 1989 [1]",
+      "localIdentifier": "CF00301-013",
+      "pageCount": 87,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-013",
+        "folderTitle": "May 16, 1989-May 30, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766430",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-013.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 3
+    },
+    {
+      "naid": "470766431",
+      "title": "May 16, 1989-May 30, 1989 [2]",
+      "localIdentifier": "CF00301-014",
+      "pageCount": 120,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-014",
+        "folderTitle": "May 16, 1989-May 30, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766431",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-014.pdf",
+      "candidateCount": 10,
+      "highPriorityCount": 9
+    },
+    {
+      "naid": "470766432",
+      "title": "May 16, 1989-May 30, 1989 [3]",
+      "localIdentifier": "CF00301-015",
+      "pageCount": 98,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-015",
+        "folderTitle": "May 16, 1989-May 30, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766432",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-015.pdf",
+      "candidateCount": 11,
+      "highPriorityCount": 9
+    },
+    {
+      "naid": "470766433",
+      "title": "June 1, 1989-June 30, 1989 [1]",
+      "localIdentifier": "CF00301-016",
+      "pageCount": 83,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-016",
+        "folderTitle": "June 1, 1989-June 30, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766433",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-016.pdf",
+      "candidateCount": 10,
+      "highPriorityCount": 4
+    },
+    {
+      "naid": "470766434",
+      "title": "June 1, 1989-June 30, 1989 [2]",
+      "localIdentifier": "CF00301-017",
+      "pageCount": 96,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-017",
+        "folderTitle": "June 1, 1989-June 30, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766434",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-017.pdf",
+      "candidateCount": 7,
+      "highPriorityCount": 6
+    },
+    {
+      "naid": "470766435",
+      "title": "June 1, 1989-June 30, 1989 [3]",
+      "localIdentifier": "CF00301-018",
+      "pageCount": 82,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-018",
+        "folderTitle": "June 1, 1989-June 30, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766435",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-018.pdf",
+      "candidateCount": 10,
+      "highPriorityCount": 8
+    },
+    {
+      "naid": "470766436",
+      "title": "June 1, 1989-June 30, 1989 [4]",
+      "localIdentifier": "CF00301-019",
+      "pageCount": 82,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-019",
+        "folderTitle": "June 1, 1989-June 30, 1989 [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766436",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-019.pdf",
+      "candidateCount": 7,
+      "highPriorityCount": 5
+    },
+    {
+      "naid": "470766437",
+      "title": "June 1, 1989-June 30, 1989 [5]",
+      "localIdentifier": "CF00301-020",
+      "pageCount": 110,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00301",
+        "folderIdNumber": "CF00301-020",
+        "folderTitle": "June 1, 1989-June 30, 1989 [5]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766437",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00301-020.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766438",
+      "title": "July 1, 1989-July 15, 1989 [1]",
+      "localIdentifier": "CF00302-001",
+      "pageCount": 109,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-001",
+        "folderTitle": "July 1, 1989-July 15, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766438",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-001.pdf",
+      "candidateCount": 1,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766439",
+      "title": "July 1, 1989-July 15, 1989 [2]",
+      "localIdentifier": "CF00302-002",
+      "pageCount": 107,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-002",
+        "folderTitle": "July 1, 1989-July 15, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766439",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-002.pdf",
+      "candidateCount": 4,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766440",
+      "title": "July 1, 1989-July 15, 1989 [3]",
+      "localIdentifier": "CF00302-003",
+      "pageCount": 50,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-003",
+        "folderTitle": "July 1, 1989-July 15, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766440",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-003.pdf",
+      "candidateCount": 11,
+      "highPriorityCount": 6
+    },
+    {
+      "naid": "470766441",
+      "title": "July 16, 1989-July 30, 1989 [1]",
+      "localIdentifier": "CF00302-004",
+      "pageCount": 91,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-004",
+        "folderTitle": "July 16, 1989-July 30, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766441",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-004.pdf",
+      "candidateCount": 5,
+      "highPriorityCount": 4
+    },
+    {
+      "naid": "470766442",
+      "title": "July 16, 1989-July 30, 1989 [2]",
+      "localIdentifier": "CF00302-005",
+      "pageCount": 127,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-005",
+        "folderTitle": "July 16, 1989-July 30, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766442",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-005.pdf",
+      "candidateCount": 6,
+      "highPriorityCount": 6
+    },
+    {
+      "naid": "470766443",
+      "title": "July 16, 1989-July 30, 1989 [3]",
+      "localIdentifier": "CF00302-006",
+      "pageCount": 115,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-006",
+        "folderTitle": "July 16, 1989-July 30, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766443",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-006.pdf",
+      "candidateCount": 2,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "470766444",
+      "title": "August 1, 1989-August 15, 1989 [1]",
+      "localIdentifier": "CF00302-007",
+      "pageCount": 95,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-007",
+        "folderTitle": "August 1, 1989-August 15, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766444",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-007.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766445",
+      "title": "August 1, 1989-August 15, 1989 [2]",
+      "localIdentifier": "CF00302-008",
+      "pageCount": 83,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-008",
+        "folderTitle": "August 1, 1989-August 15, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766445",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-008.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766446",
+      "title": "August 1, 1989-August 15, 1989 [3]",
+      "localIdentifier": "CF00302-009",
+      "pageCount": 73,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-009",
+        "folderTitle": "August 1, 1989-August 15, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766446",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-009.pdf",
+      "candidateCount": 1,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "470766447",
+      "title": "August 1, 1989-August 15, 1989 [4]",
+      "localIdentifier": "CF00302-010",
+      "pageCount": 72,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-010",
+        "folderTitle": "August 1, 1989-August 15, 1989 [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766447",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-010.pdf",
+      "candidateCount": 5,
+      "highPriorityCount": 3
+    },
+    {
+      "naid": "470766448",
+      "title": "August 16, 1989-August 31, 1989 [1]",
+      "localIdentifier": "CF00302-011",
+      "pageCount": 111,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-011",
+        "folderTitle": "August 16, 1989-August 31, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766448",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-011.pdf",
+      "candidateCount": 5,
+      "highPriorityCount": 4
+    },
+    {
+      "naid": "470766449",
+      "title": "August 16, 1989-August 31, 1989 [2]",
+      "localIdentifier": "CF00302-012",
+      "pageCount": 91,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-012",
+        "folderTitle": "August 16, 1989-August 31, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766449",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-012.pdf",
+      "candidateCount": 10,
+      "highPriorityCount": 7
+    },
+    {
+      "naid": "470766450",
+      "title": "August 16, 1989-August 31, 1989 [3]",
+      "localIdentifier": "CF00302-013",
+      "pageCount": 105,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-013",
+        "folderTitle": "August 16, 1989-August 31, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766450",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-013.pdf",
+      "candidateCount": 7,
+      "highPriorityCount": 5
+    },
+    {
+      "naid": "470766451",
+      "title": "August 16, 1989-August 31, 1989 [4]",
+      "localIdentifier": "CF00302-014",
+      "pageCount": 95,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-014",
+        "folderTitle": "August 16, 1989-August 31, 1989 [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766451",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-014.pdf",
+      "candidateCount": 4,
+      "highPriorityCount": 4
+    },
+    {
+      "naid": "470766452",
+      "title": "September 1, 1989-September 15, 1989 [1]",
+      "localIdentifier": "CF00302-015",
+      "pageCount": 97,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-015",
+        "folderTitle": "September 1, 1989-September 15, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766452",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-015.pdf",
+      "candidateCount": 7,
+      "highPriorityCount": 7
+    },
+    {
+      "naid": "470766453",
+      "title": "September 1, 1989-September 15, 1989 [2]",
+      "localIdentifier": "CF00302-016",
+      "pageCount": 105,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-016",
+        "folderTitle": "September 1, 1989-September 15, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766453",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-016.pdf",
+      "candidateCount": 2,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766454",
+      "title": "September 16, 1989-September 30, 1989 [1]",
+      "localIdentifier": "CF00302-017",
+      "pageCount": 108,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-017",
+        "folderTitle": "September 16, 1989-September 30, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766454",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-017.pdf",
+      "candidateCount": 8,
+      "highPriorityCount": 5
+    },
+    {
+      "naid": "470766455",
+      "title": "September 16, 1989-September 30, 1989 [2]",
+      "localIdentifier": "CF00302-018",
+      "pageCount": 105,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-018",
+        "folderTitle": "September 16, 1989-September 30, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766455",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-018.pdf",
+      "candidateCount": 13,
+      "highPriorityCount": 8
+    },
+    {
+      "naid": "470766456",
+      "title": "September 16, 1989-September 30, 1989 [3]",
+      "localIdentifier": "CF00302-019",
+      "pageCount": 94,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-019",
+        "folderTitle": "September 16, 1989-September 30, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766456",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-019.pdf",
+      "candidateCount": 8,
+      "highPriorityCount": 8
+    },
+    {
+      "naid": "470766457",
+      "title": "September 16, 1989-September 30, 1989 [4]",
+      "localIdentifier": "CF00302-020",
+      "pageCount": 113,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00302",
+        "folderIdNumber": "CF00302-020",
+        "folderTitle": "September 16, 1989-September 30, 1989 [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766457",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00302-020.pdf",
+      "candidateCount": 6,
+      "highPriorityCount": 5
+    },
+    {
+      "naid": "470766458",
+      "title": "October 1, 1989-October 15, 1989 [1]",
+      "localIdentifier": "CF00303-001",
+      "pageCount": 57,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-001",
+        "folderTitle": "October 1, 1989-October 15, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766458",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-001.pdf",
+      "candidateCount": 1,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766459",
+      "title": "October 1, 1989-October 15, 1989 [2]",
+      "localIdentifier": "CF00303-002",
+      "pageCount": 99,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-002",
+        "folderTitle": "October 1, 1989-October 15, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766459",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-002.pdf",
+      "candidateCount": 4,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "470766460",
+      "title": "October 1, 1989-October 15, 1989 [3]",
+      "localIdentifier": "CF00303-003",
+      "pageCount": 86,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-003",
+        "folderTitle": "October 1, 1989-October 15, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766460",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-003.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "470766461",
+      "title": "October 16, 1989-October 31, 1989 [1]",
+      "localIdentifier": "CF00303-004",
+      "pageCount": 95,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-004",
+        "folderTitle": "October 16, 1989-October 31, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766461",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-004.pdf",
+      "candidateCount": 5,
+      "highPriorityCount": 4
+    },
+    {
+      "naid": "470766462",
+      "title": "October 16, 1989-October 31, 1989 [2]",
+      "localIdentifier": "CF00303-005",
+      "pageCount": 123,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-005",
+        "folderTitle": "October 16, 1989-October 31, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766462",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-005.pdf",
+      "candidateCount": 5,
+      "highPriorityCount": 4
+    },
+    {
+      "naid": "470766463",
+      "title": "October 16, 1989-October 31, 1989 [3]",
+      "localIdentifier": "CF00303-006",
+      "pageCount": 114,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-006",
+        "folderTitle": "October 16, 1989-October 31, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766463",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-006.pdf",
+      "candidateCount": 5,
+      "highPriorityCount": 3
+    },
+    {
+      "naid": "470766464",
+      "title": "October 16, 1989-October 31, 1989 [4]",
+      "localIdentifier": "CF00303-007",
+      "pageCount": 66,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-007",
+        "folderTitle": "October 16, 1989-October 31, 1989 [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766464",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-007.pdf",
+      "candidateCount": 2,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766465",
+      "title": "October 16, 1989-October 31, 1989 [5]",
+      "localIdentifier": "CF00303-008",
+      "pageCount": 83,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-008",
+        "folderTitle": "October 16, 1989-October 31, 1989 [5]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766465",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-008.pdf",
+      "candidateCount": 1,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766466",
+      "title": "November 1, 1989-November 15, 1989 [1]",
+      "localIdentifier": "CF00303-009",
+      "pageCount": 109,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-009",
+        "folderTitle": "November 1, 1989-November 15, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766466",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-009.pdf",
+      "candidateCount": 4,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766467",
+      "title": "November 1, 1989-November 15, 1989 [2]",
+      "localIdentifier": "CF00303-010",
+      "pageCount": 153,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-010",
+        "folderTitle": "November 1, 1989-November 15, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766467",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-010.pdf",
+      "candidateCount": 12,
+      "highPriorityCount": 8
+    },
+    {
+      "naid": "470766468",
+      "title": "November 16, 1989-November 30, 1989 [1]",
+      "localIdentifier": "CF00303-011",
+      "pageCount": 136,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-011",
+        "folderTitle": "November 16, 1989-November 30, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766468",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-011.pdf",
+      "candidateCount": 4,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766469",
+      "title": "November 16, 1989-November 30, 1989 [2]",
+      "localIdentifier": "CF00303-012",
+      "pageCount": 105,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-012",
+        "folderTitle": "November 16, 1989-November 30, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766469",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-012.pdf",
+      "candidateCount": 2,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "470766470",
+      "title": "December 1, 1989-December 15, 1989 [1]",
+      "localIdentifier": "CF00303-013",
+      "pageCount": 113,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-013",
+        "folderTitle": "December 1, 1989-December 15, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766470",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-013.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766471",
+      "title": "December 1, 1989-December 15, 1989 [2]",
+      "localIdentifier": "CF00303-014",
+      "pageCount": 108,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-014",
+        "folderTitle": "December 1, 1989-December 15, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766471",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-014.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766472",
+      "title": "December 16, 1989-December 31, 1989 [1]",
+      "localIdentifier": "CF00303-015",
+      "pageCount": 75,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-015",
+        "folderTitle": "December 16, 1989-December 31, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766472",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-015.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 3
+    },
+    {
+      "naid": "470766473",
+      "title": "December 16, 1989-December 31, 1989 [2]",
+      "localIdentifier": "CF00303-016",
+      "pageCount": 106,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Chronological Files",
+        "oaIdNumber": "CF00303",
+        "folderIdNumber": "CF00303-016",
+        "folderTitle": "December 16, 1989-December 31, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766473",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Chronological_2197972/41-bpr-nsc-lat_amer_dir-chron-cf00303-016.pdf",
+      "candidateCount": 8,
+      "highPriorityCount": 2
+    }
+  ]
+}

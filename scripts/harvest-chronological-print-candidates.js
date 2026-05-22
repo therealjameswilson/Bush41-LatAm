@@ -4,15 +4,15 @@ const https = require("https");
 const path = require("path");
 
 const repoRoot = path.resolve(__dirname, "..");
-const subjectFilesPath = path.join(repoRoot, "data", "subject-files.json");
-const outputPath = path.join(repoRoot, "data", "subject-print-candidates.json");
-const outputScriptPath = path.join(repoRoot, "data", "subject-print-candidates.js");
-const reportPath = path.join(repoRoot, "reports", "subject-print-candidates-harvest.json");
-const pdfCacheRoot = path.join(repoRoot, ".cache", "subject-files");
-const ocrCacheRoot = path.join(repoRoot, ".cache", "subject-files-ocr");
+const chronologicalFilesPath = path.join(repoRoot, "data", "priority-collection.json");
+const outputPath = path.join(repoRoot, "data", "chronological-print-candidates.json");
+const outputScriptPath = path.join(repoRoot, "data", "chronological-print-candidates.js");
+const reportPath = path.join(repoRoot, "reports", "chronological-print-candidates-harvest.json");
+const pdfCacheRoot = path.join(repoRoot, ".cache", "chronological-files");
+const ocrCacheRoot = path.join(repoRoot, ".cache", "chronological-files-ocr");
 
-const SERIES_NAID = "376217847";
-const SERIES_NAME = "Latin American Affairs Directorate Subject Files";
+const SERIES_NAID = "2197972";
+const SERIES_NAME = "Latin American Directorate Chronological Files";
 const SERIES_URL = `https://catalog.archives.gov/id/${SERIES_NAID}`;
 
 const HIGH_VALUE_TERMS = [
@@ -27,8 +27,8 @@ const HIGH_VALUE_TERMS = [
 
 const COUNTRY_TERMS = {
   Argentina: /argentina|argentine|alfonsin|menem|di tella/i,
-  Bolivia: /bolivia|bolivian|paz zamora/i,
-  Brazil: /brazil|brazilian|sarney|collor/i,
+  Bolivia: /bolivia|bolivian|paz zamora|paz estenssoro/i,
+  Brazil: /brazil|brazilian|sarney|collor|baena soares/i,
   Chile: /chile|chilean|aylwin|pinochet/i,
   Colombia: /colombia|colombian|barco|gaviria/i,
   Ecuador: /ecuador|ecuadoran|ecuadorian|borja/i,
@@ -119,7 +119,7 @@ function parseProvenance(firstPage, folder) {
     recordGroupCollection: "George H.W. Bush Presidential Records",
     collectionOfficeOfOrigin: "National Security Council",
     series: "Latin American Affairs Directorate Files",
-    subseries: "Subject File 1989",
+    subseries: "Chronological Files",
     oaIdNumber: folder.containerId || "",
     folderIdNumber: folder.localIdentifier || "",
     folderTitle: folder.title
@@ -296,6 +296,10 @@ function hasUsableTitle(title) {
   return true;
 }
 
+function isSouthAmericaCandidate(candidate) {
+  return (candidate.countries || []).length > 0;
+}
+
 function countryMatches(folder, title, snippet) {
   const text = `${folder.title} ${(folder.countries || []).join(" ")} ${title} ${snippet}`;
   const countries = new Set(folder.countries || []);
@@ -349,7 +353,7 @@ function buildCandidate({ folder, provenance, pageNumber, extraction, documentNo
   const candidateThemes = themes(cleanTitle, cleanSnippet, folder);
   const score = scoreCandidate(documentType, cleanTitle, cleanSnippet, folder);
   const candidate = {
-    id: `subject-print-${folder.naid}-${pageNumber}-${documentNo || documentType}`.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""),
+    id: `chronological-print-${folder.naid}-${pageNumber}-${documentNo || documentType}`.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""),
     folderNaid: folder.naid,
     folderTitle: folder.title,
     localIdentifier: folder.localIdentifier,
@@ -423,7 +427,9 @@ async function processFolder(folder) {
       catalogUrl: folder.catalogUrl,
       pdfUrl: folder.pdfUrl
     },
-    candidates: dedupeCandidates(candidates).filter((candidate) => candidate.score >= 35)
+    candidates: dedupeCandidates(candidates)
+      .filter((candidate) => candidate.score >= 35)
+      .filter(isSouthAmericaCandidate)
   };
 }
 
@@ -433,7 +439,7 @@ async function main() {
   ensureDir(path.dirname(outputPath));
   ensureDir(path.dirname(reportPath));
 
-  const folders = JSON.parse(fs.readFileSync(subjectFilesPath, "utf8"));
+  const folders = JSON.parse(fs.readFileSync(chronologicalFilesPath, "utf8"));
   const allCandidates = [];
   const folderReports = [];
 
@@ -457,7 +463,7 @@ async function main() {
   );
   const json = JSON.stringify(candidates, null, 2);
   fs.writeFileSync(outputPath, `${json}\n`);
-  fs.writeFileSync(outputScriptPath, `window.SUBJECT_PRINT_CANDIDATES = ${json};\n`);
+  fs.writeFileSync(outputScriptPath, `window.CHRONOLOGICAL_PRINT_CANDIDATES = ${json};\n`);
   fs.writeFileSync(
     reportPath,
     `${JSON.stringify(
@@ -486,7 +492,7 @@ async function main() {
     )}\n`
   );
 
-  console.log(`Wrote ${candidates.length} subject-file print candidates.`);
+  console.log(`Wrote ${candidates.length} chronological-file print candidates.`);
 }
 
 main().catch((error) => {

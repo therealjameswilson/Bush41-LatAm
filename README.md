@@ -28,6 +28,16 @@ node scripts/harvest-latin-american-directorate.js
 This writes `data/priority-collection.json` and
 `reports/latin-american-directorate-harvest.json`.
 
+To OCR the public chronological PDFs and extract South America print-candidate leads, run:
+
+```bash
+node scripts/harvest-chronological-print-candidates.js
+```
+
+This writes `data/chronological-print-candidates.json` and
+`reports/chronological-print-candidates-harvest.json`. The public site merges these NAID 2197972
+leads with the subject-file leads, but keeps the source series visible and filterable.
+
 ## Broader NSC Parent Collection
 
 The parent collection should be mined heavily for South America material:

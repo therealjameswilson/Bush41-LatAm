@@ -662,7 +662,7 @@ footer {
 }
 
 .candidate-tools {
-  grid-template-columns: minmax(240px, 1.35fr) repeat(3, minmax(132px, 0.75fr)) auto;
+  grid-template-columns: minmax(240px, 1.35fr) repeat(4, minmax(132px, 0.75fr)) auto;
 }
 
 .candidate-root {
