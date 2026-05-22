@@ -12,6 +12,11 @@ The site also carries a broader South America index from the parent National Sec
 collection, so the compiler can move from formal memcons/telcons into country files, regional
 packets, summit files, drug-policy material, debt/economic files, and related online PDFs.
 
+The public site also includes a separate reference section for George H.W. Bush public statements
+drawn from GovInfo's *Public Papers of the Presidents* collection. That section is not counted as
+part of the archival memcon/telcon corpus; it is a chronology and citation aid for checking public
+line, travel, nominations, treaty messages, and speech material against the private record.
+
 ## Priority Collection
 
 The first source to prioritize is the National Archives Catalog series:
@@ -170,6 +175,25 @@ folder title, then release facts. Working metadata such as NAIDs, catalog URLs, 
 filenames, source page ranges, duplicate provenance, and project-PDF construction remains in the
 expanded provenance trail for each record.
 
+## GovInfo Public Papers Reference
+
+Run the Public Papers harvester with:
+
+```bash
+node scripts/harvest-public-statements.js
+```
+
+The harvester searches the GovInfo collection for George H.W. Bush public papers, parses package
+MODS metadata and granule HTML where available, and OCR-splits the scanned 1989, 1990, and 1991
+Book II PDF volumes where GovInfo exposes only volume-level scans. It writes
+`data/public-statements.json`, `data/public-statements.js`, and
+`reports/public-statements-harvest.json`.
+
+The filter set covers Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru,
+Suriname, Uruguay, and Venezuela. It strips Uruguay Round-only trade references from the Uruguay
+country match and limits ambassador nomination/appointment matches to posts whose title names a
+South America country.
+
 ## Source Anchors
 
 - FRUS 1989-1992, Volume XXV, Latin America: <https://history.state.gov/historicaldocuments/frus1989-92v25>
@@ -183,6 +207,7 @@ expanded provenance trail for each record.
 - Scowcroft Presidential Correspondence Files, NAID 4545941: <https://catalog.archives.gov/id/4545941>
 - Bush Library Memcons and Telcons index: <https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons>
 - FOIA 2000-0429-F finding aid: <https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991>
+- GovInfo Public Papers of the Presidents: George H.W. Bush: <https://www.govinfo.gov/app/collection/ppp/president-41_Bush,%20George%20H.%20W.>
 - National Archives Catalog: <https://catalog.archives.gov/>
 
 ## Local Preview

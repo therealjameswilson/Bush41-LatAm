@@ -32,8 +32,17 @@ const candidateSourceFilter = document.querySelector("#candidate-source-filter")
 const candidateTypeFilter = document.querySelector("#candidate-type-filter");
 const clearCandidateFilters = document.querySelector("#clear-candidate-filters");
 const candidateResultSummary = document.querySelector("#candidate-result-summary");
+const publicStatementsRoot = document.querySelector("#public-statements-root");
+const statementSearchInput = document.querySelector("#statement-search");
+const statementCountryFilter = document.querySelector("#statement-country-filter");
+const statementTypeFilter = document.querySelector("#statement-type-filter");
+const statementYearFilter = document.querySelector("#statement-year-filter");
+const statementBookFilter = document.querySelector("#statement-book-filter");
+const clearStatementFilters = document.querySelector("#clear-statement-filters");
+const statementResultSummary = document.querySelector("#statement-result-summary");
 let allRecords = [];
 let allPrintCandidates = [];
+let allPublicStatements = [];
 
 function chapterId(chapterName) {
   return `chapter-${chapterName.toLowerCase().replace(/\s+/g, "-")}`;
@@ -287,6 +296,12 @@ function setPrintCandidateCounts(candidates) {
   setText("#print-folders", new Set(candidates.map((candidate) => candidate.folderNaid)).size);
 }
 
+function setPublicStatementCounts(statements) {
+  setText("#statement-total", statements.length);
+  setText("#statement-countries", new Set(statements.flatMap((statement) => statement.countries || [])).size);
+  setText("#statement-books", new Set(statements.map((statement) => statement.packageId)).size);
+}
+
 function populateSelect(select, values) {
   if (!select) return;
   const existing = new Set([...select.options].map((option) => option.value));
@@ -314,6 +329,18 @@ function populateCandidateFilters(candidates) {
   populateSelect(candidateCountryFilter, orderedCountries);
   populateSelect(candidateSourceFilter, unique(candidates.map(candidateSourceName)));
   populateSelect(candidateTypeFilter, unique(candidates.map((candidate) => candidate.documentType)));
+}
+
+function populateStatementFilters(statements) {
+  const statementCountries = unique(statements.flatMap((statement) => statement.countries || []));
+  const orderedCountries = [
+    ...CHAPTER_ORDER.filter((country) => statementCountries.includes(country)),
+    ...statementCountries.filter((country) => !CHAPTER_ORDER.includes(country))
+  ];
+  populateSelect(statementCountryFilter, orderedCountries);
+  populateSelect(statementTypeFilter, unique(statements.map((statement) => statement.documentType)));
+  populateSelect(statementYearFilter, unique(statements.map(statementYear)));
+  populateSelect(statementBookFilter, unique(statements.map((statement) => statement.bookLabel)));
 }
 
 function createMeta(record) {
@@ -647,6 +674,203 @@ function createCandidateRow(candidate) {
   return row;
 }
 
+function statementYear(statement) {
+  return (statement.documentDate || statement.sortDate || "").slice(0, 4);
+}
+
+function statementDateValue(statement) {
+  return statement.sortDate || statement.documentDate || "";
+}
+
+function statementPageLabel(statement) {
+  if (!statement.pageStart) return "";
+  if (statement.pageEnd && statement.pageEnd !== statement.pageStart) {
+    return `pp. ${statement.pageStart}-${statement.pageEnd}`;
+  }
+  return `p. ${statement.pageStart}`;
+}
+
+function statementExtractionLabel(statement) {
+  return statement.extraction === "govinfo-granule-html" ? "GovInfo HTML" : "Volume OCR";
+}
+
+function statementSearchText(statement) {
+  return [
+    statement.title,
+    statement.documentDate,
+    statement.documentType,
+    statement.countries,
+    statement.bookLabel,
+    statement.packageId,
+    statement.granuleId,
+    statement.pageStart,
+    statement.pageEnd,
+    statement.extraction,
+    statement.sourceNote,
+    statement.snippet
+  ]
+    .flat()
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function activeStatementFilters() {
+  return {
+    query: statementSearchInput?.value.trim().toLowerCase() || "",
+    country: statementCountryFilter?.value || "",
+    type: statementTypeFilter?.value || "",
+    year: statementYearFilter?.value || "",
+    book: statementBookFilter?.value || ""
+  };
+}
+
+function statementMatches(statement, filters) {
+  if (filters.query && !statementSearchText(statement).includes(filters.query)) return false;
+  if (filters.country && !(statement.countries || []).includes(filters.country)) return false;
+  if (filters.type && statement.documentType !== filters.type) return false;
+  if (filters.year && statementYear(statement) !== filters.year) return false;
+  if (filters.book && statement.bookLabel !== filters.book) return false;
+  return true;
+}
+
+function filteredPublicStatements(statements) {
+  const filters = activeStatementFilters();
+  return statements.filter((statement) => statementMatches(statement, filters));
+}
+
+function byStatementDate(a, b) {
+  return (
+    statementDateValue(a).localeCompare(statementDateValue(b)) ||
+    (a.pageStart || 0) - (b.pageStart || 0) ||
+    (a.title || "").localeCompare(b.title || "")
+  );
+}
+
+function createStatementMeta(statement) {
+  const meta = document.createElement("div");
+  meta.className = "record-meta statement-meta";
+
+  for (const value of [
+    statement.documentType,
+    (statement.countries || []).join(", "),
+    statement.bookLabel,
+    statementPageLabel(statement),
+    statement.packageId,
+    statementExtractionLabel(statement)
+  ]) {
+    if (!value) continue;
+    const item = document.createElement("span");
+    item.textContent = value;
+    meta.append(item);
+  }
+
+  return meta;
+}
+
+function createStatementSourceNote(statement) {
+  const citation = document.createElement("div");
+  citation.className = "record-citation";
+
+  const sourceNote = document.createElement("p");
+  sourceNote.className = "record-source-note";
+  sourceNote.textContent = statement.sourceNote || "Source: GovInfo Public Papers citation pending.";
+  citation.append(sourceNote);
+
+  if (statement.snippet) {
+    const details = document.createElement("details");
+    details.className = "record-provenance statement-signal";
+    const summary = document.createElement("summary");
+    summary.textContent = "Text signal";
+    const signal = document.createElement("p");
+    signal.textContent = statement.snippet;
+    details.append(summary, signal);
+    citation.append(details);
+  }
+
+  return citation;
+}
+
+function createStatementLinks(statement) {
+  const links = document.createElement("div");
+  links.className = "record-links statement-links";
+
+  const seen = new Set();
+  for (const [label, url] of [
+    ["GovInfo", statement.detailsUrl],
+    ["HTML", statement.htmlUrl],
+    ["PDF", statement.pdfUrl],
+    ["Volume Page", statement.pageLink]
+  ]) {
+    if (!url || seen.has(url)) continue;
+    seen.add(url);
+    const link = document.createElement("a");
+    link.href = url;
+    link.rel = "noreferrer";
+    link.target = "_blank";
+    link.textContent = label;
+    links.append(link);
+  }
+
+  return links;
+}
+
+function createStatementRow(statement) {
+  const row = document.createElement("article");
+  row.className = "statement-row";
+
+  const date = document.createElement("time");
+  date.className = "record-date statement-date";
+  date.dateTime = statement.documentDate || "";
+  date.textContent = shortDate(statement.documentDate);
+
+  const body = document.createElement("div");
+  const title = document.createElement("a");
+  title.className = "record-title statement-title";
+  title.href = statement.htmlUrl || statement.pageLink || statement.pdfUrl || statement.detailsUrl;
+  title.rel = "noreferrer";
+  title.target = "_blank";
+  title.textContent = statement.title;
+
+  const dateLine = document.createElement("p");
+  dateLine.className = "record-date-line";
+  dateLine.textContent = `${formatDate(statement.documentDate)}; ${statement.bookLabel}`;
+
+  body.append(title, dateLine, createStatementMeta(statement), createStatementSourceNote(statement));
+  row.append(date, body, createStatementLinks(statement));
+  return row;
+}
+
+function updateStatementSummary(statements) {
+  if (!statementResultSummary) return;
+  const countryCount = new Set(statements.flatMap((statement) => statement.countries || [])).size;
+  statementResultSummary.textContent = `${statements.length} statements / ${countryCount} countries`;
+}
+
+function renderPublicStatements(statements) {
+  if (!publicStatementsRoot) return;
+  const sorted = [...statements].sort(byStatementDate);
+  publicStatementsRoot.replaceChildren();
+
+  if (!sorted.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-chapter";
+    empty.textContent = "No public statements match the current reference filters.";
+    publicStatementsRoot.append(empty);
+    return;
+  }
+
+  for (const statement of sorted) {
+    publicStatementsRoot.append(createStatementRow(statement));
+  }
+}
+
+function updatePublicStatements() {
+  const statements = filteredPublicStatements(allPublicStatements);
+  updateStatementSummary(statements);
+  renderPublicStatements(statements);
+}
+
 function searchText(record) {
   return [
     record.title,
@@ -845,6 +1069,29 @@ function enableCandidateFilters() {
   });
 }
 
+function enableStatementFilters() {
+  for (const control of [
+    statementSearchInput,
+    statementCountryFilter,
+    statementTypeFilter,
+    statementYearFilter,
+    statementBookFilter
+  ]) {
+    control?.addEventListener("input", updatePublicStatements);
+    control?.addEventListener("change", updatePublicStatements);
+  }
+
+  clearStatementFilters?.addEventListener("click", () => {
+    if (statementSearchInput) statementSearchInput.value = "";
+    if (statementCountryFilter) statementCountryFilter.value = "";
+    if (statementTypeFilter) statementTypeFilter.value = "";
+    if (statementYearFilter) statementYearFilter.value = "";
+    if (statementBookFilter) statementBookFilter.value = "";
+    updatePublicStatements();
+    statementSearchInput?.focus();
+  });
+}
+
 function enableChapterCards() {
   for (const card of document.querySelectorAll(".chapter-card")) {
     card.addEventListener("click", (event) => {
@@ -881,6 +1128,7 @@ async function init() {
   }
 
   await initPrintCandidates();
+  await initPublicStatements();
 }
 
 async function loadRecords() {
@@ -909,6 +1157,27 @@ async function initPrintCandidates() {
 async function loadPrintCandidates(url) {
   const response = await fetch(url);
   if (!response.ok) throw new Error(`Could not load print candidates: ${response.status}`);
+  return response.json();
+}
+
+async function initPublicStatements() {
+  if (!publicStatementsRoot) return;
+  try {
+    const statements = window.PUBLIC_STATEMENTS || (await loadPublicStatements());
+    allPublicStatements = statements;
+    setPublicStatementCounts(statements);
+    populateStatementFilters(statements);
+    enableStatementFilters();
+    updatePublicStatements();
+  } catch (error) {
+    publicStatementsRoot.innerHTML =
+      '<p class="error">The public statements reference list could not be loaded. Try opening this site through a local server or GitHub Pages.</p>';
+  }
+}
+
+async function loadPublicStatements() {
+  const response = await fetch("data/public-statements.json");
+  if (!response.ok) throw new Error(`Could not load public statements: ${response.status}`);
   return response.json();
 }
 

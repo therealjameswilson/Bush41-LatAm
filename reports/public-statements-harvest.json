@@ -1,0 +1,144 @@
+{
+  "generatedAt": "2026-05-22T11:36:00.275Z",
+  "sourceCollection": {
+    "name": "Public Papers of the Presidents of the United States: George H. W. Bush",
+    "url": "https://www.govinfo.gov/app/collection/ppp/president-41_Bush,%20George%20H.%20W."
+  },
+  "statementCount": 261,
+  "granuleHtmlStatements": 105,
+  "volumePdfStatements": 156,
+  "countryCounts": {
+    "Argentina": 47,
+    "Bolivia": 47,
+    "Brazil": 66,
+    "Chile": 41,
+    "Colombia": 87,
+    "Ecuador": 27,
+    "Guyana": 1,
+    "Paraguay": 23,
+    "Peru": 66,
+    "Suriname": 4,
+    "Uruguay": 26,
+    "Venezuela": 51
+  },
+  "typeCounts": {
+    "Exchange": 44,
+    "News Conference": 25,
+    "Remarks": 81,
+    "Nomination": 14,
+    "Statement": 44,
+    "Memorandum": 7,
+    "Appointment": 2,
+    "Interview": 3,
+    "Public Paper": 16,
+    "Message": 14,
+    "Letter": 11
+  },
+  "searches": [
+    {
+      "country": "Argentina",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Argentina OR Argentine OR Alfonsin OR Menem OR \"Di Tella\")",
+      "total": 28,
+      "returned": 28
+    },
+    {
+      "country": "Bolivia",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Bolivia OR Bolivian OR \"Paz Zamora\" OR \"Paz Estenssoro\")",
+      "total": 25,
+      "returned": 25
+    },
+    {
+      "country": "Brazil",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Brazil OR Brazilian OR Sarney OR Collor)",
+      "total": 39,
+      "returned": 39
+    },
+    {
+      "country": "Chile",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Chile OR Chilean OR Aylwin OR Pinochet)",
+      "total": 41,
+      "returned": 41
+    },
+    {
+      "country": "Colombia",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Colombia OR Colombian OR Barco OR Gaviria)",
+      "total": 39,
+      "returned": 39
+    },
+    {
+      "country": "Ecuador",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Ecuador OR Ecuadoran OR Ecuadorian OR Borja)",
+      "total": 25,
+      "returned": 25
+    },
+    {
+      "country": "Guyana",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Guyana OR Guyanese OR Hoyte)",
+      "total": 3,
+      "returned": 3
+    },
+    {
+      "country": "Paraguay",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Paraguay OR Paraguayan OR Stroessner OR \"Andres Rodriguez\")",
+      "total": 19,
+      "returned": 19
+    },
+    {
+      "country": "Peru",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Peru OR Peruvian OR Fujimori OR \"Alan Garcia\")",
+      "total": 39,
+      "returned": 39
+    },
+    {
+      "country": "Suriname",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Suriname OR Surinamese OR Bouterse)",
+      "total": 6,
+      "returned": 6
+    },
+    {
+      "country": "Uruguay",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Uruguay OR Uruguayan OR Sanguinetti OR Lacalle)",
+      "total": 94,
+      "returned": 94
+    },
+    {
+      "country": "Venezuela",
+      "query": "collection:ppp president:\"George H. W. Bush\" (Venezuela OR Venezuelan OR \"Carlos Andres Perez\")",
+      "total": 30,
+      "returned": 30
+    }
+  ],
+  "searchedGranules": 205,
+  "volumePackages": [
+    {
+      "packageId": "PPP-1989-book1",
+      "bookLabel": "1989, Book I",
+      "parsedDocuments": 566,
+      "matchingStatements": 24
+    },
+    {
+      "packageId": "PPP-1989-book2",
+      "bookLabel": "1989, Book II",
+      "parsedDocuments": 395,
+      "matchingStatements": 31
+    },
+    {
+      "packageId": "PPP-1990-book1",
+      "bookLabel": "1990, Book I",
+      "parsedDocuments": 573,
+      "matchingStatements": 42
+    },
+    {
+      "packageId": "PPP-1990-book2",
+      "bookLabel": "1990, Book II",
+      "parsedDocuments": 477,
+      "matchingStatements": 35
+    },
+    {
+      "packageId": "PPP-1991-book2",
+      "bookLabel": "1991, Book II",
+      "parsedDocuments": 513,
+      "matchingStatements": 24
+    }
+  ]
+}
