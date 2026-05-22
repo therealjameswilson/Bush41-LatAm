@@ -20,6 +20,7 @@
         <a href="#chapters">Chapters</a>
         <a href="#provenance">Provenance</a>
         <a href="#method">Method</a>
+        <a href="#print-candidates">Print Candidates</a>
         <a href="#records">Records</a>
         <a href="#sources">Sources</a>
       </nav>
@@ -40,6 +41,7 @@
           <div class="hero-actions" aria-label="Primary actions">
             <a class="button primary" href="#records">Browse the Records</a>
             <a class="button secondary" href="#method">Compiler Method</a>
+            <a class="button secondary" href="#print-candidates">Subject File Leads</a>
           </div>
         </div>
         <aside class="brief" aria-label="Archive scope">
@@ -131,6 +133,65 @@
         </p>
       </section>
 
+      <section class="section print-section" id="print-candidates" aria-labelledby="print-candidates-title">
+        <div class="section-heading">
+          <p class="kicker">Subject File Leads</p>
+          <h2 id="print-candidates-title">Potential Memos To Print</h2>
+        </div>
+        <p class="records-intro">
+          OCR-derived leads from the Latin American Affairs Directorate Subject Files, NAID
+          376217847. This is a compiler worklist, not an editorial selection: the candidates stay
+          separate from the South America memcon/telcon count above and preserve the PDF-marker
+          provenance needed for Source notes.
+        </p>
+        <section class="stats compact-stats candidate-stats" aria-label="Subject-file candidate summary">
+          <div>
+            <span id="print-total">0</span>
+            <p>candidate leads</p>
+          </div>
+          <div>
+            <span id="print-high">0</span>
+            <p>high-priority leads</p>
+          </div>
+          <div>
+            <span id="print-folders">0</span>
+            <p>candidate source folders</p>
+          </div>
+        </section>
+        <div class="record-tools candidate-tools" aria-label="Subject-file print candidate filters">
+          <label>
+            Search
+            <input id="candidate-search" type="search" placeholder="Barco, debt, Scowcroft, pcc, extradition" />
+          </label>
+          <label>
+            Country
+            <select id="candidate-country-filter">
+              <option value="">All countries</option>
+            </select>
+          </label>
+          <label>
+            Priority
+            <select id="candidate-priority-filter">
+              <option value="High">High priority</option>
+              <option value="">All priorities</option>
+              <option value="Medium">Medium</option>
+              <option value="Reference">Reference</option>
+            </select>
+          </label>
+          <label>
+            Type
+            <select id="candidate-type-filter">
+              <option value="">All types</option>
+            </select>
+          </label>
+          <button id="clear-candidate-filters" class="button secondary small" type="button">Clear</button>
+          <p id="candidate-result-summary" class="result-summary">0 candidates</p>
+        </div>
+        <div id="print-candidates-root" class="candidate-root" aria-live="polite">
+          <p class="loading">Loading subject-file candidates...</p>
+        </div>
+      </section>
+
       <section class="section records-section" id="records" aria-labelledby="records-title">
         <div class="section-heading">
           <p class="kicker">Chronological Files</p>
@@ -209,6 +270,7 @@
       <a href="https://github.com/therealjameswilson/Bush41-LatAm">Repository</a>
     </footer>
     <script src="data/memcons.js"></script>
+    <script src="data/subject-print-candidates.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

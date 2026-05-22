@@ -1,0 +1,849 @@
+{
+  "generatedAt": "2026-05-22T00:00:07.993Z",
+  "sourceSeries": {
+    "name": "Latin American Affairs Directorate Subject Files",
+    "naid": "376217847",
+    "url": "https://catalog.archives.gov/id/376217847"
+  },
+  "scannedFolders": 41,
+  "candidateCount": 557,
+  "highPriorityCount": 299,
+  "mediumPriorityCount": 216,
+  "referencePriorityCount": 42,
+  "countryCounts": {
+    "Argentina": 74,
+    "Bolivia": 42,
+    "Brazil": 70,
+    "Chile": 22,
+    "Colombia": 105,
+    "Ecuador": 25,
+    "Guyana": 11,
+    "Paraguay": 11,
+    "Peru": 27,
+    "Suriname": 2,
+    "Uruguay": 30,
+    "Venezuela": 96
+  },
+  "folderReports": [
+    {
+      "naid": "470766478",
+      "title": "Argentina - January 20, 1989-December 31, 1989 [1]",
+      "localIdentifier": "CF00189-005",
+      "pageCount": 74,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00189",
+        "folderIdNumber": "CF00189-005",
+        "folderTitle": "Argentina - January 20, 1989-December 31, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766478",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-005.pdf",
+      "candidateCount": 9,
+      "highPriorityCount": 5
+    },
+    {
+      "naid": "470766479",
+      "title": "Argentina - January 20, 1989-December 31, 1989 [2]",
+      "localIdentifier": "CF00189-006",
+      "pageCount": 91,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00189",
+        "folderIdNumber": "CF00189-006",
+        "folderTitle": "Argentina - January 20, 1989-December 31, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766479",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-006.pdf",
+      "candidateCount": 8,
+      "highPriorityCount": 8
+    },
+    {
+      "naid": "470766480",
+      "title": "Argentina - January 20, 1989-December 31, 1989 [3]",
+      "localIdentifier": "CF00189-007",
+      "pageCount": 87,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00189",
+        "folderIdNumber": "CF00189-007",
+        "folderTitle": "Argentina - January 20, 1989-December 31, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766480",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-007.pdf",
+      "candidateCount": 21,
+      "highPriorityCount": 13
+    },
+    {
+      "naid": "470766481",
+      "title": "Argentina - January 20, 1989-December 31, 1989 [4]",
+      "localIdentifier": "CF00189-008",
+      "pageCount": 109,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00189",
+        "folderIdNumber": "CF00189-008",
+        "folderTitle": "Argentina - January 20, 1989-December 31, 1989 [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766481",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-008.pdf",
+      "candidateCount": 30,
+      "highPriorityCount": 16
+    },
+    {
+      "naid": "470766485",
+      "title": "Bolivia - January 20, 1989-December 31, 1989",
+      "localIdentifier": "CF00189-012",
+      "pageCount": 106,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00189",
+        "folderIdNumber": "CF00189-012",
+        "folderTitle": "Bolivia - January 20, 1989-December 31, 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766485",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-012.pdf",
+      "candidateCount": 27,
+      "highPriorityCount": 9
+    },
+    {
+      "naid": "470766486",
+      "title": "Brazil - January 20, 1989-December 31, 1989 [1]",
+      "localIdentifier": "CF00189-013",
+      "pageCount": 138,
+      "provenance": {
+        "foiaNumber": "2004-0734-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00189",
+        "folderIdNumber": "CF00189-013",
+        "folderTitle": "Brazil - January 20, 1989-December 31, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766486",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-013.pdf",
+      "candidateCount": 26,
+      "highPriorityCount": 13
+    },
+    {
+      "naid": "470766487",
+      "title": "Brazil - January 20, 1989-December 31, 1989 [2]",
+      "localIdentifier": "CF00189-014",
+      "pageCount": 83,
+      "provenance": {
+        "foiaNumber": "2004-0734-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00189",
+        "folderIdNumber": "CF00189-014",
+        "folderTitle": "Brazil - January 20, 1989-December 31, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766487",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-014.pdf",
+      "candidateCount": 37,
+      "highPriorityCount": 11
+    },
+    {
+      "naid": "470766562",
+      "title": "Chile - January 20, 1989-December 31, 1989",
+      "localIdentifier": "CF00195-005",
+      "pageCount": 103,
+      "provenance": {
+        "foiaNumber": "2004-0731-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00195",
+        "folderIdNumber": "CF00195-005",
+        "folderTitle": "Chile - January 20, 1989-December 31, 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766562",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-005.pdf",
+      "candidateCount": 21,
+      "highPriorityCount": 13
+    },
+    {
+      "naid": "470766564",
+      "title": "Colombia - January 20, 1989-December 31, 1989 [1]",
+      "localIdentifier": "CF00195-007",
+      "pageCount": 112,
+      "provenance": {
+        "foiaNumber": "2001-0434-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00195",
+        "folderIdNumber": "CF00195-007",
+        "folderTitle": "Colombia - January 20, 1989-December 31, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766564",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-007.pdf",
+      "candidateCount": 32,
+      "highPriorityCount": 15
+    },
+    {
+      "naid": "470766565",
+      "title": "Colombia - January 20, 1989-December 31, 1989 [2]",
+      "localIdentifier": "CF00195-008",
+      "pageCount": 93,
+      "provenance": {
+        "foiaNumber": "2001-0434-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00195",
+        "folderIdNumber": "CF00195-008",
+        "folderTitle": "Colombia - January 20, 1989-December 31, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766565",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-008.pdf",
+      "candidateCount": 10,
+      "highPriorityCount": 5
+    },
+    {
+      "naid": "470766566",
+      "title": "Colombia - January 20, 1989-December 31, 1989 [3]",
+      "localIdentifier": "CF00195-009",
+      "pageCount": 83,
+      "provenance": {
+        "foiaNumber": "2001-0434-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00195",
+        "folderIdNumber": "CF00195-009",
+        "folderTitle": "Colombia - January 20, 1989-December 31, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766566",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-009.pdf",
+      "candidateCount": 16,
+      "highPriorityCount": 8
+    },
+    {
+      "naid": "470766567",
+      "title": "Colombia - January 20, 1989-December 31, 1989 [4]",
+      "localIdentifier": "CF00195-010",
+      "pageCount": 89,
+      "provenance": {
+        "foiaNumber": "2001-0434-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00195",
+        "folderIdNumber": "CF00195-010",
+        "folderTitle": "Colombia - January 20, 1989-December 31, 1989 [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766567",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-010.pdf",
+      "candidateCount": 33,
+      "highPriorityCount": 16
+    },
+    {
+      "naid": "470766556",
+      "title": "Ecuador - January 20, 1989-December 31, 1989",
+      "localIdentifier": "CF00194-019",
+      "pageCount": 57,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00194",
+        "folderIdNumber": "CF00194-019",
+        "folderTitle": "Ecuador - January 20, 1989-December 31, 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766556",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00194-019.pdf",
+      "candidateCount": 21,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766599",
+      "title": "Guyana - January 20, 1989-December 31, 1989",
+      "localIdentifier": "CF00196-013",
+      "pageCount": 70,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00196",
+        "folderIdNumber": "CF00196-013",
+        "folderTitle": "Guyana - January 20, 1989-December 31, 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766599",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-013.pdf",
+      "candidateCount": 11,
+      "highPriorityCount": 10
+    },
+    {
+      "naid": "470766516",
+      "title": "Paraguay - January 20, 1989-December 31, 1989",
+      "localIdentifier": "CF00193-001",
+      "pageCount": 72,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00193",
+        "folderIdNumber": "CF00193-001",
+        "folderTitle": "Paraguay - January 20, 1989-December 31, 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766516",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-001.pdf",
+      "candidateCount": 9,
+      "highPriorityCount": 6
+    },
+    {
+      "naid": "470766518",
+      "title": "Peru - January 20, 1989-December 31, 1989",
+      "localIdentifier": "CF00193-003",
+      "pageCount": 89,
+      "provenance": {
+        "foiaNumber": "2001-0010-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00193",
+        "folderIdNumber": "CF00193-003",
+        "folderTitle": "Peru - January 20, 1989-December 31, 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766518",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-003.pdf",
+      "candidateCount": 12,
+      "highPriorityCount": 4
+    },
+    {
+      "naid": "470766498",
+      "title": "Latin America - Business Groups",
+      "localIdentifier": "CF00192-003",
+      "pageCount": 12,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00192",
+        "folderIdNumber": "CF00192-003",
+        "folderTitle": "Latin America - Business Groups"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766498",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00192-003.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 3
+    },
+    {
+      "naid": "470766568",
+      "title": "The Columbus Group [Influential South American Businessmen]",
+      "localIdentifier": "CF00195-011",
+      "pageCount": 13,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00195",
+        "folderIdNumber": "CF00195-011",
+        "folderTitle": "The Columbus Group [Influential South American Businessmen]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766568",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-011.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766475",
+      "title": "Andean [Drug] Summit 1989 [1]",
+      "localIdentifier": "CF00189-002",
+      "pageCount": 97,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00189",
+        "folderIdNumber": "CF00189-002",
+        "folderTitle": "Andean [Drug] Summit 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766475",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-002.pdf",
+      "candidateCount": 14,
+      "highPriorityCount": 11
+    },
+    {
+      "naid": "470766476",
+      "title": "Andean [Drug] Summit 1989 [2]",
+      "localIdentifier": "CF00189-003",
+      "pageCount": 94,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00189",
+        "folderIdNumber": "CF00189-003",
+        "folderTitle": "Andean [Drug] Summit 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766476",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-003.pdf",
+      "candidateCount": 10,
+      "highPriorityCount": 7
+    },
+    {
+      "naid": "470766477",
+      "title": "Andean [Drug] Summit 1989 [3]",
+      "localIdentifier": "CF00189-004",
+      "pageCount": 113,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00189",
+        "folderIdNumber": "CF00189-004",
+        "folderTitle": "Andean [Drug] Summit 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766477",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00189-004.pdf",
+      "candidateCount": 4,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766605",
+      "title": "Latin America Economic Affairs 1989",
+      "localIdentifier": "CF00196-019",
+      "pageCount": 66,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00196",
+        "folderIdNumber": "CF00196-019",
+        "folderTitle": "Latin America Economic Affairs 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766605",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-019.pdf",
+      "candidateCount": 6,
+      "highPriorityCount": 2
+    },
+    {
+      "naid": "470766528",
+      "title": "Tokyo Bilaterals - Debt [1989]",
+      "localIdentifier": "CF00193-013",
+      "pageCount": 7,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00193",
+        "folderIdNumber": "CF00193-013",
+        "folderTitle": "Tokyo Bilaterals - Debt [1989]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766528",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-013.pdf",
+      "candidateCount": 1,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "470766536",
+      "title": "Warning [Latin America Meeting December 1989]",
+      "localIdentifier": "CF00193-021",
+      "pageCount": 5,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00193",
+        "folderIdNumber": "CF00193-021",
+        "folderTitle": "Warning [Latin America Meeting December 1989]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766536",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-021.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766563",
+      "title": "CIA Reports - Latin American Warning & Forecast Meetings - January 20, 1989-December 31, 1989) NB: withdrawn intel docs [empty]",
+      "localIdentifier": "CF00195-006",
+      "pageCount": 1,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00195",
+        "folderIdNumber": "CF00195-006",
+        "folderTitle": "CIA Reports - Latin American Warning & Forecast Meetings - January 20, 1989-December 31, 1989) NB: withdrawn intel docs [empty]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766563",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00195-006.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766550",
+      "title": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]",
+      "localIdentifier": "CF00194-013",
+      "pageCount": 107,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00194",
+        "folderIdNumber": "CF00194-013",
+        "folderTitle": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766550",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00194-013.pdf",
+      "candidateCount": 7,
+      "highPriorityCount": 6
+    },
+    {
+      "naid": "470766551",
+      "title": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]",
+      "localIdentifier": "CF00194-014",
+      "pageCount": 57,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00194",
+        "folderIdNumber": "CF00194-014",
+        "folderTitle": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766551",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00194-014.pdf",
+      "candidateCount": 8,
+      "highPriorityCount": 7
+    },
+    {
+      "naid": "470766552",
+      "title": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]",
+      "localIdentifier": "CF00194-015",
+      "pageCount": 108,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00194",
+        "folderIdNumber": "CF00194-015",
+        "folderTitle": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766552",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00194-015.pdf",
+      "candidateCount": 9,
+      "highPriorityCount": 7
+    },
+    {
+      "naid": "470766553",
+      "title": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]",
+      "localIdentifier": "CF00194-016",
+      "pageCount": 107,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00194",
+        "folderIdNumber": "CF00194-016",
+        "folderTitle": "Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766553",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00194-016.pdf",
+      "candidateCount": 12,
+      "highPriorityCount": 10
+    },
+    {
+      "naid": "470766604",
+      "title": "Latin America - Churches - January 20, 1989-December 31, 1989",
+      "localIdentifier": "CF00196-018",
+      "pageCount": 55,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00196",
+        "folderIdNumber": "CF00196-018",
+        "folderTitle": "Latin America - Churches - January 20, 1989-December 31, 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766604",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-018.pdf",
+      "candidateCount": 2,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "470766606",
+      "title": "Latin America - General - January 20, 1989-December 31, 1989 [1]",
+      "localIdentifier": "CF00196-020",
+      "pageCount": 151,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00196",
+        "folderIdNumber": "CF00196-020",
+        "folderTitle": "Latin America - General - January 20, 1989-December 31, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766606",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-020.pdf",
+      "candidateCount": 5,
+      "highPriorityCount": 5
+    },
+    {
+      "naid": "470766607",
+      "title": "Latin America - General - January 20, 1989-December 31, 1989 [2]",
+      "localIdentifier": "CF00196-021",
+      "pageCount": 87,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00196",
+        "folderIdNumber": "CF00196-021",
+        "folderTitle": "Latin America - General - January 20, 1989-December 31, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766607",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-021.pdf",
+      "candidateCount": 1,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766496",
+      "title": "Latin America - January 20, 1989-December 31, 1989 [1]",
+      "localIdentifier": "CF00192-001",
+      "pageCount": 80,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00192",
+        "folderIdNumber": "CF00192-001",
+        "folderTitle": "Latin America - January 20, 1989-December 31, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766496",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00192-001.pdf",
+      "candidateCount": 13,
+      "highPriorityCount": 5
+    },
+    {
+      "naid": "470766497",
+      "title": "Latin America - January 20, 1989-December 31, 1989 [2]",
+      "localIdentifier": "CF00192-002",
+      "pageCount": 130,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00192",
+        "folderIdNumber": "CF00192-002",
+        "folderTitle": "Latin America - January 20, 1989-December 31, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766497",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00192-002.pdf",
+      "candidateCount": 9,
+      "highPriorityCount": 6
+    },
+    {
+      "naid": "470766608",
+      "title": "Latin America - USSR - January 20, 1989-December 31, 1989",
+      "localIdentifier": "CF00196-022",
+      "pageCount": 11,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00196",
+        "folderIdNumber": "CF00196-022",
+        "folderTitle": "Latin America - USSR - January 20, 1989-December 31, 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766608",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00196-022.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "470766525",
+      "title": "South America - January 20, 1989-December 31, 1989",
+      "localIdentifier": "CF00193-010",
+      "pageCount": 10,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00193",
+        "folderIdNumber": "CF00193-010",
+        "folderTitle": "South America - January 20, 1989-December 31, 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766525",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-010.pdf",
+      "candidateCount": 3,
+      "highPriorityCount": 3
+    },
+    {
+      "naid": "470766527",
+      "title": "Suriname - January 20, 1989-December 31, 1989",
+      "localIdentifier": "CF00193-012",
+      "pageCount": 26,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00193",
+        "folderIdNumber": "CF00193-012",
+        "folderTitle": "Suriname - January 20, 1989-December 31, 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766527",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-012.pdf",
+      "candidateCount": 2,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "470766531",
+      "title": "Uruguay - January 20, 1989-December 31, 1989",
+      "localIdentifier": "CF00193-016",
+      "pageCount": 154,
+      "provenance": {
+        "foiaNumber": "2015-0017-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00193",
+        "folderIdNumber": "CF00193-016",
+        "folderTitle": "Uruguay - January 20, 1989-December 31, 1989"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766531",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-016.pdf",
+      "candidateCount": 27,
+      "highPriorityCount": 15
+    },
+    {
+      "naid": "470766533",
+      "title": "Venezuela - January 20, 1989-December 31, 1989 [1]",
+      "localIdentifier": "CF00193-018",
+      "pageCount": 144,
+      "provenance": {
+        "foiaNumber": "2009-0704-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00193",
+        "folderIdNumber": "CF00193-018",
+        "folderTitle": "Venezuela - January 20, 1989-December 31, 1989 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766533",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-018.pdf",
+      "candidateCount": 31,
+      "highPriorityCount": 14
+    },
+    {
+      "naid": "470766534",
+      "title": "Venezuela - January 20, 1989-December 31, 1989 [2]",
+      "localIdentifier": "CF00193-019",
+      "pageCount": 138,
+      "provenance": {
+        "foiaNumber": "2009-0704-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00193",
+        "folderIdNumber": "CF00193-019",
+        "folderTitle": "Venezuela - January 20, 1989-December 31, 1989 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766534",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-019.pdf",
+      "candidateCount": 50,
+      "highPriorityCount": 32
+    },
+    {
+      "naid": "470766537",
+      "title": "[Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]",
+      "localIdentifier": "CF00193-022",
+      "pageCount": 17,
+      "provenance": {
+        "foiaNumber": "2009-0704-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Latin American Affairs Directorate Files",
+        "subseries": "Subject File 1989",
+        "oaIdNumber": "CF00193",
+        "folderIdNumber": "CF00193-022",
+        "folderTitle": "[Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470766537",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/Latin_Amer_Aff_Dir_Files/Subject_376217847/41-bpr-nsc-lat_amer_dir-subj-cf00193-022.pdf",
+      "candidateCount": 11,
+      "highPriorityCount": 5
+    }
+  ]
+}

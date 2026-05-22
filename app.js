@@ -24,7 +24,15 @@ const typeFilter = document.querySelector("#type-filter");
 const sourceFilter = document.querySelector("#source-filter");
 const releaseFilter = document.querySelector("#release-filter");
 const clearFilters = document.querySelector("#clear-filters");
+const printCandidatesRoot = document.querySelector("#print-candidates-root");
+const candidateSearchInput = document.querySelector("#candidate-search");
+const candidateCountryFilter = document.querySelector("#candidate-country-filter");
+const candidatePriorityFilter = document.querySelector("#candidate-priority-filter");
+const candidateTypeFilter = document.querySelector("#candidate-type-filter");
+const clearCandidateFilters = document.querySelector("#clear-candidate-filters");
+const candidateResultSummary = document.querySelector("#candidate-result-summary");
 let allRecords = [];
+let allPrintCandidates = [];
 
 function chapterId(chapterName) {
   return `chapter-${chapterName.toLowerCase().replace(/\s+/g, "-")}`;
@@ -262,6 +270,12 @@ function setProvenanceCounts(records) {
   }
 }
 
+function setPrintCandidateCounts(candidates) {
+  setText("#print-total", candidates.length);
+  setText("#print-high", candidates.filter((candidate) => candidate.priority === "High").length);
+  setText("#print-folders", new Set(candidates.map((candidate) => candidate.folderNaid)).size);
+}
+
 function populateSelect(select, values) {
   if (!select) return;
   const existing = new Set([...select.options].map((option) => option.value));
@@ -278,6 +292,16 @@ function populateFilters(records) {
   populateSelect(countryFilter, CHAPTER_ORDER);
   populateSelect(typeFilter, unique(records.map((record) => record.type)));
   populateSelect(releaseFilter, unique(records.map((record) => record.releaseStatus)));
+}
+
+function populateCandidateFilters(candidates) {
+  const candidateCountries = unique(candidates.flatMap((candidate) => candidate.countries || []));
+  const orderedCountries = [
+    ...CHAPTER_ORDER.filter((country) => candidateCountries.includes(country)),
+    ...candidateCountries.filter((country) => !CHAPTER_ORDER.includes(country))
+  ];
+  populateSelect(candidateCountryFilter, orderedCountries);
+  populateSelect(candidateTypeFilter, unique(candidates.map((candidate) => candidate.documentType)));
 }
 
 function createMeta(record) {
@@ -428,6 +452,184 @@ function createRecordRow(record) {
   return row;
 }
 
+function priorityRank(priority) {
+  return { High: 0, Medium: 1, Reference: 2 }[priority] ?? 9;
+}
+
+function candidateDateValue(candidate) {
+  const value = candidate.documentDate || "";
+  if (!value || /^n\.d\.$/i.test(value)) return "";
+  const parsed = Date.parse(`${value} UTC`);
+  if (Number.isNaN(parsed)) return "";
+  return new Date(parsed).toISOString().slice(0, 10);
+}
+
+function candidateCountryRank(candidate) {
+  const country = (candidate.countries || [])[0] || "";
+  const index = CHAPTER_ORDER.indexOf(country);
+  return index === -1 ? 999 : index;
+}
+
+function byCandidateUtility(a, b) {
+  return (
+    priorityRank(a.priority) - priorityRank(b.priority) ||
+    b.score - a.score ||
+    candidateCountryRank(a) - candidateCountryRank(b) ||
+    candidateDateValue(a).localeCompare(candidateDateValue(b)) ||
+    a.folderTitle.localeCompare(b.folderTitle) ||
+    a.pageStart - b.pageStart
+  );
+}
+
+function candidateSearchText(candidate) {
+  return [
+    candidate.documentTitle,
+    candidate.documentType,
+    candidate.documentDate,
+    candidate.documentNo,
+    candidate.folderTitle,
+    candidate.localIdentifier,
+    candidate.folderNaid,
+    candidate.accessRestriction,
+    candidate.extraction,
+    candidate.reviewReason,
+    candidate.sourceNote,
+    candidate.ocrSnippet,
+    candidate.countries,
+    candidate.themes
+  ]
+    .flat()
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function activeCandidateFilters() {
+  return {
+    query: candidateSearchInput?.value.trim().toLowerCase() || "",
+    country: candidateCountryFilter?.value || "",
+    priority: candidatePriorityFilter?.value || "",
+    type: candidateTypeFilter?.value || ""
+  };
+}
+
+function candidateMatches(candidate, filters) {
+  if (filters.query && !candidateSearchText(candidate).includes(filters.query)) return false;
+  if (filters.country && !(candidate.countries || []).includes(filters.country)) return false;
+  if (filters.priority && candidate.priority !== filters.priority) return false;
+  if (filters.type && candidate.documentType !== filters.type) return false;
+  return true;
+}
+
+function filteredPrintCandidates(candidates) {
+  const filters = activeCandidateFilters();
+  return candidates.filter((candidate) => candidateMatches(candidate, filters));
+}
+
+function createCandidateMeta(candidate) {
+  const meta = document.createElement("div");
+  meta.className = "record-meta candidate-meta";
+
+  for (const value of [
+    candidate.documentType,
+    (candidate.countries || []).join(", "),
+    candidate.localIdentifier,
+    candidate.pageStart ? `page ${candidate.pageStart}` : "",
+    candidate.extraction === "withdrawal-sheet" ? "Withdrawal sheet" : "OCR text",
+    candidate.accessRestriction
+  ]) {
+    if (!value) continue;
+    const item = document.createElement("span");
+    item.textContent = value;
+    meta.append(item);
+  }
+
+  return meta;
+}
+
+function createCandidatePriority(candidate) {
+  const badge = document.createElement("span");
+  badge.className = `candidate-priority ${candidate.priority.toLowerCase()}`;
+  badge.textContent = `${candidate.priority} priority`;
+  return badge;
+}
+
+function createCandidateSourceNote(candidate) {
+  const citation = document.createElement("div");
+  citation.className = "record-citation";
+
+  const sourceNote = document.createElement("p");
+  sourceNote.className = "record-source-note";
+  sourceNote.textContent = candidate.sourceNote || "Source: Provenance pending.";
+  citation.append(sourceNote);
+
+  const details = document.createElement("details");
+  details.className = "record-provenance candidate-provenance";
+  const summary = document.createElement("summary");
+  summary.textContent = "OCR and review signal";
+  const reason = document.createElement("p");
+  reason.textContent = [candidate.reviewReason, candidate.ocrSnippet].filter(Boolean).join(" - ");
+  details.append(summary, reason);
+  citation.append(details);
+
+  return citation;
+}
+
+function createCandidateRow(candidate) {
+  const row = document.createElement("article");
+  row.className = "candidate-row";
+
+  const date = document.createElement("time");
+  date.className = "record-date candidate-date";
+  date.dateTime = candidateDateValue(candidate);
+  date.textContent = candidate.documentDate || "Undated";
+
+  const body = document.createElement("div");
+  const title = document.createElement("a");
+  title.className = "record-title candidate-title";
+  title.href = candidate.pageLink || candidate.catalogUrl || candidate.pdfUrl;
+  title.rel = "noreferrer";
+  title.target = "_blank";
+  title.textContent = candidate.documentNo
+    ? `${candidate.documentNo} ${candidate.documentTitle}`
+    : candidate.documentTitle;
+
+  const folderLine = createDetailLine("Folder", [
+    candidate.folderTitle,
+    candidate.folderNaid ? `NAID ${candidate.folderNaid}` : ""
+  ]);
+  const themeLine = createDetailLine("Themes", candidate.themes);
+
+  body.append(
+    createCandidatePriority(candidate),
+    title,
+    createCandidateMeta(candidate),
+    ...(folderLine ? [folderLine] : []),
+    ...(themeLine ? [themeLine] : []),
+    createCandidateSourceNote(candidate)
+  );
+
+  const links = document.createElement("div");
+  links.className = "record-links candidate-links";
+
+  for (const [label, url] of [
+    ["PDF Page", candidate.pageLink],
+    ["Catalog", candidate.catalogUrl],
+    ["Folder PDF", candidate.pdfUrl]
+  ]) {
+    if (!url) continue;
+    const link = document.createElement("a");
+    link.href = url;
+    link.rel = "noreferrer";
+    link.target = "_blank";
+    link.textContent = label;
+    links.append(link);
+  }
+
+  row.append(date, body, links);
+  return row;
+}
+
 function searchText(record) {
   return [
     record.title,
@@ -555,6 +757,37 @@ function updateRecords() {
   renderRecords(records, { filtered: hasActiveFilters(filters) });
 }
 
+function updateCandidateSummary(candidates) {
+  if (!candidateResultSummary) return;
+  const highCount = candidates.filter((candidate) => candidate.priority === "High").length;
+  const folderCount = new Set(candidates.map((candidate) => candidate.folderNaid)).size;
+  candidateResultSummary.textContent = `${candidates.length} candidates / ${highCount} high priority / ${folderCount} folders`;
+}
+
+function renderPrintCandidates(candidates) {
+  if (!printCandidatesRoot) return;
+  const sorted = [...candidates].sort(byCandidateUtility);
+  printCandidatesRoot.replaceChildren();
+
+  if (!sorted.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-chapter";
+    empty.textContent = "No subject-file candidates match the current compiler filters.";
+    printCandidatesRoot.append(empty);
+    return;
+  }
+
+  for (const candidate of sorted) {
+    printCandidatesRoot.append(createCandidateRow(candidate));
+  }
+}
+
+function updatePrintCandidates() {
+  const candidates = filteredPrintCandidates(allPrintCandidates);
+  updateCandidateSummary(candidates);
+  renderPrintCandidates(candidates);
+}
+
 function enableRecordFilters() {
   for (const control of [searchInput, countryFilter, typeFilter, sourceFilter, releaseFilter]) {
     control?.addEventListener("input", updateRecords);
@@ -569,6 +802,22 @@ function enableRecordFilters() {
     if (releaseFilter) releaseFilter.value = "";
     updateRecords();
     searchInput?.focus();
+  });
+}
+
+function enableCandidateFilters() {
+  for (const control of [candidateSearchInput, candidateCountryFilter, candidatePriorityFilter, candidateTypeFilter]) {
+    control?.addEventListener("input", updatePrintCandidates);
+    control?.addEventListener("change", updatePrintCandidates);
+  }
+
+  clearCandidateFilters?.addEventListener("click", () => {
+    if (candidateSearchInput) candidateSearchInput.value = "";
+    if (candidateCountryFilter) candidateCountryFilter.value = "";
+    if (candidatePriorityFilter) candidatePriorityFilter.value = "High";
+    if (candidateTypeFilter) candidateTypeFilter.value = "";
+    updatePrintCandidates();
+    candidateSearchInput?.focus();
   });
 }
 
@@ -606,11 +855,34 @@ async function init() {
     recordsRoot.innerHTML =
       '<p class="error">The memcon records could not be loaded. Try opening this site through a local server or GitHub Pages.</p>';
   }
+
+  await initPrintCandidates();
 }
 
 async function loadRecords() {
   const response = await fetch("data/memcons.json");
   if (!response.ok) throw new Error(`Could not load records: ${response.status}`);
+  return response.json();
+}
+
+async function initPrintCandidates() {
+  if (!printCandidatesRoot) return;
+  try {
+    const candidates = window.SUBJECT_PRINT_CANDIDATES || (await loadPrintCandidates());
+    allPrintCandidates = candidates;
+    setPrintCandidateCounts(candidates);
+    populateCandidateFilters(candidates);
+    enableCandidateFilters();
+    updatePrintCandidates();
+  } catch (error) {
+    printCandidatesRoot.innerHTML =
+      '<p class="error">The subject-file print candidates could not be loaded. Try opening this site through a local server or GitHub Pages.</p>';
+  }
+}
+
+async function loadPrintCandidates() {
+  const response = await fetch("data/subject-print-candidates.json");
+  if (!response.ok) throw new Error(`Could not load subject-file candidates: ${response.status}`);
   return response.json();
 }
 

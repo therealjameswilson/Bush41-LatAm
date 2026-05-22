@@ -61,6 +61,20 @@ This scans the full 146-file-unit series and writes South America country files 
 America folders to `data/subject-files.json` and
 `reports/latin-american-subject-files-harvest.json`.
 
+To turn those online PDFs into a compiler-facing print-candidate worklist, run:
+
+```bash
+node scripts/harvest-subject-print-candidates.js
+```
+
+This downloads the public PDFs into `.cache/subject-files/`, OCRs them with `ocrmypdf`, extracts
+memoranda, memcons, telcons, talking points, letters, cables, reports, and withdrawal-sheet leads,
+and writes `data/subject-print-candidates.json` plus
+`reports/subject-print-candidates-harvest.json`. The visible Source notes retain the PDF marker
+sheet provenance: George H.W. Bush Library, Bush Presidential Records, National Security Council,
+Latin American Affairs Directorate Files, Subject File 1989, OA/ID, folder ID number, folder title,
+access restriction, and FOIA number.
+
 ## Chapter Arrangement
 
 1. Argentina
