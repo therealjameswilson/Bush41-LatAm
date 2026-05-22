@@ -129,7 +129,9 @@ function candidateSourceName(candidate) {
 }
 
 function candidateSourceShort(candidate) {
-  return /Chronological/i.test(candidateSourceName(candidate)) ? "Chronological Files" : "Subject Files";
+  const name = candidateSourceName(candidate);
+  if (/Timothy E\.?\s*Deal/i.test(name)) return "Deal Subject Files";
+  return /Chronological/i.test(name) ? "Chronological Files" : "Subject Files";
 }
 
 function reviewFlags(record) {
@@ -1142,7 +1144,8 @@ async function initPrintCandidates() {
   try {
     const chronological = window.CHRONOLOGICAL_PRINT_CANDIDATES || (await loadPrintCandidates("data/chronological-print-candidates.json"));
     const subject = window.SUBJECT_PRINT_CANDIDATES || (await loadPrintCandidates("data/subject-print-candidates.json"));
-    const candidates = [...chronological, ...subject];
+    const deal = window.DEAL_PRINT_CANDIDATES || (await loadPrintCandidates("data/deal-print-candidates.json"));
+    const candidates = [...chronological, ...subject, ...deal];
     allPrintCandidates = candidates;
     setPrintCandidateCounts(candidates);
     populateCandidateFilters(candidates);

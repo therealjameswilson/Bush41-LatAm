@@ -1,0 +1,658 @@
+{
+  "generatedAt": "2026-05-22T20:24:34.910Z",
+  "series": {
+    "name": "Timothy E. Deal Subject Files",
+    "naid": "2554810",
+    "url": "https://catalog.archives.gov/id/2554810"
+  },
+  "harvestedRecords": 20,
+  "onlinePdfRecords": 20,
+  "records": [
+    {
+      "id": "deal-subject-files-452050521",
+      "naid": "452050521",
+      "title": "COCOM [Coordinating Committee for Multilateral Export Controls] (April 1990 - October 1990) [3]",
+      "localIdentifier": "CF00961-019",
+      "levelOfDescription": "fileUnit",
+      "startDate": "1990-04-01",
+      "endDate": "1990-10-31",
+      "catalogUrl": "https://catalog.archives.gov/id/452050521",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00961-019.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00961-019.pdf",
+      "objectId": "652475027",
+      "objectFileSize": 25609260,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00961",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: Pres-Bush",
+        "Other Finding Aid Identifier: 2023-1227-S"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050525",
+      "naid": "452050525",
+      "title": "COCOM [Coordinating Committee for Multilateral Export Controls] (April 1990 - October 1990) [7]",
+      "localIdentifier": "CF00961-023",
+      "levelOfDescription": "fileUnit",
+      "startDate": "1990-04-01",
+      "endDate": "1990-10-31",
+      "catalogUrl": "https://catalog.archives.gov/id/452050525",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00961-023.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00961-023.pdf",
+      "objectId": "652475031",
+      "objectFileSize": 23060414,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00961",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: Pres-Bush",
+        "Other Finding Aid Identifier: 2023-1227-S"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050539",
+      "naid": "452050539",
+      "title": "Debt [4]",
+      "localIdentifier": "CF00962-013",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050539",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-013.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00962-013.pdf",
+      "objectId": "652475045",
+      "objectFileSize": 42118724,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00962",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: 2023-1227-S",
+        "Other Finding Aid Identifier: Pres-Bush"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050540",
+      "naid": "452050540",
+      "title": "EBRD [European Bank for Reconstruction and Development] [1]",
+      "localIdentifier": "CF00962-014",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050540",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-014.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00962-014.pdf",
+      "objectId": "652475046",
+      "objectFileSize": 52175352,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00962",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: 2023-1227-S",
+        "FOIA Tracking Number: 2012-3110-F",
+        "Other Finding Aid Identifier: Pres-Bush"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050545",
+      "naid": "452050545",
+      "title": "Enterprise for the Americas Initiative (EAI)",
+      "localIdentifier": "CF00962-019",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050545",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-019.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00962-019.pdf",
+      "objectId": "652475051",
+      "objectFileSize": 14080545,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00962",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: 2023-1227-S",
+        "Other Finding Aid Identifier: Pres-Bush"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050547",
+      "naid": "452050547",
+      "title": "Fiber Optics [2]",
+      "localIdentifier": "CF00962-021",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050547",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-021.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00962-021.pdf",
+      "objectId": "652475053",
+      "objectFileSize": 19523260,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00962",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: 2023-1227-S",
+        "Other Finding Aid Identifier: Pres-Bush"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050553",
+      "naid": "452050553",
+      "title": "Export Controls [2]",
+      "localIdentifier": "CF00963-004",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050553",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00963-004.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00963-004.pdf",
+      "objectId": "652475059",
+      "objectFileSize": 25295776,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00963",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: Pres-Bush",
+        "Other Finding Aid Identifier: 2023-1227-S"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050558",
+      "naid": "452050558",
+      "title": "Gulf Crisis Financial Coordination Group [1]",
+      "localIdentifier": "CF00963-009",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050558",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00963-009.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00963-009.pdf",
+      "objectId": "652475064",
+      "objectFileSize": 41336420,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00963",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: Pres-Bush",
+        "Other Finding Aid Identifier: 2023-1227-S"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050564",
+      "naid": "452050564",
+      "title": "Houston [Economic] Summit (July 9-11, 1990) [2]",
+      "localIdentifier": "CF00963-015",
+      "levelOfDescription": "fileUnit",
+      "startDate": "1990-07-09",
+      "endDate": "1990-07-11",
+      "catalogUrl": "https://catalog.archives.gov/id/452050564",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00963-015.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00963-015.pdf",
+      "objectId": "652475070",
+      "objectFileSize": 52293928,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00963",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: 2023-1227-S",
+        "Other Finding Aid Identifier: Pres-Bush",
+        "FOIA Tracking Number: 2003-0371-F"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050579",
+      "naid": "452050579",
+      "title": "Latin America [2]",
+      "localIdentifier": "CF00964-010",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050579",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00964-010.pdf",
+      "objectId": "652475085",
+      "objectFileSize": 34957348,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00964",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: Pres-Bush",
+        "Other Finding Aid Identifier: 2023-1227-S"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050600",
+      "naid": "452050600",
+      "title": "Soviet Union [1]",
+      "localIdentifier": "CF00972-009",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050600",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-009.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00972-009.pdf",
+      "objectId": "652475106",
+      "objectFileSize": 22988000,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00972",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: 2023-1227-S",
+        "Other Finding Aid Identifier: Pres-Bush"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050604",
+      "naid": "452050604",
+      "title": "Soviet Union [5]",
+      "localIdentifier": "CF00972-013",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050604",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-013.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00972-013.pdf",
+      "objectId": "652475110",
+      "objectFileSize": 17458540,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00972",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: Pres-Bush",
+        "Other Finding Aid Identifier: 2023-1227-S"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050608",
+      "naid": "452050608",
+      "title": "Soviet Union [9]",
+      "localIdentifier": "CF00972-017",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050608",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-017.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00972-017.pdf",
+      "objectId": "652475114",
+      "objectFileSize": 6070065,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00972",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: Pres-Bush",
+        "Other Finding Aid Identifier: 2023-1227-S"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050609",
+      "naid": "452050609",
+      "title": "Trade",
+      "localIdentifier": "CF00972-018",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050609",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-018.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00972-018.pdf",
+      "objectId": "652475115",
+      "objectFileSize": 6110845,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00972",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: 2023-1227-S",
+        "Other Finding Aid Identifier: Pres-Bush"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050615",
+      "naid": "452050615",
+      "title": "[Timothy] Deal Travel [6]",
+      "localIdentifier": "CF00972-024",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050615",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-024.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00972-024.pdf",
+      "objectId": "652475121",
+      "objectFileSize": 52244488,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00972",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: Pres-Bush",
+        "Other Finding Aid Identifier: 2023-1227-S"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050622",
+      "naid": "452050622",
+      "title": "Uruguay Round [6]",
+      "localIdentifier": "CF00972-031",
+      "levelOfDescription": "fileUnit",
+      "startDate": "",
+      "endDate": "",
+      "catalogUrl": "https://catalog.archives.gov/id/452050622",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-031.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00972-031.pdf",
+      "objectId": "652475128",
+      "objectFileSize": 41620080,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00972",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: 2023-1227-S",
+        "Other Finding Aid Identifier: Pres-Bush"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050624",
+      "naid": "452050624",
+      "title": "[Munich Economic Summit] First Sherpa Meeting Briefing Book, January 10-12, 1992 [1]",
+      "localIdentifier": "CF00973-002",
+      "levelOfDescription": "fileUnit",
+      "startDate": "1992-01-10",
+      "endDate": "1992-01-12",
+      "catalogUrl": "https://catalog.archives.gov/id/452050624",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-002.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00973-002.pdf",
+      "objectId": "652475130",
+      "objectFileSize": 41230096,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00973",
+      "variantControlNumbers": [
+        "Other Finding Aid Identifier: Pres-Bush",
+        "FOIA Tracking Number: 2009-0783-F",
+        "Other Finding Aid Identifier: 2023-1227-S"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050625",
+      "naid": "452050625",
+      "title": "[Munich Economic Summit] First Sherpa Meeting Briefing Book, January 10-12, 1992 [2]",
+      "localIdentifier": "CF00973-003",
+      "levelOfDescription": "fileUnit",
+      "startDate": "1992-01-10",
+      "endDate": "1992-01-12",
+      "catalogUrl": "https://catalog.archives.gov/id/452050625",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-003.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00973-003.pdf",
+      "objectId": "652475131",
+      "objectFileSize": 32806240,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00973",
+      "variantControlNumbers": [
+        "FOIA Tracking Number: 2009-0783-F",
+        "Other Finding Aid Identifier: 2023-1227-S",
+        "Other Finding Aid Identifier: Pres-Bush"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050631",
+      "naid": "452050631",
+      "title": "[Munich Economic Summit] Fourth Sherpa Meeting Briefing Book, May 22-24, 1992, Rugen, Germany [1]",
+      "localIdentifier": "CF00973-009",
+      "levelOfDescription": "fileUnit",
+      "startDate": "1992-05-22",
+      "endDate": "1992-05-24",
+      "catalogUrl": "https://catalog.archives.gov/id/452050631",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-009.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00973-009.pdf",
+      "objectId": "652475137",
+      "objectFileSize": 2711689,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00973",
+      "variantControlNumbers": [
+        "FOIA Tracking Number: 2009-0783-F",
+        "Other Finding Aid Identifier: Pres-Bush",
+        "Other Finding Aid Identifier: 2023-1227-S"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    },
+    {
+      "id": "deal-subject-files-452050633",
+      "naid": "452050633",
+      "title": "[Munich Economic Summit] Fourth Sherpa Meeting Briefing Book, May 22-24, 1992, Rugen, Germany [3]",
+      "localIdentifier": "CF00973-011",
+      "levelOfDescription": "fileUnit",
+      "startDate": "1992-05-22",
+      "endDate": "1992-05-24",
+      "catalogUrl": "https://catalog.archives.gov/id/452050633",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-011.pdf",
+      "objectFilename": "41-bpr-nsc-deal-subj-cf00973-011.pdf",
+      "objectId": "652475139",
+      "objectFileSize": 27687824,
+      "accessRestriction": "Restricted - Possibly",
+      "useRestriction": "Unrestricted",
+      "containerId": "CF00973",
+      "variantControlNumbers": [
+        "FOIA Tracking Number: 2009-0783-F",
+        "Other Finding Aid Identifier: 2023-1227-S",
+        "Other Finding Aid Identifier: Pres-Bush"
+      ],
+      "series": {
+        "naid": "2554810",
+        "title": "Timothy E. Deal Subject Files",
+        "url": "https://catalog.archives.gov/id/2554810"
+      },
+      "collection": {
+        "naid": "2163580",
+        "title": "Records of the National Security Council (George H. W. Bush Administration)",
+        "url": "https://catalog.archives.gov/id/2163580"
+      },
+      "referenceUnit": "George Bush Library"
+    }
+  ]
+}

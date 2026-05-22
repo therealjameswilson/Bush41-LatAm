@@ -1,0 +1,430 @@
+{
+  "generatedAt": "2026-05-22T20:47:44.575Z",
+  "sourceSeries": {
+    "name": "Timothy E. Deal Subject Files",
+    "naid": "2554810",
+    "url": "https://catalog.archives.gov/id/2554810"
+  },
+  "scannedFolders": 20,
+  "candidateCount": 16,
+  "highPriorityCount": 15,
+  "mediumPriorityCount": 1,
+  "referencePriorityCount": 0,
+  "countryCounts": {
+    "Argentina": 1,
+    "Bolivia": 0,
+    "Brazil": 4,
+    "Chile": 0,
+    "Colombia": 0,
+    "Ecuador": 0,
+    "Guyana": 0,
+    "Paraguay": 0,
+    "Peru": 0,
+    "Suriname": 0,
+    "Uruguay": 0,
+    "Venezuela": 0
+  },
+  "regionalOnlyCount": 12,
+  "folderReports": [
+    {
+      "naid": "452050521",
+      "title": "COCOM [Coordinating Committee for Multilateral Export Controls] (April 1990 - October 1990) [3]",
+      "localIdentifier": "CF00961-019",
+      "pageCount": 50,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00961",
+        "folderIdNumber": "CF00961-019",
+        "folderTitle": "COCOM [Coordinating Committee for Multilateral Export Controls] (April 1990 - October 1990) [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050521",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00961-019.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050525",
+      "title": "COCOM [Coordinating Committee for Multilateral Export Controls] (April 1990 - October 1990) [7]",
+      "localIdentifier": "CF00961-023",
+      "pageCount": 54,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00961",
+        "folderIdNumber": "CF00961-023",
+        "folderTitle": "COCOM [Coordinating Committee for Multilateral Export Controls] (April 1990 - October 1990) [7]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050525",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00961-023.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050539",
+      "title": "Debt [4]",
+      "localIdentifier": "CF00962-013",
+      "pageCount": 87,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00962",
+        "folderIdNumber": "CF00962-013",
+        "folderTitle": "Debt [4]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050539",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-013.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050540",
+      "title": "EBRD [European Bank for Reconstruction and Development] [1]",
+      "localIdentifier": "CF00962-014",
+      "pageCount": 99,
+      "provenance": {
+        "foiaNumber": "2012-3110-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00962",
+        "folderIdNumber": "CF00962-014",
+        "folderTitle": "EBRD [European Bank for Reconstruction and Development] [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050540",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-014.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050545",
+      "title": "Enterprise for the Americas Initiative (EAI)",
+      "localIdentifier": "CF00962-019",
+      "pageCount": 29,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00962",
+        "folderIdNumber": "CF00962-019",
+        "folderTitle": "Enterprise for the Americas Initiative (EAI)"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050545",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-019.pdf",
+      "candidateCount": 4,
+      "highPriorityCount": 3
+    },
+    {
+      "naid": "452050547",
+      "title": "Fiber Optics [2]",
+      "localIdentifier": "CF00962-021",
+      "pageCount": 45,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00962",
+        "folderIdNumber": "CF00962-021",
+        "folderTitle": "Fiber Optics [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050547",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-021.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050553",
+      "title": "Export Controls [2]",
+      "localIdentifier": "CF00963-004",
+      "pageCount": 53,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00963",
+        "folderIdNumber": "CF00963-004",
+        "folderTitle": "Export Controls [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050553",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00963-004.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050558",
+      "title": "Gulf Crisis Financial Coordination Group [1]",
+      "localIdentifier": "CF00963-009",
+      "pageCount": 87,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00963",
+        "folderIdNumber": "CF00963-009",
+        "folderTitle": "Gulf Crisis Financial Coordination Group [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050558",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00963-009.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050564",
+      "title": "Houston [Economic] Summit (July 9-11, 1990) [2]",
+      "localIdentifier": "CF00963-015",
+      "pageCount": 98,
+      "provenance": {
+        "foiaNumber": "2003-0371-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00963",
+        "folderIdNumber": "CF00963-015",
+        "folderTitle": "Houston [Economic] Summit (July 9-11, 1990) [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050564",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00963-015.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050579",
+      "title": "Latin America [2]",
+      "localIdentifier": "CF00964-010",
+      "pageCount": 81,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00964",
+        "folderIdNumber": "CF00964-010",
+        "folderTitle": "Latin America [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050579",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf",
+      "candidateCount": 8,
+      "highPriorityCount": 8
+    },
+    {
+      "naid": "452050600",
+      "title": "Soviet Union [1]",
+      "localIdentifier": "CF00972-009",
+      "pageCount": 46,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00972",
+        "folderIdNumber": "CF00972-009",
+        "folderTitle": "Soviet Union [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050600",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-009.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050604",
+      "title": "Soviet Union [5]",
+      "localIdentifier": "CF00972-013",
+      "pageCount": 37,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00972",
+        "folderIdNumber": "CF00972-013",
+        "folderTitle": "Soviet Union [5]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050604",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-013.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050608",
+      "title": "Soviet Union [9]",
+      "localIdentifier": "CF00972-017",
+      "pageCount": 13,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00972",
+        "folderIdNumber": "CF00972-017",
+        "folderTitle": "Soviet Union [9]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050608",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-017.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050609",
+      "title": "Trade",
+      "localIdentifier": "CF00972-018",
+      "pageCount": 13,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00972",
+        "folderIdNumber": "CF00972-018",
+        "folderTitle": "Trade"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050609",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-018.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050615",
+      "title": "[Timothy] Deal Travel [6]",
+      "localIdentifier": "CF00972-024",
+      "pageCount": 103,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00972",
+        "folderIdNumber": "CF00972-024",
+        "folderTitle": "[Timothy] Deal Travel [6]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050615",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-024.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050622",
+      "title": "Uruguay Round [6]",
+      "localIdentifier": "CF00972-031",
+      "pageCount": 81,
+      "provenance": {
+        "foiaNumber": "2023-1227-S",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00972",
+        "folderIdNumber": "CF00972-031",
+        "folderTitle": "Uruguay Round [6]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050622",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-031.pdf",
+      "candidateCount": 1,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "452050624",
+      "title": "[Munich Economic Summit] First Sherpa Meeting Briefing Book, January 10-12, 1992 [1]",
+      "localIdentifier": "CF00973-002",
+      "pageCount": 75,
+      "provenance": {
+        "foiaNumber": "2009-0783-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00973",
+        "folderIdNumber": "CF00973-002",
+        "folderTitle": "[Munich Economic Summit] First Sherpa Meeting Briefing Book, January 10-12, 1992 [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050624",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-002.pdf",
+      "candidateCount": 1,
+      "highPriorityCount": 1
+    },
+    {
+      "naid": "452050625",
+      "title": "[Munich Economic Summit] First Sherpa Meeting Briefing Book, January 10-12, 1992 [2]",
+      "localIdentifier": "CF00973-003",
+      "pageCount": 65,
+      "provenance": {
+        "foiaNumber": "2009-0783-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00973",
+        "folderIdNumber": "CF00973-003",
+        "folderTitle": "[Munich Economic Summit] First Sherpa Meeting Briefing Book, January 10-12, 1992 [2]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050625",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-003.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050631",
+      "title": "[Munich Economic Summit] Fourth Sherpa Meeting Briefing Book, May 22-24, 1992, Rugen, Germany [1]",
+      "localIdentifier": "CF00973-009",
+      "pageCount": 6,
+      "provenance": {
+        "foiaNumber": "2009-0783-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00973",
+        "folderIdNumber": "CF00973-009",
+        "folderTitle": "[Munich Economic Summit] Fourth Sherpa Meeting Briefing Book, May 22-24, 1992, Rugen, Germany [1]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050631",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-009.pdf",
+      "candidateCount": 0,
+      "highPriorityCount": 0
+    },
+    {
+      "naid": "452050633",
+      "title": "[Munich Economic Summit] Fourth Sherpa Meeting Briefing Book, May 22-24, 1992, Rugen, Germany [3]",
+      "localIdentifier": "CF00973-011",
+      "pageCount": 63,
+      "provenance": {
+        "foiaNumber": "2009-0783-F",
+        "recordGroupCollection": "George H.W. Bush Presidential Records",
+        "collectionOfficeOfOrigin": "National Security Council",
+        "series": "Deal, Timothy E., Files",
+        "subseries": "Subject Files",
+        "oaIdNumber": "CF00973",
+        "folderIdNumber": "CF00973-011",
+        "folderTitle": "[Munich Economic Summit] Fourth Sherpa Meeting Briefing Book, May 22-24, 1992, Rugen, Germany [3]"
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/452050633",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-011.pdf",
+      "candidateCount": 2,
+      "highPriorityCount": 2
+    }
+  ]
+}

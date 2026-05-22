@@ -1,0 +1,520 @@
+window.DEAL_PRINT_CANDIDATES = [
+  {
+    "id": "deal-print-452050545-7-briefing-paper",
+    "folderNaid": "452050545",
+    "folderTitle": "Enterprise for the Americas Initiative (EAI)",
+    "localIdentifier": "CF00962-019",
+    "documentNo": "",
+    "documentType": "Briefing Paper",
+    "documentTitle": "BACKGROUND PAPER ON ENTERPRISE FOR THE AMERICAS INITIATIVE SUBJECT. ACTION FYI ACTION = FYI",
+    "documentDate": "January 22, 1992",
+    "countries": [],
+    "themes": [
+      "enterprise for the americas",
+      "debt and economy",
+      "presidential diplomacy"
+    ],
+    "priority": "High",
+    "score": 100,
+    "pageStart": 7,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-019.pdf#page=7",
+    "catalogUrl": "https://catalog.archives.gov/id/452050545",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-019.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "ocr-document-start",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "ZSocument No. WHITE HOUSE STAFFING MEMORANDUM sate, 1/18/92 ACTICN/CONCURRENCE CCMMENT cue ay 1722/92 COB BACKGROUND PAPER ON ENTERPRISE FOR THE AMERICAS INITIATIVE SUBJECT. ACTION FYI ACTION = FYI VICE PRESIDENT - wv HORNER —- = SKINNER _ 4 MCCLURE ‘4 — scowCRORt oom PETERSMEYER —- = ODARMAN vo _ PORTER r4 _ BRADY Y ROGICH — _ BROMLEY _ _ SMITH = = CARD - ¥ —— | v = DEMAREST ox _ a ws _ FITZWATER a vA _—_ GRAY A _ _",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00962, Folder ID Number CF00962-019, Enterprise for the Americas Initiative (EAI). Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "Presidential or NSC principals; enterprise for the americas, debt and economy, presidential diplomacy; document text visible in OCR"
+  },
+  {
+    "id": "deal-print-452050622-6-memorandum",
+    "folderNaid": "452050622",
+    "folderTitle": "Uruguay Round [6]",
+    "localIdentifier": "CF00972-031",
+    "documentNo": "",
+    "documentType": "Memorandum",
+    "documentTitle": "Uruguay Round Report",
+    "documentDate": "December 6, 1990",
+    "countries": [
+      "Argentina",
+      "Brazil"
+    ],
+    "themes": [
+      "debt and economy",
+      "presidential diplomacy",
+      "trade policy",
+      "environment"
+    ],
+    "priority": "High",
+    "score": 92,
+    "pageStart": 6,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-031.pdf#page=6",
+    "catalogUrl": "https://catalog.archives.gov/id/452050622",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00972-031.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "ocr-document-start",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "Same 3 MED 1S DEC wy Sis4c PYp te ' —CONFIDENTIAL _ THE UNITED STATES TRADE REPRESENTATIVE Exeoutive Office of the Presikient Washington, D.C. 20606 December 6, 1990 MEMORANDUM FOR THE PRESIDENT FROM: Carla A. Hi1scom SUBJECT: Uruguay Round Report Readlock in Aqriculture Continues At the Heads of Delegation meeting today, December s, several ministers (Australia, New Zealand, Brazil, Argentina, Uruguay, and Canada) c",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00972, Folder ID Number CF00972-031, Uruguay Round [6]. Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy, trade policy; document text visible in OCR"
+  },
+  {
+    "id": "deal-print-452050545-21-memorandum",
+    "folderNaid": "452050545",
+    "folderTitle": "Enterprise for the Americas Initiative (EAI)",
+    "localIdentifier": "CF00962-019",
+    "documentNo": "",
+    "documentType": "Memorandum",
+    "documentTitle": "Enterprise for the Americas (EAI) Strategy Meeting",
+    "documentDate": "March 2, 1992",
+    "countries": [],
+    "themes": [
+      "enterprise for the americas",
+      "debt and economy",
+      "presidential diplomacy"
+    ],
+    "priority": "High",
+    "score": 92,
+    "pageStart": 21,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-019.pdf#page=21",
+    "catalogUrl": "https://catalog.archives.gov/id/452050545",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-019.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "ocr-document-start",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "eres cto: rer rn ee NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 March 2, 1992 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: TIMOTHY beat vircrwzal eA LAMP LEY FROM: ERIC MELBY‘\\M ° SUBJECT: Enterprise for the Americas (EAI) Strategy Meeting with the President, Monday, March 2, 4:00 p.m., Oval Office At Secretary Brady’s request, the President is meeting with senior advisors to discuss legislative strategy for t",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00962, Folder ID Number CF00962-019, Enterprise for the Americas Initiative (EAI). Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "memorandum form; Presidential or NSC principals; enterprise for the americas, debt and economy, presidential diplomacy; document text visible in OCR"
+  },
+  {
+    "id": "deal-print-452050545-25-memorandum",
+    "folderNaid": "452050545",
+    "folderTitle": "Enterprise for the Americas Initiative (EAI)",
+    "localIdentifier": "CF00962-019",
+    "documentNo": "",
+    "documentType": "Memorandum",
+    "documentTitle": "Markup on Foreign Operations Appropriation Bill",
+    "documentDate": "February 28, 1992",
+    "countries": [],
+    "themes": [
+      "enterprise for the americas",
+      "debt and economy",
+      "presidential diplomacy"
+    ],
+    "priority": "High",
+    "score": 92,
+    "pageStart": 25,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-019.pdf#page=25",
+    "catalogUrl": "https://catalog.archives.gov/id/452050545",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-019.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "ocr-document-start",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "THE SECRETARY OF THE TREASURY WASHINGTON February 28, 1992 MEMORANDUM FOR GENERAL SCOWCROFT FROM: Nicholas F. Brady LK SUBJECT: Markup on Foreign Operations Appropriation Bill We have just learned that on Tuesday next week, Senator Leahy’s Subcommittee will likely be marking up the Foreign Operations Appropriations bill. I am told that there has been some quiet movement on the Israeli housing guarantees issue in the ",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00962, Folder ID Number CF00962-019, Enterprise for the Americas Initiative (EAI). Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "memorandum form; Presidential or NSC principals; enterprise for the americas, debt and economy, presidential diplomacy; document text visible in OCR"
+  },
+  {
+    "id": "deal-print-452050579-3-09",
+    "folderNaid": "452050579",
+    "folderTitle": "Latin America [2]",
+    "localIdentifier": "CF00964-010",
+    "documentNo": "09.",
+    "documentType": "Memorandum",
+    "documentTitle": "From Meg Lundsager to Brent Scowcroft Re: Briefing Memo on Debt for the President",
+    "documentDate": "6/11/90",
+    "countries": [],
+    "themes": [
+      "debt and economy",
+      "presidential diplomacy",
+      "regional policy"
+    ],
+    "priority": "High",
+    "score": 92,
+    "pageStart": 3,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf#page=3",
+    "catalogUrl": "https://catalog.archives.gov/id/452050579",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "withdrawal-sheet",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "09. Memo From Meg Lundsager to Brent Scowcroft 6/11/90 (b)(1) S Re: Briefing Memo on Debt for the President (1 pp.) 10. List Working Group [redaction] (1 pp.) n.d. (b)(3) 11. Memo From Nicholas Brady to the Economic Policy Council 4/11/90 (b)(1) S Re: U.S. Economic Policy Toward Latin America (2 pp.)",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00964, Folder ID Number CF00964-010, Latin America [2]. Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy, regional policy; identified on withdrawal sheet"
+  },
+  {
+    "id": "deal-print-452050633-44-briefing-paper",
+    "folderNaid": "452050633",
+    "folderTitle": "[Munich Economic Summit] Fourth Sherpa Meeting Briefing Book, May 22-24, 1992, Rugen, Germany [3]",
+    "localIdentifier": "CF00973-011",
+    "documentNo": "",
+    "documentType": "Briefing Paper",
+    "documentTitle": "BRIEFING PAPER Brazil Rain F Since the last Sher in",
+    "documentDate": "",
+    "countries": [
+      "Brazil"
+    ],
+    "themes": [
+      "debt and economy",
+      "summit diplomacy"
+    ],
+    "priority": "High",
+    "score": 80,
+    "pageStart": 44,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-011.pdf#page=44",
+    "catalogUrl": "https://catalog.archives.gov/id/452050633",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-011.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "ocr-document-start",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "DEPARTMENT OF STATE BRIEFING PAPER Brazil Rain F Since the last Sher in fe} The World Bank established the Rain Forest Trust Fund (RFT) on March 24. Japan has deposited its contribution. Canada and Germany are working out agreements with the Bank. -- We are working with Treasury to transfer our $5 million contribution. fe) The Bank has invited us to nominate an expert to the International Advisory Group by May l. Bac",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00973, Folder ID Number CF00973-011, [Munich Economic Summit] Fourth Sherpa Meeting Briefing Book, May 22-24, 1992, Rugen, Germany [3]. Access restriction: Restricted - Possibly. FOIA 2009-0783-F.",
+    "reviewReason": "debt and economy, summit diplomacy; document text visible in OCR"
+  },
+  {
+    "id": "deal-print-452050579-2-01",
+    "folderNaid": "452050579",
+    "folderTitle": "Latin America [2]",
+    "localIdentifier": "CF00964-010",
+    "documentNo": "01.",
+    "documentType": "Memorandum",
+    "documentTitle": "From Brent Scowcroft to POTUS Re: Latin America Debt Initiative",
+    "documentDate": "",
+    "countries": [],
+    "themes": [
+      "debt and economy",
+      "presidential diplomacy",
+      "regional policy"
+    ],
+    "priority": "High",
+    "score": 80,
+    "pageStart": 2,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf#page=2",
+    "catalogUrl": "https://catalog.archives.gov/id/452050579",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "withdrawal-sheet",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "01. Memo From Brent Scowcroft to POTUS Re: Latin America Debt Initiative (1 pp.)",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00964, Folder ID Number CF00964-010, Latin America [2]. Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy, regional policy; identified on withdrawal sheet"
+  },
+  {
+    "id": "deal-print-452050579-2-02",
+    "folderNaid": "452050579",
+    "folderTitle": "Latin America [2]",
+    "localIdentifier": "CF00964-010",
+    "documentNo": "02.",
+    "documentType": "Memorandum",
+    "documentTitle": "From Nicholas Brady to POTUS Re: Latin America Debt Reduction Proposal",
+    "documentDate": "",
+    "countries": [],
+    "themes": [
+      "debt and economy",
+      "presidential diplomacy",
+      "regional policy"
+    ],
+    "priority": "High",
+    "score": 80,
+    "pageStart": 2,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf#page=2",
+    "catalogUrl": "https://catalog.archives.gov/id/452050579",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "withdrawal-sheet",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "02. Memo From Nicholas Brady to POTUS Re: Latin America Debt Reduction Proposal (1 pp.)",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00964, Folder ID Number CF00964-010, Latin America [2]. Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy, regional policy; identified on withdrawal sheet"
+  },
+  {
+    "id": "deal-print-452050579-2-04",
+    "folderNaid": "452050579",
+    "folderTitle": "Latin America [2]",
+    "localIdentifier": "CF00964-010",
+    "documentNo": "04.",
+    "documentType": "Memorandum",
+    "documentTitle": "From Meg Lundsager to Brent Scowcroft Re: Latin American Debt",
+    "documentDate": "",
+    "countries": [],
+    "themes": [
+      "debt and economy",
+      "presidential diplomacy",
+      "regional policy"
+    ],
+    "priority": "High",
+    "score": 80,
+    "pageStart": 2,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf#page=2",
+    "catalogUrl": "https://catalog.archives.gov/id/452050579",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "withdrawal-sheet",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "04. Memo From Meg Lundsager to Brent Scowcroft Re: Latin American Debt (1 pp.)",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00964, Folder ID Number CF00964-010, Latin America [2]. Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy, regional policy; identified on withdrawal sheet"
+  },
+  {
+    "id": "deal-print-452050579-2-05",
+    "folderNaid": "452050579",
+    "folderTitle": "Latin America [2]",
+    "localIdentifier": "CF00964-010",
+    "documentNo": "05.",
+    "documentType": "Memorandum",
+    "documentTitle": "From Meg Lundsager/Don Johnson to Brent Scowcroft Re: Comments on Draft Speech",
+    "documentDate": "",
+    "countries": [],
+    "themes": [
+      "presidential diplomacy",
+      "regional policy"
+    ],
+    "priority": "High",
+    "score": 80,
+    "pageStart": 2,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf#page=2",
+    "catalogUrl": "https://catalog.archives.gov/id/452050579",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "withdrawal-sheet",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "05. Memo From Meg Lundsager/Don Johnson to Brent Scowcroft Re: Comments on Draft Speech (1 pp.)",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00964, Folder ID Number CF00964-010, Latin America [2]. Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy; identified on withdrawal sheet"
+  },
+  {
+    "id": "deal-print-452050579-2-06",
+    "folderNaid": "452050579",
+    "folderTitle": "Latin America [2]",
+    "localIdentifier": "CF00964-010",
+    "documentNo": "06.",
+    "documentType": "Memorandum",
+    "documentTitle": "From Meg Lundsager to Brent Scowcroft Re: Status of Latin America Speech",
+    "documentDate": "",
+    "countries": [],
+    "themes": [
+      "presidential diplomacy",
+      "regional policy"
+    ],
+    "priority": "High",
+    "score": 80,
+    "pageStart": 2,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf#page=2",
+    "catalogUrl": "https://catalog.archives.gov/id/452050579",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "withdrawal-sheet",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "06. Memo From Meg Lundsager to Brent Scowcroft Re: Status of Latin America Speech (2 pp.)",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00964, Folder ID Number CF00964-010, Latin America [2]. Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy; identified on withdrawal sheet"
+  },
+  {
+    "id": "deal-print-452050579-2-07",
+    "folderNaid": "452050579",
+    "folderTitle": "Latin America [2]",
+    "localIdentifier": "CF00964-010",
+    "documentNo": "07.",
+    "documentType": "Memorandum",
+    "documentTitle": "From Brent Scowcroft to POTUS Re: Official Debt Relief for Latin America",
+    "documentDate": "",
+    "countries": [],
+    "themes": [
+      "debt and economy",
+      "presidential diplomacy",
+      "regional policy"
+    ],
+    "priority": "High",
+    "score": 80,
+    "pageStart": 2,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf#page=2",
+    "catalogUrl": "https://catalog.archives.gov/id/452050579",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "withdrawal-sheet",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "07. Memo From Brent Scowcroft to POTUS Re: Official Debt Relief for Latin America (2 pp.)",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00964, Folder ID Number CF00964-010, Latin America [2]. Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy, regional policy; identified on withdrawal sheet"
+  },
+  {
+    "id": "deal-print-452050579-2-08",
+    "folderNaid": "452050579",
+    "folderTitle": "Latin America [2]",
+    "localIdentifier": "CF00964-010",
+    "documentNo": "08.",
+    "documentType": "Memorandum",
+    "documentTitle": "From Nicholas Brady to POTUS Re: The Role of Official Debt Relief in an Economic Initiative for Latin America",
+    "documentDate": "6/14/90",
+    "countries": [],
+    "themes": [
+      "debt and economy",
+      "presidential diplomacy",
+      "regional policy"
+    ],
+    "priority": "High",
+    "score": 80,
+    "pageStart": 2,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf#page=2",
+    "catalogUrl": "https://catalog.archives.gov/id/452050579",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00964-010.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "withdrawal-sheet",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "08. Memo From Nicholas Brady to POTUS Re: The Role of Official Debt Relief in an Economic Initiative for Latin America (3 pp.) 6/14/90 6/14/90",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00964, Folder ID Number CF00964-010, Latin America [2]. Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy, regional policy; identified on withdrawal sheet"
+  },
+  {
+    "id": "deal-print-452050624-55-talking-points",
+    "folderNaid": "452050624",
+    "folderTitle": "[Munich Economic Summit] First Sherpa Meeting Briefing Book, January 10-12, 1992 [1]",
+    "localIdentifier": "CF00973-002",
+    "documentNo": "",
+    "documentType": "Talking Points",
+    "documentTitle": "TALKING POINTS For at least the past decade, U.S. policy has urged developing countries to follow policies that provide",
+    "documentDate": "",
+    "countries": [
+      "Brazil"
+    ],
+    "themes": [
+      "debt and economy",
+      "summit diplomacy"
+    ],
+    "priority": "High",
+    "score": 72,
+    "pageStart": 55,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-002.pdf#page=55",
+    "catalogUrl": "https://catalog.archives.gov/id/452050624",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-002.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "ocr-document-start",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "-4- TALKING POINTS For at least the past decade, U.S. policy has urged developing countries to follow policies that provide macroeconomic stability and_outward oriented trade regimes, and promote competition and attention to market signals. The evidence is now clear that following such policies brings success to developing countries. -- Growth has been most rapid in developing countries that have consistently followe",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00973, Folder ID Number CF00973-002, [Munich Economic Summit] First Sherpa Meeting Briefing Book, January 10-12, 1992 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0783-F.",
+    "reviewReason": "debt and economy, summit diplomacy; document text visible in OCR"
+  },
+  {
+    "id": "deal-print-452050633-18-talking-points",
+    "folderNaid": "452050633",
+    "folderTitle": "[Munich Economic Summit] Fourth Sherpa Meeting Briefing Book, May 22-24, 1992, Rugen, Germany [3]",
+    "localIdentifier": "CF00973-011",
+    "documentNo": "",
+    "documentType": "Talking Points",
+    "documentTitle": "Talking Points Oo The Summit should reaffirm support for the international debt strategy and urge Brazil",
+    "documentDate": "",
+    "countries": [
+      "Brazil"
+    ],
+    "themes": [
+      "debt and economy",
+      "summit diplomacy",
+      "regional policy",
+      "environment"
+    ],
+    "priority": "High",
+    "score": 72,
+    "pageStart": 18,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-011.pdf#page=18",
+    "catalogUrl": "https://catalog.archives.gov/id/452050633",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00973-011.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "ocr-document-start",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "International Debt Strategy Talking Points Oo The Summit should reaffirm support for the international debt strategy and urge Brazil and other debtor nations to move forward to complete agreements with their commercial banks. We encourage additional relief in support of environmental efforts in Poland and action comparable to that of the U.S.G. in Latin America and the Caribbean. The Summit should welcome the Paris C",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00973, Folder ID Number CF00973-011, [Munich Economic Summit] Fourth Sherpa Meeting Briefing Book, May 22-24, 1992, Rugen, Germany [3]. Access restriction: Restricted - Possibly. FOIA 2009-0783-F.",
+    "reviewReason": "debt and economy, summit diplomacy, regional policy; document text visible in OCR"
+  },
+  {
+    "id": "deal-print-452050545-2-01",
+    "folderNaid": "452050545",
+    "folderTitle": "Enterprise for the Americas Initiative (EAI)",
+    "localIdentifier": "CF00962-019",
+    "documentNo": "01.",
+    "documentType": "Letter",
+    "documentTitle": "President Bush for Prime Minister Mulroney",
+    "documentDate": "8/28/91",
+    "countries": [],
+    "themes": [
+      "enterprise for the americas",
+      "presidential diplomacy"
+    ],
+    "priority": "Medium",
+    "score": 53,
+    "pageStart": 2,
+    "pageLink": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-019.pdf#page=2",
+    "catalogUrl": "https://catalog.archives.gov/id/452050545",
+    "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/deal/subject_2554810/41-bpr-nsc-deal-subj-cf00962-019.pdf",
+    "accessRestriction": "Restricted - Possibly",
+    "extraction": "withdrawal-sheet",
+    "sourceSeries": {
+      "name": "Timothy E. Deal Subject Files",
+      "naid": "2554810",
+      "url": "https://catalog.archives.gov/id/2554810"
+    },
+    "ocrSnippet": "01. Letter President Bush for Prime Minister Mulroney (1 pp.) 8/28/91 (b)(1) S | Page | of |",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Deal, Timothy E., Files, Subject Files, OA/ID CF00962, Folder ID Number CF00962-019, Enterprise for the Americas Initiative (EAI). Access restriction: Restricted - Possibly. FOIA 2023-1227-S.",
+    "reviewReason": "Presidential or NSC principals; enterprise for the americas, presidential diplomacy; identified on withdrawal sheet"
+  }
+];

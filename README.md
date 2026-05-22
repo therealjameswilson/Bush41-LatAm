@@ -90,6 +90,34 @@ sheet provenance: George H.W. Bush Library, Bush Presidential Records, National 
 Latin American Affairs Directorate Files, Subject File 1989, OA/ID, folder ID number, folder title,
 access restriction, and FOIA number.
 
+## Timothy E. Deal Subject Files
+
+The Timothy E. Deal Subject Files, NAID 2554810, add economic-policy, debt, trade, summit, and
+Enterprise for the Americas Initiative material from the NSC parent collection:
+
+- Timothy E. Deal Subject Files: <https://catalog.archives.gov/id/2554810>
+
+Refresh the Catalog file-unit index with:
+
+```bash
+node scripts/harvest-deal-subject-files.js
+```
+
+This writes `data/deal-subject-files.json`, `data/deal-subject-files.js`, and
+`reports/deal-subject-files-harvest.json`.
+
+To OCR the online PDFs and add South America or hemisphere-wide print-candidate leads to the public
+worklist, run:
+
+```bash
+node scripts/harvest-deal-print-candidates.js
+```
+
+This writes `data/deal-print-candidates.json`, `data/deal-print-candidates.js`, and
+`reports/deal-print-candidates-harvest.json`. The harvester filters out Central
+America/Caribbean-only items and prevents Uruguay Round-only trade references from becoming Uruguay
+country matches unless the document also names South America countries.
+
 ## Chapter Arrangement
 
 1. Argentina
@@ -201,6 +229,7 @@ South America country.
 - Records of the National Security Council, NAID 2163580: <https://catalog.archives.gov/search-within/2163580>
 - Latin American Directorate Chronological Files: <https://catalog.archives.gov/id/2197972>
 - Latin American Affairs Directorate Subject Files: <https://catalog.archives.gov/search-within/376217847>
+- Timothy E. Deal Subject Files: <https://catalog.archives.gov/id/2554810>
 - Presidential Memcon Files: <https://catalog.archives.gov/id/321498039>
 - January 1989 Presidential Telcon file unit: <https://catalog.archives.gov/id/322361434>
 - Brent Scowcroft Papers, NAID 4522156: <https://catalog.archives.gov/id/4522156>
