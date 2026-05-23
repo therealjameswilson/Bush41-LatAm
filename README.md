@@ -203,6 +203,21 @@ folder title, then release facts. Working metadata such as NAIDs, catalog URLs, 
 filenames, source page ranges, duplicate provenance, and project-PDF construction remains in the
 expanded provenance trail for each record.
 
+## Persons List
+
+Generate the FRUS-style persons list from the user-provided Bush comprehensive names authority:
+
+```bash
+python3 scripts/build-persons-list.py /path/to/Bush-Comprehensive-Names-List.docx
+```
+
+This writes `persons.html`, `data/persons.json`, `data/persons.js`, and
+`reports/persons-list-build.json`. The filter keeps entries tied to South America countries and
+capitals, senior regional-policy roles, people named in the site's record metadata or OCR candidate
+text, and core U.S. principals needed to interpret the memcons, telcons, and compiler leads. The
+page format follows the official Volume XXXI Persons page:
+<https://history.state.gov/historicaldocuments/frus1989-92v31/persons>.
+
 ## Compiler Gap Audit
 
 Run the compiler-risk audit with:

@@ -87,7 +87,8 @@ nav a {
 }
 
 nav a:hover,
-nav a:focus-visible {
+nav a:focus-visible,
+nav a[aria-current="page"] {
   color: var(--ink);
   background: rgba(24, 59, 91, 0.08);
   outline: none;
@@ -360,6 +361,89 @@ footer {
 
 .method-source a {
   color: var(--navy);
+}
+
+.persons-page .section:first-child {
+  border-top: 0;
+}
+
+.persons-hero {
+  padding-bottom: 36px;
+}
+
+.persons-hero h1 {
+  margin-bottom: 0;
+  font-size: clamp(3rem, 8vw, 6.2rem);
+}
+
+.persons-lede {
+  max-width: 900px;
+}
+
+.persons-stats {
+  padding-bottom: 42px;
+}
+
+.persons-alpha {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 26px;
+}
+
+.persons-alpha a {
+  display: inline-grid;
+  width: 36px;
+  height: 36px;
+  place-items: center;
+  color: var(--navy);
+  font-weight: 900;
+  text-decoration: none;
+  background: rgba(255, 253, 248, 0.78);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+
+.persons-alpha a:hover,
+.persons-alpha a:focus-visible {
+  color: white;
+  background: var(--navy);
+  outline: none;
+}
+
+.persons-list-root {
+  display: grid;
+  gap: 34px;
+}
+
+.persons-letter {
+  scroll-margin-top: 88px;
+}
+
+.persons-letter h2 {
+  margin-bottom: 14px;
+  padding-bottom: 8px;
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  border-bottom: 2px solid var(--navy);
+}
+
+.frus-persons-list {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding-left: 22px;
+  color: #2d3740;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.frus-persons-list li {
+  padding-left: 4px;
+}
+
+.person-name {
+  color: var(--ink);
+  font-weight: 900;
 }
 
 .source-count {
