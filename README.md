@@ -203,6 +203,21 @@ folder title, then release facts. Working metadata such as NAIDs, catalog URLs, 
 filenames, source page ranges, duplicate provenance, and project-PDF construction remains in the
 expanded provenance trail for each record.
 
+## Compiler Gap Audit
+
+Run the compiler-risk audit with:
+
+```bash
+node scripts/audit-compiler-gaps.js
+```
+
+This compares the verified private memcon/telcon corpus with OCR-derived print-candidate leads and
+GovInfo public statements. It writes `data/compiler-gaps.json`, `data/compiler-gaps.js`, and
+`reports/compiler-gap-audit.json`, then the public site renders the country risk ranking and
+structural gaps. The audit is intentionally conservative: it treats thin country chapters,
+high-priority lead backlogs, public-private chronology mismatches, partial releases, and source
+families outside the current site as compiler risk.
+
 ## GovInfo Public Papers Reference
 
 Run the Public Papers harvester with:

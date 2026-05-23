@@ -20,6 +20,7 @@
         <a href="#chapters">Chapters</a>
         <a href="#provenance">Provenance</a>
         <a href="#method">Method</a>
+        <a href="#compiler-gaps">Gaps</a>
         <a href="#print-candidates">Print Candidates</a>
         <a href="#public-statements">Public Statements</a>
         <a href="#records">Records</a>
@@ -42,6 +43,7 @@
           <div class="hero-actions" aria-label="Primary actions">
             <a class="button primary" href="#records">Browse the Records</a>
             <a class="button secondary" href="#method">Compiler Method</a>
+            <a class="button secondary" href="#compiler-gaps">Gap Audit</a>
             <a class="button secondary" href="#print-candidates">Print Candidate Leads</a>
             <a class="button secondary" href="#public-statements">Public Statements</a>
           </div>
@@ -133,6 +135,36 @@
           Method anchor:
           <a href="https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries" rel="noreferrer">Office of the Historian, About the Foreign Relations Series</a>.
         </p>
+      </section>
+
+      <section class="section gap-section" id="compiler-gaps" aria-labelledby="compiler-gaps-title">
+        <div class="section-heading">
+          <p class="kicker">Compiler Risk</p>
+          <h2 id="compiler-gaps-title">Coverage Gaps</h2>
+        </div>
+        <p class="records-intro">
+          A risk audit comparing the verified private memcon/telcon corpus against OCR-derived
+          print-candidate leads and George H.W. Bush public statements. The point is to identify
+          where a FRUS compiler should assume the current public record is thin, not to imply final
+          editorial selection.
+        </p>
+        <section class="stats compact-stats gap-stats" aria-label="Compiler gap summary">
+          <div>
+            <span id="gap-critical">0</span>
+            <p>critical country gaps</p>
+          </div>
+          <div>
+            <span id="gap-high">0</span>
+            <p>high-risk country gaps</p>
+          </div>
+          <div>
+            <span id="gap-high-leads">0</span>
+            <p>high-priority leads</p>
+          </div>
+        </section>
+        <div id="compiler-gaps-root" class="gap-root" aria-live="polite">
+          <p class="loading">Loading compiler gap audit...</p>
+        </div>
       </section>
 
       <section class="section print-section" id="print-candidates" aria-labelledby="print-candidates-title">
@@ -348,6 +380,7 @@
     <script src="data/subject-print-candidates.js"></script>
     <script src="data/deal-print-candidates.js"></script>
     <script src="data/public-statements.js"></script>
+    <script src="data/compiler-gaps.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

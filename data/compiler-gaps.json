@@ -1,0 +1,406 @@
+{
+  "generatedAt": "2026-05-23T13:32:17.070Z",
+  "scope": "Compiler-risk audit for the South America companion site. Central America remains excluded except where a regional Latin America source may bear on South America policy.",
+  "summary": {
+    "privateRecordCount": 126,
+    "privatePageCount": 559,
+    "printCandidateCount": 935,
+    "highPriorityPrintCandidateCount": 557,
+    "publicStatementCount": 261,
+    "criticalCountryCount": 6,
+    "highCountryCount": 1,
+    "partialPrivateRecordCount": 4,
+    "countriesWithoutPrivateRecords": [
+      "Suriname"
+    ]
+  },
+  "countryRisks": [
+    {
+      "country": "Bolivia",
+      "riskScore": 95,
+      "riskLevel": "Critical",
+      "privateRecordCount": 4,
+      "privatePageCount": 21,
+      "printCandidateCount": 79,
+      "highPriorityCandidateCount": 47,
+      "publicStatementCount": 47,
+      "partialPrivateRecordCount": 1,
+      "privateSourceMix": {
+        "Presidential Telcon Files": 1,
+        "Scowcroft extracts": 1,
+        "Presidential Memcon Files": 2
+      },
+      "yearCoverage": {
+        "1989": 1,
+        "1990": 3,
+        "1991": 0,
+        "1992": 0
+      },
+      "riskSignals": [
+        "Four or fewer released private records are in the country chapter.",
+        "47 high-priority print leads exist against a thin private-record chapter.",
+        "47 public statements contrast with sparse private records.",
+        "1 private record(s) are partial releases."
+      ],
+      "recommendedActions": [
+        "Use high-priority print leads to test whether the current private record set is only a presidential-contact skeleton.",
+        "Build a public-private chronology and look for missing decision documents around statement dates.",
+        "Flag partial releases for possible replacement, re-review, or annotation."
+      ]
+    },
+    {
+      "country": "Chile",
+      "riskScore": 95,
+      "riskLevel": "Critical",
+      "privateRecordCount": 3,
+      "privatePageCount": 16,
+      "printCandidateCount": 48,
+      "highPriorityCandidateCount": 32,
+      "publicStatementCount": 41,
+      "partialPrivateRecordCount": 1,
+      "privateSourceMix": {
+        "Presidential Telcon Files": 1,
+        "Presidential Memcon Files": 2
+      },
+      "yearCoverage": {
+        "1989": 0,
+        "1990": 2,
+        "1991": 0,
+        "1992": 1
+      },
+      "riskSignals": [
+        "Four or fewer released private records are in the country chapter.",
+        "32 high-priority print leads exist against a thin private-record chapter.",
+        "41 public statements contrast with sparse private records.",
+        "1 private record(s) are partial releases."
+      ],
+      "recommendedActions": [
+        "Use high-priority print leads to test whether the current private record set is only a presidential-contact skeleton.",
+        "Build a public-private chronology and look for missing decision documents around statement dates.",
+        "Flag partial releases for possible replacement, re-review, or annotation."
+      ]
+    },
+    {
+      "country": "Suriname",
+      "riskScore": 90,
+      "riskLevel": "Critical",
+      "privateRecordCount": 0,
+      "privatePageCount": 0,
+      "printCandidateCount": 5,
+      "highPriorityCandidateCount": 2,
+      "publicStatementCount": 4,
+      "partialPrivateRecordCount": 0,
+      "privateSourceMix": {},
+      "yearCoverage": {
+        "1989": 0,
+        "1990": 0,
+        "1991": 0,
+        "1992": 0
+      },
+      "riskSignals": [
+        "No released private memcon/telcon record is currently in the country chapter."
+      ],
+      "recommendedActions": [
+        "Treat this chapter as unresolved until non-presidential, State, NSC country, or agency files are checked."
+      ]
+    },
+    {
+      "country": "Paraguay",
+      "riskScore": 89,
+      "riskLevel": "Critical",
+      "privateRecordCount": 2,
+      "privatePageCount": 5,
+      "printCandidateCount": 27,
+      "highPriorityCandidateCount": 19,
+      "publicStatementCount": 23,
+      "partialPrivateRecordCount": 0,
+      "privateSourceMix": {
+        "Presidential Memcon Files": 1,
+        "Presidential Telcon Files": 1
+      },
+      "yearCoverage": {
+        "1989": 0,
+        "1990": 1,
+        "1991": 1,
+        "1992": 0
+      },
+      "riskSignals": [
+        "Only one or two released private records are in the country chapter.",
+        "19 high-priority print leads may materially alter the chapter chronology.",
+        "23 public statements contrast with sparse private records."
+      ],
+      "recommendedActions": [
+        "Prioritize adjacent NSC country files, State records, and withdrawal-sheet leads before treating the chapter as representative.",
+        "Build a public-private chronology and look for missing decision documents around statement dates."
+      ]
+    },
+    {
+      "country": "Peru",
+      "riskScore": 87,
+      "riskLevel": "Critical",
+      "privateRecordCount": 4,
+      "privatePageCount": 24,
+      "printCandidateCount": 45,
+      "highPriorityCandidateCount": 29,
+      "publicStatementCount": 66,
+      "partialPrivateRecordCount": 0,
+      "privateSourceMix": {
+        "Presidential Telcon Files": 2,
+        "Presidential Memcon Files": 2
+      },
+      "yearCoverage": {
+        "1989": 1,
+        "1990": 0,
+        "1991": 2,
+        "1992": 1
+      },
+      "riskSignals": [
+        "Four or fewer released private records are in the country chapter.",
+        "29 high-priority print leads exist against a thin private-record chapter.",
+        "66 public statements contrast with sparse private records."
+      ],
+      "recommendedActions": [
+        "Use high-priority print leads to test whether the current private record set is only a presidential-contact skeleton.",
+        "Build a public-private chronology and look for missing decision documents around statement dates."
+      ]
+    },
+    {
+      "country": "Guyana",
+      "riskScore": 86,
+      "riskLevel": "Critical",
+      "privateRecordCount": 1,
+      "privatePageCount": 5,
+      "printCandidateCount": 30,
+      "highPriorityCandidateCount": 25,
+      "publicStatementCount": 1,
+      "partialPrivateRecordCount": 0,
+      "privateSourceMix": {
+        "Presidential Memcon Files": 1
+      },
+      "yearCoverage": {
+        "1989": 1,
+        "1990": 0,
+        "1991": 0,
+        "1992": 0
+      },
+      "riskSignals": [
+        "Only one or two released private records are in the country chapter.",
+        "25 high-priority print leads exist against a thin private-record chapter.",
+        "Private records come from a single source bucket."
+      ],
+      "recommendedActions": [
+        "Prioritize adjacent NSC country files, State records, and withdrawal-sheet leads before treating the chapter as representative."
+      ]
+    },
+    {
+      "country": "Ecuador",
+      "riskScore": 68,
+      "riskLevel": "High",
+      "privateRecordCount": 3,
+      "privatePageCount": 20,
+      "printCandidateCount": 33,
+      "highPriorityCandidateCount": 11,
+      "publicStatementCount": 27,
+      "partialPrivateRecordCount": 0,
+      "privateSourceMix": {
+        "Presidential Memcon Files": 3
+      },
+      "yearCoverage": {
+        "1989": 0,
+        "1990": 2,
+        "1991": 0,
+        "1992": 1
+      },
+      "riskSignals": [
+        "Four or fewer released private records are in the country chapter.",
+        "27 public statements contrast with sparse private records.",
+        "Private records come from a single source bucket."
+      ],
+      "recommendedActions": [
+        "Use high-priority print leads to test whether the current private record set is only a presidential-contact skeleton.",
+        "Build a public-private chronology and look for missing decision documents around statement dates."
+      ]
+    },
+    {
+      "country": "Uruguay",
+      "riskScore": 32,
+      "riskLevel": "Medium",
+      "privateRecordCount": 9,
+      "privatePageCount": 41,
+      "printCandidateCount": 55,
+      "highPriorityCandidateCount": 32,
+      "publicStatementCount": 26,
+      "partialPrivateRecordCount": 0,
+      "privateSourceMix": {
+        "Presidential Telcon Files": 4,
+        "Presidential Memcon Files": 5
+      },
+      "yearCoverage": {
+        "1989": 3,
+        "1990": 4,
+        "1991": 2,
+        "1992": 0
+      },
+      "riskSignals": [
+        "The private record set is modest and may miss issue-level policy development.",
+        "32 high-priority print leads may materially alter the chapter chronology."
+      ],
+      "recommendedActions": [
+        "Cross-check major public statements and high-priority leads against the country chronology."
+      ]
+    },
+    {
+      "country": "Brazil",
+      "riskScore": 28,
+      "riskLevel": "Monitor",
+      "privateRecordCount": 14,
+      "privatePageCount": 58,
+      "printCandidateCount": 115,
+      "highPriorityCandidateCount": 63,
+      "publicStatementCount": 66,
+      "partialPrivateRecordCount": 0,
+      "privateSourceMix": {
+        "Presidential Memcon Files": 7,
+        "Presidential Telcon Files": 6,
+        "Scowcroft extracts": 1
+      },
+      "yearCoverage": {
+        "1989": 3,
+        "1990": 6,
+        "1991": 2,
+        "1992": 3
+      },
+      "riskSignals": [
+        "63 high-priority print leads require triage.",
+        "66 public statements indicate substantial public diplomacy or policy activity."
+      ],
+      "recommendedActions": [
+        "Maintain as lower-risk, but still check high-priority print leads before final compilation decisions."
+      ]
+    },
+    {
+      "country": "Argentina",
+      "riskScore": 26,
+      "riskLevel": "Monitor",
+      "privateRecordCount": 31,
+      "privatePageCount": 116,
+      "printCandidateCount": 138,
+      "highPriorityCandidateCount": 87,
+      "publicStatementCount": 47,
+      "partialPrivateRecordCount": 1,
+      "privateSourceMix": {
+        "Presidential Telcon Files": 14,
+        "Scowcroft extracts": 12,
+        "Presidential Memcon Files": 5
+      },
+      "yearCoverage": {
+        "1989": 5,
+        "1990": 7,
+        "1991": 12,
+        "1992": 7
+      },
+      "riskSignals": [
+        "87 high-priority print leads require triage.",
+        "1 private record(s) are partial releases."
+      ],
+      "recommendedActions": [
+        "Flag partial releases for possible replacement, re-review, or annotation."
+      ]
+    },
+    {
+      "country": "Colombia",
+      "riskScore": 26,
+      "riskLevel": "Monitor",
+      "privateRecordCount": 24,
+      "privatePageCount": 110,
+      "printCandidateCount": 168,
+      "highPriorityCandidateCount": 96,
+      "publicStatementCount": 87,
+      "partialPrivateRecordCount": 1,
+      "privateSourceMix": {
+        "Presidential Telcon Files": 14,
+        "Scowcroft extracts": 6,
+        "Presidential Memcon Files": 4
+      },
+      "yearCoverage": {
+        "1989": 11,
+        "1990": 9,
+        "1991": 4,
+        "1992": 0
+      },
+      "riskSignals": [
+        "96 high-priority print leads require triage.",
+        "1 private record(s) are partial releases."
+      ],
+      "recommendedActions": [
+        "Flag partial releases for possible replacement, re-review, or annotation."
+      ]
+    },
+    {
+      "country": "Venezuela",
+      "riskScore": 18,
+      "riskLevel": "Monitor",
+      "privateRecordCount": 31,
+      "privatePageCount": 143,
+      "printCandidateCount": 180,
+      "highPriorityCandidateCount": 109,
+      "publicStatementCount": 51,
+      "partialPrivateRecordCount": 0,
+      "privateSourceMix": {
+        "Presidential Telcon Files": 20,
+        "Presidential Memcon Files": 9,
+        "Scowcroft extracts": 2
+      },
+      "yearCoverage": {
+        "1989": 9,
+        "1990": 6,
+        "1991": 11,
+        "1992": 5
+      },
+      "riskSignals": [
+        "109 high-priority print leads require triage."
+      ],
+      "recommendedActions": [
+        "Maintain as lower-risk, but still check high-priority print leads before final compilation decisions."
+      ]
+    }
+  ],
+  "structuralGaps": [
+    {
+      "riskLevel": "Critical",
+      "title": "Print-candidate backlog is much larger than the verified private corpus",
+      "evidence": "935 OCR-derived print leads, including 557 high-priority leads, are not yet selected, transcribed, or compared against the country chronologies.",
+      "recommendedAction": "Triage high-priority leads by country and theme before treating the memcon/telcon chapters as complete."
+    },
+    {
+      "riskLevel": "High",
+      "title": "Several countries have thin or absent private-record coverage",
+      "evidence": "Bolivia: 4 private records, 47 high-priority leads; Chile: 3 private records, 32 high-priority leads; Suriname: 0 private records, 2 high-priority leads; Paraguay: 2 private records, 19 high-priority leads; Peru: 4 private records, 29 high-priority leads; Guyana: 1 private records, 25 high-priority leads; Ecuador: 3 private records, 11 high-priority leads",
+      "recommendedAction": "Prioritize these chapters for non-presidential NSC files, State Department records, and agency records."
+    },
+    {
+      "riskLevel": "High",
+      "title": "Public-private chronology mismatches remain unresolved",
+      "evidence": "Bolivia: 47 public statements vs. 4 private records; Chile: 41 public statements vs. 3 private records; Paraguay: 23 public statements vs. 2 private records; Peru: 66 public statements vs. 4 private records; Ecuador: 27 public statements vs. 3 private records",
+      "recommendedAction": "For mismatch countries, map public statements to surrounding private memoranda, cables, briefing papers, and policy papers."
+    },
+    {
+      "riskLevel": "High",
+      "title": "Current site sources are NSC/Bush Library-heavy",
+      "evidence": "The site now covers Bush Library memcons/telcons, Scowcroft extracts, selected NSC Latin America files, Deal files, and Public Papers. It does not yet represent State central files, embassy cables, Treasury, Defense, CIA, DEA, or congressional notification files.",
+      "recommendedAction": "Use this site as a presidential/NSC starting point, not as the full FRUS evidentiary universe."
+    },
+    {
+      "riskLevel": "Medium",
+      "title": "Partial releases require replacement or annotation checks",
+      "evidence": "4 private record(s) are marked Partial: Argentina 1992-04-07; Bolivia 1990-05-08; Chile 1992-05-13; Colombia 1989-11-27.",
+      "recommendedAction": "Check whether less-redacted versions exist in parallel files or later releases."
+    },
+    {
+      "riskLevel": "Medium",
+      "title": "OCR-derived leads are not document-level certainty",
+      "evidence": "Withdrawal-sheet rows and page OCR identify likely documents but can contain OCR noise, truncated titles, and page-start uncertainty.",
+      "recommendedAction": "Confirm page images and source folders before final document selection or citation."
+    }
+  ]
+}

@@ -40,6 +40,7 @@ const statementYearFilter = document.querySelector("#statement-year-filter");
 const statementBookFilter = document.querySelector("#statement-book-filter");
 const clearStatementFilters = document.querySelector("#clear-statement-filters");
 const statementResultSummary = document.querySelector("#statement-result-summary");
+const compilerGapsRoot = document.querySelector("#compiler-gaps-root");
 let allRecords = [];
 let allPrintCandidates = [];
 let allPublicStatements = [];
@@ -302,6 +303,12 @@ function setPublicStatementCounts(statements) {
   setText("#statement-total", statements.length);
   setText("#statement-countries", new Set(statements.flatMap((statement) => statement.countries || [])).size);
   setText("#statement-books", new Set(statements.map((statement) => statement.packageId)).size);
+}
+
+function setCompilerGapCounts(audit) {
+  setText("#gap-critical", audit.summary?.criticalCountryCount || 0);
+  setText("#gap-high", audit.summary?.highCountryCount || 0);
+  setText("#gap-high-leads", audit.summary?.highPriorityPrintCandidateCount || 0);
 }
 
 function populateSelect(select, values) {
@@ -873,6 +880,126 @@ function updatePublicStatements() {
   renderPublicStatements(statements);
 }
 
+function createGapBadge(level) {
+  const badge = document.createElement("span");
+  badge.className = `gap-risk ${String(level || "Monitor").toLowerCase()}`;
+  badge.textContent = level || "Monitor";
+  return badge;
+}
+
+function createGapMeta(countryGap) {
+  const meta = document.createElement("div");
+  meta.className = "record-meta gap-meta";
+
+  for (const value of [
+    `${countryGap.privateRecordCount} private records`,
+    `${countryGap.privatePageCount} private pages`,
+    `${countryGap.highPriorityCandidateCount} high-priority leads`,
+    `${countryGap.publicStatementCount} public statements`,
+    countryGap.partialPrivateRecordCount ? `${countryGap.partialPrivateRecordCount} partial release(s)` : ""
+  ]) {
+    if (!value) continue;
+    const item = document.createElement("span");
+    item.textContent = value;
+    meta.append(item);
+  }
+
+  return meta;
+}
+
+function createGapList(label, values) {
+  const list = document.createElement("ul");
+  list.className = "gap-list";
+  const heading = document.createElement("li");
+  heading.className = "gap-list-heading";
+  heading.textContent = label;
+  list.append(heading);
+  for (const value of values || []) {
+    const item = document.createElement("li");
+    item.textContent = value;
+    list.append(item);
+  }
+  return list;
+}
+
+function createCountryGapRow(countryGap) {
+  const row = document.createElement("article");
+  row.className = "gap-row";
+
+  const risk = document.createElement("div");
+  risk.className = "gap-score";
+  risk.append(createGapBadge(countryGap.riskLevel));
+  const score = document.createElement("span");
+  score.textContent = `Score ${countryGap.riskScore}`;
+  risk.append(score);
+
+  const body = document.createElement("div");
+  const title = document.createElement("h3");
+  title.textContent = countryGap.country;
+  body.append(
+    title,
+    createGapMeta(countryGap),
+    createGapList("Risk signals", countryGap.riskSignals),
+    createGapList("Actions", countryGap.recommendedActions)
+  );
+
+  row.append(risk, body);
+  return row;
+}
+
+function createStructuralGapRow(gap) {
+  const row = document.createElement("article");
+  row.className = "gap-row structural-gap-row";
+
+  const risk = document.createElement("div");
+  risk.className = "gap-score";
+  risk.append(createGapBadge(gap.riskLevel));
+
+  const body = document.createElement("div");
+  const title = document.createElement("h3");
+  title.textContent = gap.title;
+  const evidence = document.createElement("p");
+  evidence.className = "record-detail-line";
+  evidence.textContent = gap.evidence;
+  const action = createDetailLine("Action", gap.recommendedAction);
+  body.append(title, evidence, ...(action ? [action] : []));
+  row.append(risk, body);
+  return row;
+}
+
+function renderCompilerGaps(audit) {
+  if (!compilerGapsRoot) return;
+  compilerGapsRoot.replaceChildren();
+
+  const countryHeading = document.createElement("div");
+  countryHeading.className = "record-chapter-header gap-heading";
+  const countryTitle = document.createElement("h3");
+  countryTitle.textContent = "Country Risk Ranking";
+  const countryCount = document.createElement("p");
+  countryCount.className = "record-count";
+  countryCount.textContent = `${audit.countryRisks?.length || 0} countries`;
+  countryHeading.append(countryTitle, countryCount);
+  compilerGapsRoot.append(countryHeading);
+
+  for (const countryGap of audit.countryRisks || []) {
+    compilerGapsRoot.append(createCountryGapRow(countryGap));
+  }
+
+  const structuralHeading = document.createElement("div");
+  structuralHeading.className = "record-chapter-header gap-heading structural-heading";
+  const structuralTitle = document.createElement("h3");
+  structuralTitle.textContent = "Structural Gaps";
+  const structuralCount = document.createElement("p");
+  structuralCount.className = "record-count";
+  structuralCount.textContent = `${audit.structuralGaps?.length || 0} gaps`;
+  structuralHeading.append(structuralTitle, structuralCount);
+  compilerGapsRoot.append(structuralHeading);
+
+  for (const gap of audit.structuralGaps || []) {
+    compilerGapsRoot.append(createStructuralGapRow(gap));
+  }
+}
+
 function searchText(record) {
   return [
     record.title,
@@ -1131,6 +1258,7 @@ async function init() {
 
   await initPrintCandidates();
   await initPublicStatements();
+  await initCompilerGaps();
 }
 
 async function loadRecords() {
@@ -1181,6 +1309,24 @@ async function initPublicStatements() {
 async function loadPublicStatements() {
   const response = await fetch("data/public-statements.json");
   if (!response.ok) throw new Error(`Could not load public statements: ${response.status}`);
+  return response.json();
+}
+
+async function initCompilerGaps() {
+  if (!compilerGapsRoot) return;
+  try {
+    const audit = window.COMPILER_GAPS || (await loadCompilerGaps());
+    setCompilerGapCounts(audit);
+    renderCompilerGaps(audit);
+  } catch (error) {
+    compilerGapsRoot.innerHTML =
+      '<p class="error">The compiler gap audit could not be loaded. Try opening this site through a local server or GitHub Pages.</p>';
+  }
+}
+
+async function loadCompilerGaps() {
+  const response = await fetch("data/compiler-gaps.json");
+  if (!response.ok) throw new Error(`Could not load compiler gaps: ${response.status}`);
   return response.json();
 }
 
