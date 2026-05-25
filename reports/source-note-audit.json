@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-05-25T11:19:55.663Z",
+  "model": {
+    "volume": "Foreign Relations of the United States, 1989-1992, Volume XXXI, START I, 1989-1991",
+    "url": "https://history.state.gov/historicaldocuments/frus1989-92v31"
+  },
+  "rule": "Visible Source notes use repository, record group, office/collection, series or file, OA/ID or folder identifier when available, folder title, then release/access facts. Catalog URLs, NAIDs, table rows, and digital-object fields remain in structured metadata or provenanceNote.",
+  "datasets": [
+    {
+      "dataset": "data/memcons.json",
+      "records": 126,
+      "sourceNotesChangedThisRun": 0,
+      "provenanceNotesPreservedThisRun": 0,
+      "conformingSourceNotes": 126,
+      "provenanceNotesPresent": 126
+    },
+    {
+      "dataset": "data/chronological-print-candidates.json",
+      "records": 362,
+      "sourceNotesChangedThisRun": 0,
+      "provenanceNotesPreservedThisRun": 0,
+      "conformingSourceNotes": 362,
+      "provenanceNotesPresent": 0
+    },
+    {
+      "dataset": "data/subject-print-candidates.json",
+      "records": 557,
+      "sourceNotesChangedThisRun": 0,
+      "provenanceNotesPreservedThisRun": 0,
+      "conformingSourceNotes": 557,
+      "provenanceNotesPresent": 0
+    },
+    {
+      "dataset": "data/deal-print-candidates.json",
+      "records": 16,
+      "sourceNotesChangedThisRun": 0,
+      "provenanceNotesPreservedThisRun": 0,
+      "conformingSourceNotes": 16,
+      "provenanceNotesPresent": 0
+    }
+  ]
+}

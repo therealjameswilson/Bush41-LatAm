@@ -586,11 +586,7 @@ function provenanceSheetForFolder(folder) {
 function sourceNoteForFolder(folder, startPage, endPage) {
   return [
     `Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, ${subseriesForFolder(folder)}, OA/ID ${folder.localIdentifier}, ${displayFolderTitle(folder.title)}.`,
-    "Declassified.",
-    "Originally processed under FOIA 2009-0275-S.",
-    `Project PDF begins with the PDF provenance sheet, followed by source pages ${startPage}-${endPage}.`,
-    `Digital source file: ${path.basename(folder.pdfUrl)}.`,
-    `Catalog: https://catalog.archives.gov/id/${folder.naid}.`
+    "Declassified."
   ].join(" ");
 }
 

@@ -134,7 +134,7 @@ function sourceNote(folder, provenance) {
     provenance.series,
     provenance.subseries,
     provenance.oaIdNumber ? `OA/ID ${provenance.oaIdNumber}` : "",
-    provenance.folderIdNumber ? `Folder ID Number ${provenance.folderIdNumber}` : "",
+    provenance.folderIdNumber,
     provenance.folderTitle
   ]
     .filter(Boolean)

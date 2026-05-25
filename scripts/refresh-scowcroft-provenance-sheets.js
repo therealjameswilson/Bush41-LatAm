@@ -123,29 +123,17 @@ function scowcroftSourcePath(provenance, fallbackTitle, fallbackIdentifier) {
 }
 
 function sourceNoteForRecord(record, provenance) {
-  const sourcePages = record.source?.sourcePages || "";
-  const sourceFile = record.source?.objectFilename || "";
   const sentences = [
     `${scowcroftSourcePath(provenance, record.sourceTitle, record.localIdentifier)}.`,
-    "Declassified.",
-    provenance.foiaNumber ? `Originally processed under FOIA ${provenance.foiaNumber}.` : "",
-    sourcePages
-      ? `Project PDF begins with the PDF provenance sheet, followed by source pages ${sourcePages}.`
-      : "Project PDF begins with the PDF provenance sheet.",
-    sourceFile ? `Digital source file: ${sourceFile}.` : "",
-    record.catalogUrl ? `Catalog: ${record.catalogUrl}.` : ""
+    "Declassified."
   ];
   return sentences.filter(Boolean).join(" ");
 }
 
 function sourceNoteForDuplicate(duplicate, provenance) {
-  const sourcePages = duplicate.sourcePages || "";
   const sentences = [
     `${scowcroftSourcePath(provenance, duplicate.sourceFile, duplicate.localIdentifier)}.`,
-    "Declassified.",
-    provenance.foiaNumber ? `Originally processed under FOIA ${provenance.foiaNumber}.` : "",
-    sourcePages ? `Source-folder pages ${sourcePages}.` : "",
-    duplicate.catalogUrl ? `Catalog: ${duplicate.catalogUrl}.` : ""
+    "Declassified."
   ];
   return sentences.filter(Boolean).join(" ");
 }

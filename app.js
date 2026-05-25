@@ -188,8 +188,8 @@ function sentence(value) {
 function releaseSentence(record) {
   const status = record.releaseStatus || "";
   if (/declassified/i.test(status)) return "Declassified.";
-  if (/full/i.test(status)) return "Full release.";
-  if (/partial/i.test(status)) return `Partial release: ${status}.`;
+  if (/full/i.test(status)) return "Declassified.";
+  if (/partial/i.test(status)) return `Declassified; partial release: ${status}.`;
   if (/restricted|withheld|denied|excised/i.test(status)) return `Access restriction: ${status}.`;
   if (/unknown/i.test(status)) return "Release status not determined.";
   return sentence(status);
@@ -414,13 +414,15 @@ function createSourceNote(record) {
   sourceNote.textContent = frusSourceNote(record);
   citation.append(sourceNote);
 
-  if (record.sourceNote && record.sourceNote !== sourceNote.textContent) {
+  const provenanceNote = record.provenanceNote || (record.sourceNote !== sourceNote.textContent ? record.sourceNote : "");
+
+  if (provenanceNote) {
     const details = document.createElement("details");
     details.className = "record-provenance";
     const summary = document.createElement("summary");
     summary.textContent = "Full provenance trail";
     const raw = document.createElement("p");
-    raw.textContent = record.sourceNote;
+    raw.textContent = provenanceNote;
     details.append(summary, raw);
     citation.append(details);
   }
@@ -1013,6 +1015,7 @@ function searchText(record) {
     record.localIdentifier,
     record.sourceTitle,
     record.sourceNote,
+    record.provenanceNote,
     record.notes,
     record.participants,
     record.countries,

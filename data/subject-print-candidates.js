@@ -30,7 +30,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“CGNABENTHAL —CONEIDENTEAR 5296 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 July 5, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT ¢ Cie* THROUGH: EVERETT ELLIS BRIGGS~ 7 FROM: WILLIAM T. pave, 5. SUBJECT: Letter from President Bush to Argentine President Menem Attached at Tab I is the memorandum from you to the President asking that he sign a letter to President Menem congratulating him, commending Argentina’s comm",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -64,7 +64,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONHBEN TAL i PRYCE NATIONAL SECURITY COUNCIL;. WASHINGTON, D.C. 20508 he 4 padi of Natl Sec Advisge V July 20, 1989 has seen INFORMATION MEMORANDUM FOR BRENT SCOWCROFT £60, \"0 THROUGH: EVERETT ELLIS sareok, “ FROM: WILLIAM 7. parca 5 TIMOTHY E. DEAL (EA SUBJECT: Your Meeting with New Argentine Foreign Minister Domingo Cavallo You have agreed to meet with the new Argentine Foreign Minister, Domingo Cavallo. His main ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -97,7 +97,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SEGRED 20442 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 fa ae May 8, 1989 NF ORMATION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: DEANE E. HOFFMANN FROM: TIMOTHY E. DEAL SUBJECT: PCC Meeting on Argentina Attached for your information is a Memorandum for the Record, summarizing the discussion at the May 4 meeting of the PCC on Argentina. You may wish to review the policy conclusions on page one. The PCC will meet ag",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -131,7 +131,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONE TOENT IAL NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 April 27, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: DEANE E. HOFFMANN Ore FROM: TIMOTHY E. DEAL 4} > Forel, 3085 7) tpl SUBJECT: Your Meeting with Rodolfo Terragano and Felix Camarasa, 10:00 a.m., Friday, April 28 You have agreed to meet with Rodolfo Terragano, Argentina’s Minister of Public Works and Services (bio attached at Tab II), and Feli",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -165,7 +165,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "—CONFIDEN HAL CONFEDENTIAT 0673: THE WHITE HOUSE WASHINGTON February 13, 1989 ACTION MEMORANDUM FOR THE PRESIDENT / 2 2 FROM: BRENT SCOWCROFT SUBJECT: Letter to President Alfonsin of Argentina Issue Whether to sign the attached letter to Argentine President Alfonsin in response to his letter to you. Fact President Alfonsin has written to explain the critical importance of the Presidential election on May 14, 1989 to ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -199,7 +199,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8902809 United States Department of State February 9, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Letter from President Alfonsin Requesting Meetings for Economics Minister Sourrouille On February 2, the Argentine Ambassador conveyed to the Department a letter from President Alfonsin to the President (TAB A) explaining the critical importance of the Presidential election on May 14, 1989 to the consoli",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -236,7 +236,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“CONFIDENTIAL — Sits CONPIDENTIAL— 8564 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 December 4, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT dh THROUGH: WILLIAM T. PRYCE \\ FROM: DAVID A. PACELLI pat SUBJECT: Report by Bruce Gelb on His Trip to the Andean Countries USIA Director Bruce Gelb has sent the President a trip report from his October trip to Peru, Bolivia, and Colombia to find out what USIA missions could ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -273,7 +273,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "~CONFIDENTTAL 3 ABOVE AND THE TALKING POINTS IN PARAS 4-114 AMBASSADOR IS REQUESTED TO. SEEK A MEETING WITH PRESIDENT BARCO AT THE EARLIEST OPPORTUNITY TO SHARE OUR VIEWS OF WHAT THE SUMMIT IS TO ACCOMPLISH, SOLICIT HIS VIEWS ON THIS SUBJECT AND REPORT HIS REACTIONS. S. US SUMMIT PLANNING: THE ANDEAN SUMMIT HAS BEEN TENTATIVELY SCHEDULED FOR FEBRUARY U5-1b. SERIOUS CONSIDERATION IS BEING GIVEN TO HOLDING THE SUMMIT I",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -309,7 +309,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "3. Sunmary: 2990 Is CARTAGENA, COLOMBIA. In PREPARATION FoR THE Summit, REQUESTS THat THE AMBASSADOR MEET WITH PRESIDENT Paz ZANORA TO PRESENT ouR VISION OF THE SUANIT., DELIVER A LETTER Fron PRESIDENT BUSH, AND ADVANCE TH ERUY AND COLOMBIA Ow NOVEMBER Le {REFTEL}. Texy OF LETTER. FRon PRESIDENT Bush TO PRESIDENT PAZ ZanoRa Is BEING SENT SEPTE END Sunnary 4. ACTION REQUESTED: DRAWING ON THE SUMMIT TALKING POINTS Para",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-004, Andean [Drug] Summit 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-004, Andean [Drug] Summit 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -344,7 +344,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Fay UNCLASSIFIED 10001 WITH SBERET ATTACHMENT NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 December 18, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: DAVID C. ur Yer FROM: WENDY cunnehatha SUBJECT: Appointment Request with the President You have agreed at Tab II to have Bernie Aronson and party meet with the President to discuss issues raised on their recent trip to Bolivia, Peru and Colombia as well as pre",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -380,7 +380,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONEEREN TIAL 8685 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 October 30, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: WILLIAM T. PRYC SUBJECT: Telephone Call to Colombian President Virgilio Barco Vargas Attached at Tab I is a Telephone Call Proposal to the President for his conversation with Colombina President Barco on the Andean drug summit. Bernie Aronson is planning to visit Colombia, Peru and Bolivia ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -415,7 +415,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "PRYCE PANFION’ CONPIDENTEAL- COMPTEPNTENE CUNTIOCN HAL. NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 apo c 7303 September 18, 1989 ay Soe fie ACTION MEMORANDUM FOR BRENT SCOWCROFT 6 @ WE /o Gt 0” Av C N, THROUGH: EVERETT ELLIS BRIGGS’ #\\” at See Advisor FROM: WILLIAM T. RICH I SF SUBJECT: Request for Meeting with the President for U.S. Chiefs of Mission for Colombia, Peru and Bolivia Our Ambassadors to Colombia, ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -451,7 +451,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "a CONFIDENT A 5 Macedon conPrDENTrAT bern: 7251 mary NATIONAL SECURITY COUNCIL atie WASHINGTON, D.C. 20506 INFORMATION MEMORANDUM FOR BRENT SCOWCROFT of oe. 7 2 yr 2h, aha THROUGH: DAVID C. MILLER, JR./EVERETT BRIGGS FROM: RANDY BEERS ag SUBJECT: Andean Drug Summit 124 - - Om S The following is a concept for an Andean drug summit sere objectives, timing, and participation. Ss) Objectives: -~ The principal objective i",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -487,7 +487,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "me 8914199 United States Department of State Washington, D.C. 20520 S104 —CONFIBENTIAL = 7° *, 2988 J MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Recommendation for the Vice President's Travel to South America The Department of State proposes that Vice President Quayle head the U.S. delegation to the inauguration of the as yet unnamed new President of Bolivia. The new Bolivian President will be selected A",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-010, South America - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-010, South America - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; South America, democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -521,7 +521,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "\"SOREL ENTER TALKING POINTS FOR TELEPHONE CALL TO GENERAL SCOWCROFT -- We recognize that Sarney is a weak president and a lame duck. However, the issue is the signal we send Brazil with a refusal. -- Brazil is going through a very difficult period. There are very serious institutional and economic problems. We can't do much to help in the short term -- our relations have actually turned more sour in recent months ove",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -555,7 +555,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL. I WASHINGTON, D.C. 20508 p ul T ae June 15, 1989 la Cue. nas 0 ACTION: pew ol: © yet / MEMORANDUM FOR ROBERT M. GATES (? \\ é THROUGH: WILLIAM T. erxce 0 Ww Shir FROM: DAVID A. PACELLI ” SUBJECT: Presidential Response to a Letter on Panama from Brazilian President Sarney You mentioned at a senior staff meeting last week that you were interested in getting a prompt response to a letter from B",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy, panama spillover; document text visible in OCR"
   },
   {
@@ -588,7 +588,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE PRESIDENT HAS SEEN ~!#-&4 0679 THE WHITE HOUSE WASHINGTON werere in ope det Ree blo le fob February 16, 1989 ACTION MEMORANDUM FOR THE PRESIDENT FROM: BRENT SCOWCROFT (E? SUBJECT: Letter to President Sarney of Brazil issue Whether to sign the attached letter to Brazilian President Sarney in response to his letter to you. Fact President Sarney wrote a long and warm letter immediately after your election, He recall",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -621,7 +621,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ". ° 0679 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 February 10, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: ROBERT PASTORINO FROM: CLARKE M, BRINTNALIMO SUBJECT: Presidential Letter to Brazilian President Sarney By Levitsky - Scowcroft memorandum at Tab B, State Department | forwarded a draft response to Brazilian President Sarney on his | letter written to the President at the time of the election. Th",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -654,7 +654,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 February 16, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: ROBERT S. STORINO FROM: CLARKE M.. BRINTNALLC SUBJECT: Presidential Letter to Brazilian President Sarney on the Brazilian Debt By Levitsky ~- Scowcroft memorandum at Tab B, State Department forwarded a draft response to Brazilian President Sarney’s hand-delivered letter of January 13 seeking financial ass",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -689,7 +689,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "(S/S 8913853 - 4710 United States Department of State Washington, D.C. 20520 June 21, 1989 CONPIPDENELAR MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Nicaragua -- Recommendation that President Bush Telephone President Perez of Venezuela The State Department has recommended that the President make calls to President Salinas (Mexico), Sarney (Brazil), and Perez (Venezuela) to maintain their energy on the Pan",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy, panama spillover; document text visible in OCR"
   },
   {
@@ -723,7 +723,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "eNPEpENerAT 6551 NATIONAL SECURITY COUNCIL WASHINGTON; D.C. 20508 August 18, 1989 ACTION Natl Sec Ac isor MEMORANDUM FOR BRENT SCOWCROFT, THROUGH: WILLIAM T. mevce ys FROM: DAVID A. PACELLI pat’ SUBJECT: Request That You Meet with the Chilean Chief of Naval Operations The Chilean Naval Attache called to request that you meet with Admiral Jose Teribio Merino Castro, the Chilean Chief of Naval Operations and a member o",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy, ussr/cuba; document text visible in OCR"
   },
   {
@@ -756,7 +756,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "~CONFIBEN HAL NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 AC, May 3, 1989 Nat! Sec Advieor ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: DAVID A. PACELLI SUBJECT: Request by Ambassador Gillespie for Meeting With You or Bob Gates Our Ambassador to Chile, Charles Gillespie, is in Washington from May 4 through May 9 and has asked for a meeting with you or Bob Gates. He wishes to discuss U.S. policies toward Chile, in",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -790,7 +790,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "3062 TALKING POINTS FOR PRESIDENT IN PUBLIC PORTION OF MEETING WITH JACEK KURON AND MONICA JIMENEZ DE BARROS -- It is an honor to welcome to the White House today two outstanding individuals, who are truly heroes of democracy. “- Jacek Kuron has been a key leader in Solidarity’s struggle in Poland. Solidarity has just won an important victory in Poland-~-not only its own legalization but a program of other democratic",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -823,7 +823,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 GONEEBENET AG, 1305 March 3, 1989 MEMORANDUM FOR MELVYN LEVITSKY Executive Secretary Department of State SUBJECT: Guidance for Ambassador Gillespie (U) As a result of Ambassador Gillespie’s meeting with General Scowcroft on February 6, at which the Ambassador requested guidance from the President through General Scowcroft regarding U.S. policy toward the Chilean electi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -859,7 +859,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL 8496 WASHINGTON, D.C, 20506 October 25, 1989 with ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: DEANE E. HOFFMANN/WILLIAM T. PRYCE/DAVID C. MILLER FROM: ERIC MELBY SUBJECT: Andean Trade Package After his September 28 meeting with President Barco, the President requested Ambassador Hills to lead an inter-agency effort to examine what we could do for Colombia in the economic field, Her report",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -895,7 +895,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8456 THE WHITE HOUSE WASHINGTON NEFORMATION DRA MEMORANDUM FOR THE PRESIDENT FT FROM: BRENT SCOWCROFT SUBJECT: Andean Trade Initiative Purpose To inform you about an inter-agency agreed Andean Trade Initiative. Backqround After your meeting with President Barco of Colombia on September 28, you instructed Ambassador Hills to lead an inter-agency effort to examine ways the U.S. could expand economic cooperation with Co",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -930,7 +930,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SECRET 21327 Add-on 2 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 on & November 1, 1989 | \"= INFORMATION DECLASSIFIED PER E.0O. 13526 THROUGH: DAVID C. MILLER, JR. FOlo~ 1 OF3-mMR Mur e/g froté MEMORANDUM FOR ROBERT M. GATES FROM: RAND BEERS SUBJECT: Deputies Committee Meeting, Thursday, November 2, 1989, 10:00 a.m. This meeting has been called to discuss the Andean Drug Summit. At Tab A is the Discussion Paper ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -966,7 +966,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL 9425 WASHINGTON, D.C. 20506 November 22, 1989 INFORMATION MEMORANDUM FOR BRENT SCOWCROFT FROM: PHILIP HUGH SUBJECT: Security Survey of Cartagena, Colombia Following Sig Rogich’s survey trip to Cartagena, Colombia last week, which I accompanied, I wanted to provide a short read-out of what we found. Predicated on the assumption that the Andean Drug Summit would be a one day event, with the Pr",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -999,7 +999,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "06. Memo From Philip Hughes to Brent Scowcroft 11/22/89 oh Re: Security Survey of Cartagena, Colombia (1 pp.) | 07. Cable From Secretary of State to American Embassy, Bogota 12/11/89 ot ) | Re: Andean Summit - Update of letter to President Barco [SENT",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -1032,7 +1032,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONE IDENDTTAG~ -CONABEN TAL 10199 (plow bom NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 December 19, 1989 INFORMATION MEMORANDUM FOR BRENT SCOWCROFT FROM: WILLIAM T. PRYCE| SUBJECT: Your Meeting with U.S. Ambassador to Colombia Thomas E. “Ted\" McNamara, 3:30 P.M., December 19 Ambassador McNamara plans to use his time with you to: 1. Give you an update on the situation in Colombia following Gacha’s demise. 2. Ta",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1066,7 +1066,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20506 November 22, 1989 INFORMATION MEMORANDUM FOR BRENT SCOWCROEFT FROM: PHILIP HUGH wae\" SUBJECT: Security Survey of Cartagena, Colombia Following Sig Rogich’s survey trip to Cartagena, Colombia last week, which I accompanied, I wanted to provide a short read-out of what we found. Predicated on the assumption that the Andean Drug Summit would be a one day event, with the P",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; narcotics, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -1101,7 +1101,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTIAL, -PONFIBENTIAL 8816 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with President Barco of Colombia (U) PARTICIPANTS: The President President Virgilio Barco DATE, TIME October 30, 1989, 2:45 p.m. -— 2:57 p.m.: AND PLACE: Oval Office - Presidential Residence, Bogota The following is based on information supplied by Brent Scowcroft and ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1134,7 +1134,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "7654 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 September 27, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT ELLIS BRIGGS 7 FROM: WILLIAM T. pavce SUBJECT: Press Release Announcing Colombian President Virgilio Barco’s September 28 Meeting with the President Attached at Tab I is a memorandum from Philip Hughes forwarding a proposed press release regarding Colombian President Virgilio Barco’s Septemb",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1167,7 +1167,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "6911 TALKING POINTS FOR GENERAL SCOWCROFT’S MEETING WITH THE CABINET Background -- The situation in Colombia has steadily worsened over the last three months. On May 30 traffickers attempted to kill the head of the Colombian FBI (DAS), General Miguel Maza. Following that, they assassinated a Provincial Governor, the Police Chief of Medellin, two Judges, and, most recently, a popular Presidential Candidate, Luis Galan",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1201,7 +1201,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENT hale GONPEDENPI AI, 3673 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 May 16, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT af FROM: DAVID A. PACELLI v SUBJECT: Points to Be Made for the President’s Telephone Calls to Colombian President Barco and Guillermo Endara of Panama Attached at Tab I is the points to be made for the President's telephone call to Colombian President Barco and attached at Tab If are ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -1234,7 +1234,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "POKEINCNTIAL VOI BEN HAL THE WHITE HOUSE 2678 WASHINGTON April 14, 1989 ACTION MEMORANDUM FOR THE PRESIDENT &) FROM: BRENT SCOWCROFT SUBJECT: Telephone Call to President Barco of Colombia Purpose To underscore our appreciation for President Barco’s tough antidrug measures and our continuing cooperation on narcotic matters. Background President Barco came to the United States to deliver a major address on narcotics to",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1268,7 +1268,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "4308 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 June 5, 1989 MEMORANDUM FOR BRENT SCOWCROFT THROUGH:, DAVID C= LER, JR. Ro! FROM: RICH LAMAGNA SUBJECT: Letters for Families of Victims Killed in Peru on Anti-Drug Mission. As you agreed, at Tab I is a memorandum from you to the President recommending that he sign the letters (Tab A) to the families of the victims killed in Peru in an airplane crash while on an an",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1301,7 +1301,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "MEMORANDUM FOR BRENT SCOWCROFT _ THROUGH: DAVID C. MILLER, JR. aot FROM: RICH LAMAGNA SUBJECT: Letters for Families of Victims Killed in Peru on Anti-Drug Mission. As you agreed, at Tab I is a memorandum from you to the President recommending that he sign the letters\\(Tab A) to the families of the victims killed in Peru in an airplane crash while on an anti-drug mission. You also agreed to a phone call from the Presi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1335,7 +1335,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SONEEDRNEERS 3890 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 May 22, 1989 ACTION DECLASSIFIED MEMORANDUM FOR BRENT SCOWCROFT PER NSC WAIVER, 00 AR “OA: By_9__ NARA, DateGlelAs THROUGH: EVERETT E. BRIGGS oat i ¥ FROM: WILLIAM T. PRYCE pat 6 DAVID A. PACELLI DA? SUBJECT: Possible Call to the President from Peruvian President Garcia Peruvian President Garcia told former Assistant Secretary of State Abrams on May 1",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -1370,7 +1370,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "-CONABENTIAL CONFEDENTEAE THE WHITE HOUSE 3890 WASHINGTON DECLASSIFIED ACTION PER NSC WAIVER, 1680 AtA}-02 By_35 NARA, Date6/6/45 MEMORANDUM FOR THE PRESIDENT FROM: BRENT SCOWCROFT SUBJECT: Points to Be Made in Possible Telephone Call from Peruvian President Garcia Purpose To prepare you for a possible phone call from Peruvian President Garcia on OAS action regarding Panama and narcotics cooperation. Background Our E",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -1404,7 +1404,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ". 8926015 United States Department of State Washington, D.C. 20520 21382 November 9, 1989 UNCLASSIFIED (With Gentidertireri= Attachment) MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Conclusions of PCC Meeting on Andean Countries Please circulate the attached statement of conclusions of the October 24 meeting of the Policy Coordinating Committee for Latin America to Committee members. StapYeton Roy xecutive",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -1438,7 +1438,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8456 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 DRAFT MEMORANDUM FOR JAMES W. CICCONI FROM: G. PHILIP HUGHES SUBJECT: Andean Trade Package At Tab A is a draft press release on the Andean Trade package, which the President requested USTR Hills to develop. We propose that the package be announced early next week. The draft press release has been cleared by State and USTR. Attachment Tab aA Draft Press Release cc:",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -1472,7 +1472,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Auclea SECRET CLs Doo 21357 Add-On 1 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 Ye: L {_-— November 8, 1989 mmm ee MEMORANDUM FOR MR. CARNES LORD BG THOMAS E. WHITE Assistant to the Vice President Executive Assistant to the for National Security Affairs Chairman Joint Chiefs of Staff Mr. J. STAPLETON ROY Executive Secretary MS. MOLLY HAGEBOECK Department of State Chief of Staff Agency for International COL GEOR",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -1505,7 +1505,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "MEMORANDUM FOR: SUBJECT: S/S 8325137 8689 United States Department of State Washington, D.C. 20520 October 29, 1989 Mr. Philip Hughes Executive Secretary National Security Council Staff The White House Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from Dutch Prime Minister R.F.M. Lubbers which is transmitted for your information. This correspondence was received i",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -1538,7 +1538,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONBIDENTIAL, CONFIGEHAL 9741 Add On One NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 December 4, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: DAVID C. urwie UR. FROM: RANDKCBEERS SUBJECT: Formal Acceptance of Andean Summit Invitations Attached are three Presidental letters (cable form without signature) accepting the Andean Summit schedule for February 15 with each of the Andean Presidents. The text was d",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -1570,7 +1570,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE WASHINGTON August 11, 1989 MEMORANDUM FOR THE DOMESTIC POLICY COUNCIL FROM: KEN YALE | Executive Secretary SUBJECT: Domestic Policy Council Meeting with the President, Tuesday, August 15, 1989 from 2:00 to 3:30 PM in the Cabinet Room The Domestic Policy Council will hold its seventeenth meeting, with the President in attendance, on Tuesday, August 15, 1989 at 2:00 PM in the Cabinet Room. The purpose o",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1602,7 +1602,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "-2- that the increase might displace other funds for Federal law enforcement, It was further agreed that the Strategy should emphasize traditional State responsibility for expanding State courts and prisons, and that Federal funds are merely an incentive. When the Strategy is announced, it will be emphasized that expanded prison capacity is a high priority issue and that State and local governments need to act. 4, Tr",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1634,7 +1634,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "sEcREa— een 3199, NATIONAL SECURITY COUNCIL ~ 7? #! fe. = WASHINGTON, D.C. 20508 vacishis ACTION | MEMORANDUM FOR BRENT SCOWCROFT THROUGH: DAVID C. MILLER, JR. | FROM: RAND BEERS SUBJECT: Meetings with Secretaries Baker and Cheney | At last Tuesday’s (April 25) meeting with Director Bennett you | agreed to meet with him and Secretaries Baker and Cheney at separate meetings’ to discuss the Miller/Walters trip to the U",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1666,7 +1666,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20506 March 10, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: DAVID C. ER, JR. FROM: scopapprs SUBJECT: Reply to Letter from General Wickham Retired Army General John Wickham, Jr., President of the Armed Forces Communications and Electronics Association (AFCEA), has forwarded an article (Tab II) from AFCEA’s professional journal that conveys his recommendations to solv",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1698,7 +1698,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "MEMORANDUM FOR VIRGINIA LAMPLEY ROBERT BLACKWILL RICHARD HAASS DAVID MILLER NICHOLAS ROSTOW ROMAN POPADIUK KARL JACKSON/RICHARD CHILDRESS SUBJECT: The President's Drug Certifications Attached for your review and clearance is the President's decision package on certification of drug source or transit countries. Please provide comments and clearances by 1989. Thanks again for your assistance. was ene |",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1730,7 +1730,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8903473 United States Department of State Washington, D.C. 20520 1064 February 21, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Certification of Narcotics Source Countries The recommendations of the Department of State to the President on certification of the 24 major narcotics source and transit countries, under Sec. 481(h) of the Foreign Assistance Act, are contained in the attached memorandum to th",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1762,7 +1762,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 1064 MEMORANDUM FOR MR. MELVYN LEVITSKY Executive Secretary Department of State SUBJECT: Certification for Narcotics Source and Transit Countries The President has reviewed the Secretary’s recommendations regarding the certification of major narcotics source and transit countries. Decisions about certification are reflected in the Presidential Determination which is at",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1794,7 +1794,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTIAL NATIONAL SECURITY COUNCIL WASHINGTON, Bc: 20506 0535 add-on CONFIDENTIAL w/SBERED ATTACHMENT February 14, 1989 ix INFORMATION MEMORANDUM FOR BRENT SCOWCROFT wo THROUGH: KARL D. JACKSON f DJ FROM: JAMES A. KELLY Jy~ SUBJECT: Tokyo Bilaterals - Further Information This responds to your request for further information on bilateral meetings in Tokyo. It amplifies my memorandum of February 7, 1989. Who i ing?",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-013, Tokyo Bilaterals - Debt [1989]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-013, Tokyo Bilaterals - Debt [1989]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1827,7 +1827,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8929361 United States Department of State Washington, D.C. 20520 #10274 December 20, 1989 WITH SECRET ATTACHMENT MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: President-Elect Luis Alberto Lacalle of Uruguay Requests a Meeting with President Bush Senator Lacalle, 48, won the Uruguayan presidential election on November 26 with a plurality of votes in a totally open and honest election. As the leader of the op",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1860,7 +1860,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Unitéd States Department of State S/S 8918701 ’ Washington, D.C. 20520 AE August 16, 1989 ‘CONFIBEN HAL MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: President Julio Maria Sanguinetti of Uruguay Requests a Meeting with President Bush President Julio Sanguinetti has requested a private, informal meeting with President Bush at any time on September 15, 16, 17 or 18. His preference would be for Monday, Septemb",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1895,7 +1895,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SEGRET —CONEEDENTIAL 771 w/SECGRET ATTACHMENTS NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 September 13, 1989 \\ a ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: ? FROM: WILLIAM T. PRYCEYW\\ ‘ SUBJECT: Presidential Meeting with Uruguayan President Julio Sanguinetti: /September 15, 1989; Oval Office; 3:00 - 3:30 p.m. Attached at Tab I is a memorandum to the President for his meeting with Uruguayan Presidént Julio S",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1929,7 +1929,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "| SEGRET z FLIL ~CONFERENTIAL w/SEGRET, ATTACHMENTS: NATIONAL SECURITY COUNCIL WASHINGTON, 0.C. 20506 September 13, 198% ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT ELLIS ariced A_ - FROM: WILLIAM T. PRYCEW \\ SUBJECT: Presidential Meeting with Uruguayan President Julio Sanguinetti: September 15, 1989; Oval Office; 3:00 - 3:30 p.m. Attached at Tab I is a memorandum to the President for his meeting with Urug",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -1962,7 +1962,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "BIPARTISAN ACCORD ON NICARAGUA TALKING POINTS ° I appreciate your public and private comments in support of the accord. The bipartisan accord means that the U.S. is reassuming an active, unified role in Central America with a focus on democracy. We want to work with you and other interested parties to ensure a unified approach. I think we can agree on the following points: -- It is critical to create in Nicaragua con",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -1996,7 +1996,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "° TALKING POINTS PANAMA We appreciate your efforts on behalf of democracy in Panama. -- We are convinced that Noriega is preparing to engage in massive fraud to ensure defeat of the opposition in Panama's May 7 elections. As you are aware, without such fraud, current polls in Panama indicate the opposition could win as much as 70 percent of the vote. -- Despite Noriega’s plans, we believe that election observers can ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "democracy, presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -2031,7 +2031,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "TALKING POINTS G-8 DIALOGUE fe} S/S ° J ° With regard to your interest in dialogue between the U.S. and the Group of 8, I believe that it is in the interests of debtor nations to continue discussions on debt through direct bilateral discussions. We believe, however, that there are a variety of other issues of mutual concern, such as strengthening democracy, respect for human rights and controlling illicit narcotics, ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "narcotics, democracy, debt and economy; document text visible in OCR"
   },
   {
@@ -2066,7 +2066,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CUBA TALKING POINTS The U.S. will not entertain any significant improvement in relations with Cuba until Cuban behavior which is offensive to the national security and other interests and concerns of the U.S. radically changes. The Cuban government is well aware of basic U.S. concerns: -- The Soviet-Cuban relationship which gives the USSR certain strategic, intelligence and political advantages that it would not othe",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "democracy, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -2100,7 +2100,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "ee BAFBEMFHE Poy 3804 add-on NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20506 May 26, 1989 DECLASSIFIED ACTION PER NSC WAIVER, Ig0 iN MEMORANDUM FOR BRENT SCOWCROFT By_ &_NARA, Date. &/0/Aé \\) FROM: WILLIAM T. PRYCE DAVID A. PACELLI pat SUBJECT: Recommended Presidential Telephone Call to Venezuelan President Perez Before the President’s departure for Europe, our directorate had recommended that the President call Ven",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy, panama spillover; document text visible in OCR"
   },
   {
@@ -2134,7 +2134,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8911313 United States Department of State Washington, D.C. 20520 3804 May 18, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Telephone call to Venezuelan President Carlos Andres Perez. As a result of the President's phone calls to Venezuelan President Carlos Andres Perez (CAP) and Venezuela's initiative, the OAS convened the May 17 Meeting of Foreign Ministers. At the OAS meeting, a resolution supported",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy, panama spillover; document text visible in OCR"
   },
   {
@@ -2167,7 +2167,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "| Hel ’ NATIONAL SECURITY COUNCIL le. WASHINGTON, D.C. 20506 2 ‘ March 28, 1989 jo ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: TIMOTHY E. DEAL GE SUBJECT: Proposed Response to Venezuelan President Perez’s Letters of March 3 and 17 Attached at Tab I is a memorandum from you to the President, transmitting a proposed response to President Perez’s letters of March 3 and 17, concerning the international debt problem gener",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2201,7 +2201,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 March 15, 1989 We MEMORANDUM FOR BRENT SCOWCRO INFORMATION FROM: ROBERT S. F RINO SUBJECT: Carlos Andres Perez Request for Two-Hour Meeting with the President I met yesterday for almost an hour with Beatrice Rangel, one of Carlos Andres Perez’ chief foreign affairs advisers. She said that Perez wants to meet with the President privately, as soon as possible to discuss ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -2234,7 +2234,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“CONPEDENTIAL “CONAIBENT HH 1324 with SECRET Attachment NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 March 2, 1989 MEMORANDUM FOR BRENT SCOWCROFT FROM: ROBERT WW. PASTORINO SUBJECT: Presidential Telephone Call to Venezuelan President Carlos Andres Perez Please find attached an action memorandum and points to be made for the President’s telephone call to Carlos Andres Perez. The call will inform Perez of the U.S. ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2267,7 +2267,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ". CONFIDEMPTAL “CONFIBENTAL 10247 THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with President Menem of Argentina (U) P@UG@TICIPANTS: The President Carlos Menem Interpreter: Stephanie van Reigersberg Notetaker: David Pacelli DATE, TIME December 20, 1989, 3:41 ~- 3:54 am, EST AND PLACE: The Oval Office The President: Mr. President. (U) President Menem: Good morning, Mr",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -2301,7 +2301,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "96/20/89 «11:47 = 202 647 5880 N/DGP-D¢P/PER wees United States Department of State Washingion, D.C. 20520 st MEMORANDUM FOR BRENT SCOWCROFT. AND CHASE UNTERMEYER THE WHITE HOUSE Subject: U.S, Representation at the July 8, Inauguration of the President of Argentina On July 8, Argentina will inaugurate Carlos Menem ae President, completing the first transition from one elected civilian President to another since 1916.",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2334,7 +2334,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "soc ce wn Roe ee ee RT OO - F SUGGESTED “APPROACH TO ALFONSIN g. IN TALKING WITH ALFONSIN WE WISH TO STRESS AS & BASIC Siene HIS RESPONSIBILITY, AND THAT OF HIS UCK COLLEAGUES. -2.T0 ACT DURING THE TRANSITION IN A COOPERATIVE UAY WITH WMENEMTS TEAM SO THAT IN THIS FINAL SIx MONTHS In OFFICE THEY WILL BEGIN 70 COPE CEFECTIVELY WITH FCOnOmIC PROBLEMS LAND THUS BUILD A SOUND FOOTING FOR THE CONSOLIDATION OF ALFONSIN'S L",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2368,7 +2368,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "TALKING POINTS -- Despite economic difficulties, the upcoming elections will mark the first transition in Argentina from one democratically elected government to another in sixty years. -- This demonstrates a commitment to democracy and the rule of law, which we applaud. =~ How do you assess the election? -- What are the prospects for an indecisive election result with the President chosen by the Electoral College? -",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2401,7 +2401,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "JOHNSON DAVID 68/28/89 111757 PRINTER: KB 89 LA PAZ 18917 CONFIDENTIAL PAGE 61 LA PAZ 19917 @2 OF @2 2322447 ACTION 85-86 INFO LOG-8¢ ADS-33 550-89 /808 @ tHE / EXDIS OR ONLY --=-------------=- OO7421 2323072 /61 0 2322282 AUG 89 FM AMEMBASSY LA PAZ TO SECSTATE WASHDC IMMEDIATE 7104 INFO AMEMBASSY BOGOTA AMEMBASSY LIMA AMEMBASSY QUITO AMEMBASSY CARACAS AMEMBASSY PANAMA USAFSO HOWARD AFB PN USCINCSO QUARRY ATS PN GFE ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -2434,7 +2434,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8917205 United States Department of State 6007 Washington, D.C. 20520 July 31, 1989 LIMITED OFFICIAL USE MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Congratulatory Letter from President Bush to the next President of Bolivia Enclosed is a draft text for a letter of congratulations from President Bush to the next President of Bolivia, who will be inaugurated on August 6, Bolivian Independence Day. The new P",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2467,7 +2467,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "—2— On June 13, 1988 then-Vice President Bush telephoned President Paz Estenssoro to urge his personal commitment to the passage of a tough drug control law. The call convinced Paz to go all out to push that law through the Congress. In the weeks following the call, Bolivia achieved further victories in the war against drugs as coca eradication goals were exceeded and major traffickers apprehended. eagle Roy xecutive",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2504,7 +2504,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Presidential Determination No. MEMORANDUM FOR THE SECRETARY OF STATE SUBJECT: Certifications for Narcotics Source and Transit Countries under P.L. 99-570 By virtue of the authority vested in me by Section 481(h)(2)(A)(i) of the Foreign Assistance Act of 1961, as amended by the Anti-Drug Abuse Act of 1986 (P.L. 99-570), and the Anti-Drug Abuse Act of 1988 (P.L. 100-690), I hereby determine and certify that the followi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2537,7 +2537,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "United States Department of State Washington, D.C. 20520 +9262 S/S 8929401 Decenber 20, 1989 | MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Congratulatory Telephone Call by the President to Brazilian President-Elect Collor Fernando Collor de Mello has emerged the winner in Brazil's December 17 presidential election. He won a narrow victory over leftist Labor Party candidate Luis Inacio \"Lula\" da Silva. The",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2570,7 +2570,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "GONELDENTAL CONGRATULATORY CALL fO BRAZILIAN PRESIDENT-ELECT FERNANDO COLLOR DE MELLO TALKING POINTS ° Congratulations on your election victory. ° I understand that it was a long and very hard campaign. As a veteran of many contests I know how exhausting this process can be.: fo} Your election is a victory for your country as well as for you -- the democratic process worked and worked well. The American people and I ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2604,7 +2604,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ". 10320 OFFICE OF THE VICE PRESIDENT WASHINGTON ~GONFEDENTEFALY MEMORANDUM OF CONVERSATION The Vice President made the following telephone calls, December 20: _ 0143 President Cristiani (El Salvador): The Vice President outlined the deepening of the crisis and the reasons for U.S. action (saving U.S. lives, restoring democracy, apprehending Noriega, and preserving the integrity of the Canal Treaty). He cited the Pres",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -2638,7 +2638,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE VICE PRESIDENT WASHING OM SECRE? December 20, 1989 MEMORANDUM OF CONVERSATION Summary of the Vice President's telephone conversation, December 20, with Panamanian Vice Presidents Arias Calderon and Billy Ford: During my conversation with Vice President Arias Calderon, he was somewhat pessimistic and indicated that he hoped they would soon be on \"the other side of the storm\". We are \"right in the middle of the sto",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -2671,7 +2671,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "comers —CONFIBEN AL 3877 THE WHITE HOUSE WASHINGTON’ MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Call from President Bush to President Sarney of Brazil Reference Panama PARTICIPANTS: The President Notetaker: Paul Lebras Stenographer: Pat Battenfield Interpreter: Neil Seidenman President Sarney DATE: May 17, 1989 LOCATION: White House Oval Office TIME: 9:28 a.m. - 9:51 a.m. After an initial exchange of gre",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -2705,7 +2705,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONELDENSIAL SOUPIDENDERD _> file NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20506 Geter pan iron May 17, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT e ad FROM: DAVID A. PACELLI v SUBJECT: Recommended Presidential Phone Call to Brazilian President Sarney. The State Department is recommending that the President call Brazilian President Sarney to get his endorsement of a strong OAS resolution on Panama. Assistant Secret",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy, panama spillover; document text visible in OCR"
   },
   {
@@ -2738,7 +2738,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8902123 United States Department of State Washington, D.C. 20520 0663 February 9, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Suggested Reply to Letter from President Sarney: The Department forwards a response to Brazilian President Sarney on his letter written at the time of the election. Because of its nature, the White House decided not to respond until after inauguration. Melvyn Levitsk Executive",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2772,7 +2772,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "POANCINGO MT AL CONDEBEND EA OUNTIULINTIAL 0672 THE WHITE HOUSE WASHINGTON February 18, 1989 an wa Je ACTION yout DECLASSIFIED MEMORANDUM FOR THE PRESIDENT (AD PER NSC WAIVER, 1500 a0al-O4 Vy ul By & NARA, DateG/4H> FROM: BRENT SCOWCROFT SUBJECT: Letter to President Sarney of Brazil on the Brazilian Debt Issue Whether to sign the attached letter to Brazilian President Sarney in response to his letter to you on the Br",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2805,7 +2805,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "AL TALKING POINTS TO BE MADE WITH CHILBAN FOREIGN MINISTER HERNAN FELIPE ERRAZURIZ CORREA -- We have a keen interest that the upcoming elections in Chile are conducted in a free and open manner, consistent with Chile’s democratic traditions. The USG is strictly neutral in the election. We hope to work closely with whomever is elected as the next President of Chile. -- We are encouraged by the commitment of the Chilea",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2839,7 +2839,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 February 17, 1989 ACTION Nat! Sec Advisor MEMORANDUM FOR BRENT SCOWCROF has seen THROUGH: ROBERT S. PA RINO FROM: CLARKE M. BRI twat Y SUBJECT: Chile Policy Per your note on the attached memorandum, I propose that State/ARA be authorized to provide the following guidance verbally to Ambassador Gillespie: \"You may inform the Chilean candidates that the President’s Natio",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2873,7 +2873,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "10201 NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 December 26, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: NICHOLAS ROSTOW M.. FROM: DANIEL LEVIN Du SUBJECT: Colombian Confiscation of U.S. Corporate Jets Mark A. Dombroff, a Washington attorney, has written you (Tab IIA) on behalf of several clients who claim that they have had corporate jets stolen, flown to Colombia, used in the narcotics trade there, a",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2906,7 +2906,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "TT LAPT fy GONEIDENTIAL ULAR TTAL 10246 THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with President Barco of Colombia (U) PARTICIPANTS: The President Virgilio Barco Notetaker: David Pacelli DATE, TIME December 20, 1989, 2:27 ~ 2:31 a.m. EST AND PLACE: The Oval Office The President: Mr. President. (U) President Barco: Yes. (U) 2 ident: This is George Bush. I know it i",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -2940,7 +2940,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "ONFPDENTIAL- 8840 NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 November 1, 1989 CHRON NE T DECLASSIFIED MEMORANDUM FOR BRENT SCOWCROFT PER E>, 12058, AS AMENDED THROUGH: DEANE E. HOFFMANN Zoo l-OY 34 FROM: ERIC MELBY R shshg SUBJECT: Colombian Request for Additional Economic Assistance Carlos Marulanda, Colombia’s Minister of Development, came to see Deane, David Miller and Bill Pryce yesterday. He was accompanie",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -2974,7 +2974,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "7874 THE WHITE HOUSE DECLASSIFIED WASHINGTON PER E.0. 12058, AS AMENDED % Zool ~0434-F wi Fe Bles/of ACTION esl Gi te we MEMORANDUM FOR THE PRESIDENT FROM: BRENT SCOWCROFT SUBJECT: Response to Colombian President Barco’s Land Bridge Proposal Purpose To express appreciation for President Barco’s condolence message on the San Francisco earthquake, to give an interim response on Barco’s request for greater economic assi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3007,7 +3007,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "6814 MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: PARTICIPANTS: DATE, TIME AND PLACE: Telephone Conversation with Virgilio Barco Vargas, President of Colombia The President Virgilio Barco Vargas Note Taker: William T. Pryce August 28, 1989, 3:52 - 4:00 p.m. Kennebunkport, Maine President Barco called The President to thank him for our help with Colombia’s narcotics problems. President Barco: I just wanted to call yo",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3041,7 +3041,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "TALKING POINTS FOR CONGRESSIONAL NOTIFICATION OF MILITARY ASSISTANCE FOR COLOMBIA President Barco is moving very aggressively against the drug cartels in Colombia following their latest wave of killings of police, judicial and political figures. The employment of military assets is an important element in the Colombian government’s effort to control the drug cartels. Military assistance is an important sign of U.S. s",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "Presidential or NSC principals; narcotics, democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3074,7 +3074,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "BN * CONFIDENTIAL SCONE EPENTIAr 7118. NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 September 11, 1989 ACTION Deputy Nati 88@ Advisor aS has see ‘ MEMORANDUM FOR BRENT mare! L, ~ age THROUGH: DEANE E. HOFF! /EVERETT E. BRIGGS oid FROM: ERIC MELBY. VAN Ne SUBJECT: President Barco’s Letter on Coffee On September 4, President Barco wrote the President asking that the U.S. agree immediately to re-negotiate the Intern",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3107,7 +3107,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIBENTIAE _ CONFIDENTIAL NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 August 21, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT ELLIS pricés Jy FROM: WILLIAM T. prycay IU SUBJECT: Telephone Call by the President to President Barco of Colombia In conjunction with the State Department, we recommend that the President call President Barco of Colombia to express condolences on the murder of presidenti",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3140,7 +3140,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8919308 United States Department of State Washington, D.C. 20520 6584 vood August 21, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Phone Call from President Bush to Colombian President Virgilio Barco Last week's assassinations of an appeals court judge, a provincial police chief, and last Friday, the leading presidential candidate of the ruling Liberal Party, has left Colombia in a state of shock. Pre",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3173,7 +3173,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "TALKING POINTS Phone Call from President Bush to President Barco ‘Mr. President, I want to express my sincere and heartfelt condolences to you and to the people of Colombia for the tragic loss of life that has occurred in Colombia during the last week. Luis Carlos Galan was a courageous leader, and his death must be an especially difficult burden for the Colombian people to bear. I want you to know that the steadfast",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3206,7 +3206,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“ls 8913144 nited States Department of State Washington, D.C. 20520 4éal June 13, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Presidential Determination on Export-Import Bank Guarantees in Connection with Sale of Defense Articles and Services to Colombia The President is asked to determine, in connection with section 4703 of the Anti-Drug Abuse Act of 1988 (\"the Act\"), that it would be in the nationa",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3239,7 +3239,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Presidential Determination No. 89- MEMORANDUM FOR THE SECRETARY OF STATE SUBJECT: Determination to Authorize Export-Import Bank Guarantees for Financing Sale of Defense Articles and Services to the Government of Colombia Pursuant to section 4703 of the Anti-Drug Abuse Act of 1988, I hereby determine that: (1) The defense articles and services for which the Government of Colombia requested Export-Import Bank financial",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3274,7 +3274,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“CONFIBENFIAL storiad NATIONAL SECURITY COUNCIL CONFIDENTIAL WASHINGTON, D.C. 20506 1490 March 9, 1989 MEMORANDUM FOR MELVYN LEVITSKY Executive Secretary Department of State SUBJECT: President’s Telephone Call to Colombian President Barco (g) The following summary of the President’s conversation with Colombian President Barco last evening concerning the U.N. Human Rights Commission vote on Cuba is provided for the St",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -3308,7 +3308,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "«Se NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 SECRET La30) March 9, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: ROBERT S. PASTORINO Da? f NANCY BEARG DYKE SUBJECT: Presidential Telephone Call to President Barco of Colombia About the Cuban Human Rights Vote in Geneva The UN Human Rights Commission vote in Geneva on the U.S. resolution to continue monitoring of the Cuban Rights situation is now scheduled fo",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy, ussr/cuba; document text visible in OCR"
   },
   {
@@ -3341,7 +3341,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8908980 United States Department of State Washinigon, D.C. \"20889\" 8 3) 5, - MEMORANDUM FOR BRENT SCOWCROFT AND CHASE UNTERMEYER THE WHITE HOUSE Subject: U.S. Representation at the May 15 Inauguration of the President of Paraguay Presidential and congressional elections are scheduled for May l in Paraguay. The provisional government intends to hold the first honest and open election in 34 years. It is welcoming f",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3374,7 +3374,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8910352 United States Department of State Washington, D.C. 20520 3479 i> May 9, 1989 UNCLASSIFIED MEMORANDUM FOR BRENT SCOWCROFT AND CHASE UNTERMEYER THE WHITE HOUSE Subject: Request for Aircraft to Transport the U.S. Delegation to the Inauguration of the President of Paraguay The Government of Paraguay is welcoming foreign delegations to the inauguration of President-elect Andres Rodriguez and the installation of th",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3408,7 +3408,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "/ S7 THE WHITE HOUSE / i WASHINGTON mA. « love CLA TOS. ho June 7, 1989 ACTION MEMORANDUM FOR THE PRESIDENT FROM: BRENT SCOWCROFT Ap SUBJECT: Letters to wamirioo ey of Peru Victims and Phone Call to Family of DEA Agent Purpose To offer condolences to families of victims killed in an air crash on anti-drug mission in Peru on May 20. Background On May 20, 1989, nine people were killed in an air crash in Peru while on a",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3441,7 +3441,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "ACTION MEMORANDUM FOR THE PRESIDENT FROM: BRENT SCOWCROFT SUBJECT: Letters to Families of Peru Victims and Phone Call to Family of DEA Agent Background On May 20, 1989, nine people were killed in an air crash in Peru while on an anti-drug misssion sponsored by the United States Government. The cause of the crash is still unknown. The victims included one DEA Agent and five other Americans who were contract employees ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3473,7 +3473,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE WASHINGTON en a seen, August 14, 1989 ksdiua bb MEMORANDUM FOR DAVID Q. BATES, JR. ASSISTANT TO THE PRESIDENT AND SECRETARY TO THE CABINET FROM: Cc. BOYDEN cravC/) COUNSEL TO THE PRESIDENT SUBJECT: Comparison of Director Bennett’s Draft Anti-Drug Strateqy with the President's Campaian Statements The fundamental principle of Director Bennett’s prOposed approach is stated on pp. 187-188 of the draft pla",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3505,7 +3505,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "_ un Ale, OFFICE OF NATIONAL DRUG CONTROL POLICY EXECUTIVE OFFICE OF THE PRESIDENT Washington, D.C. 20500 August 15, 1989 MEMORANDUM FOR: COUNTERNARCOTICS POLICY COORDINATING COMMITTEE MEMBERS FROM: JOHN P. WALTERS /, CHIEF OF STAFF SUBJECT: NATIONAL DRUG CONTROL STRATEGY: INTERNATIONAL AND INTERDICTION CHAPTERS I enclose Chapters IV and V of the National Drug Control Strategy. These are to appear in the Strategy doc",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3537,7 +3537,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Like “eo 3392 NATIONAL SECURITY COUNCIL al WASHINGTON, D.C. 20506 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: DAVID C. MILLER, JR. FROM: RICH LAMAGNA SUBJECT: Reply to the President of the Dominican Republic and Mrs. Christina Buczek At Tab A is a letter from Mrs. Christina Buczek to the President pleading for his help in having Daniel Mirambeaux, her husband’s murderer, brought to. justice. BACKGROUND New York Ci",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3569,7 +3569,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "3392 THE WHITE HOUSE WASHINGTON ACTION MEMORANDUM FOR THE PRESIDENT FROM: BRENT SCOWCROFT SUBJECT: Letters to President Joaquin Balaguer Dominican Republic and Mrs. Michael Buczek Purpose To urge President Balaguer to render accused killer of New York Gity Policeman Michael Buczek available to U.S. Jurisdiction and to respond to Mrs. Buczek’s letter. Background The widow of Police Officer Michael Buczek has written t",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3601,7 +3601,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "; 8910125 United States Department of State Washington, D.C. 20520 3392 May 5, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Proposed Letter From the President to President Balaguer of the Dominican Republic On October 18, 1988, Daniel Mirambeaux, a Dominican national, while exiting a building with cocaine, allegedly shot and killed New York City Police Officer Michael Buczek. Mirambeaux returned to th",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3633,7 +3633,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "07. Memorandum Re: Counternarcotics (2 pp.) To: Brent Scowcroft From: William Bennett 5/23/89 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -3665,7 +3665,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "DRAFT NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 1064 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: DAVID C. MILLER, JR. FROM: RAND BEERS/SCOT ADDIS SUBJECT: Certifications for Narcotics Source and Transit Countries The Anti-Drug Abuse Acts of 1986 and 1988 amended the Foreign Assistance Act of 1961 to require that the President certify whether major drug producing or drug transit countries have cooperated ful",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3697,7 +3697,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8903473 THE SECRETARY OF STATE WASHINGTON February 19, 1989 MEMORANDUM FOR THE PRESIDENT FROM: James A. Baker, vb ‘ SUBJECT: Presidential Certifications for Narcotics Source and Transit Countries Section 48l1(h)(2)(A) of the Foreign Assistance Act of 1961 (FAA), as amended by the Anti-Drug Abuse Act of 1986 (P.L. 99-570), and the Anti-Drug Abuse Act of 1988 (P.L. 100-699), provides that 50 percent of certain types of",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3729,7 +3729,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL CONEIDENT IA WASHINGTON, D.C. 20506 March 23, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: DAVID C oye; oe FROM: scov re: SUBJECT: Reply to President Arias’ Letter on Narcotics Cooperation State has prepared a draft reply (Tab II) to Costa Rican President Oscar Arias’ letter of February 22, 1989 (Tab B) which seeks expanded cooperation on narcotics control. We agree with ' State’s ass",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3761,7 +3761,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "GONETDENDEAD ‘ - 1920 THE WHITE HOUSE WASHINGTON ACTION MEMORANDUM FOR THE PRESIDENT FROM: BRENT SCOWCROFT SUBJECT: Reply to President Arias’ Letter on Narcotics Cooperation Purpose To reply to Costa Rican President Arias’ letter of February 22, 1989, which seeks expanded cooperation with the United States on narcotics control matters. Background In his letter (Tab B), President Arias specifically requests assistance",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3793,7 +3793,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "= 89058427 United States Department of State Washington, D.C. 20520 1920 -\" March 21, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: President's Reply to Costa Rican President Oscar “ * Arias’, Letter on Narcotics Cooperation In a February 22 letter to the President, Costa Rican President Oscar Arias proposes extending bilateral cooperation in anti-narcotics matters. Specifically, Arias requests assista",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; narcotics, drug, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3827,7 +3827,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENHAL THE WHITE HOUSE WASHINGTON June 30, 1989 ACTION MEMORANDUM FOR THE PRESIDENT FROM: BRENT sconcrorr “SP < SUBJECT: Presidential Reply to Letter from the President of Uruguay Purpose To reply to a letter from Uruguayan President Sanguinetti. Background President Sanguinetti wrote you recounting Uruguay’s progress toward democracy and asking for rapid implementation of the Brady plan to address Uruguay’s deb",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3861,7 +3861,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, 0.C, 20506 June 28, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT \\ THROUGH: EVERETT ELLIS BRIGGS °, FROM: WILLIAM T. PRYCE iW SUBJECT: Presidential Reply to Letter from the President of Uruguay President Sanguinetti of Uruguay wrote to the President on May 2, 1989 to recount Uruguay’s progress in making the transition to democracy and to ask for rapid implementation of the Brady pl",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3894,7 +3894,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8920284 United States Department of State Washington, D.C. 20520 7146 October 23, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: President Perez' Letter to President Bush Venezuelan President Carlos Andres Perez (CAP) wrote the President at the end of August regarding the Government of Venezuela's (GOV) commercial debt negotiations. In transmitting an unofficial translation of this letter early in S",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -3927,7 +3927,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "4 ~CONETDENTTAL. wid TCT lal TAL 6637 PO Slory wary i THE WHITE HOUSE WASHINGTON DECLASSIFIED PER E.0. 12958, AS AMENDED BDA gizilo4 MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with Carlos Andres Perez, President of Venezuela PARTICIPANTS: The President Carlos Andres Perez, President of Venezuela Notetaker: William Pryce DATE, TIME August 22, 1989, 1:17-1:32 p.m., EDT & PLACE: Kennebunkport T",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -3961,7 +3961,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“CONFIDENTIAL CONETRENTEAR ————E———E——E TEEA_T—E_— NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 4870 June 22, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT BRIGGS DAT ia FROM: DAVID A. PACELLI DAf SUBJECT: Proposed Telephone Call by the President to Venezuelan President Carlos Andres Perez You have informed us that the President wishes to make a telephone call to Venezuelan President Perez to follow",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -3994,7 +3994,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "TALKING POINTS WITH PRESIDENT PEREZ fe) The situation in Nicaragua poses another thorny problem. If we are to see democracy in Nicaragua, key Latin leaders will have to speak out. The Bipartisan Accord I signed with Congress last March underscores our commitment to democracy, peace and security in Central America. The Sandinistas promised in El Salvador to promote conditions for free, fair and honest elections in Nic",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4027,7 +4027,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "poe CONPEPENPEAT 1907 THE WHITE HOUSE WASHINGTON DECLASSIFIED ACTION PER NSC WAIVER, 1900 2041-04 MEMORANDUM FOR THE PRESIDENT By_$2__NARA, Date FROM: BRENT SCOWCROFT SUBJECT: Proposed Response to Venezuelan President Perez’s Letters of March 3 and 17 Purpose To obtain your approval of a proposed response to Venezuelan President Perez. Background President Perez sent you letters on March 3 (Tab B) and 17 (Tab C), con",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4061,7 +4061,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "~CENEBEN THA renown secrrvcone FS CONESDENDTAD 1324 Add On March 3, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: ROBERT S$ STORINO SUBJECT: Additiondl Talking Points for Presidential Call to Carlos Andres Perez a Earlier this week, President Bush wrote to President Perez asking his support for continued monitoring of Cuban human rights activities by the UN Human Rights Commission. Ambassador Reich called late las",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy, ussr/cuba; document text visible in OCR"
   },
   {
@@ -4095,7 +4095,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "‘NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20606 CONPIDENTEAD 1324 Add on ACTION MEMORANDUM FOR THE PRESIDENT FROM: BRENT SCOWCROFT SUBJECT: Additional Points to be Made During Your Call to Carlos Andres Perez issue Whether to use the attached points to be made in your call to Carlos Andres Perez. Fact Earlier this week you wrote to Perez asking for his support for continued monitoring of Cuban human rights performa",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy, ussr/cuba; document text visible in OCR"
   },
   {
@@ -4127,7 +4127,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "io? NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 December 21, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES THROUGH: WILLIAM T. PRYCE \\y FROM: DAVID A PACELLI pif SUBJECT: Memorandum of Telephone Conversation with President Menem of Argentina Attached at Tab A is the Memorandum of Telephone Conversation between the President and Argentine President Menem on December 20, 1989. The memorandum at Tab I transmits the t",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4161,7 +4161,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTIAL CONFIDENTIAL ~ 10085 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 Advisor December 15, 1989 Natl Sec a INFORMATION MEMORANDUM FOR BRENT SCOWCROFT fo aY FROM: WILLIAM T. pRyce| \\“ SUBJECT: Meeting with Argentine Ambassador Guido di Tella, December 15, 1989, 9:30 am co) Kace. We cake Dee neglen Cote ee | Ambassador di Tella wants to urge a early visit to Argentina by the President. Present plans are fo",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4193,7 +4193,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL we Argedonn. WASHINGTON, D.C. 20506 November 14, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: ARNOLD cant Geoner BLACKWILL FROM: HEATHER WILSON i SUBJECT: Secretary Cheney’s European Trip Report Attached (Tab A) is a memorandum for the President from Secretary Cheney on his European trip. Items of particular interest are highlighted in a cover memo from you. Concurrences by: John Gord",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4226,7 +4226,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE WASHINGTON MEMORANDUM OF CONVERSATION SUBJECT: Meeting with President Carlos Menem of Argentina PARTICIPANTS: The President Nicholas Brady, Secretary of the Treasury John H. Sununu, Chief of Staff Brent Scowcroft, Assistant to the President for National Security Affairs Lawrence Eagleburger, Deputy Secretary of State Robert M. Gates, Assistant to the President and Deputy for National Security Affairs ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4258,7 +4258,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“ENF Ke0g GONEIDENT IAL. 7444. NATIONAL SECURITY COUNCIL pep he wn WASHINGTON, D.C. 20506 PO ee pi? po va yal f N September 20, 1989 has seen 14 Jop po ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT ELLIS srrobd fF FROM: WILLIAM T. Prvcey.fD SUBJECT: Request of Alberto Kohan, Chief of Staff to Argentine President Menem, to Meet with You and Governor Sununu Kohan has asked to meet with you and Governor Sununu ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4290,7 +4290,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SEGRET CONFIDENTIAT, 7534 SHERE? ATTACHMENT uw NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20506 September 25, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT ELLIS aricct} FROM:. WILLIAM T. prycity’ SUBJECT: Presidential Meéting with Argentine President Carlos Menem; September 27, 1989; Oval Office; 11:35 a.m. Attached at Tab I is a memorandum to the President for ‘his meeting with Argentine President Car",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4322,7 +4322,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SEGRET GONPIDENPTAL 7534 /SEGRET ATTACHMENT # AT NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 September 25, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT ELLIS aricch} FROM: WILLIAM T. ere” SUBJECT: Presidential Meeting with Argentine President Carlos Menem; September 27, 1989; Oval Office; 11:35 a.m. Attached at Tab I is a memorandum to the President for-his meeting with Argentine President Carlos ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4354,7 +4354,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8921956 United States Department of State Washington, D.C. 20520 7 55 6 UNCLASSIFIED September 25, 1989 (with GHCRER attachment) MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Briefing Materials for the President's Meeting with Argentine President Carlos Saul Menem Briefing materials and suggested talking points for the President to use in his meeting with President Menem of Argentina, at 11:35 AM on Wed",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4387,7 +4387,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "‘ WA; 21117 ‘ / F (e 4 S4S- 8920895 8 of.: pet to States Department of State cp Washington, D.C. 20520 September 13, 1989 UNCLASSIFIED (With Secret Attachments) MEMORANDUM FOR BRENT SCOWCROFT National Security Affairs Advisor The White House COLONEL GEORGE P. COLE, JR. Executive Secretary Department of Defense MS. EMILY WALKER Executive Secretary Department of the Treasury MR. H. LAWRENCE SANDALL Executive Secretary ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4419,7 +4419,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 August 25, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT ut SIGNED FROM: WILLIAM T. PRYCE | ': SUBJECT: Request for Meeting with Argentine President Menem Carlos Menem, the new President of Argentina, has asked to meet with the President during his September 22-27 visit to the United States. The President has written Menem saying that he would like to do it. Menem will be",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4452,7 +4452,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "United States Department of State Washington, D.C. 20520 6564 August 18, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Request to Schedule Meeting for President Menem of Argentina Carlos Menem recently became the first elected civilian President to succeed. another in sixty years in Argentina. He is in the midst of implementing major economic reforms to deal with the country's hyperinflationary economy",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4485,7 +4485,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "r “CUNFEN HAL 4 press?” a THE UNITED STATES TRADE REPRESENTATIVE Executive Office of the President Washington, D.C. 20506 September 20, 1989 MEMORANDUM FOR THE PRESIDENT From: Carla A. Hills ak Subject: Argentina's Failure to Provide Adequate Protection of Intellectual Property Rights for Pharmaceuticals Issue The purpose of this memorandum is to advise you that, in advance of Argentine President Menem's meeting with",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-006, Argentina - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4519,7 +4519,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "~CONFIBENTIAL COHEIBENTIAL. 5296 THE WHITE HOUSE WASHINGTON hee JT LS July 6, 1989 ACTION MEMORANDUM FOR THE PRESIDENT FROM: BRENT SCOWCROFT on SUBJECT: Letter from You to Argentine President Menem Purpose To get relations with Argentine President Menem off to a good start. Background. President Menem takes office on July 8, five months early. He has expressed interest in an early private meeting with you. He would h",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4551,7 +4551,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8914095 United States Department of State Washington, D.C. 20520 July 3, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Argentine President-elect Carlos Menem Requests a Meeting with President Bush Argentine President-to-be Carlos Menem, who is now scheduled to take office on July 8, is. very interested in a Private meeting with President Bush. In a June 19 meeting with Deputy Secretary Eagleburger, Per",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4583,7 +4583,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Bereas SECRET ——_—_—_— 5912 4 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 August 17, 1989 bs MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Memorandum of Conversation with Foreign Minister Domingo Cavallo of Argentina (U) Attached at Tab A is the Memorandum of Conversation of General Scowcroft’s meeting with Foreign Minister Cavallo of Argentina, July 21, 1989. It should be tran",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4615,7 +4615,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "ers ya -SHeRET — SEG! 5912 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 July 27, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: EVERETT ELLIS BRIGGSY ] SUBJECT: Memorandum of Conversation with Foreign Minister Domingo Cavallo of Argentina, July 21, 1989 (U) Attached at Tab I is the Memorandum of Conversation of General Scowcroft’s meeting with Foreign Minister Cavallo of Argentina. (U) RECOMMENDATION That you ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4648,7 +4648,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "VISIR. Oo), Washingson, D.C. 20520 4 «0 mw saree peeps ft ‘. -Guetnseretep ~- - (with Secret Attachments) _ MEMORANDUM FOR BRENT SCOWCROFT National Security Affairs Advisor The White House. COLONEL GEORGE. P. COLE, JR. - Executive Secretary Department of Defense “ov, |, MS. BMILY WALRER ’ Executive Secretary Department of the Treasury MR. H. LAWRENCE SANDALL Executive Secretary — Central Intelligence Agency MR. GARY ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4681,7 +4681,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8914269 United States Department of State Washington, D.C. 20520 79736 June 22, 1989 UNCLASSIFIED (With Secret Attachments) MEMORANDUM FOR BRENT SCOWCROFT National Security Affairs Advisor The White House COLONEL GEORGE P, COLE, JR. Executive Secretary Department of Defense MS. EMILY WALKER Executive Secretary Department of the Treasury MR. H. LAWRENCE SANDALL Executive Secretary Central Intelligence Agency MR. G",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4714,7 +4714,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8914940 United States Department of State Washington, D.C. 20520 ZOF FCO June 28, 1989 UNCLASSIFIED (With Geeree Attachments) MEMORANDUM FOR BRENT SCOWCROFT National Security Affairs Advisor The White House COLONEL GEORGE P. COLE, JR. Executive Secretary Department of Defense MS. EMILY WALKER Executive Secretary Department of the Treasury MR. H. LAWRENCE SANDALL Executive Secretary Central Intelligence Agency MR.",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4746,7 +4746,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL ID 8906372 REFERRAL DATE: 11 AUG 89 MEMORANDUM FOR: EXRCUTIVE SECRETARY DEPARTMENT OF STATE DOCUMENT DESCRIPTION: TQ: PRESIDENT SOURCE: MENEM, CARLOS DATE: 08 AUG 89 SUBJ: THANK YOU LTRS FM PRES MENEM TO PRES & JONATHAN BUSH REQUIRED ACTION: RECOMMENDATIONS DUEDATE: 18 AUG. 89 COMMENT: a GEORGE ER DIRECTOR NSC SECRETARIAT",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4778,7 +4778,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "La | CONE! CONPEDENTIAL ————— NATIONAL ‘SECURITY COUNCIL 4706 WASHINGTON, D.C. 20506 June 16, 1989 ACTION Lo MEMORANDUM FOR ROBERT M. GATES uJ THROUGH: WILLIAM T. PRYCE Sat FROM: DAVID A. PACELLI ' SUBJECT: Reply to Letter from G. Evan Bybee Expressing Interest in the President Meeting with Argentina’s President-elect Menem G. Evan Bybee of Orem, Utah has written Stephen Studdert several times in an attempt to broker",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4811,7 +4811,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8915010 United States Department of State Washington, D.C. 20520 20652 JUN 28 In0n UNCLASSIFIED (With Genftdentteli Attachments) MEMORANDUM FOR’ BRENT SCOWCROFT National Security Affairs Advisor The White House COLONEL GEORGE P. COLE, JR. Executive Secretary Department of Defense MS. EMILY WALKER Executive Secretary Department of the Treasury MR. H. LAWRENCE SANDALL Executive Secretary Central Intelligence Agency MR.",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4843,7 +4843,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, 0.C, 20506 June 8, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT ont A THROUGH: WILLIAM T. PRYCE FROM: DAVID A. PACELLI ore SUBJECT: Proposed Meeting Between the President and Outgoing U.S. Ambassador to Argentina Theodore Gildred The State Department has requested that the President meet with Ambassador Theodore Gildred anytime from June 12 through June 13 (Tab II). The Ambassador ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4876,7 +4876,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8912746 United States Department of State Washington, D.C. 20520 HY3b June 7, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Request for Meeting with you by Outgoing Ambassador to Argentina Theodore E. Gildred Ambassador to Argentina Theodore E. Gildred, who will be in Washington on consultation prior to returning to private life, requests a meeting with you on June 12 or June 13. Ambassador Gildred has",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4908,7 +4908,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "uy NATIONAL SECURITY COUNCIL COMPIDEND ERE WASHINGTON, D.C. 20506 3 6 3 3 ACTION May 16, 1989. MEMORANDUM FOR G. PHILIP HUGHES FROM: DAVID PACELLI pat SUBJECT: Memorandum of Conversation: President’s Telephone Call to Argentine President Raul Alfonsin -- May 13, 1989 Attached at Tab I is the memcon of the President’s telephone conversation with Argentine President Alfonsin. RECOMMENDATION That you review and retain f",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4940,7 +4940,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "~CONFIDENTINE: © > 5 Ape NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 May 30, 1989 Deputy Natt Sec Advisor has seen ACTION MEMORANDUM FOR ROBERT M. GATES () THROUGH: WILLIAM T. ame FROM: DAVID A. PACELLI v SUBJECT: U.S. Ambassador to Argentina Requests Appointment with General Scowcroft The new U.S. Ambassador to Argentina, Terrence Todman, has requested a meeting with General Scowcroft before Todman's departure ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -4973,7 +4973,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8911572, 400 United States Department of State Washington, D.C. 20520 May 23, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Appointment request for Ambassador to Argentina Terence A. Todman. Ambassador Terence A. Todman requests a meeting with the National Security Advisor to discuss salient aspects of our policy toward Argentina prior to his June 8 departure, Ambassador Todman will be assuming his dut",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5006,7 +5006,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8909912 United States Department of State Washington, D.C. 20520 20406 add-on UNCLASSIFIED (With Secret Attachments) May 3, 1989 MEMORANDUM FOR MR. BRENT SCOWCROFT National Security Affairs Advisor The White House COLONEL GEORGE P. COLE Executive ‘Secretary Department of Defense MS. EMILY WALKER Executive Secretary Department of Treasury MR. H. LAWRENCE SANDALL Executive Secretary Central Intelligence Agency MR. GARY",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5039,7 +5039,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8909789 United States Department of State Washington, D.C. 20520 20406 UNCLASSIFIED May 2, 1989 (With-Secret Attachments) MEMORANDUM FOR MR. BRENT SCOWCROFT National Security Affairs Advisor The White House COLONEL GEORGE P. COLE Executive Secretary Department of Defense MS. EMILY WALKER Executive Secretary Department of Treasury MR. H. LAWRENCE SANDALL Executive Secretary Central Intelligence Agency MR. GARY EDSON C",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5072,7 +5072,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "a NATIONAL SECURITY COUNCIL WASHINGTON, D.C. “20508 1834 March 27, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: ROBERT S. STORINO SUBJECT: Neil Bush Trip to Argentina Mr. Neil Bush wrote a letter to you on March 9, 1989 informing you of a trip he plans to take to Argentina between April 10-15, 1989. He will look into oil exploration opportunities in Argentina’s Northwest Basin along the Bolivian border. Attached ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5105,7 +5105,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "0673 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 February 10, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: ROBERT 5S. eastorawo FROM: CLARKE M. BRINTNALLO® SUBJECT: Presidential Letter to Argentine President Alfonsin By Levitsky - Scowcroft memorandum at Tab B, State Department forwarded a draft response to Argentine President Alfonsin on his letter written to the President requesting meetings with Secret",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5137,7 +5137,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTIAL CONFIDENTIAL™ NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 January 24, 1989 ACTION MEMORANDUM FOR BRENT I ee FROM: ROBERT S. astorrNo WY SUBJECT: Memorandum of Conversation Between the President and Argentine President Alfonsin Attached at Tab I is a memorandum of the telephone conversation between the President and Argentine President Alfonsin on January 23, 1989. Recommendation That you approve the",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5169,7 +5169,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "‘ SONPIDENTIAL ! 7644 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 October 2, 1989 (ean | 1 Oe MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Appointment of Jorge Crespo Velasco of Bolivia as Ambassador to the United States (U) The President has reviewed and concurs in the recommendation of the Department of State that the appointment of Jorge Crespo Velasco as Ambassador to Boli",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5201,7 +5201,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "©) CONFIDENTIAL: CONPEDENTIAL 7644 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 September 28, 1989 ACTION. G. PHiecP MKGHES MEMORANDUM FOR OK THROUGH: EVERETT ELLIS BRIGG 4 FROM: WILLIAM T. PRYC SUBJECT: Appointment of Jorge Crespo Velasco of Bolivia as Ambassador to the United States The Roy-Scowcroft memo at Tab II, State recommends that the President agree to the appointment of Jorge Crespo Velasco as Ambassad",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5234,7 +5234,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "(0/j3 [85 THE WHITE HOUSE WASHINGTON 7483 October 11, 1989 ACTION MEMORANDUM FOR THE PRESIDENT FROM: BRENT SCONCROFT EP fy SUBJECT: Letter of Introduction for OPIC Mission to Bolivia Pu ose To demonstrate your personal support for the OPIC special investment mission which will visit Bolivia. Background Overseas Private Investment Corporation Vice President Bruce Hatton will lead a special investment mission and meet ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5266,7 +5266,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "‘ CONrrIDENTrar 5416 NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20506 July 12, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES 7 THROUGH: EVERETT ELLIS BRIGHS’/ FROM: WILLIAM T. PRYCE | SUBJECT: The President’s Telephone Conversation with President Victor Paz Estenssoro of Bolivia Attached at Tab I is your memorandum to Stapleton Roy transmitting to the State Department the memorandum of the President’s telephone convers",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5300,7 +5300,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL Recto WASHINGTON, D.C. 20508 June 30, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT | | THROUGH: EVERETT ELLIS BRIG | FROM: WILLIAM T. PRYCE !af{ SUBJECT: Vice President’s Trip t outh America Attached at Tab A is a memo to from J. Stapleton Roy suggesting that the Vice President attend the inauguration of the | new Bolivian President on gust 6, and visit Montevideo and Buenos Aires before or er",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-010, South America - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-010, South America - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; South America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -5334,7 +5334,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "= cupsogunzas CONFIGEN HAE 5104 NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20506 June 30, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT ELLIS BRIG Py) FROM: WILLIAM T. PRYCE i. SUBJECT: Vice President's Trip to South America Attached at Tab A is a memo to you from J. Stapleton Roy suggesting that the Vice President attend the inauguration of the new Bolivian President on August 6, and visit Montevideo a",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-010, South America - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-010, South America - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; South America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -5366,7 +5366,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09b. Memo From J. Stapelton Roy for Brent Scowcroft 09/06/1989 wh x Re: Meeting at the UNGA (2 pp.) 10a. Letter From President Sarmey to President Bush (original Portugese) (2 09/04/1989 (6)(1) pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -5398,7 +5398,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "9486 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 November 28, 1989 SIGNED ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: WILLIAM T. PRYCE SUBJECT: Brazil-U.S. Business Council Attached at Tab I is a letter from you to Mr. Adolph Posnick of the Brazil-U.S. Business Council declining an invitation for General Scowcroft to be the keynote speaker at their meeting in January. RECOMMENDATION That you sign the letter at ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5430,7 +5430,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8268 NATIONAL SECURITY. COUNCIL WASHINGTON, D.C. 20508 November 6, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: WILLIAM T. PRYC f) SUBJECT: Letter to Brazilian State Representative Moises Lipnik Attached at Tab I is a letter from you to Brazilian State Representative Moises Lipnik in response to his letter to the President (Tab II). RECOMMENDATION That you sign the letter to Mr. Lipnik at Tab I. Attachments Tab ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5463,7 +5463,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "MEMORANDUM FOR: DOCUMENT DESCRIPTION: SUBJ: SARNEY TO PRES RE NATIONAL SECURITY COUNCIL ID 8906831 TO: SOURCE: DATE: REFERRAL DATE: 30 AUG 89 8519983 EXECUTIVE SECREMARWG-30 23:03 PH DEPARTMENT OF STATE PRESIDENT SARNEY, JOSE C 03 AUG 89 NORIEGA & NARCOTRAFIC REQUIRED ACTION: DUEDATE: COMMENT: RECOMMENDATIONS FOR Carel 9. GEORGE VAN ERON DIRECTOR NSC SECRETARIAT Ca SETOK [OO O/ 93 EC KOO oka",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, panama spillover; document text visible in OCR"
   },
   {
@@ -5496,7 +5496,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ".. 8910424. United States Department of State Washington, D.C. 20529 7°469 May 10, 1989 UNCLASSIFIED (With SECRET Attachments) MEMORANDUM FOR MR. BRENT SCOWCROFT National Security Affairs Advisor The White House COLONEL GEORGE P. COLE, JR. Executive Secretary Department of Defense MS. EMILY WALKER Executive Secretary Department of Treasury MR. H. LAWRENCE SANDALL Executive Secretary Central Intelligence Agency MR. GA",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5528,7 +5528,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "ACTION MEMORANDUM FOR FROM: SUBJECT: NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 we — 4 se. May 19, 1989 Ome genau G. PHILIP HUGHES DAVID A. PACELLI The President’s Telephone Conversation with President Sarney of Brazil Attached at Tab A is the memorandum of the telephone conversation that the President had with President Sarney of Brazil on May 17, 1989. RECOMMENDATION That you file the telephone memorandum of ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5560,7 +5560,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 2228 April 6, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: ROBERT PASTORINO SUBJECT: Response to Letter from National Wildlife Federation Regarding Highway Project in Brazil Mr. Jay Hair of the National Wildlife Federation wrote to the President on March 2, 1989 regarding a highway project in Brazil. The President discussed the possible project with Japanese Prime",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5592,7 +5592,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HO.USE OFFICE REFERRAL MARCH 10, 1989 TOs; DEPARTMENT OF STATE ACTION REQUESTED: DRAFT REPLY FOR SIGNATURE OF: WHITE HOUSE STAFF MEMBER DESCRIPTION OF INCOMING: ID: 013803 MEDIA: LETTER, DATED MARCH 2, 1989 TO: PRESIDENT BUSH FROM: MR. JAY D. HAIR PRESIDENT NATIONAL WILDLIFE FEDERATION 1412 16TH STREET, N.W. WASHINGTON DC 20036 SUBJECT: WRITES REGARDING DISCUSSIONS WITH JAPANESE OFFICIALS FINANCING OF ROAD ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5624,7 +5624,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE “ WASHINGTON SECREP MEMORANDUM OF CONVERSATION SUBJECT: President's Meeting with President Jose Sarney of Brazil PARTICIPANTS: U.S. The President James Baker III, Secretary of State John Sununu, Chief of Staff | Brent Scowcroft, Assistant to the President for National Security Affairs Max Marlin Fitzwater, Assistant to the President for Press Relations Robert Zoellick, Counselor-Designate of the State",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5657,7 +5657,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "UNCLASSIFIED W/SECRET ATTACHMENT — ey, OFFICE OF THE VICE PRESIDENT WASHINGTON February 6, 1989 MEMORANDUM FOR THE HONORABLE MELVYN LEVITSKY oe _ EXECUTIVE SECRETARY - DEPARTMENT OF STATE Assistant tothe Vice President for; National Security.Affairs SUBJECT: | |\" \"\"Mémorandum of Conversation between Vice President oo, Quayle and President Sarney of Brazil Attached is the Memorandum of Conversation of the | | FROM: uo",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5690,7 +5690,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "’ OFFICE -OF THE VICE PRESIDENT WASHINGTON February 6, 1989 MEMORANDUM FOR THE HONORABLE MELVYN LEVITSKY, EXECUTIVE SECRETARY ~ DEPARTMENT ‘OF STATE FROM: - ~~ °Carnes Lord (Ag.: Assistant to ‘the”~Vice President for National Security Affairs t + SUBJECT: -\" - Memorandum of Conversation between Vice President:, Quayle and Prime Minister Felipe Gonzalez of Spain attached is the Memorandum of Conversation of the meetin",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5723,7 +5723,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL ze 31-Mar-1989 19:32 EDT SONELBENTIAL MEMORANDUM FOR: Robert S. Pastorino FROM: David Pacelli (PACELLI) SUBJECT: Barco Wants to Visit Ambassador pushing a Barco visit for as early as pee 14. Note last line of £ cable--if we don’t do this, Barco could feel sli ed, since CAP got a meeting with the President. Take that logic one step further. What jf the meeting goes through? Our Ambassador in ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5757,7 +5757,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL 31-Jan-1990 17:10 EDT UNCLASSIFIED MEMORANDUM FOR: David Pacelli ( PACELLI ) FROM: Brenda I. Hilliard (HILLIARD) SUBJECT: Meeting With LaCalle (Uruguay) Just received a call from Sec Brady’s office. Someone in Treasury seems to think it would be nice to have Secretary Brady attend the meeting between the President and President-elect LaCalle. This is just like it was with the Brazilian Presi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5790,7 +5790,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "ee NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 0203 January 30, 1989 yew poet ACTION nat Ps <20\" MEMORANDUM FOR BRENT SCOWCROFT FROM: CLARKE BRINTNALIC SUBJECT: Presidential Letters for Vice President Quayle to Deliver to Presidents of Venezuela and El Salvador Attached are letters for you to forward for signature to the President for the Vice President to take on his trip to Venezuela and El Salvador on Februar",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5823,7 +5823,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "i dy 8925564 United States Department of State Washington, D.C. 20520 21364 November 3, 1989 UNCLASSIFIED (With Secret Attachments) MEMORANDUM FOR BRENT SCOWCROFT National Security Affairs Advisor The White House COLONEL GEORGE P. COLE Executive Secretary Department of Defense MS. EMILY WALKER Executive Secretary Department of the Treasury MR. H. LAWRENCE SANDALL Executive Secretary ‘Central Intelligence Agency MR. G",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5855,7 +5855,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "% CONBEDENEIIS /SREREP ATTACHMENT 9136 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 November 14, 1989 INFORMATION | Natl S00 Ady | has seen oo\" MEMORANDUM FOR BRENT SCOWCROFT en FROM: WILLIAM T. PRYC SUBJECT: Meeting with Chilean Foreign Minister Hernan Felipe Errazuriz Attached at Tab I are the talking points for your meeting at $:30 p.m. on Wednesday, November 15, in your office with the Chilean Foreign Ministe",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5887,7 +5887,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Did Moele NATIONAL SECURITY COUNCIL (Ate WASHINGTON, D.C. 20506 30 62 May 2, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT na THROUGH: DAVID C. MILLER, JR. FROM: NANCY BEARG DYKE NAD SUBJECT: President’s Meeting with Kuron and Jimenez, Wednesday, May 3, 9:30 a.m. Attached at Tab I is the meeting memorandum for the President’s meeting tomorrow with Jacek Kuron and Monica Jimenez de Barros. 7: aS DAY Condi Rice and David ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5919,7 +5919,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "| -CENABEN TAC NATIONAL SECURITY COUNCIL SORPEREN EDAD, WASHINGTON, D.C, 20508 1305 March 2, 1989 ACTION MEMORANDUM FOR G. PHILIP, HUGHES FROM: ROBERT ¥S. PASTORINO SUBJECT: Guidance for Ambassador Gillespie When Ambassador Gillespie met recently with General Scowcroft, he asked for some high-level, general guidance for use in his meet- ings with the Chilean political leadership. His round of meet- ings will begin on",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5952,7 +5952,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "ure rope & heen ‘ S ‘ x” emer s. NATIONAL SECURITY COUNCIL 99-Feb-1989 12:12 EDT SOREIpEN Sear MEMORANDUM FOR: Florence Hy. Gantt ( GANTT ) FROM: Clarke M. Brintnall (BRINTNALL) SUBJECT: Request by Amb Gillespie Flo: Please give this to Gen Scowcroft from Bob Pastorino. During your meeting with Amb Tony Gillespie on February 6, Tony asked for some guidance from the President, either directly through a phone call, or ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -5984,7 +5984,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "0037 NATIONAL SECURITY COUNCIL * WASHINGTON, D.C. 20506 January 24, 1989 ACTION MEMORANDUM FOR ROBERT M. PERITO THROUGH: ROBERT 8. FROM: CLARKE M. SUBJECT: Appointment of Octavio Errazuriz Guilisasti of the ‘ Republic of Chile as Ambassador to the United States By the Levitsky-Scowcroft memo at Tab II, State recommends that the President agree to the appointment of Octavio Errazuriz Guilisasti as Ambassador Extraordi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6016,7 +6016,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04. Memo From William Pryce to Brent Scowcroft 12/19/89 wh Re: Your meeting with US Ambassador to Colombia Thomas McNamara [SENT FOR AGENCY REFERRAL] (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -6048,7 +6048,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "fal iad ial Wee CONPEDENSEAL, C c 10246 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 December 21, 1989 Cie, ACTION MEMORANDUM FOR G. PHILIP HUGHES 4 man) THROUGH: WILLIAM T. PRYCE q FROM: DAVID A PACELLI Ay) SUBJECT: Memorandum of Telephone Conversation with President Barco of Colombia Attached at Tab A is the Memorandum of Telephone Conversation between the President and Colombian President Barco on December 20,",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6080,7 +6080,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "10083 NATIONAL SECURITY COUNCIL gee aadact WASHINGTON, D.C. 20506 Natl oeen December 15, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT fo FROM: WILLIAM T. PRYCE oe am b. SUBJECT; Request for an Appointment. by U.S. to Colombia Thomas McNamara Ambassador McNamara will be in town next week and has asked to see you anytime on Monday or Tuesday, or on Wednesday afternoon (December 18, 19 or 20). RECOMMENDATION That you see ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6112,7 +6112,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTIAL GE HBENTIAL 9555 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 November 28, 1989 vcnen SIGNED MEMORANDUM FOR G. PHILIP HUGHES THROUGH: WILLIAM T. PRYCE lg FROM: DAVID A PACELLI UM SUBJECT: Memorandum of Telephone Conversation with President Barco of Colombia Attached at Tab A is the Memorandum of Telephone Conversation between the President and Colombia President Barco on Nov 27, 1989. The memorandum ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6144,7 +6144,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "7617 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 September 26, 1989 ACTION’ MEMORANDUM FOR BRENT SCOWCROFT FROM: EVERETT BELLIS BRIGGS “Wy SUBJECT: Memorandum of Telephone Conversation with President Virgilio Barco Vargas of Colombia Attached at Tab A is a Memorandum of Conversation between the President and President Barco which took place on September 26. Also attached at Tab I is a memo transmitting this Memo",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6176,7 +6176,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ", CONPIDENPERL GG16 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 November 1, 1989 ACTION MEMORANDUM FOR PHILIP G. HUGHES Se) THROUGH: WILLIAM T. PRYCE \\ FROM: DAVID A. PACELLI oat SUBJECT: Summary of Main Points in the President’s Telephone Call to Colombian President Barco Although Randy Beers and I waited in the Sitroom to monitor the President’s call to President Barco, the line was dropped. The attached memor",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6208,7 +6208,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE WASHINGTON MEMORANDUM FOR ED ROGERS FROM: ROBERT M. GATES SUBJECT: Sea Search-Armada Case We have checked with the State Department on Sea Search-Armada’s quest for assistance and are satisfied that it is doing all that can or should be done at present. SSA first asked for Embassy Bogota’s assistance in July 1987 following the Colombian Government’s decision requiring government to government contract",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6241,7 +6241,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8923878 United States Department of State.Washington, D.C. 20520 #7874 UaCLASSHAED ) MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE October 18, 1989\" Subject: Draft Reply from the President to Colombian President Barco's \"Dry Canal\" Proposal Attached please find a draft reply to Colombian President Barco's proposal entitled \"A New Pacific Dimension for Colombia\", which envisions a \"dry canal\" to link Colombia's C",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -6273,7 +6273,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 September 28, 1989 MEMORANDUM FOR JAMES CICCONI ) FROM: G. PHILIP HUGHE SUBJECT: Proposed Press Release Announcing Colombian President Virgilio Barco’s September 28 Meeting with the President Attached at Tab A is a proposed press release by the Press Secretary covering Colombian President Virgilio Barco’s September 28 meeting with the President. Attachment TabaA Propos",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6305,7 +6305,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "7684 NATIONAL SECURITY COUNCAL WASHINGTON, D.C. 20506 MEMORANDUM FOR JAMES CICCONI FROM: G. PHILIP HUGHES SUBJECT: Proposed Press Release Announcing Colombian President Virgilio Barco’s September 28 Meeting with the President Attached at Tab A is a proposed press release by the Press Secretary covering Colombian President Virgilio Barco’s September 28 meeting with the President. Attachment. - Tab A Proposed Press Rel",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6337,7 +6337,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "am bam CONPEDENEEAL oo 6814 NATIONAL SECURITY COUNCIL. WASHINGTON, D.C. 20506 August 29, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES fo FROM: WILLIAM T. PRYCE/ SUBJECT: Memorandum of Telephone Conversation with President Barco of Colombia Attached at Tab A is the memorandum of telephone conversation between the President and Colombian President Barco on August 28, 1989. The memorandum at Tab I transmits the record of",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6369,7 +6369,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "United States Department of State Washingson, D.C. 20520 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Meeting with Presic Barco of Colombia The President of Colombia, Virgilio Barco, will be attending the UNGA and has requested a meeting with President Bush. We have received no reply to our previous request and would like to reiterate the importance of this bilateral, On August 19, President Bush issued a ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6401,7 +6401,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "7) a oS SE 4; 6911 Ld NATIONAL SECURITY COUNCIL && WASHINGTON, D.C. 20506 Cor September 2, 1989 p ACTION, MEMORANDUM FOR BRENT SCOWCROFT 07; ) THROUGH: aren faii even paves ER- FROM: RICHARD LAMAGNA SUBJECT; Tuesday, September 5 Cabinet Meeting Attached at Tab A are talking points for your use at the Cabinet meeting on Tuesday, September 5. We will update these points on Tuesday morning with any new information which",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6433,7 +6433,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09. Memo From J. Stapleton Roy to Brent Scowcroft 05/11/89 wy ‘ 4 Re: [Barco change in dates for visit] [SENT FOR AGENCY REFERRAL] (1 pp.) 10a, Memo From Philip Hughes to Melvyn Levitsky 03/09/89 wo) ‘4",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -6465,7 +6465,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "A} NC NITIAL a Al { L -GONEIBENTEAL 6609 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 August 22, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES 2 THROUGH: EVERETT ELLIS ariccsEen™ FROM: WILLIAM T. PRYCE Toxe SUBJECT: Memorandum of Telephone Conversation with President Barco of Colombia Attached at Tab A is the memorandum of telephone conversation between the President and Colombian President Barco on August 21, 1989",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6497,7 +6497,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "BE AL aia ae NATIONAL SECURITY COUNCIL _CGONE-IDENTIAL, WASHINGTON, D.C. 20506 3767 May 18, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: DAVID A. PACELLI on SUBJECT: Telephone Conversation Between the President and President Barco of Colombia -- May 16, 1989 Attached at Tab I is the memcon of the President’s telephone conversation with Colombian President Barco. RECOMMENDATION That you review and retain for reco",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6529,7 +6529,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8910422 United States Department of State Washington, D.C. 20520 #3573 May 11, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Colombian President Virgilio Barco Suggests July 5-7 as Dates for Official Visit President Virgilio Barco of Colombia has accepted President Bush's invitation for an official visit to the United States, but will not be able to leave the country once the Colombian Congress convene",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6561,7 +6561,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "OMCINENT Lt Co (LT TAL NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 2678 April 14, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: DAVID PACELLI pA SUBJECT: Talking Points for Phone Call to President Barco of Colombia Attached are talking points for the President to use for his phone call to President Barco at 4:45 p.m., April 14, 1989. Rich LaMagna and Scott Addis concur RECOMMENDATION That you forward T I to t",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6593,7 +6593,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "e, a As ORTG & l' COPY_TO WH DIST TO: P ot Cc: S/P * PA INR s/s. “EORFIBENTAL -s TMA TMB ARA MEMORANDUM FOR BRENT SCOWCROFT FAIM 890778 Bhked States Department of State Washington, D.C. 20520 April 11, 1989 THE WHITE HOUSE RF/sezSubject: Request for Announcement of Official Visit of Colombian President Barco President Virgilio Barco has accepted President Bush's invitation for an official visit to the U.S., but has r",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6625,7 +6625,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "PONFIBENTIAL — ~ GONEIDENEEAE—~ CONFIDENTEAL NATIONAL SECURITY COUNCIL 4083 WASHINGTON, D.C. 20506 May 26, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT BRIGGg/} FROM: DAVID A. PACELLI DAf SUBJECT: Presidential Response to Job Recommendation by Former Ecuadorian President Febres-Cordero Jim Cicconi has requested your clearance for a draft Presidential response to a letter from former Ecuadorian Presiden",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6657,7 +6657,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL P = WASHINGTON, 0.C. 20506 February 8, 1989 ACTION NOTED MEMORANDUM FOR G. PHILIP HUGHE THROUGH: ROBERT S. PA RINO FROM: CLARKE M. BRINTNALL (* SUBJECT: Memorandum of Conversation Between the President and Ambassador Jaime Moncayo of Ecuador Attached is a memorandum of conversation between the President and Ecuadorian Ambassador Jaime Moncayo during the Ambassador’s presentation of credentia",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6689,7 +6689,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8910725 United States Department of State Washington, D.C. 20520 S620- a May 13, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Photo Opportunity with the President for Guyanese President Hugh Desmond Hoyte President Hoyte will be in Washington either June 19-20 or June 29-30 on a private visit. He has asked to pay a brief courtesy call on President Bush. He is willing to adapt his schedule to the P",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6721,7 +6721,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "’ THE WHITE HOUSE WASHINGTON MEMORANDUM OF CONVERSATION SUBJECT: The President’s Meeting with President Desmond Hoyte of Guyana (U) PARTICIPANTS: The President Lawrence Eagleburger, Deputy Secretary of State: John Sununu, Chief of Staff Brent Scowcroft, Assistant to the President for National Security Affairs Robert Gates, Deputy Assistant to the President for National Security Affairs Theresa Tull, U.S. Ambassador t",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6753,7 +6753,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "a EONFIBENTIAL— CONETBENT EA ———————__r NATIONAL SECURITY COUNCIL 4780 WASHINGTON, 9.C. 20508 June 19, 1989 ACTION yy, Word MEMORANDUM FOR BRENT SCOWCROFT ~ ' wy THROUGH: WILLIAM T. PRYCE.!/ FROM: DAVID A. PACELLI oO SUBJECT: Memorandum of the President’s Conversation with President Desmond Hoyte of Guyana Attached at Tab I is the memorandum of conversation of the President’s meeting in the Oval Office with Guyanese ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6786,7 +6786,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Se SECRET —SEGRET 4708 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 June 16, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: WILLIAM T. yr «ca FROM: DAVID A. PACELLI we SUBJECT: Background Paper and Points To Be Made for the President’s Meeting with President Desmond Hoyte of Guyana Attached at Tab I is your memorandum to the President to prepare him for his meeting with President Desmond Hoyte of Guyana at 1",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6819,7 +6819,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SUBJ: TALKING POINTS FOR POTENTIAL QUALE-HOYET MEETING 1. GONPEIDENEIAL-- ENTIRE TEXT. 2. PRESIDENT HUGH DESMOND HOYTE HAS ANNOUNCED HIS INTENSION TO VSIT CARACAS FOR THE INAUGURATION OF VENEZUELAN PRESIDENT CARLOS ANDRES PEREZ. EMAASSY UNDERSTANDS THAT VICE PRESIDENT QUAYLE WIL REPRESENT THE U.S. WHILE EMBASSY HAS AS YET RECEIVED NON/NO REQUEST FROM THE GOVERNMENT OF GUYANA (GOG) FOR A BILATERAL, WE SEND THE FOLLOWI",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6851,7 +6851,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "United States Department of State Washington, D.C. 20520 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Meeting with Guyanese President Hugh Desmond Hoyte, 11:30 a.m. June 19 at the White House Attached are a background outline, talking points, fact sheet, list of participants, and biographic information for the meeting with President Hoyte at the White House at 11:30 a.m. on Monday, June 19, 1989, J. Staple",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6884,7 +6884,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "TALKING POINTS FOR THE PRESIDENT'S MEETING WITH HOYTE BILATERAL RELATIONS -- Welcome to Washington. -- I am pleased with the warmth of U.S.-Guyanese relations and look forward to continued strengthening of our ties. ECONOMY/U.S. ASSISTANCE -- I commend you for the tough economic reforms you have implemented. These difficult measures are the key to future growth and prosperity. OEE -- As you know, the U.S. participate",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6916,7 +6916,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“CONFIDENTIAL —E—aee_aa_aeee NATIONAL SECURITY COUNCIL WASHINGTON, B.C. 20506 May 24, 1989 Deputy Nati Sec Advisor has seen ACTION MEMORANDUM FOR BRENT SCOWCROFT pee THROUGH: EVERETT E. BRIGGS FROM: DAVID A. PACELLI one SUBJECT: ' Request by Guyana’s President for a Brief Visit with the President Guyanese President Desmond Hoyte will be in Washington in late June on a private visit and has.asked to pay a brief courte",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6948,7 +6948,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8910725 United States Department of State Washington, D.C. 20520 s6z- a May 13,. 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Photo Opportunity with the President for Guyanese President Hugh Desmond Hoyte President Hoyte will be in Washington either June 19-20 or dune 29-30 on a private visit. He has asked to pay a brief courtesy call on President Bush. He is willing to adapt his schedule to the P",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -6982,7 +6982,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIBEN HAL TONFIDENTIAL.. 3603: NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 May 15, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: DAVID A. PACELLI ve SUBJECT: Background Paper and Points to Be Made for the President’s Meeting with Bishops Dario Castrillon and Oscar Rodriguez Attached at Tab I is your memorandum for the President to prepare him for his meeting with Bishops Dario Castrillon and Oscar. Rodrigu",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-018, Latin America - Churches - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-018, Latin America - Churches - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7016,7 +7016,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "~CONFIDENTIAL— ~—CONFEDENTEAL 3603 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 Ey > Lt awl May 15, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: DAVID A. PACELLI ve SUBJECT: Background Paper and Points to Be Made for the President’s Meeting with Bishops Dario Castrillon and Oscar Rodriguez Attached at Tab I is your memorahdum for the President to prepare him for his meeting with Bishops Dario Castrillon and O",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7049,7 +7049,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "? ob | my 7216. NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20506 NVrgee September 25, 1989 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Letter to the President from U.S. Families Facing Hardship Over Adoption of Paraguayan Born Children Attached at Tab A is a letter to the President from Marshall Givens and five other adoptive parents requesting assistance to complete their adoptio",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7081,7 +7081,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "7216 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 September 21, 1989 sss SIGNED MEMORANDUM FOR G. PHILIP HUGHES THROUGH: EVERETT ELLIS BRIGGS FROM: WILLIAM T. PRYCE (NY SUBJECT: Letter to the President from U.S. Families in Paraguay Facing Hardship Over Adoption of Paraguayan Born Children Attached at Tab I is a memorandum from you to Roy transmitting a letter to the President from U.S. families in Paraguay and r",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7113,7 +7113,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "ee United States Department of State Washington, D.C. 20520 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Reauest from Paraguayan President Rodriguez to Meet President Bush at the U.N. General Assembly The Paraguayan government sent a diplomatic note to Secretary Baker on September 11 advising that President Andres Rodriguez will be in New York September 24-28 to address the U.N. General Assembly. The note ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7145,7 +7145,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "©3479 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 May 9, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM:. DAVID A. eacezzr DAC SUBJECT: Request for Aircraft for U.S. Official Delegation to the Paraguayan Inauguration The Department of State has sent a memorandum to Brent Scowcroft and Chase Untermeyer requesting transport for the official U.S. delegation to the inauguration of Andres Rodriguez as President of ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7178,7 +7178,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "O) APPOINTMENT 0 SCHEDULE 3550 2...; THE WHITE HOUSE Facelli WASHINGTON RESPONSE DUE DATE: May 16, 1989 REQUEST FOR SCHEDULING RECOMMENDATION MEMORANDUM FOR: GOVERNOR SUNUNU JAMES CICCONI ANDREW CARD, JR. X__ DAVID DEMAREST ROGER PORTER MARLIN FITZWATER STEPHEN STUDDERT FREDERICK MCCLURE RICHARD BREEDEN J.BONNIE NEWMAN | DAVID BATES x BRENT SCOWCROFT’ CHASE UNTERMEYER C. BOYDEN GRAY x Shiree Sanchez FROM: JOSEPH W. H",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-003, Latin America - Business Groups. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-003, Latin America - Business Groups. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, business groups, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7211,7 +7211,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“CONFIBENTTAC— CONFPIDENTIAD— ‘ 3490 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 May 9, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: DAVID A. PACELLI pat SUBJECT: Background Material and Points to be Made for the President’s Meeting with the Columbus Group Attached at Tab I is your memo to the President containing background materials and points to be made for the President’s meeting with the Columbus Group ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-003, Latin America - Business Groups. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-003, Latin America - Business Groups. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, business groups, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7243,7 +7243,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "APPOINT.2NT O) SCHEDULE ~ THE WHITE HOUSE ? \\ WASHINGTON * RESPONSE DUE DATE: howaney 24, 1989 REQUEST FOR SCHEDULING RECOMMENDATION MEMORANDUM FOR: GOVERNOR SUNUNU JAMES CICCONI ANDREW CARD, JR. DAVID DEMAREST ROGER PORTER MARLIN FITZWATER STEPHEN STUDDERT FREDERICK MCCLURE RICHARD BREEDEN J. BONNIE NEWMAN a DAVID BATES x __ BRENT SCOWCROFT CHASE UNTERMEYER x __ C. BOYDEN GRAY — FROM: JOSEPH W. HAGIN II PRESIDENTIAL",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-020, Latin America - General - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-020, Latin America - General - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7275,7 +7275,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL 22-Apr-1989 17:16 EDT UNCLASSIFIED MEMORANDUM FOR: SEE BELOW FROM: Brenda I. Hilliard (HILLIARD) SUBJECT: Meeting with Columbus Group We have been informed by Scheduling that the President will be meeting with the Columbus Group on May 11th at 11:30 a.m. for 30 minutes. Scheduling was not clear on where the meeting should take place (Oval?, Roosevelt Room?). Perhaps after checking on the siz",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-020, Latin America - General - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-020, Latin America - General - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7307,7 +7307,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "a | APPOINTMENT CO SCHEDULE THE WHITE HOUSE WASHINGTON O7T4O RESPONSE DUE DATE: February 24, 1989 REQUEST FOR SCHEDULING RECOMMENDATION MEMORANDUM FOR: GOVERNOR SUNUNU JAMES CICCONI ANDREW CARD, JR. DAVID DEMAREST ROGER PORTER MARLIN FITZWATER STEPHEN STUDDERT FREDERICK MCCLURE RICHARD BREEDEN J. BONNIE NEWMAN DAVID BATES x__ BRENT SCOWCROFT CHASE UNTERMEYER x__ C. BOYDEN GRAY | FROM: JOSEPH W. HAGIN II | PRESIDENTIA",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-020, Latin America - General - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-020, Latin America - General - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7339,7 +7339,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "& APPOINTHiENT QO) SCHEDULE,. THE WHITE HOUSE ? \\ WASHINGTON RESPONSE DUE DATE: fepruary 24, 1989 REQUEST FOR SCHEDULING RECOMMENDATION MEMORANDUM FOR: GOVERNOR SUNUNU JAMES CICCONI ANDREW CARD, JR. DAVID DEMAREST ROGER PORTER MARLIN FITZWATER STEPHEN STUDDERT FREDERICK MCCLURE RICHARD BREEDEN J. BONNIE NEWMAN DAVID BATES x__ BRENT SCOWCROFT CHASE UNTERMEYER x__ C. BOYDEN GRAY — FROM: JOSEPH W. HAGIN II PRESIDENTIAL ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-020, Latin America - General - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-020, Latin America - General - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7371,7 +7371,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "APPOINTMENT ( SCHEDULE LRSM 3/15 From * “*Hold for NSC my - eer 05m #2 A= fa 3/16 REQUEST FOR SCHEDULING RECOMMENDATION ¥ | /.9() {ov No” if WASHINGTON RESPONSE DUE DATE: pepruary 24, 1989 MEMORANDUM FOR: GOVERNOR SUNUNU JAMES CICCONI ANDREW CARD, JR. DAVID DEMAREST ROGER PORTER MARLIN FITZWATER STEPHEN STUDDERT FREDERICK MCCLURE RICHARD BREEDEN J. BONNIE NEWMAN DAVID BATES BRENT SCOWCROFT A CHASE UNTERMEYER C. BOYDE",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-020, Latin America - General - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-020, Latin America - General - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7403,7 +7403,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "oy S/S 8923879. United States Department of State Washington, D.C. 20520 #8515 October 23, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Draft Remarks for Use by President Bush at the San Jose Summit Per the request of Philip Hughes, attached please find a draft speech for the President's use during his upcoming trip to Costa Rica. It is provided on a contingency basis. J. Stapleton Roy Bxecutive Secre",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7435,7 +7435,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8464 NATIONAL SECURITY COUNCIL WASHINGTON, 0.C. 20508 October 24, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES THROUGH: WILLIAM T. PRYCE on An FROM: DAVID A. PACELLI ong SUBJECT: Presidential Interview with Latin American Journalists, Wednesday, October 25, 1989 Attached at Tab I are our comments on the Presidential interview with Latin American journalists. Concurrence by: Peter Rodman Dat ‘i RECOMMENDATION That you ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7467,7 +7467,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "> 7. ~CONFIDE we NATIONAL SECURITY COUNCIL “CONFIDENTIAL WASHINGTON, D.C. 20506 August 29, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT CaM /¢ FROM: G. PHILIP HUGHES/JUDYT, DEL SUBJECT: President’s Participation in UNGA We have begun planning for the President’s participation in the UNGA September 25-26. The purpose of this memo is to present the ideas we have developed and the options for organizing the President’s sc",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7499,7 +7499,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL —TCONFEBENTEAL WASHINGTON, DC. 205086 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: G. PHILIP Lr uss /3U0¥ MANDEL SUBJECT: President’s Participation in UNGA We have begun planning for the President’s participation in the UNGA September 25-26. The purpose of this memo is to present the ideas we have developed and the options for organizing the President's schedule, and to get your guidance on t",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7531,7 +7531,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE oo14 WASHINGTON July 31, 1989 MEMORANDUM FOR BRENT SCOWCROFT NATIONAL SECURITY ADVISOR FROM: DOUG wEeaD > OW SPECIAL ASSISTANT TO THE PRESIDENT FOR PUBLIC LIAISON SUBJECT: BRIEFING FOR WOMEN OF THE HEMISPHERE ACHIEVING TOGETHER Attached is a copy of a Schedule Proposal for the President to drop-by a briefing for Women of the Hemisphere Achieving Together, (WHAT). We received the request to hold this b",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7563,7 +7563,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "doamenrno, OSCG/F SS a Fei all WHITE HOUSE STAFFING MEMORANDUM LA DATE: _7/25/89 ACTION/CONCURRENCE/COMMENT DUE BY: 12200 NOON, 7/26/89 SUBJECT: _SIX MONTHS OF THE BUSH ADMINISTRATION ACTION FYI ACTION FY! VICE PRESIDENT a 4 MCCLURE Yo SUNUNU of NEWMAN oa | SCOWCROFT 4g CO _—=~PORTER fo DARMAN & of _— stuppert wo BATES a 0 UNTERMEVER oa BREEDEN Yo tt woo CARD woo n wo CICCONI o oe ers meyer of oO DEMAREST of \" I Yo F",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7596,7 +7596,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Gaited ‘States Department of State Washington, D.C. 20520 LEAS June 20, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Recommendations for Presidential Bilateral Meetings on the Margins of the July 14-16 Paris Economic Summit The President's July 13-16 visit to Paris for the Economic Summit coincides with the 200th anniversary of the Declaration of Rights of Man and the Citizen; at least 17 heads of sta",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7628,7 +7628,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“SECRET 4828 NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20508 July 3, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT Ps RE THROUGH: ROBERT BLACKWILL FROM: ADRIAN BASORA A#B SUBJECT: The President’s Bilateral Contacts in Paris The attached memo to the President recommends that he limit his formal bilaterals in Paris to Summit Seven leaders, and that he have brief pull-aside bilaterals with four othérs (Mubarak, Salinas, A",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7661,7 +7661,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "GONETDENTIAL with ATTACHMENT NATIONAL SECURITY COUNCIL 3703 WASHINGTON, 0.C. 20506 May 15, 1989 INFORMATION MEMORANDUM FOR BRENT SCOWCROFT FROM: DEANE E. HOFFMANN Oy SUBJECT: EPC Meeting on “Super 301\" Trade Actions, 4:00 p.m., Wednesday, May 17, Roosevelt Room The EPC will meet tomorrow, and possibly again Thursday, to discuss the so-called Super 301 and Special 301 (intellectual property) provisions of the 1988 Tra",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7693,7 +7693,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONE TDENETAE 3137 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 April 28, 1989 ACTION ‘ MEMORANDUM FOR BRENT SCOWCROFT FROM: DAVID A. PACELLI pA? SUBJECT: Your Meeting Memorandum to the President for His Council of the Americas Speech Attached at Tab I is your memorandum to the President for his speech to the Council of the Americas at the State Department on May 2, 1989. You previously approved the text of the s",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -7726,7 +7726,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 December 18, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: WILLIAM T. PRYCE Qns 4 FROM: DAVID A. PACELLI OWS SUBJECT: Richard Fairbanks’ Request for a Meeting with You Richard Fairbanks has requested that you meet with him and Peter Schaefer, a consultant to the AID Administrator, to discuss ways toe unleash the forces of capitalism in Latin America (Tab II). We ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7759,7 +7759,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "e ENT! AY ~? ph LI PAL NATIONAL SECURITY COUNCIL WASHINGTON, 0.C. 20506 May 1, 1989 ACTION MEMORANDUM FOR ROBERT GATES THROUGH: DEANE E. HOFFMANN UY FROM: ERIC MELBY A. SUBJECT: © EPC Meeting, Tuesday, May 2, 2 P.M., Room 180, OEOB The Economic Policy Council will meet tomorrow at 2 P.M. to discuss the Trade Strategy Review paper (Tab II). This paper was prepared in response to the President’s request that the EPC de",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7792,7 +7792,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFISENTTIAL— ————eorv NATIONAL SECURITY COUNCIL 3620 WASHINGTON, D.C. 20506 June 15, 1989 ACTION MEMORANDUM FOR ROBERT M, GATES Ve THROUGH: WILLIAM T. prycH/ 4D FROM: DAVID A. PACELLI DA ? SUBJECT: Reply to Letter from The Columbus Group Inc. The Columbus Group Inc., an association of influential South American businessmen, met with the President on May 11. The meeting, which was set up at the request of Jeb Bush, ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-011, The Columbus Group [Influential South American Businessmen]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-011, The Columbus Group [Influential South American Businessmen]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; South America, Columbus Group, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7825,7 +7825,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Am {J APPOINTMENT; (1 SCHEDULE ‘ 7 o:. ‘ f. THE WHITE HOUSE \" WASHINGTON OF4o RESPONSE DUEDATE: February 24, 1989 REQUEST FOR SCHEDULING RECOMMENDATION MEMORANDUM FoR\" “ GOVERNOR SUNUNU JAMES CICCONT ANDREW CARD, JR. DAVID DEMAREST.ROGERPORTER -. MARLIN FITZWATER STEPHEN STUDDERT FREDERICK MCCLURE \"RICHARD BREEDEN J. BONNIE NEWMAN DAVID BATES x__ BRENT SCOWCROFT CHASE UNTERMEYER = __x__ C.BOYDENGRAY | FROM:; \" JOSEPH",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-011, The Columbus Group [Influential South American Businessmen]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-011, The Columbus Group [Influential South American Businessmen]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; South America, Columbus Group, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7857,7 +7857,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL MEMORANDUM FOR: DOCUMENT DESCRIPTION: TO: SOURCE: DATE: SECURITY COUNCIL ID 8910039 REFERRAL DATE: 13 DEC 89 SECRETARIAT STATE a g4an aS r a M044 12725 PRESIDENT » 2 FH RAMSEWAK, SHANKAR 12 DEC 89 SUBJ: MAILGRAM TO PRES FM PRES SHANKAR OF SURINAME RE NATL DAY GREETINGS REQUIRED ACTION: RECOMMENDATIONS DUEDATE: 18 DEC 89 COMMENT: if toe o Avy FOR GEORGE VAN ERON DIRECTOR NSC SECRETARIAT a ~ a",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-012, Suriname - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-012, Suriname - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7889,7 +7889,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02i. Memorandum [page 3 only] (1 pp.) n.d. (b)A) AK 02j. Talking Points Points to be Made for Meeting with President-Elect Luis Alberto n.d. wy) Lacalle of Uruguay (2 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -7921,7 +7921,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTIAT -SEGRET 0876 (wASEERET attachment) NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 February 2, 1990 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: WILLIAM T. PRYCE\\ SUBJECT: President’s Meeting with President-Elect Luis Alberto Lacalle of Uruguay Attached at Tab I is a memorandum for the President forwarding information on President-elect Lacalle of Uruguay for use at his meeting scheduled for Monday, Febr",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7953,7 +7953,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "United States Department of State Washington, D.C. 20520 0889 February 2, 1990 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Briefing Materials for the President's Meeting with Uruguay's President-Elect, Luis Alberto Lacalle Briefing materials and suggested talking points for the President to use in his meeting with the President-elect of Uruguay on February 5 are attached. We expect Lacalle to be accompani",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -7985,7 +7985,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "PC ONFEBENPEAT 0876 February 1, 1990 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: WILLIAM T. PRYCE SUBJECT: President’s Meeting with President-Elect Luis Alberto Lacalle of Uruguay Attached at Tab I is a memorandum for the President forwarding information on President-elect Lacalle of Uruguay for use at his meeting scheduled for Tuesday, February 5, in the Oval Office. Concurrences by: Mr. Melby and Mr. Beers RECOMMEN",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8017,7 +8017,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "~SECRET “CONFERENTEAD 10274 (w/SEGREF attachment) NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 January 3, 1990 SIGNED Nat! Sec Advisor ACTION has seen MEMORANDUM FOR BRENT SCOWCROFT Ac THROUGH: WILLIAM T. PRYCE U FROM: DAVID A. PACELLI pfs SUBJECT: Schedule Proposal for Presidential Meeting with Luis Alberto Lacalle, President-Elect of Uruguay Attached at Tab I is a Schedule Proposal for a Presidential meeting wi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8049,7 +8049,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONEIDENTH: PREG GOT CONF EDENTEAT 6283 NATIONAL SECURITY COUNCIL ——) Ble WASHINGTON, D.C. 20506 U Or] August 17, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT ELLIS BRIGG fing FROM: DAVID A. PACELLI pAe SUBJECT: Uruguayan President Sanguinetti’s Request for a Meeting with the President Uruguayan President Sanguinetti has asked if he could stop off in Washington for a brief informal visit with the Presi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8081,7 +8081,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8920854 United States Department of State Washi. D.C. 205. ‘ashington 20 #7171 (WITH SEGRET ATTACHMENTS) September 12, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Briefing Materials for the President's Meeting with Uruguayan President Julio Maria Sanguinetti Briefing materials and suggested talking points for the President to use in his meeting with the President of Uruguay are attached. We expect Pr",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8113,7 +8113,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Od “ CONFIDENTIAL 3656 ” NATIONAL SECURITY COUNCIL “ WASHINGTON, D.C. 20508 May 15, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: DAVID A. PACELLI ot SUBJECT: The President’s Telephone Conversation with President Sanguinetti of Uruguay Attached at Tab A is the Memorandum of the Telephone Conversation that the President had with President Sanguinetti of Uruguay on May 13, 1989. RECOMMENDATION That you file the Tel",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8145,7 +8145,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "01. Memo (i pp.) Melvyn Levitsky to Brent Scowcroft, Re: Briefing Material. 03/31/89 oy)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -8177,7 +8177,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "| NATIONAL SECURITY COUNCIL - WASHINGTON, 0.€. 20506 December 21, 1989 ACTION i GH ED MEMORANDUM FOR G. PHILIP HUGHES THROUGH: WILLIAM T. PRYCE | )J* FROM: DAVID A pacentr(gng SUBJECT: Memorandum of Telephone Conversation with President Perez of Venezuela Attached at Tab A is the Memorandum of Telephone Conversation between the President and Venezuelan President Perez on December 20, 1989. The memorandum at Tab I tra",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8209,7 +8209,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "we SEGREF SECRER~ ~ 8806 THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with Venezuelan President Carlos Andres Perez (U) PARTICIPANTS: The President Venezuelan President Carlos Andres Perez Notetaker: William T. Pryce DATE, TIME November 1, 1989, 8:30 ~ 8:45 a.m., EST AND PLACE: The Oval Office The President telephoned President Perez as a follow up to their meeting i",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8241,7 +8241,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SECRET 8806 Add-on NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 November 3, 1989 ACTION MEMORANDUM FOR G. PHILIP meee FROM: WILLIAM T. PRYC SUBJECT: Memorandum of Telephone Conversation with Venezuelan President Carlos Andres Perez Attached at Tab I is a Memorandum to J. Stapleton Roy forwarding a portion of the telephone conversation between the President and Venezuelan President Carlos Andres Perez on Nov 1 to ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8274,7 +8274,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE WASHINGTON MEMORANDUM OF CONVERSATION SUBJECT: Meeting with Venezuelan President Carlos Andres Perez (U) PARTICIPANTS: The President John H. Sununu, Chief of Staff Brent Scowcroft, Assistant to the President for National Security Affairs Bernard Aronson, Assistant Secretary of State for Inter-American Affairs William T. Pryce, Director, Latin American Affairs, NSC Staff Stephanie Van Reigersberg, Inte",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -8306,7 +8306,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "A CONF IDENTEAS, 8476 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 October 23, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES 7 a FROM: WILLIAM T. PRYCE J) SUBJECT: Memorandum of Conversation with Venezuelan President Carlos Andres Perez Attached at Tab A is a Memorandum of Conversation between The President and Venezuelan President Carlos Andres Perez reporting on their conversation on September 25, 1989. Also atta",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8338,7 +8338,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTIAL PE She ae BEG 7860 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 October 16, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES SIGNED FROM: WILLIAM T. PRYCK | SUBJECT: Memorandum of Conversation with Reinaldo Figueredo, Foreign Minister of Venezuela Attached at Tab A is a Memorandum of Conversation between General Scowcroft and Venezuelan Foreign Minister Figueredo on October 2, 1989. The memorandum at Tab ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8370,7 +8370,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08a, Memo J. Stapleton Roy to Brent Scowcroft, Re: October 2-3 Visit of Venezuelan Foreign Minister Reinaldo Figueredo. (1 pp.) 09/28/89 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -8402,7 +8402,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SEGRET -SEERET- 5060 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506.dJune 28, 1989 cum NOTED MEMORANDUM FOR G. PHILIP HUGHES ry THROUGH: EVERETT ELLIS aaracst FROM: DAVID A. PACELLI qua SUBJECT: The President’s Telephone Conversation with President Carlos Andres Perez of Venezuela Attached at Tab I for record purposes is the Memorandum of Telephone Conversation of the President’s telephone call to Venezuelan Presid",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8434,7 +8434,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "07d. Memo David A. Pacelli and Timothy Deal to Brent Scowcroft, Re: 03/3 1/89 (b)(1) Ss Background Paper and Points to Be Made for the President's Meeting with Venezuelan President Perez. (1 pp.) Page 2 of 7",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -8466,7 +8466,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08a. Memo David A. Pacelli to Brent Scowcroft, Re: Schedule Proposal for a 03/28/89 (b)(1) Ss Meeting Between the President and Venezuelan President Perez. (2 pp.) le 1J,S_ Embassy Caracas ta Secretary of State, Re CAP's f@artos 03704789 —}H—___-->-",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -8500,7 +8500,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENT EAT 3804 NATIONAL SECURITY COUNCIL f t WASHINGTON, D.C. 20506 ( A 7 wr) Nat! Sec Advisor Q hos seen — yh © May 23, 1989, MEMORANDUM FOR BRENT SCOWCROFT \\ | THROUGH: EVERETT E. BRIGGS if, FROM: DAVID A. PACELLI \\\\) SUBJECT: Recommended Presidential Telephone Call to Venezuelan President Perez The State Department has recommended that the President telephone Venezuelan President Perez to express his appreciat",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy, panama spillover; document text visible in OCR"
   },
   {
@@ -8532,7 +8532,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“PACELL| 3102 CONPEBENEEAD are NATIONAL SECURITY COUNCIL -SECRET ATTACHMENT WASHINGTON, D.C. 20508 April 28, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: DAVID A. PACELLI par SUBJECT: Transmittal to the State Department of the Memorandum of Conversation of the President’s Breakfast Meeting with Venezuelan President Perez The State Department informs me that Otto Reich, our Ambassador to Venezuela, has requested ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8564,7 +8564,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFEDENTTAL WITH NATIONAL SECURITY COUNCIL 3102 SECRET ATTACHMENT WASHINGTON, D.C. 20506 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of the Memorandum of Conversation of the President’s Breakfast Meeting with Venezuelan President Perez on April 1 Attached at Tab A is the memorandum of conversation of the President’s breakfast meeting with Venezuelan President Perez on",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8597,7 +8597,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "> DRAFT SEGRET a ’ THE WHITE HOUSE: -SEERED WASHINGTON 2276, MEMORANDUM OF CONVERSATION SUBJECT: Meeting with President Carlos Perez of Venezuela PARTICIPANTS: The President The Vice President James Baker, Secretary of State Nicholas Brady, Secretary of Treasury 21S John Sununu, Chief of Staff DECLASSIFIED Brent Scowcroft, National Security Advisor BER E.0. 12958, Bernard Aronson, Assistant Secretary of State j for I",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8629,7 +8629,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ". CONFIBENTIAL ” NATIONAL SECURITY COUNCIL CONFIDENTIAL WASHINGTON, D.C. 20506 2611 April 14, 1989 INE ORMATI Deputy Natl Sec Advisor has seen MEMORANDUM FOR BRENT SCOWCROFT FROM: DAVID PACELLI t SUBJECT: Political Instability in Venezuela Robert Zoellick, Counselor at the State Department, has sent over some observations stemming from the recent visit of Venezuelan President Perez which you may find of interest (Tab",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8661,7 +8661,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "~~ S/S 8907703 United States Department of State Washington, D.C. 20520 ob! | April 12, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Political Instability in Venezuela President Carlos Andres Perez's (CAP) Chief of Staff, Reinaldo Figueredo, in visits to the Department -- preceding and following CAP's April 1 meeting with the President -- said that the Perez Administration had been badly shaken by the",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8693,7 +8693,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL. 2561 WASHINGTON, D.C. 20508 April 11, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: DAVID A. PACELLI SUBJECT: NSC Approval of Travel by USAF Chief of Staff Welch to Caracas Air Force Chief of Staff Larry Welch is seeking the President’s approval to attend a conference of the Chiefs of the American Air Forces in Caracas in May. This Directorate concurs in his trip. RECOMMENDATION That yo",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8725,7 +8725,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SEGRETF Viceeaal NATIONAL SECURITY COUNCIL yn ‘ WASHINGTON, D.C. 20506 —) V ao April 5, 1989 ACTION MEMORANDUM FOR G. PHILIP KUGHES FROM: ROBERT S. RASTORINO SUBJECT: Memorandim of Conversation between President Bush and President Carlos Andres Perez of Venezuela Attached is the Memorandum of Conversation between President Bush and President Carlos Andres Perez of Venezuela that took place on April 1, 1989. RECOMMEND",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8758,7 +8758,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE SEGRER WASHINGTON 2276 MEMORANDUM OF CONVERSATION SUBJECT: Meeting with President Carlos Andres Perez of Venezuela PARTICIPANTS: The President The Vice President James Baker, Secretary of State Nicholas Brady, Secretary of Treasury John Sununu, Chief of Staff Brent Scowcroft, National Security Advisor DECLASSIFIED Bernard Aronson, Assistant Secretary of State fe) 42958 Designate for Inter-American Aff",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8790,7 +8790,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08a, Memo President Perez. (2 pp.) David A. Pacelli to Brent Scowcroft, Re: Schedule Proposal for a Meeting Between the President and Venezuelan",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -8822,7 +8822,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "2a (an mee: ge NATIONAL SECURITY COUNCIL wr f\\ jm) - APNSA Has Seen March 21, 1989 INF’ TION ORE ap, MEMORANDUM FOR BRENT SCOWCROFT FROM: ROBERT SF PASTORINO SUBJECT: Another Perez Request for Meeting with President I met yesterday with Reinaldo Figueredo, Carlos Andres Perez’ Chief of Staff and Minister of the Presidency. This was a follow-up meeting to my meeting of last week with Beatrice Rangel, another Perez hig",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8854,7 +8854,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "COMCIOCNTIA > NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 CONPIDENTIAE 1829 March 21, 1989 MEMORANDUM FOR MELVYN LEVITSKY Executive Secretary Department of State SUBJECT: Appointment of Simon Alberto Consalvi Bottaro of the Republic of Venezuela as Ambassador to the United States (U) The President has reviewed and concurs in the recommendation of the Department of State that the appointment of Simon Alberto Cons",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8886,7 +8886,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 CONSSR ENE 1829 March 21, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: ROBERT 8. ORINO SUBJECT: Appointmentjof Simon Alberto Consalvi Bottaro of Venezuela AS Ambassador to the United States The Government of Venezuela has requested agrement for Simon Alberto Consalvi as Ambassador to the United States. Consalvi is a close advisor to President Perez, having been a ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8918,7 +8918,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "1355 NATIONAL SECURITY COUNCIL ae PO gene March 3, 1989 MEMORANDUM FOR MR. MELVYN LEVITSKY Executive Secretary Department of State SUBJECT: Instructions from the President to Convey to Venezuelan President Perez a Summary of the President’s Conversation with Guatemalan President Cerezo (2) In his telephone conversation of March 3, 1989 with Venezuelan President Perez, the President said that he would ask Ambassador R",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8950,7 +8950,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SEGRET ms THE WHITE HOUSE WASHINGTON MEMORANDUM OF CONVERSATION SUBJECT: Meeting with President Vinicio Cerezo of Guatemala ' PARTICIPANTS: The President The Vice President James Baker, Secretary of State John Sununu, Chief of Staff Brent Scowcroft, National Security Advisor James H. Michel, Ambassador to Guatemala Michael Kozak, Acting Assistant Secretary of State for Inter-American Affairs Robert Pastorino, NSC (No",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -8982,7 +8982,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONEINENTLA GUM TULINITAC SONPEDENTIAL— 1355 with SECRE® Attachment NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 March 3, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES park THROUGH: ROBERT S. PASTORINO FROM: DAVID A. PACELLI DAT SUBJECT: Transmittal to the State Department of the Memorandum of Conversation on March 2, 1989 Between the President and Guatemalan President Cerezo In his telephone conversation on March ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -9014,7 +9014,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20608 a March 3, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES THROUGH: ROBERT 5S. P. ORINO FROM: DAVID A. P. LLI DA SUBJECT: Memorandum of Conversation between the President and President Carlos Andres Perez of Venezuela Attached is the memorandum of conversation between the President and President Carlos Andres Perez of Venezuela on March 3, 1989. RECOMMENDATION That you fil",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -9046,7 +9046,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "ACTION THE WHITE HOUSE THE PRESIDENT HAS SEEN i3,)\\4 WASHINGTON ie eg pts Y snil ee, al i January 30, 1989 Sha GS MEMORANDUM FOR THE PRESIDENT FROM: SUBJECT: BRENT SCOWCROFT (@) Presidential Letters for Vice President Quayle to Deliver to Presidents of Venezuela and E51 Salvador Attached are letters for you to sign to Presidents Lusinchi and Perez of Venezuela and President Duarte of El Salvador for Vice President Qu",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -9079,7 +9079,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8901460 United States Department of State 0A03 Washington, D.C. 20520 - January 28, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Letters from the President to Jaime Lusinchi and Carlos Andres Perez of Venezuela and Jose Napoleon Duarte of El Salvador To demonstrate the President's personal interest in the Vice President's visit next week to Latin America, we are transmitting for your review and ap",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -9111,7 +9111,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONE TDENTTAB 0091 NATIONAL SECURITY COUNCIL é WASHINGTON, D.C. 20506 Qasr TR January 25, 1989 ACTION MEMORANDUM FOR BRENT “s Was THROUGH: ROBERT S. \\PASTORINO FROM: CLARKE BRINTNALL and SUBJECT: Memorandum of Conversation Between the President and President-Elect Carlos Andres Perez of Venezuela, January 24, 1989 Attached at Tab I is a memorandum of the telephone conversation between the President and President-Elec",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -9150,7 +9150,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONE IDENTIALS 2 The talking points that have been prepared for you outline the major themes of our policy toward Latin America, including cooperation with Latin leaders, support for democracy generally, peace efforts in Central America, the Brady plan, and new efforts to control narcotics. III. PARTICIPANTS. A list of participants is at Tab B. Please note that sons of members from Bolivia, Colombia, Spain, and the D",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-003, Latin America - Business Groups. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-003, Latin America - Business Groups. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Latin America, business groups, narcotics; document text visible in OCR"
   },
   {
@@ -9186,7 +9186,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Information ‘Agency reser wr Eee re Washington, D.C. 20547 g ae IT —_ cud December 4, 1989 pyle MEMORANDUM FOR: Mr. Michael M. Skol Deputy Assistant Secretary Office of the Assistant Secretary for Inter-American Affairs Department of State FROM: Stanley A. Zuckerman - Director Officer of American Republics Affairs SUBJECT: Proposed U.S.-Andean Public Awareness Agreement Attached is a draft af an understanding we are ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-004, Andean [Drug] Summit 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-004, Andean [Drug] Summit 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -9219,7 +9219,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "——CONFIDENTIAE 1281 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 March 1, 1989 INFORMATION Deputy Natl Sec Advisor MEMORANDUM FOR ROBERT M. GATES has seen FROM: ROBERT PASTORINO SUBJECT: Meeting with U.S. Ambassador to Bolivia, Robert Gelbard on March 2, 1989 at 11AM Ambassador Gelbard is here in Washington on consultations. He has been in LaPaz for 3-4 months. Bolivia is at the beginning of an electoral process ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; democracy, debt and economy; document text visible in OCR"
   },
   {
@@ -9251,7 +9251,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SONPEDENTERE f ‘ fe NATIONAL SECURITY COUNCIL =? F ', WASHINGTON, D.C. 20506; a 4454 June 9, 1989 ACTION MEMORANDUM FOR ROBERT M. GATES Deputy Nat! See Advisor THROUGH: WILLIAM T. PRYCE, has seen FROM: DAVID A. PACELLI 4 SUBJECT: — Request by U.S. Ambassador to Chile Charles Gillespie for a Meeting with You U.S. Ambassador to Chile-Charles Gillespie is returning to Washington for consultations next week and wishes to",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; democracy; document text visible in OCR"
   },
   {
@@ -9283,7 +9283,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 February 27, 1989 MEMORANDUM FOR MELVYN LEVITSKY Executive Secretary Department of State SUBJECT: Robert Pastorino’s Meeting with the Guyanese Minister of Finance (U) On February 22, Robert Pastorino met with the Guyanese Minister of Finance, Carl B. Greenidge, who briefed him on the GOG’s negotiations with the IMF and World Bank. Guyana has a serious problem with debt",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; debt and economy; document text visible in OCR"
   },
   {
@@ -9315,7 +9315,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04. Memorandum To: Policy Coordinating Committee From: Bernard Aronson n.d. (b)(1) Cc ) Re: PCC Conclusions (3 pp.) |",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -9347,7 +9347,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09. Memorandum To: Robert Gates From: Rand Beers 11/1/89 Re: Deputies Committee Meeting (2 pp.) Re: Deputies Committee Discussion Paper (1 pp.) 10a. Memorandum To: Distribution list From: Philip Hughes 11/8/89 we",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -9379,7 +9379,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04, Memorandum Re: PCC Conclusions (3 pp.) To: Policy Coordinating Committee From: Bernard Aronson (6)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -9411,7 +9411,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Cre fms SEGRE ere NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 November 7, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES THROUGH: DAVID c. ipa aR. FROM: R. ng’ peeas SUBJECT: Deputies Committee Discussion Paper re Andean Drug Summit The discussion paper at Tab A is provided under separate cover for use at the Deputies Committee meeting, Thursday, November 9, 1989, 2:30 p.m., White House Situation Room. This paper h",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Andean, drug, narcotics; document text visible in OCR"
   },
   {
@@ -9443,7 +9443,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02e. Memorandum To: PCC From: Bernard Aronson n.d. (b)(1) Cc Re: PCC Conclusions (3 pp.).",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -9475,7 +9475,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "07e. Memorandum To: PCC From: Bernard Aronson 11/16/89 (b)(1) Cc Re: PCC Conclusion (4 pp.) Page 2 of 3",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -9507,7 +9507,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08a. Memorandum To: Robert Gates From: David Miller 12/4/89 (b)(1) Ss Re: Andean Drug Summit (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -9538,7 +9538,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02a. Memorandum To: Distribution list From: Philip Hughes 9/7/89 (b)(1) s Re: NSC Deputies Committee Meeting (2 pp.) 02b. Agenda National Security Deputies Committee Meeting (1 pp.) n.d. (b)(1) Ss 02c. Paper Re: Policy Coordinating Committee on Narcotics Policy (3 pp.) nd. (b)(1) Ny",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug; identified on withdrawal sheet"
   },
   {
@@ -9569,7 +9569,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02e. Memorandum To: Robert Gates From: David Pacelli/Richard Lamagna 8/31/89 (b)(1) 8 Re: Notice of Meeting Memorandum (3 pp.) 02f. Agenda National Security Deputies Committee Meeting (1 pp.) 9/11/89 (b)(1) s 02g. Talking Points Points to be Made for Deputies Committee Meeting (1 pp.) n.d. (b)) Ss",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug; identified on withdrawal sheet"
   },
   {
@@ -9600,7 +9600,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "nes - prec? bl NATIONAL SECURITY COUNCIL 23-Aug-1989 17:56 EDT ‘SONEEDENTIAL MEMORANDUM FOR: David Miller ( MILLER ) FROM: Everett E. Briggs (BRIGGS) SUBJECT: Summit with Andeans on Drugs Seems to me it would be prudent, before charging away with the notion of a summit with the Andeans to talk about narcontrol (not that I think any of us would be so foolish, but one hears things, faintly...), to prepare for such a no",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug; document text visible in OCR"
   },
   {
@@ -9631,7 +9631,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "01b. Memorandum To: Distribution list From: Philip Hughes n.d. (b)(1) s Re: Meeting of the Deputies Committee (1 pp.) Olc. Agenda Deputies Committee Meeting (1 pp.) 8/9/89 (b)C1) S",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug; identified on withdrawal sheet"
   },
   {
@@ -9662,7 +9662,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE WASHINGTON August 8, 1989 MEMORANDUM FOR THE DOMESTIC POLICY COUNCIL FROM: KEN YALE <\", Executive Secretary SUBJECT: Sixteenth Meeting of the Domestic Policy Council, Thursday, August 10, 1989, 1:30 PM in the Roosevelt Room: The Domestic Policy Council will hold its sixteenth meeting on Thursday; August 10, 1989 from 1:30 to 3:00 PM in the Roosevelt Room. The purpose of the meeting will be to continue",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug; document text visible in OCR"
   },
   {
@@ -9693,7 +9693,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "a SEGRET le’ 20902 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 August 7, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES THROUGH: DAVID C. nage, JR. FROM: RICH LaMAGNARCA SUBJECT: Deputies Committee Meeting Notification Bob Gates has agreed to hold a Deputies Committee meeting on Wednesday, August 9, 1989 for Bill Bennett to present his International Drug Strategy (Tab I). The memorandum at Tab II invites deputies p",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug; document text visible in OCR"
   },
   {
@@ -9724,7 +9724,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02a. Memorandum To: Robert Gates From: Rand Beers/Richard Lamagna 5/4/89 (b)(1) S Re: Deputies Committee Meeting (3 pp.) 02b. Paper Re: Countemarcotics Operations (8 pp.) n.d. (b)(1) Ss 02c. Agenda Deputies Committee Meeting (1 pp.) 5/5/89 (b)C1) $",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug; identified on withdrawal sheet"
   },
   {
@@ -9756,7 +9756,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTIAL rs JCS INFORMATION SERVICE CENTER ROUTINE ZYUW RUEHUBA2485 1011418 R 1113482 APR 89 FM USINT HAVANA TO —SECSTATE WASHDC 0096 INFO USMISSION USUN NEW YORK 3009 OTe HAVANA 02485 £.0. 12356: DECL: OADR TAGS: SNAR, PREL, KPRP, CU, US SUBJECT: GOC'S ANTI-NARCOTICS IMAGE AMEMBASSY LIMA 0511 REF: STATE 77510 Ne ALTHOUGH THE PUBLICITY CAMPAIGN IS MODEST BY GOC STANDARDS, THE OFFICIAL MEDIA HAVE RUN SEVERAL RECEN",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug, ussr/cuba; document text visible in OCR"
   },
   {
@@ -9788,7 +9788,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“CONFIGENTIAE We have included talking points on debt because Perez is hosting a meeting of the Group of 77 from June 19-23. Perez told delegates from 127 nations that \"economic totalitarianism\" from the developed world is crushing the Third World, according to press reports. In his welcoming speech on Wednesday, he praised the. Brady plan as an important initiative, but added, \"But we impatiently wait for concrete g",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "debt and economy; document text visible in OCR"
   },
   {
@@ -9822,7 +9822,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "TALKING POINTS -- I appreciate your efforts to resolve the crisis in Panama during the past two weeks. In particular I salute your initiative in convoking the OAS Foreign Ministers meeting. -- I am very pleased that the OAS agreed to take action, including condemning Noriega by name, and sending a commission of three foreign ministers to bring about a democratic transfer of power. What is your assessment of the resol",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "democracy, regional policy, panama spillover; document text visible in OCR"
   },
   {
@@ -9857,7 +9857,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "O8f. Letter To: President Garcia From: President Bush (1 pp.) 12/4/89 wh 4",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -9890,7 +9890,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "O8e. Letter To: President Paz From: President Bush (1 pp.) 12/4/89 oh 4",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -9923,7 +9923,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09g. Letter Suggested Response, POTUS to President Carlos Andres Perez of n.d, (b)(1) Cc Venezuela, Re: Economic and debt issues. (3 pp.) 10. Memo Robert Pastorino to Brent Scowcroft, Re: Another Perez Request 03/21/89 wh Lf for Meeting with President. (2 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "Presidential or NSC principals; debt and economy, presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -9955,7 +9955,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "a NATIONAL SECURITY COUNCIL WASHINGTON, DC 20506 December 22, 1989 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary Department of State 10247 SUBJECT: Transmittal of Memorandum of Conversation of the President’s Telephone Call to President Menem of Argentina (U) The memorandum of conversation of the President’s telephone call 1989, attached at Tab A, should be forwarded to Assistant Secretary Bernard Aronson a",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -9987,7 +9987,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "MEMORANDUM FOR: SUBJECT: S/S 8927411 United States Department of State Washington, D.C. 20520 November 29, 1989 Mr. Philip Hughes Executive Secretary National Security Council Staff The White House Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from President Carlos Saul Menem of the Argentine Republic which is transmitted for your information. This correspondence ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10019,7 +10019,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8927411 United States Department of State Washington, D.C. 20520 November 29, 1989 MEMORANDUM FOR: Mr. Philip Hughes Executive Secretary National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from President Carlos Saul Menem of the Argentine Republic which is transmitted for your information. This correspondence ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10051,7 +10051,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "» scoReToeiszae CONFIDENTIAL 1663 NATIONAL SECURITY COUNCE. WASHINGTON, D.C. 20606 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State EMILY L. WALKER Executive Secretary Department of Treasury SUBJECT: Memorandum of Conversation with President Carlos Menem of Argentina Attached at Tab A for your information is a Memorandum of Conversation between the President and President Carlos Menem of Argent",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-005, Argentina - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10083,7 +10083,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "cONFIDENTTAY, BMI LOLI LTE 6467 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 August 16, 1989 ACTION CPHILIP HUGHES MEMORANDUM FOR BRENT -SCOWCROEFT— THROUGH: EVERETT ELLIS BRIGGS oa? FROM: DAVID A. PACELLI ~ SUBJECT: Presidential Concurrence to the Nomination of Guido Jose Mario Di Tella as Argentine Ambassador to the United States Argentina has inquired whether we would agree to the nomination of Guido Jose Mari",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10115,7 +10115,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8918909 6467 United States Department of State Washington, D.C. 20520 UNCLASSIFIED August 15, 1989 (With Gerftréenttet Attachments) MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Appointment of His. Excellency Guido Jose Mario Di Tella of the Argentine Republic as Ambassador to the United States: The Government of the Argentine Republic has inquired whether our Government agrees to the appointment of Gui",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10147,7 +10147,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8914941 United States Department of State 5190 Washington, D.C. 20520 dune 29, 1989 MEMORANDUM FOR BRENT SCOWCROFT AND CHASE UNTERMEYER THE WHITE HOUSE Subject: Request for Aircraft to Transport the U.S. Delegation to the Inauguration of the President of Argentina. The Government of Argentina is welcoming foreign delegations to the inauguration of President-elect Carlos Menem on July 8. We understand the President ha",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10179,7 +10179,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02. Memorandum For the Record 5/4/89 (b)(1) Ss Re: Argentina (3 pp.) Q3e7 Memorandum To: Robert Gates From: David Pacelli 5/30/89 per a Re: Request Appointment with General Scowcroft (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -10211,7 +10211,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "- CONFIBENPEAE 3633 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 » MEMORANDUM OF CONVERSATION SUBJECT: The President’s Telephone Conversation with Argentine President Raul Alfonsin PARTICIPANTS: The President Stephanie Van Reigersberg (State Department, Translator) David Pacelli (NSC, Notetaker) DATE, TIME May 13, 1989, 6:38 p.m. - 6:51 p.m. AND PLACE: Air Force One at Columbus Air Force Base, Mississippi - Presi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10245,7 +10245,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "3635 NATIONAL SECURITY COUNCIL WASHINGTON, D.C.. 20508 May 14, 1989 Nat! Sec Advisor has seen ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: DAVID A. PACELLI pa? SUBJECT: Draft White House Cable Summarizing the President's Telephone Conversations with Presidents Sanguinetti, Alfonsin, and Garcia Attached at Tab I is a draft cable which summarizes the President’s telephone conversations on May 13, 1989 with Uruguayan Pre",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10277,7 +10277,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL. WASHINGTON, D.C, 20508 1834 MEMORANDUM FOR MELVYN LEVITSKY Executive Secretary Department of State SUBJECT: Neil Bush Trip to Argentina I would appreciate the Department of Staté advising our Embassy | in Buenos Aires of the April 10-15, 1989 trip to Argentina by Neil Bush and his associates. The details are in Mr. Bush’s March 9, 1989 letter to General Scowcroft (Tab A). G. Philip Hughes E",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10309,7 +10309,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 2282 April 5, 1989 ACTION MEMORANDUM FOR FROM: SUBJECT: Mr. Laurence W. Levine, a lawyer who represents several Argentine interests, has written to you advocating United States Government support for Radical Party Presidential candidate Angeloz. I believe that Phil Hughes should respond to the letter by noting its receipt and thanking Levine. DATI That Phil Hughes be a",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10341,7 +10341,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8902451 United States Department of State Washington, D.C. 20520 0429 ADD-ON 1 February 6, 1989 Mr. Philip Hughes MEMORANDUM FOR: The Executive Secretary National Security Council Staff SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from President Raul R. Alfonsin of Argentina which is transmitted for your information. This correspondence was received ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10373,7 +10373,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTIAL THE WHITE HOUSE WASHINGTON DECLASSIFIED PER E.0. 12958, AS AMENDED d000- 6499 -F sto $/a1/64 MEMORANDUM OF CONVERSATION SUBJECT: Telephone Call from the President to President Alfonsin of Argentina PARTICIPANTS: The President Clarke M. Brintnall, NSC (Notetaker) Rita Boren, Department of State (Interpreter) President Raul Alfonsin DATE, TIME January 23,°'1989, 11:21 - 11:25 a.m. AND PLACE: Oval Office - ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10408,7 +10408,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "— CONFIDENTIAL TALKING POINTS FOR THE PRESIDENT: -- The United States appreciates the tough policies that your government has carried out in order to get Bolivia's economy on the right track and to lay a firm foundation for future growth, The fact that you did this while strengthening the democractic environment is impressive and commendable. -- Bolivia is now a political and economic model for Latin America. We do n",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; debt and economy, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -10442,7 +10442,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8929354 United States Department of State 10326 Washington, D.C. 20520 December 21, 1989 MEMORANDUM FOR: Mr. Philip Hughes Executive Secretary National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from Rolando Seto and Bishop Federico J. Pagura of Argentina which is transmitted for your information. This corresp",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-018, Latin America - Churches - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-018, Latin America - Churches - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -10476,7 +10476,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "07. Memo David Pacelli to Brent Scowcroft Re: Draft White House cable 05/14/89 wh) of summarizing the President's Telephone conversations with Presidents Sanguinetti, Alfonsin, and Garcia (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -10510,7 +10510,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "WASHINGTON, D.C. 20506 May 14, 1989 Natl Sec Advisor has seen ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: DAVID A. PACELLI VA SUBJECT: Draft White House Cable Summarizing the President's Telephone Conversations with Presidents Sanguinetti, Alfonsin, and Garcia Attached at Tab I is a draft cable which summarizes the President’s telephone conversations on May 13, 1989 with Uruguayan President Sanguinetti, Argentine Pre",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10544,7 +10544,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTEAE 3635 NATIONAL SECURITY COUNCIL WASHINGTON, 0.C. 20508 May 14, 1989 Natl See Advisor has seen ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: DAVID A. PACELLI pa? SUBJECT: Draft White House Cable Summarizing the President's Telephone Conversations with Presidents Sanguinetti, Alfonsin, and Garcia Attached at. Tab I is a draft cable which summarizes the President’s telephone conversations on May 13, 1989 with ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10577,7 +10577,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "7783 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 October 5, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT al THROUGH: WILLIAM T. PRYCE \\! FROM: DAVID A. PACELLI pat SUBJECT: Presidential Letter of Introduction for.OPIC Mission to Bolivia Attached at Tab I is your memorandum to the President recommending that he sign a letter of introduction to the President of Bolivia for Bruce Hatton, Vice President of the Oversea",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10609,7 +10609,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "POMCINONTIAY CONEIDENTTAT, vue 6007 CONEIPENTTAT CONTIOCNTIAL fn PRESIDENT ids THE WHITE HOUSE “ WASHINGTON. bee 5 August 3, 1989 ACTION MEMORANDUM FOR THE PRESIDENT FROM: BRENT sconcrorn ir SUBJECT: Congratulatory Letter to the New President of Bolivia Jaime Paz Zamora Purpose To congratulate the new President-elect of Bolivia, Jaime Paz Zamora, who will be inaugurated on August 6. Background The Bolivian Congress i",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10641,7 +10641,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“CONPIDENTIAT —CONFIBENTHAE 6007 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 August 2, 1989 + ACTION MEMORANDUM FOR BRENT SCOWCROFT ~ THROUGH: EVERETT ELLIS BRIGGS zs FROM: WILLIAM T. PRYCB‘ oi es SUBJECT: Congratulatory Letter to President Jaime Paz Zamora of Bolivia Secretary of Education Cavazos will be heading the U.S. Delegation to the inauguration of the new President of Bolivia, Jaime Paz Zamora, who Stat",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10673,7 +10673,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE WASHINGTON August 2, 1989 MEMORANDUM FOR ANDY CARD ya SUBJECT: Presidential Delegation to Bolivia, August 6. FROM: CHASE UNTERMEYER 9 The President has been invited to name a delegation to represent him at the August 6 inaugural ceremonies of Jamie Poz Zamora, the new President of Bolivia. The delegation will depart August 4 and return August 7. The following names are ready for announcement: Delegati",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10705,7 +10705,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "7 QprKis CONEINENTI A s GONEIDEND EA DENT IAL” 5416 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 August 17, 1989 Ss MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: The President’s Telephone Conversation, with President Victor Paz Estenssoro of Bolivia Attached at Tab A is the memorandum of the President’s telephone conversation with Victor Paz Estenssoro on July 7, 1989. It should",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10737,7 +10737,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "GONPEBENDEAL Co i BEN N EC 416 THE WHITE HOUSE PER E.O. 12958, AS AMENDED 000 - O4dd - F 6ce S/AlA MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with Victor Paz Estenssoro of Bolivia PARTICIPANTS: The President Victor Paz Estenssoro, President of Bolivia Notetaker: William T. Pryce DATE, TIME July 7, 1989, AND PLACE: The Oval Office The President: \"Mr. President, George Bush aqui, como esta.\" P",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10770,7 +10770,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "—CONEIDENSEAT —GONFIBENTIAL “Try “= 5383 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 July 7, 1989 7 ACTION MEMORANDUM FOR BRENT SCOWCROFT Deputy Nati Sec Advisor has seen FROM: WILLIAM T. PRYCE! SUBJECT: Follow Up Message from the President to Bolivian President Paz Attached at Tab I is a message from the President to Bolivian President Victor Paz Estenssoro following up on their telephone conversation earlier t",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10802,7 +10802,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "5397 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Message to President Paz Regarding $100 Million Bridge Loan Please have the attached telegram conveying a message from the President to President Paz of Bolivia sent to Embassy La Paz for Ambassador Gelbard. G. Philip Hughes. Executive Secretary Attachment Tab A Presidential Messa",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10834,7 +10834,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 July 10, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES DA THROUGH: EVERETT ELLIS BRIGGS - FROM: WILLIAM T, PRYCE*; 4! i SUBJECT: Message to President Paz Regarding $100 Million Bridge Loan At Bob Gates request, I informed Assistant Secretary of Treasury for International Affairs Dallara on the morning of July 8 that the President wanted the proposed bridge loan to Bolivi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10866,7 +10866,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTIAL ble THE WHITE House @. WASHINGTON July 7, 1989 ACTION MEMORANDUM FOR THE PRESIDENT FROM: BRENT scowcrorT fe. SUBJECT: Bolivian President Paz Estenssoro’s Request for Telephone Conversation with the President Purpose To prepare you to receive a telephone call from Bolivian President Paz, in case he pursues his request to telephone you. Background President Paz has asked, through our Ambassador in LaPaz, t",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10899,7 +10899,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "-: we. ——~CONEIDENTEAG, NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 July 3, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT io THROUGH: EVERETT ELLIS BRIGES YM. FROM: WILLIAM T. PRYC. SUBJECT: Bolivian President Paz Estenssoro’s Request for Telephone Conversation with the President President Paz has asked through our Ambassador in Bolivia to place a phone call to the President to request his help in getting a bridge ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10931,7 +10931,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "PoNcinc L —CONELDENEEAS, GUN L 5262 THE WHITE HOUSE WASHINGTON MEMORANDUM FOR THE PRESIDENT FROM: BRENT SCOWCROFT SUBJECT: Bolivian President Paz Estenssoro’s Request for Telephone Conversation with the President President Paz has asked, through our Ambassador in LaPaz, to call you. He wants to get your support for a bridge loan to tide Bolivia over until they get a large loan from Japan. Treasury is willing to make ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10965,7 +10965,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8915580 United States Department of State Washington, D.C. 20520 5351 July 6, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Talking Points for Possible Telephone Call by President Victor Paz Estenssoro of Bolivia to President Bush We recommend that the attached talking points be used by President Bush in response to a possible telephone call by President Paz Estenssoro of Bolivia. The Government of Bol",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -10997,7 +10997,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Preece | 4299 NATIONAL SECURITY COUNCIL, WASHINGTON, D.C. 20806 June 12, 1989 MEMORANDUM FOR SHIRLEY GREEN FROM:. G. PHILIP HUGHE SUBJECT: Presidential Letters to Families of U.S. Missionaries Killed in Bolivia Steve Studdert’s office has requested our assistance in providing letters of condolence to the families of two young American missionaries killed by terrorists in Bolivia on May 24. Attached at Tabs A and B ar",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11029,7 +11029,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "4299 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 June 9, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES THROUGH: WILLIAM T. PRYCE naar FROM: DAVID A. PACELLI DAT SUBJECT: Presidential Letter to Families of U.S. Missionaries Killed in Bolivia Two U.S. Mormon missionaries were shot and killed in downtown La Paz on May 24, 1989, Todd Ray Wilson, 19, and Jeffrey Brent Ball, 21. « Stephen Studdert has requested that you",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11061,7 +11061,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02b. Memo From J. Stapleton Roy to Brent Scowcroft 12/20/1989 wh LZ Re: Congratulatory Telephone Call by the President to Brazilian President-Elect Collor (2 pp.) 02c. Talking Points Re: Call to Brazilian President-Elect Fernando Collor de Mello n.d. wd go",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -11093,7 +11093,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "+ ~ 9901 S/S 8928393 United States Department of State Washington, D.C. 20520 December 7, 1989 MEMORANDUM FOR: Mr. Philip Hughes ' Executive Secretary National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from President Jose Sarney of Brazil which is transmitted for your information. This correspondence was received",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11125,7 +11125,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ".. S/S 8924218 United States Department of State Washington, D.C. 20520 October 19, 1989 MEMORANDUM FOR: Mr. Philip Hughes Executive Secretary National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from Brazilian State Representative Moises Lipnik which is transmitted for your information. This correspondence was rec",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11157,7 +11157,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S_ 8925129 8684 United States Department of State Washington, D.C. 20520 October 28, 1989 MEMORANDUM FOR: Mr. Philip Hughes Executive Secretary National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bu. from Jose Sarney, President of the Fe erative ssigstt. UE a razil, which is transmitted for your information. This cor",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11189,7 +11189,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "ws, TREAT AS CONFIDENTIAL CONFIDENTIAL MEMORANDUM FOR: SUBJECT: R/S 8923287 United States Department of State Washington, D.C. 20520 Mctober 11, 1999 Mr. Philip Hughes Executive Secretary National Security Council Staff The White House Alerting NSCS on Presidential Correspondence Forwarding advanced fax copy of a letter to President Bush from His Excellencies President Jose Sarney and Minister Roberto Costa de Abreu ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11221,7 +11221,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Gio} S/S 8923278 United States Department of State Washington, D.C. 20520 October 10, 1989 TREAT AS CONFIDENTIAL MEMORANDUM FOR: Mr. Philip Hughes ‘ Executive Secretary National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from President Jose Sarney of Brazil ‘ which is transmitted for your information. This corresp",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11253,7 +11253,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "MEMORANDUM FOR: SUBJECT::S/S 8913092. United States Department of State 45% Washington, D.C. 20520 June 13, 1989 Mr. Philip Hughes Executive Secretary National Security Council Staff The White House Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush which is transmitted for your information. This correspondence was received in the Information Resources Management Secti",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11285,7 +11285,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8913092 United States Department of State Washington, D.C. 20520 ASA6 June 13, 1989 MEMORANDUM FOR: Mr. Philip Hughes Executive Secretary - National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential | Correspondence Enclosed is the original of a letter to President Bush from President Jose Sarney of the Federative Republic of Brazil which is transmitted for your information. This corre",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11317,7 +11317,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02. Memcon Memorandum of Conversation between President Bush and 02/25/1989 cox) x President Sarney of Brazil (4 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -11349,7 +11349,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "06b. Memo For POTUS from Brent Scowcroft 02/18/1989 wx) Z Re: Letter to President Sarney of Brazil (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -11381,7 +11381,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "06c. Memo From Clarke M. Brintnall to Brent Scowcroft 02/16/1989 wh vA Re: Presidential Letter to Brazilian President Sarney (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -11413,7 +11413,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "06d. Memo From Melvyn Levitsky to Brent Scowcroft 02/09/1989 oh Re: Suggested reply to letter from President Sarney (1 pp.) 06e. Draft Suggested draft for letter to President Sarney from President n.d, (b)(1) Bush (2 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -11445,7 +11445,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "07a. Memcon Memorandum of a conversation between Vice President Quayle 02/06/1989 (b)(1) Ss and President Sarney of Brazil (4 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -11477,7 +11477,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "07b. Memcon Memorandum of a conversation between Vice President Quayle 02/06/1989 (b)(1) Ss and Prime Minster Felipe Gonzalez of Brazil (5 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -11509,7 +11509,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 April 7, 1989 2228 MEMORANDUM FOR SALLY KELLEY FROM: G. PHILIP HUGHE SUBJECT: Presidential Lettér to National Wildlife Federation Regarding Highway Project in Brazil Please find at Tab A a State Department suggested response to a letter of the National Wildlife Federation to President Bush regarding a possible highway project in Brazil. The response describes the Presi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11541,7 +11541,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL ID 8900679 REFERRAL DATE: 18 FEB 89 “MEMORANDUM FOR: MELVYN LEVITSKY DEPARTMENT OF STATE DOCUMENT DESCRIPTION: TO: SARNEY, JOSE C SOURCE: PRESIDENT DATE: 17 FEB 89 SUBJ: PRES LTR TO PRES SARNEY REQUIRED ACTION: FOR DI@PATCH \" DUEDATE: 18 FEB 89 COMMENT: THE ATTACHED MUST BE RECEIVED BY PRESIDENT SARNEY BEFORE THE | JAPAN TRIP (FEB. 24), y FOR. GEORGE VAN ERON DIRECTOR NSC SECRETARIAT",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11573,7 +11573,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8902672 United States Department of State Washington, D.C. 20520 cota LIMITED OFFIGIAL YE © Febraxy 9, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Suggested Reply to Letter from President Sarney The Department forwards for the consideration of the President a response to Brazilian President Sarney's hand-delivered letter of January 13 seeking financial assistance. This response originated in the Trea",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11607,7 +11607,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8/S 9000330 United States Department of State Washington, D.C. 20520 OLY 7 January 6, 1990 CONEERENT Ar W/CONEEDENETie/NOFORN ATTACHMENT MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Presidential Delegation to the Chilean Presidential Inauguration, March 11, 1990 The Department recommends that a high level delegation be sent to the March 11, 1990 inauguration of Chilean President-elect Patricio Aylwin to re",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -11639,7 +11639,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8925141 United States Department of State Washington, D.C. 20520 8692 Cctober 29, 1989 MEMORANDUM FOR: Mr. Philip Hughes Executive Secretary National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from Chilean President Augusto Pinochet Ugarte which is transmitted for your information. This correspondence was rece",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11671,7 +11671,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "aq ‘vVavWN 4 Ad ST0Z ‘9 JoqQUIaAON “YAAIVM SOC Usd 4 dalIssvT3daad United States Department of State Washington, D.C. 20520 HAQQ 7 June 22, 1989 CONPERENTTAE w/UN IED ‘ACHME: MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Threats of Terrorist Acts in Chile An unidentified caller believed to be the man whose threats last March contributed to causing the ban on Chilean fruit imports to the U.S. called our Emba",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11703,7 +11703,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8901196 0037 United States Department of State Washington, D.C. 20520 UNCLASSIFIED (With CONFIDENTIAL Attachments) January 23, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Appointment of Octavio ERRAZURIZ Guilisasti of the Republic of Chile as Ambassador to the United States The Government of the Republic of Chile has inquired whether our Government agrees to the appointment of Octavio Erraguriz G",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11735,7 +11735,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02b. Telcon President's telephone call to President Barco of Colombia [SENT 12/20/89 A FOR AGENCY REFERRAL] (2 pp.) 03. Talking Points Points to be made for a telephone call to President Barco of 12/21/89 cx Colombia",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -11767,7 +11767,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09a. Memo From Philip Hughes to J. Stapleton Roy 12/04/89 wh Re: Transmittal of memorandum of conversation of the President's Telephone call to President Barco of Colombia [SENT FOR AGENCY REFERRAL] (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -11799,7 +11799,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09b. Telcon Memorandum of conversation of the President's Telephone call to 11/27/89 )(1) Cc President Barco of Colombia [SENT FOR AGENCY REFERRAL] (4 pp.) 10. Telcon Memorandum of conversation of the President's Telephone call to 09/26/89 wh",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -11831,7 +11831,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL 10201 WASHINGTON, D.C. 20506 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Request for Assistance Recovering Aircraft from Colombia At Tab A is a letter sent to General Scowcroft by an attorney representing certain clients who have allegedly had corporate aircraft stolen, taken to Colombia, and confiscated by the Colombian Government. I believe that the att",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11863,7 +11863,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20506 December 22, 1989 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary | Department of State SUBJECT: Transmittal of Memorandum of Conversation of the | President's Telephone Call to President Barco of Colombia (U). The memorandum of conversation of the President’s telephone call to Colombia President Barco on December 20, 1989, attached at Tab A, should be forwarde",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11895,7 +11895,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "9698 NATIONAL SECURITY COUNCIL PLICE WASHINGTON, 0.C. 20506 December 7, 1989 MEMORANDUM FOR THE CHIEF OF STAFF FROM: ROBERT M. GATES SUBJECT: Letter Concerning Candidate for President of Colombia This is in response to your note concerning Roger Ailes’ working for Rodrigo Lloreda Caicedo, the Social Conservative candidate for president of Colombia. We have checked with State and neither we nor they see any problem in",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11927,7 +11927,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "9698 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 Dez... Advisor December 5, 1989 Deputy Nai hag PAdy; Seen Sor € iN rm, ACTION MEMORANDUM FOR ROBERT M. GATES 5 FROM: WILLIAM T. PRYCE SUBJECT: Letter Re Candidate for President of Colombia Governor Sununu has asked for comments on a letter from Roger Ailes asking if we see any reason why he should not assist in the campaign of Rodrigo Lloreda Caicedo, the Social C",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11959,7 +11959,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "TONFIBEN TAL CONFIDENTIAL 9555 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 December 4, 1989 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of Memorandum of Conversation of the Presidents’s Telephone Call to President Barco of Colombia (U) The memorandum of conversation of the President’s telephone call to Colombia President Barco on November 27, 1989 attached at Tab ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -11991,7 +11991,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09b. Telcon call to President Barco of Colombia Memorandum of conversation of the President's Telephone [SENT FOR AGENCY REFERRAL] (4 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -12023,7 +12023,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with President Barco of Colombia (U) PARTICIPANTS: The President Virgilio Barco Notetakers: William Pryce David Pacelli DATE, TIME November 27, 1989, 9:44 - 9:55 am, EST AND PLACE: The Oval Office - Barco’s Presidential Office The President: Mr. President. (U) President Barco: Yes, good morning, Mr. President. (U) The Pres",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12055,7 +12055,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“1 7616 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 November 20, 1989 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Memorandum of Telephone Conversation with President Virgilio Barco Vargas of Colombia Attached at Tab A is a Memorandum of Converation between the President and President Barco of Colombia. Attachment Tab A Memorandum of Conversation",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12087,7 +12087,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "7617 THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with President Virgilio Barco of Colombia PARTICIPANTS: The President President Virgilio Barco 6f Colombia Notetaker: Everett Briggs DATE, TIME September 26, 1989, 8:45 - 8:52 a.m. EST AND PLACE: Washington/Bogota The President initiated a telephone call to President Virgilio Barco. The conversation took place in Engl",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12119,7 +12119,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE So WASHINGTON es October 26, 1989 72>) MEMORANDUM FOR BOB GATES. FROM: ED rocnag he SUBJECT: SEA-SEARCH ARMADA The Governor has neither discussed this with the President nor does he plan to bring it to his attention. Is there something we can do to help? This issue keeps coming back to haunt us. How should we proceed? Please call me. Thanks.",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12151,7 +12151,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03. Memcon Memorandum of Conversation between President Bush and 10/02/89 ox 4 President Barco, Colombia 09/28/89 [SENT FOR AGENCY. REFERRAL] (8 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -12183,7 +12183,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“ ouespatern -CONFBEN TAL 7814 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 October 24, 1989 pia | SIGNED MEMORANDUM FOR BRENT SCOWCROFT © My THROUGH: WILLIAM T. PRYCE ( FROM: DAVID A. PACELLI pal SUBJECT: Presidential Letter to Colombian President Barco The President has asked us to prepare a note to Barco on the Colombian proposal for a land bridge development scheme (Tab B). We have asked the State Department ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12216,7 +12216,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE WASHINGTON August 25, 1989 Presidential Determination No. 89-24 MEMORANDUM FOR THE SECRETARY OF STATE SUBJECT: Determination to Authorize the Furnishing of Immediate Military Assistance to Colombia and the Provision of Training to Law Enforcement Personnel Pursuant to the authority vested in me by Section 506(a) of the Foreign Assistance Act of 1961, as amended (\"the Act\"), 22 U.S.C. 2318(a), I hereby",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12249,7 +12249,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "6680 d- THE WHITE HOUSE Add-on WASHINGTON August 24, 1989 ACTION MEMORANDUM FOR THE PRESIDENT THROUGH: THE EXECUTIVE CLERK FROM: BRENT SCOWCROFT (@2D SUBJECT: Determination Authorizing Emergency Assistance to Colombia Purpose To authorize the provision of emergency military assistance to Colombia, including assistance to law enforcement personnel. Background At Tab A is a Presidential Determination authorizing the em",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12281,7 +12281,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03a. Memo From Eric Melby to Brent Scowcroft 09/11/89 (bX1) ge Re: President Barco’s letter on Coffee (2 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -12314,7 +12314,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09a. Memo From David Miller to Brent Scowcroft 08/24/89 oy) gx Re: Emergency Military Assistance for Colombia [SENT FOR. AGENCY REFERRAL] (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -12346,7 +12346,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "ae 2 file * Udemt— | CONFIBENTIAL. —. NATIONAL SECURITY COUNCIL CONPEDENTIAL WASHINGTON, D.C. 20506 6814 August 29, 1989 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of Memorandum of Conversation of the President’s Telephone Call to Colombian President Barco (U) ‘The memorandum of conversation of the President’s telephone call to Colombian President Barco on August 28, ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12378,7 +12378,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Letter to President Barco The Department of State is requested to transmit the attached letter from the President to President Barco. The letter should be sent by telegram; there will be no signed original. (Wa G. Philip Hughes<f-——_ Executive Secretary Attachment Tab A Letter to Presi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12411,7 +12411,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“SEGREF 6680. NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20506 August 24, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: DAVID otk SUBJECT: Emergency Military Assistance for Colombia In order to provide the desired equipment and training to Colombian law enforcement personnel, the President will have to make determinations under both section 506(a) of the Foreign Assistance Act (allowing provision of defense articl",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12444,7 +12444,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SECRET\" 6680 THE WHITE HOUSE WASHINGTON August 24, 1989 3 AUG 22 Pg: 3d ACTION DECLASSIFIED MEMORANDUM FOR THE PRESIDENT PER E.O, 12958, AS AMENDED FROM: BRENT SCOWCROFT ‘200 I~ O34. F KR Sesloe SUBJECT: Congressional Notification of Military Assistance for Colombia The Foreign Assistance Act (the “Act\") requires that before you exercise your authority to provide emergency defense articles or services under section 5",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12476,7 +12476,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ". NATIONAL SECURITY COUNCIL WASHINGTON, 0.C. 20506 September 16, 1989 MEMORANDUM FOR MR. J. STAPLETON ROY - Executive Secretary Department of State SUBJECT: Letter to President Barco The Department of State is requested to transmit the attached letter from the President to President Barco. The letter should be sent by telegram; there will be no signed original. Attachment Tab A Letter to President Barco",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12508,7 +12508,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04c. Memo From William Pryce to Brent Scowcroft 08/21/89 (oy) oe Re: telephone cal] by the President to President Barco of Colombia [SENT FOR AGENCY REFERRAL] (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -12540,7 +12540,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04f. Memo From J. Stapleton Roy to Brent Scowcroft 08/21/89 (oy) 54 Re: Phone call from President Bush to Colombia President Barco [SENT FOR AGENCY REFERRAL] (1 pp.) 04g. Talking Points Points to be made for telephone conversation with President 08/21/89 ca 54",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -12572,7 +12572,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "05a. Memo From Philip Hughes to J. Stapleton Roy 08/23/89 coy) g ~ Re: Transmittal of memorandum of conversation of the President's telephone call to Colombia President Barco [SENT FOR AGENCY REFERRAL] (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -12604,7 +12604,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "05b. Memo From Philip Hughes to J. Stapleton Roy 08/23/89 coy) g Re: Transmittal of memorandum of conversation of the President's ' telephone call to Colombia President Barco [SENT FOR AGENCY REFERRAL] (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -12636,7 +12636,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "06a. Memo From J. Stapleton Roy to Brent Scowcroft 06/13/89 wd) Re: Presidential determination on Export-Import Bank Guarantees in Connection with Sale of defense Articles and Services to Colombia (3 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -12668,7 +12668,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "07. Memcon Memorandum of telephone conversation between President Bush 05/16/89 oy ) go and President Barco, Colombia [SENT FOR AGENCY REFERRAL] (3 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -12701,7 +12701,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE WASHINGTON August 25, 1989 Presidential Determination No. 89-24 MEMORANDUM FOR THE SECRETARY OF STATE SUBJECT: Determination to Authorize the Furnishing of Immediate Military Assistance to Colombia and the Provision of Training to Law Enforcement Personnel Pursuant to the authority vested in me by Section 506(a) of the Foreign Assistance Act of 1961, as amended (\"the Act\"), 22 U.S.C. 2318(a), I hereby",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12734,7 +12734,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "6680 Add-on THE WHITE HOUSE WASHINGTON August 24, 1989 ACTION MEMORANDUM FOR THE PRESIDENT THROUGH: _ THE EXECUTIVE CLERK FROM: BRENT SCOWCROFT (D> SUBJECT: Determination Authorizing Emergency Assistance to Colombia Purpose To authorize the provision of emergency military assistance to Colombia, including assistance to law enforcement personnel. Background At Tab A is a Presidential Determination authorizing the emer",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; democracy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12766,7 +12766,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL | 7 WASHINGTON, D.C. 20506 cy Ce August 23, 1989 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of Memorandum of Conversation of the President's Telephone Call to Colombian President Barco (U) The memorandum of conversation of the President's telephone call to Colombian President Barco on August 21, 1989, attached at Tab A should be forwarded to ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12798,7 +12798,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "cowrspenesac CONFIBENHAL «60s NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of Memorandum of Conversation of the President’s Telephone Call to Colombian President Barco (UW) The memorandum of conversation of the President’s telephone call to Colombian President Barco on August 21, 1989, attached at Tab A should be forwarde",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12830,7 +12830,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“e CONTINENTAL ‘copteapennsas, GUI TIDLINTTAL 6609 THE WHITE HOUSE WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with Virgilio Barco Vargas, President of Colombia PARTICIPANTS: The President Virgilio Barco Vargas Notetaker: William T. Pryce DATE, TIME August 21, 1989, 8:04 - 8:20 p.m. AND PLACE: Kennebunkport, Maine The President: Mr. President, I am calling to express my condolences",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12862,7 +12862,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Citi THE WHITE HOUSE SONPEBENTIAT WASHINGTON 3767 DECLASSIFIED PER E.0. 12958, AS AMENDED 4000 -044- MEMORANDUM OF CONVERSATION 59 sil )07 SUBJECT: Telephone Conversation Between the President and President Barco of Colombia PARTICIPANTS: The President Paul Lebras, White House Situation Support Staff, Notetaker Brenda Hilliard, NSC Steno DATE, TIME May 16, 1989, 6:35 P.M. ~- 6:43 P.M. AND PLACE: Residence, White Hous",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12894,7 +12894,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 3305 May 8, 1989 MEMORANDUM FOR SUSAN PORTER ROSE FROM: G. PHILIP roca BR va SUBJECT: Invitation to Mrs. Bush to Serve as Co-Chair of Colombian Exposition at the Portland Museum of Art You have asked for NSC comments on an invitation to Mrs. Bush by the Portland Museum of Art to lend her name as Co-Chair of an exhibition of pre-Columbian gold, along with the Colombian ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12926,7 +12926,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 3305 May 5, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES FROM: DAVID A. PACELLI pe’ SUBJECT: Invitation to Mrs. Bush to Serve as Co-Chair of Colombian Exposition at the Portland Museum of Art Susan Porter Rose has asked for NSC comments on an invitation to Mrs. Bush by the Portland Museum of Art to lend her name as Co~ Chair with Mrs. Barco, the First Lady of Colombia, ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12958,7 +12958,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "\" GONDEDENEEAL, 1490 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 March 8, 1989 DECLASSIFIED ACTION PER NSC WAIVER, 1600 20AI-04° By_S2__NARA, Date6lé/ MEMORANDUM FOR BRENT SCOWCROFT FROM: G. PHILIP HUGHEI SUBJECT: President’s Telephone Call to Colombian President Barco The President just telephoned to inquire if we were successful in monitoring his telephone call with President Barco. I explained that, regrettab",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -12990,7 +12990,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 3305 MEMORANDUM FOR SUSAN PORTER ROSE SUBJECT: Invitation to Mrs. Bush to Serve as Co-Chair of Colombian Exposition at the Portland Museum of Art You have asked for NSC comments on an invitation to Mrs. Bush by the Portland Museum of Art to lend her name as Co-Chair of an exhibition of pre-Columbian gold, along with the Colombian First Lady, Mrs. Virgilio Barco. We rec",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13022,7 +13022,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03a. Memorandum To: James Cicconi From: Brent Scowcroft 6/1/89 (b)(6) Re: President's response (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -13054,7 +13054,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04a. Memorandum To: James Cicconi From: Brent Scowcroft 6/1/89 (b)(6) Re: President's response (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -13086,7 +13086,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 5446 July 14, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT ELLIS nw FROM: WILLIAM T. PRYCE' oh SUBJECT: President’s Interest in the Health of Sixto A. Duran-Ballen’s Daughter The President asked Ambassador Holwill in Quito to inquire about the health of the daughter of a close friend of a former neighbor and friend of his and to advise him when the conta",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13118,7 +13118,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 89157649 United States Department of State pa.. S4Y6 Washington, D.C. 20520 July 8, 1989 NCL. IFIED MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Letter to President Bush from Sixto A. ~ Duran-Ballen Attached is a letter to the President from Mr. Sixto A. Duran-Ballen. The President wrote to Ambassador Holwill in Quito, Ecuador on May 8 asking that Mr. Duran~Ballen be contacted concerning the health of ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13150,7 +13150,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "” MEMORANDUM FOR: SUBJECT: 8926384 es United States Department of State 9270 Washington, D.C. 20520 November 16, 1989 Mr. Philip Hughes Executive Secretary National Security Council Staff The White House Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from President Rodrigo Borja of Ecuador which is transmitted for your information. This correspondence was received ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13183,7 +13183,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 July 12, 1989 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: The President’s Telephone Conversation with President Carlos Andres Perez of Venezuela Attached at Tab A is the memorandum of the President’s telephone conversation with Venezuelan President Carlos Andres Perez on June 23, 1989. It should be transmitted to Assistant Secretary",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13216,7 +13216,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SEGRET SRGRES 5180 NATIONAL SECURITY COUNCIL WASHINGTON, D.C, 20506 June 29, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES THROUGH: EVERETT ELLIS BRIGGS 4 FROM: DAVID A. PACELLDY? SUBJECT: The President’s Telephone Conversation with President Carlos Andres Perez of Venezuela Attached at Tab I is your memorandum to Stapleton Roy transmitting to the State Department the memorandum of the President’s telephone conversatio",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13248,7 +13248,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL 4) ( 8-May-1989 14:58 EDT UNCLASSIFIED MEMORANDUM FOR: David Pacelli ( PACELLI ) Nancy B. Dyke ( DYKE ) Virginia A. Lampley ( LAMPLEY ) FROM: E. Bret Coulson ( COULSON ) SUBJECT: Presidential Delegation to Paraguay If none of you have any problems with this list, I will go ahead and prepare a Memorandum from Scowcroft to Untermeyer. If you have any comments, additions, deletions, etc., pleas",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13280,7 +13280,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "THE WHITE HOUSE WASHINGTON May 5, 1989 wee Bo MEMORANDUM FOR THE ‘PRESIDENT FROM: JOHN SUNUNU, CHIEF OF STAFF CHASE UNTERMEYER LG MoD SUBJECT: DELEGATION TO THE INAUGURATION OF THE PRESIDENT OF PARAGUAY, MAY 15, 1989; The State Department recommends sending a Presidential Delegation “to Asuncion on May 15 for the inauguration of Paraguay's newly elected president. Given that Kansas has a very successful Partners of t",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13312,7 +13312,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ". \"Preeeex om) Fle é 3479 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508: May 11, 1989 MEMORANDUM FOR J. BONNIE NEW FROM: G. PHILIP HUGHES SUBJECT: Request for Aircraft to Transport the U.S. Delegation to the Inauguration of the President of Paraguay ‘ ‘: The Department of State has requested that transportation for the U.S. Presidential Delegation to the May 15 inauguration of the President of Paraguay be provided",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-001, Paraguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13344,7 +13344,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "05b. Memo Brent Scowcroft to POTUS Re: Points to be made in possible nd. wo) 4 telephone call from Peruvian President Garcia (1 pp.). Page 3 of 5 | Collection:",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -13376,7 +13376,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08a. Memo William Pryce & David Pacelli to Brent Scowcroft 05/22/89 () V4 Re: Possible Call to the President from Peruvian President Garcia (2 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -13408,7 +13408,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08b. Memo Brent Scowcroft to POTUS Re: Points to be made in possible n.d. wo 74 telephone call from Peruvian President Garcia (1 pp.) 08c, Talking Points Points to be made for telephone call to Peruvian President n.d. (oy) 4 Garcia (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -13441,7 +13441,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8915468 United States Department of State Washington, D.C. 20520 July 11, 1989 MEMORANDUM FOR: Mr. Philip Hughes Executive Secretary National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed. is the original of_a letter to President Bush from Peruvian President Alan Garcia Perez which is transmitted for your information. This correspondence was received in the ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13473,7 +13473,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "oy 983516SS Y4oy WHITE HOUSE STAFFING MEMORANDUM Cocument No. 10/20/89 9:00 AM, TUES.. DATE: ACTION/CONCURRENCE/COMMENT DUE BY: TUES., OCT. 2 PRESIDENTIAL INTERVIEW WITH LATIN AMERICAN JOURNALISTS WEDNESDAY, OCTOBER 25, 1989 SUBJECT:, ACTION FYI ACTION, FYI: VICE PRESIDENT \"4 MCCLURE py” Oo SUNUNU a] ” NEWMAN Q | SCOWCROF sacri fs PORTER o06UOU DARMAN g a ROGICH Qo.o BATES Q a UNTERMEYER g a CARD Oo ” BENNETT ” a) CI",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -13505,7 +13505,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "s/s 8919017 United States Department of State Washington, D.C. 20520 6758 August 26, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: | Heads of State and Foreign Ministers in New York at opening of UN General Assembly As requested, attached are lists, updated as of August 25, of Heads of State and Foreign Ministers who are expected to be in New York on September 25 and 26, the first two days of the UN Ge",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -13537,7 +13537,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8919017 United States Department of State Washington, D.C. 20520 August 16, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: heads of State and Foreign Ministers in New York at opening of UN General Assembly As requested, attached are lists of Heads of State and Foreign Ministers who are expected to be in New York on September 25 and 26, the first two days of the UN General Assembly's General Debate. ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -13569,7 +13569,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "5418 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 July 19, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES THROUGH: EVERETT ELLIS prices LAL FROM: DAVID A. PACELLI pnt SUBJECT: _ Some Views on the National Honors Theme for This Year \"The Americas\" Sharion Ham, a college student at New Mexico Junior College, has written the President for his views on the national honors theme for her honors fraternity, \"The Americas: ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -13601,7 +13601,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8912323 United States Department of State Washington, D.C. 20520 Hal 5 May 31, 1989 UNCLASSIFIED (With GORPISESNPTAP Attachment) MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE Subject: Presidential Delegations Calendar An updated Presidential Delegations Calendar for the coming months is attached. Included are events that the Department expects to recommend a presidential representative or delegation attend.. ea. -/ ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -13633,7 +13633,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "‘ 6014 THE WHITE HOUSE WASHINGTON August 5, 1989 MEMORANDUM FOR DOUG WEAD | FROM: BRENT SCOWCROFT So SUBJECT: Schedule Proposal for Women of the Hemisphere Achieving Together My staff has reviewed your proposal that the President meet with the Women of the Hemisphere Achieving Together, headed by Holly Coors, on September 29, 1989 and has no objection. Ted Briggs of my staff, Senior Director for Latin America and the",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -13666,7 +13666,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "—CONFIBENTIAL “CONF ERENT EAS, 6014 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 August 3, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: EVERETT BELLIS. BRIGGS pad fee FROM: DAVID A. PACELLI DAC SUBJECT: Wead Request for Your Reaction to a Schedule Proposal Doug Wead has sent you a schedule proposal for the President to meet with a group called Women of the Hemisphere Achieving Together, headed by former Am",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13698,7 +13698,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL a? WASHINGTON, D.C, 20506 2121 April 7, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT THROUGH: ARNOLD KANTER ( FROM: JUDYT MAND SUBJECT: Presidential Message to OPANAL General Conference At Tab A is a draft Presidential message to the Eleventh General Conference of the Organization for the Prohibition of Nuclear Weapons in Latin America (OPANAL) which will take place in Mexico City from April 1",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -13730,7 +13730,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 { MEMORANDUM FOR ROBERTA RIFKIN Executive Secretary Arms Control and Disarmament Agency Subject: Presidential Message to OPANAL General Conference The NSC concurs with the revised Presidential message to the Eleventh General Conference of the Organization for the Prohibition of Nuclear Weapons in Latin America (OPANAL) to be held in Mexico City, April 18-20. G. Philip ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -13762,7 +13762,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "UNITED STATES ARMS CONTROL AND DISARMAMENT AGENCY Washington, D.C. 20451 OFFICE OF THE DIRECTOR March 28, 1989 MEMORANDUM FOR G. PHILIP HUGHES EXECUTIVE SECRETARY, NATIONAL SECURITY COUNCIL SUBJECT: Presidential Message to the Eleventh OPANAL General Conference The eleventh General Conference of the Organization for the Prohibition of Nuclear Weapons in Latin America (OPANAL) will take place in Mexico City, Mexico, f",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-002, Latin America - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -13795,7 +13795,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "OFFICE OF THE UNITED STATES TRADE REPRESENTATIVE EXECUTIVE OFFICE OF THE PRESIDENT WASHINGTON 20506 UNCLASSIFIED WITH G ATTACHME April 26, 1989 MEMORANDUM FOR LEHMANN LI 4 FROM: Gary R. Edson SUBJECT: TPRG Trade Strategy Review Paper The attached Trade Strategy Review Paper was produced by the Trade Policy Review Group (TPRG) in response to Economic Policy Directive I. UNCLASSIFIED WITH CONFIDENTIAL ATTACHMENT UNCLAS",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; Latin America, debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13828,7 +13828,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C.. 20506 3620 June 16, 1989 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Reply to Letter from The Columbus Group Inc. The Columbus Group Inc., an organization of influential South American businessmen, met with the President on May 11. The President of the Group, Mr. Francisco Macri, wrote to the President requesting that he name a point of ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-011, The Columbus Group [Influential South American Businessmen]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-011, The Columbus Group [Influential South American Businessmen]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; South America, Columbus Group, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13860,7 +13860,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL MEMORANDUM FOR: DOCUMENT DESCRIPTION: TO: SOURCE: DATE: SUBJ: LTR TO PRES FM PRES RAMSEWAK SECURITY COUNCIL ID 8905215 REFERRAL DATE: 07 JUL 89 STATE SECRETARIAT DEPARTMENT OF STATE PRESIDENT RAMSEWAK, SHANKAR 05 JUL 89 RE INDEPENDENCE DAY at REQUIRED ACTION: DIRECT REPLY DUEDATE: 14 JUL 89 COMMENT: Ve GEORGE VAN ERON DIRECTOR NSC SECRETARIAT",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-012, Suriname - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-012, Suriname - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13892,7 +13892,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03a. Memorandum To: Joseph Hagin From: Brent Scowcroft: 1/16/90 oy x Re: Schedule Proposal (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -13924,7 +13924,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "07b. Memorandum To: Joseph Hagin From: Brent Scowcroft: 8/18/89 wf Re: Schedule Proposal (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -13956,7 +13956,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "s/s 8925011 United States Department of State Washington, D.C. 20520 8818 November 1, 1989 MEMORANDUM FOR: Mr. Philip Hughes Executive Secretary National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from President Julio Maria Sanguinetti of Uruguay which is transmitted for your information. This correspondence was r",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -13989,7 +13989,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "United States Department of State &. x ’ AY UNCLASSIFIED Washington, D.C. 20520 T+ m S/S 8910646 June 21, 1989 MEMORANDUM FOR BRENT SCOWCROFT THE WHITE HOUSE SUBJECT: Presidential Letter to Uruguayan President Sanguinetti on the Brady Plan We suggest that the attached draft, TAB 1, form the basis for a response to Uruguay's President, Julio Sanguinetti. Sanguinetti's May 2 letter to President Bush, TAB 2, asks for ra",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14021,7 +14021,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "8910646 United States Department of State Washington, D.C. 20520 35 vi 9 May 11, 1989 MEMORANDUM FOR: Mr. Philip Hughes Executive Secretary National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from Julio Maria Sanguinetti, President of Uruguay which is transmitted for your information. This correspondence was recei",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14053,7 +14053,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIBEN HAL GONPIDENTTAT’ - 3656, NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 DECLASSIFIED PER E.O. 12958, AS AMENDED 000-0424 -F MEMORANDUM OF CONVERSATION MW g Jar}oa SUBJECT: The President’s Telephone Conversation with President Sanguinetti of.Uruguay PARTICIPANTS: The President Stephanie Van Reigersberg (State Department, translator) David Pacelli (NSC, notetaker) President Sanguinetti DATE, TIME May 13, 19",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14085,7 +14085,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "10248 NATIONAL SECURITY COUNCIL WASHINGTON. D.C. 20506 December 22, 1989 MEMORANDUM FOR MR. J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of Memorandum of Conversation of the President’s Telephone Call to President Perez of Venezuela (U) The memorandum of conversation of the President’s telephone call to Venezuelan President Perez on December 20, 1989, attached at Tab A, should be forw",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14117,7 +14117,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "COM “OUI rl J CITI i a Liv fl AC 10248 Cp DECLASSIFIED THE WHITE HOUSE PER E.0. 12958, AS AMENDED 8000 -O494- F @A g2iloa WASHINGTON MEMORANDUM OF TELEPHONE CONVERSATION SUBJECT: Telephone Conversation with President Perez of Venezuela (U) PARTICIPANTS: The President Carlos Andres Perez Interpreter: Stephanie van Reigersberg Notetaker: David Pacelli DATE, TIME December 20, 1989, 3:26 - 3:40 a.m. EST AND PLACE: The Ov",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14149,7 +14149,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENTIAL 8806 Add-on chmen (w/SBGREE attachment) | TONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 December 1, 1989 MEMORANDUM FOR J. STAPLETON ROY | Executive Secretary Department of State SUBJECT: Memorandum of Telephone Conversation with Venezuelan President Carlos Andres Perez (VU) Attached is a partial record of the Memorandum of Telephone Conversation. It must be distributed via NODIS channels and should not ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14181,7 +14181,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "fox cnn ath aaa beat CONFIDENTIAL cor tocinn 8476 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 October 27, 1989 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Memorandum of Conversation with Venezuelan President Carlos Andres Perez (U) Attached at Tab A is a Memorandum of Conversation between the President and Venezuelan President Carlos Andres Perez. This is for the information ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14213,7 +14213,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "e Pe POR signed file Copy v. cour INES! Tru a4 CONFIDENTIAE CP TOE - 7860 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 October 19, 1989 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Memorandum of Conversation between General Scowcroft and Venezuelan Foreign Minister Figueredo Attached at Tab A is a Memorandum of Conversation between General Scowcroft and Venezuelan Foreign Minis",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14245,7 +14245,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "MEMORANDUM FOR: SUBJECT: S/S 8920284 United States Department of State Washington, D.C. 20520 7146 October 13, 1989 Mr. Philip Hughes Executive Secretary National Security Council Staff The White House Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from Venezuelan President Carlos Andres Perez which is transmitted for your information. This correspondence was recei",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14277,7 +14277,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "-GONFIDENTIAR 6637 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 Auqust 23, 1989 MEMORANDUM FOR J. STAPLETON ROY Executive Secretary Department of State SUBJECT: Transmittal of Memorandum of Conversation of the President’s Telephone Call to Venezuelan President Perez The memorandum of conversation of the President’s telephone call to Venezuelan President Perez on August 22, 1989, attached at Tab A should be forwar",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14309,7 +14309,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "By. CONF TPENT EAT 6637 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 August 22, 1989 ACTION MEMORANDUM FOR G. PHILIP HUGHES a THROUGH: EVERETT ELLIS BRIG FROM: WILLIAM T. PRYCE,,J! SUBJECT: Memorandum of Telephone Conversation with President Carlos Andres Perez of Venezuela Attached at Tab A is the memorandum of telephone conversation between the President and Venezuelan President Perez on August 22, 1989. The me",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14342,7 +14342,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "5556 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 August 7, 1989 ACTION MEMORANDUM FOR BRENT SCOWCROFT FROM: WILLIAM T. PRYCE Dat fom SUBJECT: Request for Photo-op with the President for Ambassador Otto Reich Departing U.S. Ambassador to Venezuela, Otto Reich, has written the President asking for a farewell call and photo of him and his family with the President. Reich is returning to the private sector after ser",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy, regional policy; document text visible in OCR"
   },
   {
@@ -14374,7 +14374,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "$/S8914032 United States Department of State 4454 Washington, D.C. 20520 June 23, 1989 MEMORANDUM FOR: Mr. Philip Hughes Executive Secretary National Security Council Staff The White House SUBJECT: Alerting NSCS on Presidential Correspondence Enclosed is the original of a letter to President Bush from Presigent Carlos Andres Perez of the Fepublic of Venezuela which is transmitted for your information. This correspond",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14406,7 +14406,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02a. Memo David A. Pacelli to Brent Scowcroft, Re: Recommended 05/23/89 ox fo Presidential Telephone Call to Venezuelan President Perez. (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -14438,7 +14438,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02d. Memo J. Stapleton Roy to Brent Scowcroft, Re: Telephone call to 05/18/89 (bX) Venezuelan President Carlos Andres Perez. (1 pp.) 02e. Talking Points Re: POTUS telephone call with Venezuelan President Carlos n.d. (b1) Andres Perez. (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -14470,7 +14470,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "05a. Memo J. Stapleton Roy to Brent Scowcroft, Re: Political Instability in 04/12/89 (bx) v4 Venezuela. (1 pp.) 05b. Notes Notes On Carlos Andres Perez (CAP) of Venezuela. (1 pp.) n.d. ww vA",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -14502,7 +14502,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09a. Memo Timothy E. Deal to Brent Scowcroft, Re: Proposed Response to 03/28/89 wh ) zg Venezuelan President Perez's Letters of March 3 and 17. (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -14534,7 +14534,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09f. Memo Emily L. Walker to G. Philip Hughes, Re: Draft Response from 03/27/89 oh) L President Bush to Venezuelan President Perez. (1 pp.) Page 3 of 7",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -14566,7 +14566,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL ID 8902561 MEMORANDUM FOR: DOCUMENT DESCRIPTION: TO: SOURCE: DATE: SUBJ: NOTIFICATION OF FORN TRAVEL REFERRAL DATE: 11 APR 89 STATE SECRETARIAT DEPT OF STATE SCOWCROFT COLE, G 11 APR 89 BY WELCH TO CARACAS 7 - 12 MAY REQUIRED ACTION: COMMENTS /CONCURRENCE DUEDATE: 21 APR 89 COMMENT: _ Wedd FOR GEORGE VAN ERON DIRECTOR NSC SECRETARIAT",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14598,7 +14598,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SONFEDENEIAT DEPARTMENT OF THE TREASURY WASHINGTON 89-74886 March 27, 1989 1907 MEMORANDUM FOR Mr. G. PHILIP HUGHES. Executive Secretary National Security Council FROM: Emily L. Watker fwalhe/ Executive Secretary SUBJECT: Draft Response from President Bush to Venezuelan President Perez Attached is a draft letter for President Bush's signature which responds to the letters of March 3 and March 17 from President Carlos",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14631,7 +14631,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL _CONEIDENTIAL 4 WASHINGTON. 0.C. 20806 1406 March 6, 1989 MEMORANDUM FOR MS. EMILY WALKER Acting Executive Secretary Department of Treasury SUBJECT: Letter to President Bush from Venezuelan President Perez _(€) General Scowcroft has requested that the attached letter from President Perez of Venezuela to President Bush be provided to Secretary Brady. ): ie DECLASSIFIED, White House Guidelines",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14663,7 +14663,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "S/S 8905741 United States Department of State Washington, D.C. 20520 124 UNCLASSIFIED. March 18, 1989 (With CONFIDENTIAL Attachment ) UNCLASSIFIED UPON REMOVAL OF CLASSIFIED ATTACHMENTS a YY, MEMORANDUM FOR BRENT SCOWCROFT A fff THE WHITE HOUSE SUBJECT: Appointment of Simon Alberto CONSALVI Bottaro of the Republic of Venezuela as Ambassador to the United States The Government of the Republic of Venezuela has inquired",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14696,7 +14696,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "~CENFIBEN TAL NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 March 6, 1989 MEMORANDUM FOR MS. EMILY WALKER SUBJECT: Acting Executive Secretary Department of Treasury atu 1406 No Vo i Letter to President Bush from Venezuelan President Perez {€) General Scowcroft has requested that the attached letter from President Perez of Venezuela to President Bush be provided to Secretary Brady. Attachment As stated CONFIDENTIAL",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14729,7 +14729,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 wt £1 a jer> March 4, 1989 MEMORANDUM FOR MR. MELVYN LEVITSKY Executive Secretary Department of State MS. EMILY L. WALKER Acting Executive Secretary Department of Treasury SUBJECT: The President’s Telephone Conversation with Venezuelan President Carlos Andres Perez (UV) 9ilé The President telephoned Venezuelan President Perez at 10?T3@ a.m. on March 3, 1989 to express ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14762,7 +14762,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "| LY CONFIDENTIAL. 1356 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 TIM TAC March 3, 1989 ACTION; SiGaED MEMORANDUM FOR G. PHILIP H ES THROUGH: ROBERT S. STORINO FROM: DAVID A. PACELLI DA SUBJECT: Transmittal of Memorandum of Conversation to Secretary Baker and Secretary Brady Bob Gates has directed that we forward to the Secretary of State and the Secretary of the Treasury the memorandum of conversation attache",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; debt and economy, presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14794,7 +14794,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Ve, -PONEIRENTHL = 1354 THE WHITE HOUSE WASHINGTON DECLASSIFIED PER E.0. 12058; AS AMENDED oA POT aiatlog MEMORANDUM OF CONVERSATION SUBJECT: The President’s Telephone Conversation with President Carlos Andres Perez of Venezuela on March 3, 1989 (UV) PARTICIPANTS: The President Venezuelan President Perez DATE, TIME March 3, 1989, 9:12 a.m. - 9:26 a.m. AND PLACE: Oval Office - Presidential Palace The President and Pre",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14826,7 +14826,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "Botrmcaarcrscseenasd yo (As 1245 NATIONAL SECURITY COUNCIL V ~ WASHINGTON, D.C. 20506 Vretitee February 28, 1989 INFORMATION MEMORANDUM FOR BRENT SCOWCROFT. (( pay (°* THROUGH: ROBERT S. PASTORINO at par 1 Sec Advigor FROM: DAVID A. PACELLI v has seen SUBJECT: Rioting in Venezuela Embassy and press reporting indicate dozens have been killed and several hundred injured in rioting sparked by recent price increases. Pre",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14858,7 +14858,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "CONFIDENT EAE 0091 THE WHITE HOUSE WASHINGTON DECLASSIFIED PER E.0, 12958, AS AMENDED “OFC9-F QU Jy2I109 MEMORANDUM OF CONVERSATION SUBJECT: Memorandum of Conversation Between the President and President-Elect Carlos Andres Perez of Venezuela PARTICIPANTS: The President Clarke M. Brintnall, NSC (Notetaker) Rita Boren, Department of State (Interpreter) President-Elect Carlos Andres Perez DATE, TIME January 24, 1989, 4",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; Presidential or NSC principals; presidential diplomacy; document text visible in OCR"
   },
   {
@@ -14891,7 +14891,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ". mo eo 9 @ “BEGIN TALKING POINTS. “MORE DIFFICULT AND i ace poScrce a,, ECONOMIC MEASURES NEEDED TO HELP ARGENTINA REMAIN ON THE > DEMOCRATIC PATHs A PATH THAT WILL FACILITATE SOLUTION OF THE VERY PROBLEMS HE WILL Now PACE WHEN HE ASSUMES THE PRESIDENCY. YOUR RECENT CALL, ON THE PROSIDENT-ELECT _ CREFTEL} INDICATED THAT HE IS AWARE OF THE SERTOUS SITUATION FACING ARGENTINA AND THE RELLY TO WORD WITH THE ‘IMF AND WOR",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "democracy, debt and economy; document text visible in OCR"
   },
   {
@@ -14923,7 +14923,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "at 9 8 aa _ COMEEDENSEAL - Le ~~BECAUSE you ARE: NOT. WIDELY KNOWN IN THE U-S-+ IT IS EXTREMELY IMPORTANT THAT YOU USE THIS OPPORTUNITY TO NEET WITH A BROAD RANGE OF PUBLIC AND PRIVATE LLALERS, AND THE “MEDIAL Jo,. a END RENE. TALKING POINTS. eee Pane pee pane papal Speyer ate nen ee, SENDING SANE RESSAGE TO: OTHER LFADERS -3e WE ALSO: SEE VALUE IN YOUR DELIVERING SIMILAR | POST~ELECTION MESSAGES TO PRESILFNTIAL CAND",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "democracy; document text visible in OCR"
   },
   {
@@ -14955,7 +14955,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“JOHNSON DAVID 08/28/89 111756 PRINTER: KB 89 LA PAZ 19917 COPTER / EXDIS OR ONLY PAGE 91 LA PAZ 10917 @1 OF 82 2322432 ACTION SS-02 awit INFO LOG-23 ADS-23 Ss0-99 /292 if Gory a------—----------997429 2322442 /38 | O 0 2322282 AUG 89 FM AMEMBASSY LA PAZ TO SECSTATE WASHDC IMMEDIATE 71803 INFO AMEMBASSY BOGOTA AMEMBASSY LIMA AMEMBASSY QUITO AMEMEASSY CARACAS AMEMBASSY PANAMA USAFSO HOWARD AFB PN USCINGSO QUARRY HTS P",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; panama spillover; document text visible in OCR"
   },
   {
@@ -14987,7 +14987,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SECRET S/S-0. INCOMING Department of State PAGE 62 OF 83 LA PAZ 639813 1316587 C17/27 884817 NOD685 ACTION NODS-88 INFO LOG-68 ADS-68 /O00 W we eee eeee ween eens B04214 1316547 /44 0 1316362 JUL 89 ZFF4 FM AMEMBASSY LA PAZ TO SECSTATE WASHDC IMMEDIATE 6244 520 = S-£+-#-£-+ LA PAZ 69813 NODIS STATE FOR L - JUDGE SOFAER AND ARA/DAS SKOL STATE PLEASE PASS TO JUSTICE DEPT FOR MARK RICHARD AND DEA FOR JACK LAWN E.0. 1235",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-012, Bolivia - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics; document text visible in OCR"
   },
   {
@@ -15020,7 +15020,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "TALKING POINTS FOR CLOSED PART OF MBETING WITH JACEK KURON AND MONICA JIMENEZ DE BARROS FOR KURON: -- We are tremendously encouraged by events in Poland. Solidarity has returned to its rightful place in Polish \" life. -- This is in large part to your intellectual and moral leadership. -- Economic reform is now central to Poland’s future. -- I hope to return to Poland soon. As you know, I was in Warsaw in September 19",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "democracy, debt and economy; document text visible in OCR"
   },
   {
@@ -15052,7 +15052,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "05a. Memorandum To: David Pacelli 12/8/89 (b)(1) Cc Re: Attached (1 pp.) 05b. Paper Re: Drugs (1 pp.) 12/8/89 (b)(1) Cc Page 2 of 3",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics; identified on withdrawal sheet"
   },
   {
@@ -15083,7 +15083,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ": 6720 THE WHITE HOUSE WASHINGTON August 24, 1989 oy MEMORANDUM FOR: C. BOYDEN GRAY DAVID Q. BATES, JR. FREDERICK D. McCLURE ROGER B. PORTER DAVID DEMAREST: STEPHEN STUDDERT: GREGG PETERSMEYER JOSEPH W. HAGIN II (FYI) BRENTSSCOWCRORE FROM: Teresa Donovan for SHIRLEY GREEN 93 OEOB SUBJECT: (Draft Proclamation) National D.A.R.E. Day, 1989 Attached for your review is the. above mentioned proclamation designating Septemb",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-013, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug; document text visible in OCR"
   },
   {
@@ -15114,7 +15114,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02a. Memorandum To: Robert Gates From: Rich Lamagna 8/8/89 (b)(1) Re: US Intemational Drug Control Policy and Strategy (3 pp.) 02b. Paper Re: US International Drug Control Policy and Strategy (23 pp.) n.d. (b)(1) ! 02c. Memorandum To: Robert Gates From: Rich Lamagna 8/7/89 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-014, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug; identified on withdrawal sheet"
   },
   {
@@ -15145,7 +15145,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04, Memorandum To: Conference Participants From: Catherine Shaw 4/14/89 (b)G) Re: Conference Details (9 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug; identified on withdrawal sheet"
   },
   {
@@ -15176,7 +15176,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04. Memorandum Re: Conference Details (9 pp.) To: Conference Participants From: Catherine Shaw 4/14/89 (b)(3)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-015, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; narcotics, drug; identified on withdrawal sheet"
   },
   {
@@ -15211,7 +15211,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "TALKING POINTS Congratulations on winning a tough election last November against qualified candidates from the incumbent party. We are pleased to see that democracy has been completely restored in Uruguay. Democracy is also being restored in Panama. As political and economic recovery proceeds, Panama needs to resume normal relations with the democracies in South America. We hope that you will soon send your ambassado",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "democracy, debt and economy, regional policy; document text visible in OCR"
   },
   {
@@ -15243,7 +15243,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "KELLY &ALIJAY JR 09/28/89 116945 PRINTER: «KB 89 CARACAS 3422 COHPESEThré Sse PAGE @1 CARACA $8422 22 OF 73 #915527 ACTION APA-92 INFO LoG-6e ADS-O@ AID-23 INR-G? $5-@8 CIAE-22 EB-3¢ DOTE-22 H-#@1 NSCE-33 NSAE-@0 HA-@9 L~83 TRS2£-8B PM-13 PA~S1 OM3B-31 INRE-23 ACDA-12 USLE-@3 SP+22 SNP-@1 PRS-81 P-Z2 T-@1 /@51 4 ate atetetatattatateieteteer tates 33512@ 3916552 /41 P ¥91551Z SEP 89 FM AMEMBASSY CARACAS TO SECSTATE YA",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; narcotics; document text visible in OCR"
   },
   {
@@ -15275,7 +15275,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL MEMORANDUM FOR: AYERS FROM: VMS MAIL user WHSR (WHSR@VAXE@ ) SUBJECT: 22-Jun-1989 14:18 EDT Received: From VAXE(WHSR) by VAXC with Jnet id 3816 for AYERS@VAXC; Thu, 22 Jun 89 14:18 EDT Date: Thu, 22-JUN-1989 14:17 EST From: <WHSR@VAXE> To: AYERS@VAXC <DIST> SIT: AYERS BRIGGS PACELLI VAX <PREC> ROUTINE <CLAS> CONELDENEIAS <OSRI> RUEHCV <DTG> 1920412 JUN 89 <ORIG> FM AMEMBASSY CARACAS <TO> TO ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; panama spillover; document text visible in OCR"
   },
   {
@@ -15305,7 +15305,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03. Memcon Meeting with Foreign Minister Cavallo of Argentina (3 pp.) W21/89 (b))) s 04a. Cover Sheet Washfax Receipt [redaction] (1 pp.) 6/28/89 (b)G) 046. Memorandum To: Distribution list From: Stapleton Roy 6/28/89 Soe Re: PCC Follow-up Meeting (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -15335,7 +15335,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04c. Memorandum To: Argentina PCC Participants n.d. (b)(1) Cc Re: PCC Meeting (5 pp.) Page | of 5",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -15365,7 +15365,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04d. Memorandum To: Distribution list From: Stapleton Roy 6/28/89 Bay Re: PCC Follow-up Meeting (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -15395,7 +15395,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03. Memcon Meeting with Foreign Minister Cavallo of Argentina (3 pp.) 721/89 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -15425,7 +15425,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04b. Memorandum To: PCC Participants From: Michael Kozak 5/4189 (b)(1) 8 Re: PCC Meeting (1 pp.) ' Page 1 of 4",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -15455,7 +15455,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "07b. Memorandum To: PCC Participants From: Michael Kozak 5/4/89 (b)(1) Ss Re: PCC Meeting (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -15485,7 +15485,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "06. Memorandum Re: Meeting (2 pp.) To: Brock Ayérs/David Pacelli From: Brock Ayers 4/20/89 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -15517,7 +15517,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "production, real wage increases, continued heavy government regulation, and an overvalued exchange rate. In short, more of what has brought Argentina to its knees. A major uncertainty is the role Menem is likely to play during the transition period which could see a collapse of the banking system, hyperinflation, and growing labor unrest. Talking points for your use are at Tab I. David pabelrii concurs. RECOMMENDATIO",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "democracy; document text visible in OCR"
   },
   {
@@ -15547,7 +15547,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "“CONFIDENTIAL CONFIDENTIAL 6257 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 August 14, 1989 MEMORANDUM FOR G. PHILIP HUGHES THROUGH: EVERETT ELLIS BRIGG FROM: DAVID A. PACELLI SUBJECT: Defense Department Proposal to Transfer a U.S. Navy Landing Ship Dock (LSD) to Brazil OMB has requested that the NSC staff review a Defense Department letter to the Speaker of the House which proposes legislation to lease a U.S. N",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; document text visible in OCR"
   },
   {
@@ -15581,7 +15581,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL 10-May-1989 13:05 EDT CONSIRENTIAT™ MEMORANDUM FOR: Richard N. Haass ( HAASS ) Karl Jackson ( JACKSON ) Robert Blackwill ( BLACKWILL ) FROM: Deane Hoffmann (HOFFMANN ) SUBJECT: Super 301 Actions cC: Eric Melby ( MELBY ) USTR plans to send an options paper to the EPC on Friday listing priority trade practices and priority countries. The countries which could be named include: Brazil, EC, Indi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Latin America, debt and economy, regional policy; document text visible in OCR"
   },
   {
@@ -15611,7 +15611,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SONEIDENDEAE SENTH - 4922 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 June 23, 1989 Deputy Natl Sec Advisor INFORMATION has seen MEMORANDUM FOR ROBERT M. GATES THROUGH: EVERETT BRIGcs 9 FROM: DAVID A. PACELLI wat SUBJECT: Additional Threats Against Chilean. Fruit An unidentified caller believed to be the man whose threats last March contributed to the ban on Chilean fruit imports called our Embassy in Santiago t",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; document text visible in OCR"
   },
   {
@@ -15641,7 +15641,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "SEQUENCE OF EVENTS Kuron and Jimenez are greeted in the Oval Office by you. Read statement (Tab A) during the photo op (after the stills), then the press is excused and after photos, you conduct a short closed meeting with your guests. Talking points for the closed session are at Tab B. Attachments Tab A Statement Tab B Talking Points Tab C Participants",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "document text visible in OCR"
   },
   {
@@ -15671,7 +15671,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04d. Memorandum To: Chase Untermeyer From: Roscoe Starek 5/3/89 (b)(6) Re: Recommendation (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -15701,7 +15701,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20508 CONPIBENPTAL™ 1185 February 27, 1989 MEMORANDUM FOR G. PHILIP, HUGHES FROM: ROBERT i. PASTORINO SUBJECT: Meeting’with the Guyanese Minister of Finance On February 22 I met with the Guyanese Minister of Finance, Carl B. Greenidge. I have attached a memo stating the main issues discussed during the meeting. RECOMMENDATION That you forward the attached memo to the Executi",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-013, Guyana - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; document text visible in OCR"
   },
   {
@@ -15733,7 +15733,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03a. Memorandum To: Robert Gates From: Eric Melby 5/1/89 (b)1) x, Re: EPC Meeting (2 pp.) 03b. Talking Points Talking Points (1 pp.) n.d. yd) vA 03c, Paper Re: Trade Policy and the US Trade Position (49 pp.) n.d, ot) x",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Latin America, debt and economy, regional policy; identified on withdrawal sheet"
   },
   {
@@ -15765,7 +15765,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "GCONPEDENPTAT 2 RECOMMENDATION That you use the talking points at Tab I at the EPC. Approve Disapprove Attachments Tab I Talking Points Tab II Trade Strategy Review Paper cc: Jackson Blackwill",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-019, Latin America Economic Affairs 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Latin America, debt and economy, regional policy; document text visible in OCR"
   },
   {
@@ -15796,7 +15796,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "01. Memorandum To: Distribution list 12/13/89 (b)(1) s Re: Warning Meeting (6 pp.) '.",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-021, Warning [Latin America Meeting December 1989]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-021, Warning [Latin America Meeting December 1989]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Latin America, regional policy; identified on withdrawal sheet"
   },
   {
@@ -15827,7 +15827,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02. Memorandum Re: Warning Meeting (6 pp.) 11/30/89 (b)(1) s",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-021, Warning [Latin America Meeting December 1989]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-021, Warning [Latin America Meeting December 1989]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Latin America, regional policy; identified on withdrawal sheet"
   },
   {
@@ -15858,7 +15858,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03. Memorandum To: Distribution list 9/20/89 (b)(1) S Re: Warning Meeting (5 pp.). Page | of |",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-021, Warning [Latin America Meeting December 1989]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-021, Warning [Latin America Meeting December 1989]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Latin America, regional policy; identified on withdrawal sheet"
   },
   {
@@ -15890,7 +15890,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL 31-Jan-1990 18:04 EDT UNCLASSIFIED Brenda I. Hilliard ( HILLIARD ) MEMORANDUM FOR: FROM: David Pacelli (PACELLI) SUBJECT: RE: Meeting With LaCalle (Uruguay) Secretary Brady S no need £6 come to this meeting, in my opinion. Minister of Economy, previously thought to be an attendee, cannot come. Ganev be a -élect named Both speak excellen nglish. No translator necessary. U.S. anassadog WIDE 41",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; debt and economy; document text visible in OCR"
   },
   {
@@ -15920,7 +15920,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "07. Memcon Memorandum: of Conversation, Re: Meeting with Reinaldo: 10/02/89 (b)(1) Cc Figueredo, Foreign Minister of Venezuela. (4 pp.) pneu A oa ~ aE",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -15953,7 +15953,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04. Cable From Secretary of State to American Embassy, Bogota 09/30/89 (b)(1) S Re: Extradition (3 pp.) 05a. Cover Memo From J. Stapleton Roy, DOS to Brent Scowcroft 09/30/89 (b)(1) s Re: denials of visas to Colombian politicians (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-008, Colombia - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "Presidential or NSC principals; narcotics, presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -15985,7 +15985,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03c. Letter To: President Arias From: President Bush (3 pp.) n.d, (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; narcotics, drug, presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16018,7 +16018,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03f. Letter To: President Arias From: President Bush (3 pp.) n.d. (b)(1) 04, Paper Re: Cuba (7 pp.) nd. (bl) Page 2 of 2",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-016, Drug / Anti-Narcotics - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; narcotics, drug, presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16051,7 +16051,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09c. Letter POTUS to President Carlos Andres Perez of Venezuela, Re: nd, )1) Economic and debt issues. (2 pp.) “69d-—Cable———_ From U-S- Embassy, Caracas; Re-CAP's {Carles-Andres Perez}—__—-03 04/89. <8} —¢- Letter to President Bush--English Text. (3 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "Presidential or NSC principals; debt and economy, presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16084,7 +16084,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09c. Letter Economic and debt issues. (2 pp.) POTUS to President Carlos Andres Perez of Venezuela, Re: (b)1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-019, Venezuela - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "Presidential or NSC principals; debt and economy, presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16116,7 +16116,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "06. Cable 051609z Aug 89 (2 pp.) 8/5/89 (b)1) c Qee. Memorandum To: Brent Scowcroft From: William Pryce/Timothy Deal 7120/89 (eg a we Re: Your Meeting (2 pp.) ger Talking Poirits Points to be Made for Meeting (3 pp.) n.d. per xa",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-007, Argentina - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16148,7 +16148,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08. Cable From American Embassy, Bogota to Secretary of State 06/07/89 yA), pS 5A Re: President Barco cannot visit Washington June 20 (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-010, Colombia - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16180,7 +16180,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03b. Letter To: President Febres-Cordero From: President Bush n.d, (b)(6) | Re: Recommendation (1 pp.) | |",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16212,7 +16212,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03e. Letter To: President Febres-Cordero From: Chase Untermeyer 4/10/89 (b)(6) Re: Recommendation (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16244,7 +16244,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04b. Letter To: President Febres-Cordero From: President Bush n.d. (b)(6) Re: Recommendation (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16276,7 +16276,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04e. Letter To: President Febres-Cordero From: Chase Untermeyer 4/10/89 (b)(6) Re: Recommendation (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16308,7 +16308,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03b. Letter Re: Recommendation (1 pp.) To: President Febres-Cordero From: President Bush (6)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16340,7 +16340,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03c. Letter Re: Recommendation (1 pp.) To: President Bush From: President Febres-Cordero 2/16/89 (b)(6)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16372,7 +16372,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03e. Letter Re: Recommendation (1 pp.) To: President Febres-Cordero From: Chase Untermeyer 4/10/89 (b)(6)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16404,7 +16404,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04b. Letter Re: Recommendation (1 pp.) To: President Febres-Cordero From: President Bush.d. (b)(6)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16436,7 +16436,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04c. Letter Re: Recommendation (1 pp.) To: President Bush From: President Febres-Cordero 2/16/89 (b)(6)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16468,7 +16468,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04e. Letter Re: Recommendation (1 pp.) To: President Febres-Cordero From: Chase Untermeyer 4/10/89 (b)(6)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16500,7 +16500,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08a. Letter Re: Recommendation (1 pp.) To: Newt Gingrich From: Brent Scowcroft 6/27/89 (b)(6)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16532,7 +16532,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08c. Letter Re: Letter of recommendation (1 pp.) To: Brent Scowcroft From: Newt Gingrich - 47/89 (b)(6)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, Folder ID Number CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00194, CF00194-019, Ecuador - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16564,7 +16564,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "05d. Cable U.S. Embassy Lima to Secretary of State - 05/20/89 Orel 4 Re: Garcia call to President Bush (3 pp.) 06. Discussion NSC Meeting Discussion Paper Re: Peru (8 pp.) n.d. (61) Ss Paper",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "Presidential or NSC principals; presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16596,7 +16596,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04. Report Government report [double-sided]. (2 pp.) 02/15/89 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16628,7 +16628,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "05. Report Government report. (1 pp.) 02/27/89 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16660,7 +16660,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "06. Report Government report. (1 pp.) 02/24/89 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16692,7 +16692,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "07. Report Government report. (1 pp.) 02/07/89 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16724,7 +16724,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08. Report Government report. (1 pp.) 08/18/87 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16756,7 +16756,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09. Report Government report [double-sided]. (2 pp.) 03/16/89 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-022, [Briefing Material for POTUS Meeting with Venezuelan President Carlos Andres Perez 4/89] [loose]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "presidential diplomacy; identified on withdrawal sheet"
   },
   {
@@ -16792,7 +16792,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "01. Report Report on Director Gelb's Trip to Peru, Bolivia, and Colombia, 10/89 Os 4 October 10-16, 1989 (3 pp.):.",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -16828,7 +16828,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03. Report Report on Director Gelb's Trip to Peru, Bolivia, and Colombia, 10/89 (b)d1) Cc October 10-16, 1989 (3 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -16860,7 +16860,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "05. Cable From Secretary of State to American Embassy, Bogota 12/12/89 ot Re: Andean Summit [SENT FOR AGENCY REFERRAL] (2 pp.) Page 1 of 3",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "narcotics; identified on withdrawal sheet"
   },
   {
@@ -16892,7 +16892,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08. Cable From American Embassy, Bogota to Secretary of State 11/30/89 ox! ) Re: US - Andean Summit confirmed for February 15 [SENT FOR AGENCY REFERRAL] (2 pp.) ~ KON",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "narcotics; identified on withdrawal sheet"
   },
   {
@@ -16924,7 +16924,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02. Cable From American Embassy, Bogota to Secretary of State 09/16/89 (o(1) Re: Site for Andean Drug Summit (3 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-009, Colombia - January 20, 1989-December 31, 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "narcotics; identified on withdrawal sheet"
   },
   {
@@ -16956,7 +16956,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02. Cable 070304z Dec 89 (1 pp.) 12/7/89 ba ——",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-002, Andean [Drug] Summit 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -16988,7 +16988,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08b. Cable Re: Discussion (9 pp.) 11/25/89 (by) gL",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-003, Andean [Drug] Summit 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -17020,7 +17020,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "02b. Cable Re: Draft Agenda (3 pp.) 11/21/89 (by",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-004, Andean [Drug] Summit 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-004, Andean [Drug] Summit 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -17052,7 +17052,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "09, Cable Re: Discussion (9 pp.) 11/25/89 (b)1) ZL 10. Cable Re: Letter (2 pp.) 11/27/89 (yd) gw 11. Memo To: Distribution List From: John Walters n.d. (b)(1) Re: Attached (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-004, Andean [Drug] Summit 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-004, Andean [Drug] Summit 1989 [3]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "Andean, drug, narcotics; identified on withdrawal sheet"
   },
   {
@@ -17082,7 +17082,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "08a. Memorandum For the Record ~ 5/4/89 (b)(1) S Re: Policy Coordinating Committee (3 pp.) 08b. List Attendees list [redaction] (1 pp.) 5/4/89 (b)3) os Cable Re: Instructions (12 pp.) 5/16/89 gern) a",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-008, Argentina - January 20, 1989-December 31, 1989 [4]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17112,7 +17112,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "i i TC le } 9192 “NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 November 17, 1989 MEMORANDUM FOR JAMES C. MURR Assistant Director for Legislative Reference SUBJECT: HR 3544 - To authorize the transfer of a specified naval landing ship dock to the Government of Brazil under the leasing authority of Charpter 6 of the Arms Export Control Act The NSC supports the proposed legislation wi n hange. G. Philip sughesp —— E",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; document text visible in OCR"
   },
   {
@@ -17142,7 +17142,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL SECURITY COUNCIL ID 8908268 REFERRAL DATE: 07 NOV 89 MEMORANDUM FOR: STATE SECRETARIAT DEPARTMENT OF STATE DOCUMENT DESCRIPTION: TO: LIPNIK, MOISES SOURCE: HUGHES DATE: 06 NOV 8&9 SUBJ: LTR RE THANKS FOR THOUGHTFUL MSG 11 SEP REQUIRED ACTION: FOR DISPATCH DUEDATE: COMMENT: A FOR GEORGE VAN ERON —_ DIRECTOR NSC SECRETARIAT",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; document text visible in OCR"
   },
   {
@@ -17172,7 +17172,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "7540 NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 September 26, 1989 misono NOTED MEMORANDUM FOR G. PHILIP HUGHES THROUGH: EVERETT ELLIS srrecs\\ 7 FROM: WILLIAM T. PRYCE/ iF SUBJECT: Official Travel to Rio de Janeiro, Brazil I question whether we need take any action on this. If you believe it appropriate we could circulate a memo from you to the NSC staff informing them of Roy’s memorandum. ‘ Attachment Tab I In",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; document text visible in OCR"
   },
   {
@@ -17202,7 +17202,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "; NNCINC Pi fist reste CONBIDENTIAL LUNI IDEN HAL 6257 NATIONAL SECURITY COUNCIL —) Ga WASHINGTON, D.C. 20506 August 16, 1989 MEMORANDUM FOR RONALD K. PETERS FROM: G. PHILIP HUGHE SUBJECT: Defense Department Proposal to Transfer a U.S. Navy Landing Ship Dock (LSD) to Brazil The NSC staff has reviewed and concurs with the draft Defense Department letter to the Speaker of the House proposing legislation to lease a U.S.",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-013, Brazil - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; document text visible in OCR"
   },
   {
@@ -17232,7 +17232,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03a. Memo From Clarke M. Brintnall to Robert M. Gates 02/16/1989 (b)(1) Ss Re: Road (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17262,7 +17262,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03b. Memo From John R. Allen to Robert S. Pastorino 02/15/1989 (b)(1) S Re: Road (3 pp.) | 04a. Memo From Tyrus W. Cobb and Robert S. Pastorino to John D. 12/19/1988 (b)(1) Ss Negroponte",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17292,7 +17292,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04k. Memo To Tyrus W. Cobb 11/01/1988 (b)(1) Re: Supercomputer for IT (1 pp.) 041. Letter From Michael M. Skol to Gordon Oehler (2 pp.) 11/17/1988 (b)(1) Ss",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17322,7 +17322,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04m. Memo For Super Computer Working Group 11/22/1988 (b)(1) S Re: Sale (3 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17352,7 +17352,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04n. Memo From Richard T. Kennedy to Allen Wendt 11/09/1988 (b)(1) Ss re: Paper on Brazil/IT/Supercomputer (1 pp.) 040. Memo From Michael D. Rosenthal to Beatrice Barthelemy 11/03/1998 (b)(1) Cc Re: Supercomputer Export License to Brazil - IT (2 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17382,7 +17382,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04p. Memo From Carlton Thorne to Mr. Rosenthal 11/04/1988 (b)0) Cc Re: Supercomputers for Brazil -IT (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17412,7 +17412,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04q. Memo From Ed Fei to Bratrice Barthelmy 11/4/88 (b)(1) Re: DOE Position on Supercomputer to IT (1 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17442,7 +17442,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04s. Memo From Michael D. Rosenthal to Carl Thorne 05/12/1988 wo) 54 Re: Conditions for a Supercomputer Export to IT Service Bureau 2 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17472,7 +17472,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04t, Memo From Albert P. Solga to Robin Delabarre 04/25/1988 wh v4 Re: Conditions for supercomputer to IT service bureau (6 pp.)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17502,7 +17502,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03a. Memo Re: Road (1 pp.) From Clarke M. Brintnall to Robert M. Gates 02/16/1989 (®))",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17532,7 +17532,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "03b. Memo Re: Road (3 pp.) From John R. Allen to Robert S. Pastorino 02/15/1989 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17562,7 +17562,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04a. Memo Negroponte Re: Brazil Supercomputer (2 pp.) From Tyrus W. Cobb and Robert S. Pastorino to John D.",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17592,7 +17592,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04c. Memo From Melvyn Levitsky to General Colin Powell Re: Supercomputer Export License for Brazil (2 pp.) 12/07/1998 (b/)Q)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17622,7 +17622,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04m. Memo For Super Computer Working Group Re: Sale (3 pp.) 11/22/1988 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17652,7 +17652,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04n. Memo From Richard T. Kennedy to Allen Wendt re: Paper on Brazil/IT/Supercomputer (1 pp.) 11/09/1988 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17682,7 +17682,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04p. Memo From Carlton Thorne to Mr. Rosenthal Re: Supercomputers for Brazil-IT (1 pp.) 11/04/1988 (b))",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17712,7 +17712,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": ": | UNITED STATES OEPAATMENT OF COMMERCE | BUREAU OF EXPCRT ACMINISTRATICN Washington, 0.C. 20230 [avai lottater Unt is tad rr Ue wR 25 822 MEMORANDUM FOR Robin Délabarre DOS/OEA/NEC \"wilt FROM: Albert P. Solga OTPA/SPB SUBJECT: Conditions for supercomputer to IT service bureau (FOUO) Please find attached the end use and security procedures plan submitted by Cray Research, and agreed to by IT, in support of the expor",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, Folder ID Number CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00189, CF00189-014, Brazil - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2004-0734-F.",
     "reviewReason": "memorandum form; document text visible in OCR"
   },
   {
@@ -17742,7 +17742,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "06. Memo From WHSR to Pryce Re: Chile-U.S. (3 pp.) 11/2/89 (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-005, Chile - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2004-0731-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17772,7 +17772,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "01. Memo From Michael Kozak & Elizabeth Verville to Robert Kimmitt 04/11/89 (b)C1) Cc Re: Bank Indictment Affects Colombian Government Accounts G pp) 02a. Cover Memo From Philip Hughes to J. Stapleton Roy 12/22/89 tt )",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17802,7 +17802,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "NATIONAL. SECURITY COUNCIL WASHINGTON, D.C. 20506 November 1, 1989 ACTION MEMORANDUM FOR ROBERT M. GATES THROUGH: WILLIAM T. PRYCH A FROM: DAVID A. PACELLI pat SUBJECT: Status of Sea Search-Armada Case Ed Rogers of Governor Sununu’s office has sent you a note asking if there is anything we can do for some American treasure hunters who are embroiled in a dispute with Colombia over a Spanish galleon they have discovere",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, Folder ID Number CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00195, CF00195-007, Colombia - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2001-0434-F.",
     "reviewReason": "memorandum form; document text visible in OCR"
   },
   {
@@ -17832,7 +17832,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "7567 ae, te September 19, 19389 MEMORANDUM FOR THE HONORABLE CHASE UNTERMEYER THE WHITE HOUSE Subject: Nomination of Anthony Cecil Eden Quainton as Ambassador to the Republic of Peru Transmitted herewith is the paperwork associated with the prospective nomination of Anthony Cecil Eden Quainton, of Washington, a Career Member of the Senior Foreign Service, Class of Career Minister, as Ambassador Extraordinary and Plen",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-003, Peru - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2001-0010-F.",
     "reviewReason": "memorandum form; document text visible in OCR"
   },
   {
@@ -17863,7 +17863,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "01. Memorandum To: Legislative Liaison Officer From: Ronald Peterson 5/3/89 (b)(3) Re: HFAC Markup of the Foreign Assistance Act [redaction] (I PP.) Page | of 1",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, Folder ID Number CF00196-021, Latin America - General - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00196, CF00196-021, Latin America - General - January 20, 1989-December 31, 1989 [2]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Latin America, regional policy; identified on withdrawal sheet"
   },
   {
@@ -17894,7 +17894,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "- ~ 7 Ac eEacek ge NATIONAL SECURITY COUNCIL WASHINGTON, D.C. 20506 Julv 19, 1989 MEMORANDUM FOR SALLY KELLEY FROM: G. PHILIP HUGHE SUBJECT: Draft Response o National Honors Theme for This Year \"The Americas\" The NSC staff concurs with the draft response to Sharion Ham, college student at New Mexico Junior College, with the editing changes as indicated at Tab A. Attachment Tab A State Department Draft Response a",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, Folder ID Number CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00192, CF00192-001, Latin America - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; Latin America, regional policy; document text visible in OCR"
   },
   {
@@ -17924,7 +17924,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04a, Memcon Memorandum of Conversation (1 pp.) n.d. (b)(1) c",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17954,7 +17954,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04b. Memcon Memorandum of Conversation (1 pp.) 12/20/89 (b)(1) S",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -17984,7 +17984,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "04a. Memcon Memorandum of Conversation (1 pp.) (b)(1)",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-016, Uruguay - January 20, 1989-December 31, 1989. Access restriction: Restricted - Possibly. FOIA 2015-0017-S.",
     "reviewReason": "memorandum form; identified on withdrawal sheet"
   },
   {
@@ -18014,7 +18014,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "RELLY ETIJAG JR 29/23/39 112945 PRINTER: KF 39 CARACAS 3422 SRS Seana PAGE O1 CARACA 23422 01 OF @% 2915512 ACTION AnA-22 INFO LOG-O7 ADS-3% AID-3% = INR-37- 5-32 CIAI-32 LE-23 DIDE-@@ 9-21 NSCE-@8 NSAE-@2 HA-29 L-o2 TRSE-BO PM—19 = PA-21_— OM B=71.—-s SVC-@2_~—CsINRE-BJ ACDA-12 USIE-a SP-82 SNP-O1 PES-21 P-22 T-31 /751 4 ------------------ 235073 0915562 /41 P 7915512 SEP 39 FM AMEMEASSY CARACAS TO SECSTATE WASH ™C ",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; document text visible in OCR"
   },
   {
@@ -18044,7 +18044,7 @@ window.SUBJECT_PRINT_CANDIDATES = [
       "url": "https://catalog.archives.gov/id/376217847"
     },
     "ocrSnippet": "KELLY ELIJAH JR 9/28/39 113946 PRINTER: K3 89 CARACAS 8422 COMPETENT COPS PAGE 91 CARACA @8422 @2 OF @3 3915522 ACTION ARA-@A” INFO LOG-@3 ADS-23 AID-@a INR-47 35-29 CIAE-2% HB-29 LODE-86 4-1 NSCE-06 NSAE-@8 HA-@9 L-82 TRSE-@G PM-16 PA-@1 OMB-91 INRE-@2 ACDA-12 USIE-2@ SP-92 SNP-61 PRS-81 P-72 T-a1 /A51 ¥ mot rrr 35512 B9155EZ /41 P 2315512 SEP a9 FM AMEMPASSY CARACAS TO SECSTATE WASHDC ORIORITY 3474 INFO CONTADORA C",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, Folder ID Number CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Latin American Affairs Directorate Files, Subject File 1989, OA/ID CF00193, CF00193-018, Venezuela - January 20, 1989-December 31, 1989 [1]. Access restriction: Restricted - Possibly. FOIA 2009-0704-F.",
     "reviewReason": "memorandum form; document text visible in OCR"
   }
 ];

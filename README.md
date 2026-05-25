@@ -199,9 +199,19 @@ Volume XXXI Bush-document Source Note pattern, prepends the provenance sheet to 
 
 The visible Source note follows the model used in *Foreign Relations, 1989-1992, Volume XXXI, START I,
 1989-1991*: repository, Bush Presidential Records, office or collection, series, OA/ID or file unit,
-folder title, then release facts. Working metadata such as NAIDs, catalog URLs, digital-object
-filenames, source page ranges, duplicate provenance, and project-PDF construction remains in the
-expanded provenance trail for each record.
+folder title, then release facts. Catalog-only working metadata such as NAIDs, table rows, digital
+objects, source page ranges, duplicate provenance, and project-PDF construction remains in structured
+metadata or the expanded provenance trail rather than the visible Source note.
+
+After refreshing any memcon, telcon, or print-candidate dataset, normalize the public citation fields
+with:
+
+```bash
+node scripts/refresh-frus-source-notes.js
+```
+
+This writes `reports/source-note-audit.json` and keeps the visible notes aligned with the Volume
+XXXI pattern while preserving long catalog trails in `provenanceNote` when needed.
 
 ## Persons List
 
