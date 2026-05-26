@@ -1,0 +1,4387 @@
+{
+  "generatedAt": "2026-05-26T02:11:13.872Z",
+  "sourceSeries": {
+    "name": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "naid": "186322",
+    "url": "https://catalog.archives.gov/id/186322",
+    "localIdentifier": "GB-WHASF-001",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "collectionUrl": "https://catalog.archives.gov/id/1081",
+    "repository": "George H.W. Bush Library",
+    "recordGroup": "Bush Presidential Records"
+  },
+  "scopeNote": "The Presidential Daily Diary and Daily Backup files are date-level references for schedule/call context; the series description says they do not contain telephone-call summaries or meeting minutes.",
+  "memconTelconDatesChecked": 92,
+  "memconTelconRecordsUpdated": 126,
+  "dailyDiaryReferencesHarvested": 556,
+  "matchedMemconTelconDateReferences": 184,
+  "catalogSearchLeadReferences": 372,
+  "datesWithoutReferences": [],
+  "searchTerms": [
+    "Argentina",
+    "Argentine",
+    "Alfonsin",
+    "Menem",
+    "Bolivia",
+    "Bolivian",
+    "Paz Zamora",
+    "Brazil",
+    "Brazilian",
+    "Sarney",
+    "Collor",
+    "Itamar Franco",
+    "Chile",
+    "Chilean",
+    "Aylwin",
+    "Pinochet",
+    "Colombia",
+    "Colombian",
+    "Barco",
+    "Gaviria",
+    "Ecuador",
+    "Ecuadorian",
+    "Borja",
+    "Duran Ballen",
+    "Guyana",
+    "Guyanese",
+    "Hoyte",
+    "Jagan",
+    "Paraguay",
+    "Paraguayan",
+    "Andres Rodriguez",
+    "Peru",
+    "Peruvian",
+    "Fujimori",
+    "Alan Garcia",
+    "Suriname",
+    "Surinamese",
+    "Shankar",
+    "Bouterse",
+    "Uruguay",
+    "Uruguayan",
+    "Sanguinetti",
+    "Lacalle",
+    "Venezuela",
+    "Venezuelan",
+    "Carlos Andres Perez",
+    "Caldera"
+  ],
+  "dateReport": [
+    {
+      "date": "1989-01-23",
+      "catalogDate": "1/23/1989 / 01/23/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 69,
+      "matchedReferences": [
+        {
+          "naid": "415889605",
+          "title": "[Presidential Daily Backup] 1/23/1989",
+          "localIdentifier": "12789-008"
+        },
+        {
+          "naid": "415889604",
+          "title": "[Presidential Daily Diary] 1/23/1989 [EMPTY]",
+          "localIdentifier": "12789-007"
+        }
+      ]
+    },
+    {
+      "date": "1989-01-24",
+      "catalogDate": "1/24/1989 / 01/24/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 50,
+      "matchedReferences": [
+        {
+          "naid": "415889606",
+          "title": "[Presidential Daily Diary] 1/24/1989",
+          "localIdentifier": "12789-009"
+        },
+        {
+          "naid": "415889607",
+          "title": "[Presidential Daily Backup] 1/24/1989",
+          "localIdentifier": "12789-010"
+        }
+      ]
+    },
+    {
+      "date": "1989-02-25",
+      "catalogDate": "2/25/1989 / 02/25/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 31,
+      "matchedReferences": [
+        {
+          "naid": "415889671",
+          "title": "[Presidential Daily Backup] 2/25/1989",
+          "localIdentifier": "12791-018"
+        },
+        {
+          "naid": "415889670",
+          "title": "[Presidential Daily Diary] 2/25/1989 [EMPTY]",
+          "localIdentifier": "12791-017"
+        }
+      ]
+    },
+    {
+      "date": "1989-03-03",
+      "catalogDate": "3/3/1989 / 03/03/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 2088,
+      "matchedReferences": [
+        {
+          "naid": "415889682",
+          "title": "[Presidential Daily Diary] 3/3/1989",
+          "localIdentifier": "12791-029"
+        },
+        {
+          "naid": "415889683",
+          "title": "[Presidential Daily Backup] 3/3/1989",
+          "localIdentifier": "12791-030"
+        }
+      ]
+    },
+    {
+      "date": "1989-03-08",
+      "catalogDate": "3/8/1989 / 03/08/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 83,
+      "matchedReferences": [
+        {
+          "naid": "415889692",
+          "title": "[Presidential Daily Diary] 3/8/1989",
+          "localIdentifier": "12792-005"
+        },
+        {
+          "naid": "415889693",
+          "title": "[Presidential Daily Backup] 3/8/1989",
+          "localIdentifier": "12792-006"
+        }
+      ]
+    },
+    {
+      "date": "1989-04-01",
+      "catalogDate": "4/1/1989 / 04/01/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 279,
+      "matchedReferences": [
+        {
+          "naid": "415889741",
+          "title": "[Presidential Daily Backup] 4/1/1989",
+          "localIdentifier": "12793-030"
+        },
+        {
+          "naid": "415889740",
+          "title": "[Presidential Daily Diary] 4/1/1989",
+          "localIdentifier": "12793-029"
+        }
+      ]
+    },
+    {
+      "date": "1989-04-14",
+      "catalogDate": "4/14/1989 / 04/14/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 26,
+      "matchedReferences": [
+        {
+          "naid": "415889767",
+          "title": "[Presidential Daily Backup] 4/14/1989",
+          "localIdentifier": "12794-024"
+        },
+        {
+          "naid": "415889766",
+          "title": "[Presidential Daily Diary] 4/14/1989",
+          "localIdentifier": "12794-023"
+        }
+      ]
+    },
+    {
+      "date": "1989-05-10",
+      "catalogDate": "5/10/1989 / 05/10/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 68,
+      "matchedReferences": [
+        {
+          "naid": "415889819",
+          "title": "[Presidential Daily Backup] 5/10/1989",
+          "localIdentifier": "12796-018"
+        },
+        {
+          "naid": "415889818",
+          "title": "[Presidential Daily Diary] 5/10/1989",
+          "localIdentifier": "12796-017"
+        }
+      ]
+    },
+    {
+      "date": "1989-05-13",
+      "catalogDate": "5/13/1989 / 05/13/1989",
+      "memconTelconCount": 4,
+      "totalCatalogHits": 11,
+      "matchedReferences": [
+        {
+          "naid": "415889825",
+          "title": "[Presidential Daily Backup] 5/13/1989",
+          "localIdentifier": "12796-024"
+        },
+        {
+          "naid": "415889824",
+          "title": "[Presidential Daily Diary] 5/13/1989",
+          "localIdentifier": "12796-023"
+        }
+      ]
+    },
+    {
+      "date": "1989-05-16",
+      "catalogDate": "5/16/1989 / 05/16/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 45,
+      "matchedReferences": [
+        {
+          "naid": "415889830",
+          "title": "[Presidential Daily Diary] 5/16/1989",
+          "localIdentifier": "12797-003"
+        },
+        {
+          "naid": "415889831",
+          "title": "[Presidential Daily Backup] 5/16/1989",
+          "localIdentifier": "12797-004"
+        }
+      ]
+    },
+    {
+      "date": "1989-05-17",
+      "catalogDate": "5/17/1989 / 05/17/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 17,
+      "matchedReferences": [
+        {
+          "naid": "415889833",
+          "title": "[Presidential Daily Backup] 5/17/1989",
+          "localIdentifier": "12797-006"
+        },
+        {
+          "naid": "415889832",
+          "title": "[Presidential Daily Diary] 5/17/1989",
+          "localIdentifier": "12797-005"
+        }
+      ]
+    },
+    {
+      "date": "1989-05-31",
+      "catalogDate": "5/31/1989 / 05/31/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 35,
+      "matchedReferences": [
+        {
+          "naid": "415889861",
+          "title": "[Presidential Daily Backup] 5/31/1989",
+          "localIdentifier": "12798-014"
+        },
+        {
+          "naid": "415889860",
+          "title": "[Presidential Daily Diary] 5/31/1989 [EMPTY]",
+          "localIdentifier": "12798-013"
+        }
+      ]
+    },
+    {
+      "date": "1989-06-19",
+      "catalogDate": "6/19/1989 / 06/19/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 31,
+      "matchedReferences": [
+        {
+          "naid": "415889898",
+          "title": "[Presidential Daily Diary] 6/19/1989",
+          "localIdentifier": "12799-021"
+        },
+        {
+          "naid": "415889899",
+          "title": "[Presidential Daily Backup] 6/19/1989",
+          "localIdentifier": "12799-022"
+        }
+      ]
+    },
+    {
+      "date": "1989-06-23",
+      "catalogDate": "6/23/1989 / 06/23/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 17,
+      "matchedReferences": [
+        {
+          "naid": "415889907",
+          "title": "[Presidential Daily Backup] 6/23/1989",
+          "localIdentifier": "12800-008"
+        },
+        {
+          "naid": "415889906",
+          "title": "[Presidential Daily Diary] 6/23/1989",
+          "localIdentifier": "12800-007"
+        }
+      ]
+    },
+    {
+      "date": "1989-07-07",
+      "catalogDate": "7/7/1989 / 07/07/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 1067,
+      "matchedReferences": [
+        {
+          "naid": "415889934",
+          "title": "[Presidential Daily Diary] 7/7/1989",
+          "localIdentifier": "12801-015"
+        },
+        {
+          "naid": "415889935",
+          "title": "[Presidential Daily Backup] 7/7/1989",
+          "localIdentifier": "12801-016"
+        }
+      ]
+    },
+    {
+      "date": "1989-08-21",
+      "catalogDate": "8/21/1989 / 08/21/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 14,
+      "matchedReferences": [
+        {
+          "naid": "415890025",
+          "title": "[Presidential Daily Backup] 8/21/1989",
+          "localIdentifier": "12804-014"
+        },
+        {
+          "naid": "415890024",
+          "title": "[Presidential Daily Diary] 8/21/1989",
+          "localIdentifier": "12804-013"
+        }
+      ]
+    },
+    {
+      "date": "1989-08-22",
+      "catalogDate": "8/22/1989 / 08/22/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 22,
+      "matchedReferences": [
+        {
+          "naid": "415890027",
+          "title": "[Presidential Daily Backup] 8/22/1989",
+          "localIdentifier": "12804-016"
+        },
+        {
+          "naid": "415890026",
+          "title": "[Presidential Daily Diary] 8/22/1989",
+          "localIdentifier": "12804-015"
+        }
+      ]
+    },
+    {
+      "date": "1989-08-28",
+      "catalogDate": "8/28/1989 / 08/28/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 10,
+      "matchedReferences": [
+        {
+          "naid": "415890038",
+          "title": "[Presidential Daily Diary] 8/28/1989",
+          "localIdentifier": "12804-027"
+        },
+        {
+          "naid": "415890039",
+          "title": "[Presidential Daily Backup] 8/28/1989",
+          "localIdentifier": "12804-028"
+        }
+      ]
+    },
+    {
+      "date": "1989-09-15",
+      "catalogDate": "9/15/1989 / 09/15/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 36,
+      "matchedReferences": [
+        {
+          "naid": "415890074",
+          "title": "[Presidential Daily Diary] 9/15/1989",
+          "localIdentifier": "12805-019"
+        },
+        {
+          "naid": "415890075",
+          "title": "[Presidential Daily Backup] 9/15/1989",
+          "localIdentifier": "12805-020"
+        }
+      ]
+    },
+    {
+      "date": "1989-09-25",
+      "catalogDate": "9/25/1989 / 09/25/1989",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 24,
+      "matchedReferences": [
+        {
+          "naid": "415890094",
+          "title": "[Presidential Daily Diary] 9/25/1989",
+          "localIdentifier": "12806-015"
+        },
+        {
+          "naid": "415890095",
+          "title": "[Presidential Daily Backup] 9/25/1989",
+          "localIdentifier": "12806-016"
+        }
+      ]
+    },
+    {
+      "date": "1989-09-26",
+      "catalogDate": "9/26/1989 / 09/26/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 30,
+      "matchedReferences": [
+        {
+          "naid": "415890097",
+          "title": "[Presidential Daily Backup] 9/26/1989",
+          "localIdentifier": "12806-018"
+        },
+        {
+          "naid": "415890096",
+          "title": "[Presidential Daily Diary] 9/26/1989",
+          "localIdentifier": "12806-017"
+        }
+      ]
+    },
+    {
+      "date": "1989-09-27",
+      "catalogDate": "9/27/1989 / 09/27/1989",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 36,
+      "matchedReferences": [
+        {
+          "naid": "415890099",
+          "title": "[Presidential Daily Backup] 9/27/1989",
+          "localIdentifier": "12806-020"
+        },
+        {
+          "naid": "415890098",
+          "title": "[Presidential Daily Diary] 9/27/1989 [EMPTY]",
+          "localIdentifier": "12806-019"
+        }
+      ]
+    },
+    {
+      "date": "1989-09-28",
+      "catalogDate": "9/28/1989 / 09/28/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 28,
+      "matchedReferences": [
+        {
+          "naid": "415890101",
+          "title": "[Presidential Daily Backup] 9/28/1989",
+          "localIdentifier": "12806-022"
+        },
+        {
+          "naid": "415890100",
+          "title": "[Presidential Daily Diary] 9/28/1989 [EMPTY]",
+          "localIdentifier": "12806-021"
+        }
+      ]
+    },
+    {
+      "date": "1989-10-30",
+      "catalogDate": "10/30/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 49,
+      "matchedReferences": [
+        {
+          "naid": "415890165",
+          "title": "[Presidential Daily Backup] 10/30/1989",
+          "localIdentifier": "12809-022"
+        },
+        {
+          "naid": "415890164",
+          "title": "[Presidential Daily Diary] 10/30/1989",
+          "localIdentifier": "12809-021"
+        }
+      ]
+    },
+    {
+      "date": "1989-11-01",
+      "catalogDate": "11/1/1989 / 11/01/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 133,
+      "matchedReferences": [
+        {
+          "naid": "415890169",
+          "title": "[Presidential Daily Backup] 11/1/1989",
+          "localIdentifier": "12810-002"
+        },
+        {
+          "naid": "415890168",
+          "title": "[Presidential Daily Diary] 11/1/1989",
+          "localIdentifier": "12810-001"
+        }
+      ]
+    },
+    {
+      "date": "1989-11-27",
+      "catalogDate": "11/27/1989",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 17,
+      "matchedReferences": [
+        {
+          "naid": "415890221",
+          "title": "[Presidential Daily Backup] 11/27/1989",
+          "localIdentifier": "12812-012"
+        },
+        {
+          "naid": "415890220",
+          "title": "[Presidential Daily Diary] 11/27/1989 [EMPTY]",
+          "localIdentifier": "12812-011"
+        }
+      ]
+    },
+    {
+      "date": "1989-12-20",
+      "catalogDate": "12/20/1989",
+      "memconTelconCount": 3,
+      "totalCatalogHits": 19,
+      "matchedReferences": [
+        {
+          "naid": "415890267",
+          "title": "[Presidential Daily Backup] 12/20/1989",
+          "localIdentifier": "12813-022"
+        },
+        {
+          "naid": "415890266",
+          "title": "[Presidential Daily Diary] 12/20/1989 [EMPTY]",
+          "localIdentifier": "12813-021"
+        }
+      ]
+    },
+    {
+      "date": "1990-01-26",
+      "catalogDate": "1/26/1990 / 01/26/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 74,
+      "matchedReferences": [
+        {
+          "naid": "415890341",
+          "title": "[Presidential Daily Backup] 1/26/1990",
+          "localIdentifier": "12816-006"
+        },
+        {
+          "naid": "415890340",
+          "title": "[Presidential Daily Diary] 1/26/1990",
+          "localIdentifier": "12816-005"
+        }
+      ]
+    },
+    {
+      "date": "1990-01-28",
+      "catalogDate": "1/28/1990 / 01/28/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 65,
+      "matchedReferences": [
+        {
+          "naid": "415890344",
+          "title": "[Presidential Daily Diary] 1/28/1990",
+          "localIdentifier": "12816-009"
+        },
+        {
+          "naid": "415890345",
+          "title": "[Presidential Daily Backup] 1/28/1990",
+          "localIdentifier": "12816-010"
+        }
+      ]
+    },
+    {
+      "date": "1990-02-05",
+      "catalogDate": "2/5/1990 / 02/05/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 150,
+      "matchedReferences": [
+        {
+          "naid": "415890361",
+          "title": "[Presidential Daily Backup] 2/5/1990",
+          "localIdentifier": "12817-008"
+        },
+        {
+          "naid": "415890360",
+          "title": "[Presidential Daily Diary] 2/5/1990",
+          "localIdentifier": "12817-007"
+        }
+      ]
+    },
+    {
+      "date": "1990-02-15",
+      "catalogDate": "2/15/1990 / 02/15/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 114,
+      "matchedReferences": [
+        {
+          "naid": "415890381",
+          "title": "[Presidential Daily Backup] 2/15/1990",
+          "localIdentifier": "12818-010"
+        },
+        {
+          "naid": "415890380",
+          "title": "[Presidential Daily Diary] 2/15/1990",
+          "localIdentifier": "12818-009"
+        }
+      ]
+    },
+    {
+      "date": "1990-02-26",
+      "catalogDate": "2/26/1990 / 02/26/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 45,
+      "matchedReferences": [
+        {
+          "naid": "415890402",
+          "title": "[Presidential Daily Diary] 2/26/1990",
+          "localIdentifier": "12819-009"
+        },
+        {
+          "naid": "415890403",
+          "title": "[Presidential Daily Backup] 2/26/1990",
+          "localIdentifier": "12819-010"
+        }
+      ]
+    },
+    {
+      "date": "1990-03-01",
+      "catalogDate": "3/1/1990 / 03/01/1990",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 363,
+      "matchedReferences": [
+        {
+          "naid": "415890408",
+          "title": "[Presidential Daily Diary] 3/1/1990",
+          "localIdentifier": "12819-015"
+        },
+        {
+          "naid": "415890409",
+          "title": "[Presidential Daily Backup] 3/1/1990",
+          "localIdentifier": "12819-016"
+        }
+      ]
+    },
+    {
+      "date": "1990-03-21",
+      "catalogDate": "3/21/1990 / 03/21/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 40,
+      "matchedReferences": [
+        {
+          "naid": "415890449",
+          "title": "[Presidential Daily Backup] 3/21/1990",
+          "localIdentifier": "12821-016"
+        },
+        {
+          "naid": "415890448",
+          "title": "[Presidential Daily Diary] 3/21/1990",
+          "localIdentifier": "12821-015"
+        }
+      ]
+    },
+    {
+      "date": "1990-03-23",
+      "catalogDate": "3/23/1990 / 03/23/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 38,
+      "matchedReferences": [
+        {
+          "naid": "415890453",
+          "title": "[Presidential Daily Backup] 3/23/1990",
+          "localIdentifier": "12821-020"
+        },
+        {
+          "naid": "415890452",
+          "title": "[Presidential Daily Diary] 3/23/1990",
+          "localIdentifier": "12821-019"
+        }
+      ]
+    },
+    {
+      "date": "1990-03-30",
+      "catalogDate": "3/30/1990 / 03/30/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 80,
+      "matchedReferences": [
+        {
+          "naid": "415890466",
+          "title": "[Presidential Daily Diary] 3/30/1990",
+          "localIdentifier": "12822-013"
+        },
+        {
+          "naid": "415890467",
+          "title": "[Presidential Daily Backup] 3/30/1990",
+          "localIdentifier": "12822-014"
+        }
+      ]
+    },
+    {
+      "date": "1990-04-26",
+      "catalogDate": "4/26/1990 / 04/26/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 27,
+      "matchedReferences": [
+        {
+          "naid": "415890520",
+          "title": "[Presidential Daily Diary] 4/26/1990",
+          "localIdentifier": "12825-001"
+        },
+        {
+          "naid": "415890521",
+          "title": "[Presidential Daily Backup] 4/26/1990",
+          "localIdentifier": "12825-002"
+        }
+      ]
+    },
+    {
+      "date": "1990-04-27",
+      "catalogDate": "4/27/1990 / 04/27/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 26,
+      "matchedReferences": [
+        {
+          "naid": "415890522",
+          "title": "[Presidential Daily Diary] 4/27/1990",
+          "localIdentifier": "12825-003"
+        },
+        {
+          "naid": "415890523",
+          "title": "[Presidential Daily Backup] 4/27/1990",
+          "localIdentifier": "12825-004"
+        }
+      ]
+    },
+    {
+      "date": "1990-05-08",
+      "catalogDate": "5/8/1990 / 05/08/1990",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 69,
+      "matchedReferences": [
+        {
+          "naid": "415890544",
+          "title": "[Presidential Daily Diary] 5/8/1990",
+          "localIdentifier": "12826-009"
+        },
+        {
+          "naid": "415890545",
+          "title": "[Presidential Daily Backup] 5/8/1990",
+          "localIdentifier": "12826-010"
+        }
+      ]
+    },
+    {
+      "date": "1990-06-05",
+      "catalogDate": "6/5/1990 / 06/05/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 88,
+      "matchedReferences": [
+        {
+          "naid": "415890601",
+          "title": "[Presidential Daily Backup] 6/5/1990",
+          "localIdentifier": "12828-026"
+        },
+        {
+          "naid": "415890600",
+          "title": "[Presidential Daily Diary] 6/5/1990",
+          "localIdentifier": "12828-025"
+        }
+      ]
+    },
+    {
+      "date": "1990-06-06",
+      "catalogDate": "6/6/1990 / 06/06/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 1229,
+      "matchedReferences": [
+        {
+          "naid": "415890602",
+          "title": "[Presidential Daily Diary] 6/6/1990",
+          "localIdentifier": "12828-027"
+        },
+        {
+          "naid": "415890603",
+          "title": "[Presidential Daily Backup] 6/6/1990",
+          "localIdentifier": "12828-028"
+        }
+      ]
+    },
+    {
+      "date": "1990-06-15",
+      "catalogDate": "6/15/1990 / 06/15/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 51,
+      "matchedReferences": [
+        {
+          "naid": "415890621",
+          "title": "[Presidential Daily Backup] 6/15/1990",
+          "localIdentifier": "12829-018"
+        },
+        {
+          "naid": "415890620",
+          "title": "[Presidential Daily Diary] 6/15/1990",
+          "localIdentifier": "12829-017"
+        }
+      ]
+    },
+    {
+      "date": "1990-06-28",
+      "catalogDate": "6/28/1990 / 06/28/1990",
+      "memconTelconCount": 4,
+      "totalCatalogHits": 18,
+      "matchedReferences": [
+        {
+          "naid": "415890646",
+          "title": "[Presidential Daily Diary] 6/28/1990",
+          "localIdentifier": "12831-001"
+        },
+        {
+          "naid": "415890647",
+          "title": "[Presidential Daily Backup] 6/28/1990",
+          "localIdentifier": "12831-002"
+        }
+      ]
+    },
+    {
+      "date": "1990-07-13",
+      "catalogDate": "7/13/1990 / 07/13/1990",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 34,
+      "matchedReferences": [
+        {
+          "naid": "415890677",
+          "title": "[Presidential Daily Backup] 7/13/1990",
+          "localIdentifier": "12832-004"
+        },
+        {
+          "naid": "415890676",
+          "title": "[Presidential Daily Diary] 7/13/1990",
+          "localIdentifier": "12832-003"
+        }
+      ]
+    },
+    {
+      "date": "1990-07-23",
+      "catalogDate": "7/23/1990 / 07/23/1990",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 13,
+      "matchedReferences": [
+        {
+          "naid": "415890697",
+          "title": "[Presidential Daily Backup] 7/23/1990",
+          "localIdentifier": "12832-024"
+        },
+        {
+          "naid": "415890696",
+          "title": "[Presidential Daily Diary] 7/23/1990",
+          "localIdentifier": "12832-023"
+        }
+      ]
+    },
+    {
+      "date": "1990-08-13",
+      "catalogDate": "8/13/1990 / 08/13/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 19,
+      "matchedReferences": [
+        {
+          "naid": "415890739",
+          "title": "[Presidential Daily Backup] 8/13/1990",
+          "localIdentifier": "12834-014"
+        },
+        {
+          "naid": "415890738",
+          "title": "[Presidential Daily Diary] 8/13/1990",
+          "localIdentifier": "12834-013"
+        }
+      ]
+    },
+    {
+      "date": "1990-09-29",
+      "catalogDate": "9/29/1990 / 09/29/1990",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 19,
+      "matchedReferences": [
+        {
+          "naid": "415890833",
+          "title": "[Presidential Daily Backup] 9/29/1990",
+          "localIdentifier": "12837-010"
+        },
+        {
+          "naid": "415890832",
+          "title": "[Presidential Daily Diary] 9/29/1990",
+          "localIdentifier": "12837-009"
+        }
+      ]
+    },
+    {
+      "date": "1990-10-01",
+      "catalogDate": "10/1/1990 / 10/01/1990",
+      "memconTelconCount": 4,
+      "totalCatalogHits": 231,
+      "matchedReferences": [
+        {
+          "naid": "415890836",
+          "title": "[Presidential Daily Diary] 10/01/1990",
+          "localIdentifier": "12838-003"
+        },
+        {
+          "naid": "415890837",
+          "title": "[Presidential Daily Backup] 10/01/1990",
+          "localIdentifier": "12838-004"
+        }
+      ]
+    },
+    {
+      "date": "1990-10-02",
+      "catalogDate": "10/2/1990 / 10/02/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 129,
+      "matchedReferences": [
+        {
+          "naid": "415890839",
+          "title": "[Presidential Daily Backup] 10/2/1990",
+          "localIdentifier": "12838-006"
+        },
+        {
+          "naid": "415890838",
+          "title": "[Presidential Daily Diary] 10/2/1990",
+          "localIdentifier": "12838-005"
+        }
+      ]
+    },
+    {
+      "date": "1990-11-23",
+      "catalogDate": "11/23/1990",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 15,
+      "matchedReferences": [
+        {
+          "naid": "415890945",
+          "title": "[Presidential Daily Backup] 11/23/1990",
+          "localIdentifier": "12843-006"
+        },
+        {
+          "naid": "415890944",
+          "title": "[Presidential Daily Diary] 11/23/1990  [EMPTY]",
+          "localIdentifier": "12843-005"
+        }
+      ]
+    },
+    {
+      "date": "1990-12-03",
+      "catalogDate": "12/3/1990 / 12/03/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 87,
+      "matchedReferences": [
+        {
+          "naid": "415890965",
+          "title": "[Presidential Daily Backup] 12/3/1990",
+          "localIdentifier": "12843-026"
+        },
+        {
+          "naid": "415890964",
+          "title": "[Presidential Daily Diary] 12/3/1990  [EMPTY]",
+          "localIdentifier": "12843-025"
+        }
+      ]
+    },
+    {
+      "date": "1990-12-04",
+      "catalogDate": "12/4/1990 / 12/04/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 86,
+      "matchedReferences": [
+        {
+          "naid": "415890967",
+          "title": "[Presidential Daily Backup] 12/4/1990",
+          "localIdentifier": "12843-028"
+        },
+        {
+          "naid": "415890966",
+          "title": "[Presidential Daily Diary] 12/4/1990  [EMPTY]",
+          "localIdentifier": "12843-027"
+        }
+      ]
+    },
+    {
+      "date": "1990-12-05",
+      "catalogDate": "12/5/1990 / 12/05/1990",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 60,
+      "matchedReferences": [
+        {
+          "naid": "415890969",
+          "title": "[Presidential Daily Backup] 12/5/1990",
+          "localIdentifier": "12844-002"
+        },
+        {
+          "naid": "415890968",
+          "title": "[Presidential Daily Diary] 12/5/1990  [EMPTY]",
+          "localIdentifier": "12844-001"
+        }
+      ]
+    },
+    {
+      "date": "1990-12-08",
+      "catalogDate": "12/8/1990 / 12/08/1990",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 73,
+      "matchedReferences": [
+        {
+          "naid": "415890975",
+          "title": "[Presidential Daily Backup] 12/8/1990",
+          "localIdentifier": "12844-008"
+        },
+        {
+          "naid": "415890974",
+          "title": "[Presidential Daily Diary] 12/8/1990  [EMPTY]",
+          "localIdentifier": "12844-007"
+        }
+      ]
+    },
+    {
+      "date": "1991-01-14",
+      "catalogDate": "1/14/1991 / 01/14/1991",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 110,
+      "matchedReferences": [
+        {
+          "naid": "415891049",
+          "title": "[Presidential Daily Backup] 1/14/1991",
+          "localIdentifier": "12846-032"
+        },
+        {
+          "naid": "415891048",
+          "title": "[Presidential Daily Diary] 1/14/1991",
+          "localIdentifier": "12846-031"
+        }
+      ]
+    },
+    {
+      "date": "1991-01-16",
+      "catalogDate": "1/16/1991 / 01/16/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 151,
+      "matchedReferences": [
+        {
+          "naid": "415891053",
+          "title": "[Presidential Daily Backup] 1/16/1991",
+          "localIdentifier": "12847-002"
+        },
+        {
+          "naid": "415891052",
+          "title": "[Presidential Daily Diary] 1/16/1991",
+          "localIdentifier": "12847-001"
+        }
+      ]
+    },
+    {
+      "date": "1991-01-19",
+      "catalogDate": "1/19/1991 / 01/19/1991",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 80,
+      "matchedReferences": [
+        {
+          "naid": "415891058",
+          "title": "[Presidential Daily Diary]  1/19/1991",
+          "localIdentifier": "12847-007"
+        },
+        {
+          "naid": "415891059",
+          "title": "[Presidential Daily Backup] 1/19/1991",
+          "localIdentifier": "12847-008"
+        }
+      ]
+    },
+    {
+      "date": "1991-01-31",
+      "catalogDate": "1/31/1991 / 01/31/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 143,
+      "matchedReferences": [
+        {
+          "naid": "415891083",
+          "title": "[Presidential Daily Backup] 1/31/1991",
+          "localIdentifier": "12847-032"
+        },
+        {
+          "naid": "415891082",
+          "title": "[Presidential Daily Diary] 1/31/1991",
+          "localIdentifier": "12847-031"
+        }
+      ]
+    },
+    {
+      "date": "1991-02-08",
+      "catalogDate": "2/8/1991 / 02/08/1991",
+      "memconTelconCount": 4,
+      "totalCatalogHits": 144,
+      "matchedReferences": [
+        {
+          "naid": "415891098",
+          "title": "[Presidential Daily Diary] 2/8/1991",
+          "localIdentifier": "12848-015"
+        },
+        {
+          "naid": "415891099",
+          "title": "[Presidential Daily Backup] 2/8/1991",
+          "localIdentifier": "12848-016"
+        }
+      ]
+    },
+    {
+      "date": "1991-02-26",
+      "catalogDate": "2/26/1991 / 02/26/1991",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 59,
+      "matchedReferences": [
+        {
+          "naid": "415891135",
+          "title": "[Presidential Daily Backup] 2/26/1991",
+          "localIdentifier": "12850-002"
+        },
+        {
+          "naid": "415891134",
+          "title": "[Presidential Daily Diary] 2/26/1991",
+          "localIdentifier": "12850-001"
+        }
+      ]
+    },
+    {
+      "date": "1991-03-04",
+      "catalogDate": "3/4/1991 / 03/04/1991",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 275,
+      "matchedReferences": [
+        {
+          "naid": "415891147",
+          "title": "[Presidential Daily Backup] 3/4/1991",
+          "localIdentifier": "12850-014"
+        },
+        {
+          "naid": "415891146",
+          "title": "[Presidential Daily Diary] 3/4/1991",
+          "localIdentifier": "12850-013"
+        }
+      ]
+    },
+    {
+      "date": "1991-04-09",
+      "catalogDate": "4/9/1991 / 04/09/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 127,
+      "matchedReferences": [
+        {
+          "naid": "415891219",
+          "title": "[Presidential Daily Backup] 4/9/1991",
+          "localIdentifier": "12853-012"
+        },
+        {
+          "naid": "415891218",
+          "title": "[Presidential Daily Diary] 4/9/1991",
+          "localIdentifier": "12853-011"
+        }
+      ]
+    },
+    {
+      "date": "1991-04-20",
+      "catalogDate": "4/20/1991 / 04/20/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 31,
+      "matchedReferences": [
+        {
+          "naid": "415891241",
+          "title": "[Presidential Daily Backup] 4/20/1991",
+          "localIdentifier": "12855-002"
+        },
+        {
+          "naid": "415891240",
+          "title": "[Presidential Daily Diary] 4/20/1991",
+          "localIdentifier": "12855-001"
+        }
+      ]
+    },
+    {
+      "date": "1991-05-03",
+      "catalogDate": "5/3/1991 / 05/03/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 198,
+      "matchedReferences": [
+        {
+          "naid": "415891267",
+          "title": "[Presidential Daily Backup] 5/3/1991",
+          "localIdentifier": "12856-006"
+        },
+        {
+          "naid": "415891266",
+          "title": "[Presidential Daily Diary] 5/3/1991",
+          "localIdentifier": "12856-005"
+        }
+      ]
+    },
+    {
+      "date": "1991-05-21",
+      "catalogDate": "5/21/1991 / 05/21/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 36,
+      "matchedReferences": [
+        {
+          "naid": "415891303",
+          "title": "[Presidential Daily Backup] 5/21/1991",
+          "localIdentifier": "12858-008"
+        },
+        {
+          "naid": "415891302",
+          "title": "[Presidential Daily Diary]  5/21/1991",
+          "localIdentifier": "12858-007"
+        }
+      ]
+    },
+    {
+      "date": "1991-06-18",
+      "catalogDate": "6/18/1991 / 06/18/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 33,
+      "matchedReferences": [
+        {
+          "naid": "415891360",
+          "title": "[Presidential Daily Backup] 6/18/1991",
+          "localIdentifier": "12861-004"
+        },
+        {
+          "naid": "415891359",
+          "title": "[Presidential Daily Diary] 6/18/1991",
+          "localIdentifier": "12861-003"
+        }
+      ]
+    },
+    {
+      "date": "1991-06-20",
+      "catalogDate": "6/20/1991 / 06/20/1991",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 42,
+      "matchedReferences": [
+        {
+          "naid": "415891364",
+          "title": "[Presidential Daily Backup] 6/20/1991",
+          "localIdentifier": "12861-008"
+        },
+        {
+          "naid": "415891363",
+          "title": "[Presidential Daily Diary] 6/20/1991",
+          "localIdentifier": "12861-007"
+        }
+      ]
+    },
+    {
+      "date": "1991-08-20",
+      "catalogDate": "8/20/1991 / 08/20/1991",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 31,
+      "matchedReferences": [
+        {
+          "naid": "415891486",
+          "title": "[Presidential Daily Backup] 8/20/1991",
+          "localIdentifier": "12866-006"
+        },
+        {
+          "naid": "415891485",
+          "title": "[Presidential Daily Diary] 8/20/1991",
+          "localIdentifier": "12866-005"
+        }
+      ]
+    },
+    {
+      "date": "1991-09-05",
+      "catalogDate": "9/5/1991 / 09/05/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 88,
+      "matchedReferences": [
+        {
+          "naid": "415891517",
+          "title": "[Presidential Daily Diary]  9/5/1991",
+          "localIdentifier": "12866-037"
+        },
+        {
+          "naid": "415891518",
+          "title": "[Presidential Daily Backup] 9/5/1991",
+          "localIdentifier": "12866-038"
+        }
+      ]
+    },
+    {
+      "date": "1991-09-17",
+      "catalogDate": "9/17/1991 / 09/17/1991",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 26,
+      "matchedReferences": [
+        {
+          "naid": "415891542",
+          "title": "[Presidential Daily Backup] 9/17/1991",
+          "localIdentifier": "12867-022"
+        },
+        {
+          "naid": "415891541",
+          "title": "[Presidential Daily Diary]  9/17/1991",
+          "localIdentifier": "12867-021"
+        }
+      ]
+    },
+    {
+      "date": "1991-09-23",
+      "catalogDate": "9/23/1991 / 09/23/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 22,
+      "matchedReferences": [
+        {
+          "naid": "415891553",
+          "title": "[Presidential Daily Diary]  9/23/1991",
+          "localIdentifier": "12868-009"
+        },
+        {
+          "naid": "415891554",
+          "title": "[Presidential Daily Backup] 9/23/1991",
+          "localIdentifier": "12868-010"
+        }
+      ]
+    },
+    {
+      "date": "1991-09-24",
+      "catalogDate": "9/24/1991 / 09/24/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 38,
+      "matchedReferences": [
+        {
+          "naid": "415891555",
+          "title": "[Presidential Daily Diary] 9/24/1991",
+          "localIdentifier": "12868-011"
+        },
+        {
+          "naid": "415891556",
+          "title": "[Presidential Daily Backup] 9/24/1991",
+          "localIdentifier": "12868-012"
+        }
+      ]
+    },
+    {
+      "date": "1991-09-30",
+      "catalogDate": "9/30/1991 / 09/30/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 86,
+      "matchedReferences": [
+        {
+          "naid": "415891567",
+          "title": "[Presidential Daily Diary] 9/30/1991",
+          "localIdentifier": "12869-001"
+        },
+        {
+          "naid": "415891568",
+          "title": "[Presidential Daily Backup] 9/30/1991",
+          "localIdentifier": "12869-002"
+        }
+      ]
+    },
+    {
+      "date": "1991-10-01",
+      "catalogDate": "10/1/1991 / 10/01/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 364,
+      "matchedReferences": [
+        {
+          "naid": "415891570",
+          "title": "[Presidential Daily Backup] 10/1/1991",
+          "localIdentifier": "12869-004"
+        },
+        {
+          "naid": "415891569",
+          "title": "[Presidential Daily Diary] 10/1/1991",
+          "localIdentifier": "12869-003"
+        }
+      ]
+    },
+    {
+      "date": "1991-10-10",
+      "catalogDate": "10/10/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 1360,
+      "matchedReferences": [
+        {
+          "naid": "415891589",
+          "title": "[Presidential Daily Backup] 10/10/1991",
+          "localIdentifier": "12870-008"
+        },
+        {
+          "naid": "415891588",
+          "title": "[Presidential Daily Diary] 10/10/1991",
+          "localIdentifier": "12870-007"
+        }
+      ]
+    },
+    {
+      "date": "1991-11-14",
+      "catalogDate": "11/14/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 42,
+      "matchedReferences": [
+        {
+          "naid": "415891660",
+          "title": "[Presidential Daily Diary] 11/14/1991",
+          "localIdentifier": "12873-012"
+        },
+        {
+          "naid": "415891661",
+          "title": "[Presidential Daily Backup] 11/14/1991",
+          "localIdentifier": "12873-013"
+        }
+      ]
+    },
+    {
+      "date": "1991-11-15",
+      "catalogDate": "11/15/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 52,
+      "matchedReferences": [
+        {
+          "naid": "415891663",
+          "title": "[Presidential Daily Backup] 11/15/1991",
+          "localIdentifier": "12873-015"
+        },
+        {
+          "naid": "415891662",
+          "title": "[Presidential Daily Diary] 11/15/1991",
+          "localIdentifier": "12873-014"
+        }
+      ]
+    },
+    {
+      "date": "1991-12-17",
+      "catalogDate": "12/17/1991",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 36,
+      "matchedReferences": [
+        {
+          "naid": "415891727",
+          "title": "[Presidential Daily Backup] 12/17/1991",
+          "localIdentifier": "12876-010"
+        },
+        {
+          "naid": "415891726",
+          "title": "[Presidential Daily Diary] 12/17/1991",
+          "localIdentifier": "12876-009"
+        }
+      ]
+    },
+    {
+      "date": "1992-01-16",
+      "catalogDate": "1/16/1992 / 01/16/1992",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 110,
+      "matchedReferences": [
+        {
+          "naid": "415891787",
+          "title": "[Presidential Daily Diary] 1/16/1992",
+          "localIdentifier": "12878-015"
+        },
+        {
+          "naid": "415891788",
+          "title": "[Presidential Daily Backup] 1/16/1992",
+          "localIdentifier": "12878-016"
+        }
+      ]
+    },
+    {
+      "date": "1992-03-25",
+      "catalogDate": "3/25/1992 / 03/25/1992",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 22,
+      "matchedReferences": [
+        {
+          "naid": "415891927",
+          "title": "[Presidential Daily Backup] 3/25/1992",
+          "localIdentifier": "12885-006"
+        },
+        {
+          "naid": "415891926",
+          "title": "[Presidential Daily Diary] 3/25/1992",
+          "localIdentifier": "12885-005"
+        }
+      ]
+    },
+    {
+      "date": "1992-04-07",
+      "catalogDate": "4/7/1992 / 04/07/1992",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 146,
+      "matchedReferences": [
+        {
+          "naid": "415891952",
+          "title": "[Presidential Daily Diary] 4/7/1992",
+          "localIdentifier": "12886-005"
+        },
+        {
+          "naid": "415891953",
+          "title": "[Presidential Daily Backup] 4/7/1992",
+          "localIdentifier": "12886-006"
+        }
+      ]
+    },
+    {
+      "date": "1992-04-09",
+      "catalogDate": "4/9/1992 / 04/09/1992",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 120,
+      "matchedReferences": [
+        {
+          "naid": "415891956",
+          "title": "[Presidential Daily Diary] 4/9/1992",
+          "localIdentifier": "12886-009"
+        },
+        {
+          "naid": "415891957",
+          "title": "[Presidential Daily Backup] 4/9/1992",
+          "localIdentifier": "12886-010"
+        }
+      ]
+    },
+    {
+      "date": "1992-04-20",
+      "catalogDate": "4/20/1992 / 04/20/1992",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 38,
+      "matchedReferences": [
+        {
+          "naid": "415891979",
+          "title": "[Presidential Daily Backup] 4/20/1992",
+          "localIdentifier": "12887-014"
+        },
+        {
+          "naid": "415891978",
+          "title": "[Presidential Daily Diary] 4/20/1992",
+          "localIdentifier": "12887-013"
+        }
+      ]
+    },
+    {
+      "date": "1992-05-12",
+      "catalogDate": "5/12/1992 / 05/12/1992",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 82,
+      "matchedReferences": [
+        {
+          "naid": "415892024",
+          "title": "[Presidential Daily Backup] 5/12/1992",
+          "localIdentifier": "12890-002"
+        },
+        {
+          "naid": "415892023",
+          "title": "[Presidential Daily Diary] 5/12/1992",
+          "localIdentifier": "12890-001"
+        }
+      ]
+    },
+    {
+      "date": "1992-05-13",
+      "catalogDate": "5/13/1992 / 05/13/1992",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 29,
+      "matchedReferences": [
+        {
+          "naid": "415892026",
+          "title": "[Presidential Daily Backup] 5/13/1992",
+          "localIdentifier": "12890-004"
+        },
+        {
+          "naid": "415892025",
+          "title": "[Presidential Daily Diary] 5/13/1992",
+          "localIdentifier": "12890-003"
+        }
+      ]
+    },
+    {
+      "date": "1992-06-20",
+      "catalogDate": "6/20/1992 / 06/20/1992",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 27,
+      "matchedReferences": [
+        {
+          "naid": "415892103",
+          "title": "[Presidential Daily Backup] 6/20/1992",
+          "localIdentifier": "12893-014"
+        },
+        {
+          "naid": "415892102",
+          "title": "[Presidential Daily Diary] 6/20/1992",
+          "localIdentifier": "12893-013"
+        }
+      ]
+    },
+    {
+      "date": "1992-07-10",
+      "catalogDate": "7/10/1992 / 07/10/1992",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 135,
+      "matchedReferences": [
+        {
+          "naid": "415892144",
+          "title": "[Presidential Daily Backup] 7/10/1992",
+          "localIdentifier": "12895-016"
+        },
+        {
+          "naid": "415892143",
+          "title": "[Presidential Daily Diary] 7/10/1992  [EMPTY]",
+          "localIdentifier": "12895-015"
+        }
+      ]
+    },
+    {
+      "date": "1992-07-28",
+      "catalogDate": "7/28/1992 / 07/28/1992",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 26,
+      "matchedReferences": [
+        {
+          "naid": "415892180",
+          "title": "[Presidential Daily Diary] 7/28/1992",
+          "localIdentifier": "12897-001"
+        },
+        {
+          "naid": "415892181",
+          "title": "[Presidential Daily Backup] 7/28/1992",
+          "localIdentifier": "12897-002"
+        }
+      ]
+    },
+    {
+      "date": "1992-10-31",
+      "catalogDate": "10/31/1992",
+      "memconTelconCount": 1,
+      "totalCatalogHits": 77,
+      "matchedReferences": [
+        {
+          "naid": "415892371",
+          "title": "[Presidential Daily Backup] 10/31/1992",
+          "localIdentifier": "26862-002"
+        },
+        {
+          "naid": "415892370",
+          "title": "[Presidential Daily Diary] 10/31/1992",
+          "localIdentifier": "26862-001"
+        }
+      ]
+    },
+    {
+      "date": "1992-11-05",
+      "catalogDate": "11/5/1992 / 11/05/1992",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 94,
+      "matchedReferences": [
+        {
+          "naid": "415892381",
+          "title": "[Presidential Daily Backup] 11/5/1992",
+          "localIdentifier": "26862-012"
+        },
+        {
+          "naid": "415892380",
+          "title": "[Presidential Daily Diary] 11/5/1992",
+          "localIdentifier": "26862-011"
+        }
+      ]
+    },
+    {
+      "date": "1992-11-27",
+      "catalogDate": "11/27/1992",
+      "memconTelconCount": 3,
+      "totalCatalogHits": 17,
+      "matchedReferences": [
+        {
+          "naid": "415892424",
+          "title": "[Presidential Daily Diary] 11/27/1992",
+          "localIdentifier": "26863-023"
+        },
+        {
+          "naid": "415892425",
+          "title": "[Presidential Daily Backup] 11/27/1992",
+          "localIdentifier": "26863-024"
+        }
+      ]
+    },
+    {
+      "date": "1992-12-01",
+      "catalogDate": "12/1/1992 / 12/01/1992",
+      "memconTelconCount": 2,
+      "totalCatalogHits": 174,
+      "matchedReferences": [
+        {
+          "naid": "415892433",
+          "title": "[Presidential Daily Backup] 12/01/1992",
+          "localIdentifier": "26863-032"
+        },
+        {
+          "naid": "415892432",
+          "title": "[Presidential Daily Diary] 12/01/1992",
+          "localIdentifier": "26863-031"
+        }
+      ]
+    }
+  ],
+  "searchReport": [
+    {
+      "term": "Argentina",
+      "countries": [
+        "Argentina"
+      ],
+      "totalCatalogHits": 89,
+      "harvestedReferences": 86,
+      "truncatedAt": null
+    },
+    {
+      "term": "Argentine",
+      "countries": [
+        "Argentina"
+      ],
+      "totalCatalogHits": 49,
+      "harvestedReferences": 45,
+      "truncatedAt": null
+    },
+    {
+      "term": "Alfonsin",
+      "countries": [
+        "Argentina"
+      ],
+      "totalCatalogHits": 5,
+      "harvestedReferences": 4,
+      "truncatedAt": null
+    },
+    {
+      "term": "Menem",
+      "countries": [
+        "Argentina"
+      ],
+      "totalCatalogHits": 53,
+      "harvestedReferences": 50,
+      "truncatedAt": null
+    },
+    {
+      "term": "Bolivia",
+      "countries": [
+        "Bolivia"
+      ],
+      "totalCatalogHits": 45,
+      "harvestedReferences": 45,
+      "truncatedAt": null
+    },
+    {
+      "term": "Bolivian",
+      "countries": [
+        "Bolivia"
+      ],
+      "totalCatalogHits": 13,
+      "harvestedReferences": 12,
+      "truncatedAt": null
+    },
+    {
+      "term": "Paz Zamora",
+      "countries": [
+        "Bolivia"
+      ],
+      "totalCatalogHits": 10,
+      "harvestedReferences": 9,
+      "truncatedAt": null
+    },
+    {
+      "term": "Brazil",
+      "countries": [
+        "Brazil"
+      ],
+      "totalCatalogHits": 112,
+      "harvestedReferences": 99,
+      "truncatedAt": 100
+    },
+    {
+      "term": "Brazilian",
+      "countries": [
+        "Brazil"
+      ],
+      "totalCatalogHits": 23,
+      "harvestedReferences": 21,
+      "truncatedAt": null
+    },
+    {
+      "term": "Sarney",
+      "countries": [
+        "Brazil"
+      ],
+      "totalCatalogHits": 14,
+      "harvestedReferences": 13,
+      "truncatedAt": null
+    },
+    {
+      "term": "Collor",
+      "countries": [
+        "Brazil"
+      ],
+      "totalCatalogHits": 34,
+      "harvestedReferences": 33,
+      "truncatedAt": null
+    },
+    {
+      "term": "Itamar Franco",
+      "countries": [
+        "Brazil"
+      ],
+      "totalCatalogHits": 0,
+      "harvestedReferences": 0,
+      "truncatedAt": null
+    },
+    {
+      "term": "Chile",
+      "countries": [
+        "Chile"
+      ],
+      "totalCatalogHits": 46,
+      "harvestedReferences": 45,
+      "truncatedAt": null
+    },
+    {
+      "term": "Chilean",
+      "countries": [
+        "Chile"
+      ],
+      "totalCatalogHits": 14,
+      "harvestedReferences": 13,
+      "truncatedAt": null
+    },
+    {
+      "term": "Aylwin",
+      "countries": [
+        "Chile"
+      ],
+      "totalCatalogHits": 12,
+      "harvestedReferences": 11,
+      "truncatedAt": null
+    },
+    {
+      "term": "Pinochet",
+      "countries": [
+        "Chile"
+      ],
+      "totalCatalogHits": 3,
+      "harvestedReferences": 3,
+      "truncatedAt": null
+    },
+    {
+      "term": "Colombia",
+      "countries": [
+        "Colombia"
+      ],
+      "totalCatalogHits": 102,
+      "harvestedReferences": 99,
+      "truncatedAt": 100
+    },
+    {
+      "term": "Colombian",
+      "countries": [
+        "Colombia"
+      ],
+      "totalCatalogHits": 33,
+      "harvestedReferences": 32,
+      "truncatedAt": null
+    },
+    {
+      "term": "Barco",
+      "countries": [
+        "Colombia"
+      ],
+      "totalCatalogHits": 57,
+      "harvestedReferences": 56,
+      "truncatedAt": null
+    },
+    {
+      "term": "Gaviria",
+      "countries": [
+        "Colombia"
+      ],
+      "totalCatalogHits": 23,
+      "harvestedReferences": 21,
+      "truncatedAt": null
+    },
+    {
+      "term": "Ecuador",
+      "countries": [
+        "Ecuador"
+      ],
+      "totalCatalogHits": 45,
+      "harvestedReferences": 43,
+      "truncatedAt": null
+    },
+    {
+      "term": "Ecuadorian",
+      "countries": [
+        "Ecuador"
+      ],
+      "totalCatalogHits": 5,
+      "harvestedReferences": 5,
+      "truncatedAt": null
+    },
+    {
+      "term": "Borja",
+      "countries": [
+        "Ecuador"
+      ],
+      "totalCatalogHits": 19,
+      "harvestedReferences": 18,
+      "truncatedAt": null
+    },
+    {
+      "term": "Duran Ballen",
+      "countries": [
+        "Ecuador"
+      ],
+      "totalCatalogHits": 2,
+      "harvestedReferences": 2,
+      "truncatedAt": null
+    },
+    {
+      "term": "Guyana",
+      "countries": [
+        "Guyana"
+      ],
+      "totalCatalogHits": 9,
+      "harvestedReferences": 8,
+      "truncatedAt": null
+    },
+    {
+      "term": "Guyanese",
+      "countries": [
+        "Guyana"
+      ],
+      "totalCatalogHits": 0,
+      "harvestedReferences": 0,
+      "truncatedAt": null
+    },
+    {
+      "term": "Hoyte",
+      "countries": [
+        "Guyana"
+      ],
+      "totalCatalogHits": 4,
+      "harvestedReferences": 3,
+      "truncatedAt": null
+    },
+    {
+      "term": "Jagan",
+      "countries": [
+        "Guyana"
+      ],
+      "totalCatalogHits": 0,
+      "harvestedReferences": 0,
+      "truncatedAt": null
+    },
+    {
+      "term": "Paraguay",
+      "countries": [
+        "Paraguay"
+      ],
+      "totalCatalogHits": 34,
+      "harvestedReferences": 32,
+      "truncatedAt": null
+    },
+    {
+      "term": "Paraguayan",
+      "countries": [
+        "Paraguay"
+      ],
+      "totalCatalogHits": 2,
+      "harvestedReferences": 2,
+      "truncatedAt": null
+    },
+    {
+      "term": "Andres Rodriguez",
+      "countries": [
+        "Paraguay"
+      ],
+      "totalCatalogHits": 24,
+      "harvestedReferences": 24,
+      "truncatedAt": null
+    },
+    {
+      "term": "Peru",
+      "countries": [
+        "Peru"
+      ],
+      "totalCatalogHits": 68,
+      "harvestedReferences": 67,
+      "truncatedAt": null
+    },
+    {
+      "term": "Peruvian",
+      "countries": [
+        "Peru"
+      ],
+      "totalCatalogHits": 11,
+      "harvestedReferences": 11,
+      "truncatedAt": null
+    },
+    {
+      "term": "Fujimori",
+      "countries": [
+        "Peru"
+      ],
+      "totalCatalogHits": 16,
+      "harvestedReferences": 15,
+      "truncatedAt": null
+    },
+    {
+      "term": "Alan Garcia",
+      "countries": [
+        "Peru"
+      ],
+      "totalCatalogHits": 57,
+      "harvestedReferences": 57,
+      "truncatedAt": null
+    },
+    {
+      "term": "Suriname",
+      "countries": [
+        "Suriname"
+      ],
+      "totalCatalogHits": 13,
+      "harvestedReferences": 12,
+      "truncatedAt": null
+    },
+    {
+      "term": "Surinamese",
+      "countries": [
+        "Suriname"
+      ],
+      "totalCatalogHits": 2,
+      "harvestedReferences": 2,
+      "truncatedAt": null
+    },
+    {
+      "term": "Shankar",
+      "countries": [
+        "Suriname"
+      ],
+      "totalCatalogHits": 3,
+      "harvestedReferences": 3,
+      "truncatedAt": null
+    },
+    {
+      "term": "Bouterse",
+      "countries": [
+        "Suriname"
+      ],
+      "totalCatalogHits": 0,
+      "harvestedReferences": 0,
+      "truncatedAt": null
+    },
+    {
+      "term": "Uruguay",
+      "countries": [
+        "Uruguay"
+      ],
+      "totalCatalogHits": 153,
+      "harvestedReferences": 99,
+      "truncatedAt": 100
+    },
+    {
+      "term": "Uruguayan",
+      "countries": [
+        "Uruguay"
+      ],
+      "totalCatalogHits": 11,
+      "harvestedReferences": 10,
+      "truncatedAt": null
+    },
+    {
+      "term": "Sanguinetti",
+      "countries": [
+        "Uruguay"
+      ],
+      "totalCatalogHits": 6,
+      "harvestedReferences": 4,
+      "truncatedAt": null
+    },
+    {
+      "term": "Lacalle",
+      "countries": [
+        "Uruguay"
+      ],
+      "totalCatalogHits": 22,
+      "harvestedReferences": 21,
+      "truncatedAt": null
+    },
+    {
+      "term": "Venezuela",
+      "countries": [
+        "Venezuela"
+      ],
+      "totalCatalogHits": 117,
+      "harvestedReferences": 99,
+      "truncatedAt": 100
+    },
+    {
+      "term": "Venezuelan",
+      "countries": [
+        "Venezuela"
+      ],
+      "totalCatalogHits": 25,
+      "harvestedReferences": 24,
+      "truncatedAt": null
+    },
+    {
+      "term": "Carlos Andres Perez",
+      "countries": [
+        "Venezuela"
+      ],
+      "totalCatalogHits": 72,
+      "harvestedReferences": 71,
+      "truncatedAt": null
+    },
+    {
+      "term": "Caldera",
+      "countries": [
+        "Venezuela"
+      ],
+      "totalCatalogHits": 0,
+      "harvestedReferences": 0,
+      "truncatedAt": null
+    }
+  ],
+  "hydrationReport": [
+    {
+      "naid": "415890971",
+      "title": "[Presidential Daily Backup] 12/6/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_06_90-12844-004_415890971.pdf"
+    },
+    {
+      "naid": "415891664",
+      "title": "[Presidential Daily Diary] 11/16/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_16_91-12873-016_415891664.pdf"
+    },
+    {
+      "naid": "415890989",
+      "title": "[Presidential Daily Backup] 12/15/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_15_90-12845-004_415890989.pdf"
+    },
+    {
+      "naid": "415890160",
+      "title": "[Presidential Daily Diary] 10/28/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_28_89-12809-017_415890160.pdf"
+    },
+    {
+      "naid": "415889876",
+      "title": "[Presidential Daily Diary] 6/8/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_08_89-12798-029_415889876.pdf"
+    },
+    {
+      "naid": "415890962",
+      "title": "[Presidential Daily Diary] 12/2/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_02_90-12843-023_415890962.pdf"
+    },
+    {
+      "naid": "415891859",
+      "title": "[Presidential Daily Backup] 2/20/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-02_20_92-12881-019_415891859.pdf"
+    },
+    {
+      "naid": "415890963",
+      "title": "[Presidential Daily Backup] 12/2/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_02_90-12843-024_415890963.pdf"
+    },
+    {
+      "naid": "415891858",
+      "title": "[Presidential Daily Diary] 2/20/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-02_20_92-12881-018_415891858.pdf"
+    },
+    {
+      "naid": "415892016",
+      "title": "[Presidential Daily Backup] 5/8/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_08_92-12889-014_415892016.pdf"
+    },
+    {
+      "naid": "415889877",
+      "title": "[Presidential Daily Backup] 6/8/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_08_89-12798-030_415889877.pdf"
+    },
+    {
+      "naid": "415890155",
+      "title": "[Presidential Daily Backup] 10/25/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_25_89-12809-012_415890155.pdf"
+    },
+    {
+      "naid": "415891718",
+      "title": "[Presidential Daily Diary] 12/13/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_13_91-12876-001_415891718.pdf"
+    },
+    {
+      "naid": "415891362",
+      "title": "[Presidential Daily Backup] 6/19/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_19_91-12861-006_415891362.pdf"
+    },
+    {
+      "naid": "415890161",
+      "title": "[Presidential Daily Backup] 10/28/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_28_89-12809-018_415890161.pdf"
+    },
+    {
+      "naid": "415891404",
+      "title": "[Presidential Daily Backup] 7/10/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_10_91-12863-008_415891404.pdf"
+    },
+    {
+      "naid": "415890153",
+      "title": "[Presidential Daily Backup] 10/24/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_24_89-12809-010_415890153.pdf"
+    },
+    {
+      "naid": "415890803",
+      "title": "[Presidential Daily Backup] 9/14/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_14_90-12836-006_415890803.pdf"
+    },
+    {
+      "naid": "415890154",
+      "title": "[Presidential Daily Diary] 10/25/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_25_89-12809-011_415890154.pdf"
+    },
+    {
+      "naid": "415890195",
+      "title": "[Presidential Daily Backup] 11/14/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_14_89-12811-008_415890195.pdf"
+    },
+    {
+      "naid": "415891223",
+      "title": "[Presidential Daily Backup] 4/11/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_11_91-12854-004_415891223.pdf"
+    },
+    {
+      "naid": "415890152",
+      "title": "[Presidential Daily Diary] 10/24/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_24_89-12809-009_415890152.pdf"
+    },
+    {
+      "naid": "415891665",
+      "title": "[Presidential Daily Backup] 11/16/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_16_91-12873-017_415891665.pdf"
+    },
+    {
+      "naid": "415891985",
+      "title": "[Presidential Daily Backup] 4/23/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_23_92-12887-020_415891985.pdf"
+    },
+    {
+      "naid": "415891634",
+      "title": "[Presidential Daily Backup] 11/1/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_01_91-12872-005_415891634.pdf"
+    },
+    {
+      "naid": "415891981",
+      "title": "[Presidential Daily Backup] 4/21/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_21_92-12887-016_415891981.pdf"
+    },
+    {
+      "naid": "415891378",
+      "title": "[Presidential Daily Backup] 6/27/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_27_91-12862-002_415891378.pdf"
+    },
+    {
+      "naid": "415890993",
+      "title": "[Presidential Daily Backup] 12/17/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_17_90-12845-008_415890993.pdf"
+    },
+    {
+      "naid": "415891632",
+      "title": "[Presidential Daily Backup] 10/31/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_31_91-12872-003_415891632.pdf"
+    },
+    {
+      "naid": "415890311",
+      "title": "[Presidential Daily Backup] 1/11/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_11_90-12815-002_415890311.pdf"
+    },
+    {
+      "naid": "415890870",
+      "title": "[Presidential Daily Backup] 10/17/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_17_90-12840-002_415890870.pdf"
+    },
+    {
+      "naid": "415889921",
+      "title": "[Presidential Daily Backup] 6/30/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_30_89-12801-002_415889921.pdf"
+    },
+    {
+      "naid": "415890417",
+      "title": "[Presidential Daily Backup] 3/5/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_05_90-12820-008_415890417.pdf"
+    },
+    {
+      "naid": "415890159",
+      "title": "[Presidential Daily Backup] 10/27/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_27_89-12809-016_415890159.pdf"
+    },
+    {
+      "naid": "415890557",
+      "title": "[Presidential Daily Backup] 5/14/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_14_90-12826-022_415890557.pdf"
+    },
+    {
+      "naid": "415891488",
+      "title": "[Presidential Daily Backup] 8/21/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_21_91-12866-008_415891488.pdf"
+    },
+    {
+      "naid": "415891279",
+      "title": "[Presidential Daily Backup] 5/9/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_09_91-12857-004_415891279.pdf"
+    },
+    {
+      "naid": "415892289",
+      "title": "[Presidential Daily Backup] 9/20/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-09_20_92-26857-006_415892289.pdf"
+    },
+    {
+      "naid": "415891456",
+      "title": "[Presidential Daily Backup] 8/5/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_05_91-12865-016_415891456.pdf"
+    },
+    {
+      "naid": "415892283",
+      "title": "[Presidential Daily Backup] 9/17/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-09_17_92-26856-016_415892283.pdf"
+    },
+    {
+      "naid": "415891838",
+      "title": "[Presidential Daily Backup] 2/10/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-02_10_92-12880-016_415891838.pdf"
+    },
+    {
+      "naid": "415892265",
+      "title": "[Presidential Daily Backup] 9/8/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-09_08_92-12900-018_415892265.pdf"
+    },
+    {
+      "naid": "415891800",
+      "title": "[Presidential Daily Backup] 1/22/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_22_92-12879-002_415891800.pdf"
+    },
+    {
+      "naid": "415889903",
+      "title": "[Presidential Daily Backup] 6/21/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_21_89-12800-004_415889903.pdf"
+    },
+    {
+      "naid": "415890433",
+      "title": "[Presidential Daily Backup] 3/13/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_13_90-12820-024_415890433.pdf"
+    },
+    {
+      "naid": "415891987",
+      "title": "[Presidential Daily Backup] 4/24/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_24_92-12887-022_415891987.pdf"
+    },
+    {
+      "naid": "415890979",
+      "title": "[Presidential Daily Backup] 12/10/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_10_90-12844-012_415890979.pdf"
+    },
+    {
+      "naid": "415891761",
+      "title": "[Presidential Daily Backup] 1/3/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_03_92-12877-016_415891761.pdf"
+    },
+    {
+      "naid": "415890573",
+      "title": "[Presidential Daily Backup] 5/22/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_22_90-12827-016_415890573.pdf"
+    },
+    {
+      "naid": "415890505",
+      "title": "[Presidential Daily Backup] 4/18/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_18_90-12824-010_415890505.pdf"
+    },
+    {
+      "naid": "415890915",
+      "title": "[Presidential Daily Backup] 11/8/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_08_90-12842-004_415890915.pdf"
+    },
+    {
+      "naid": "415891719",
+      "title": "[Presidential Daily Backup] 12/13/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_13_91-12876-002_415891719.pdf"
+    },
+    {
+      "naid": "415891275",
+      "title": "[Presidential Daily Backup] 5/7/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_07_91-12856-014_415891275.pdf"
+    },
+    {
+      "naid": "415892355",
+      "title": "[Presidential Daily Backup] 10/23/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-10_23_92-26860-018_415892355.pdf"
+    },
+    {
+      "naid": "415889821",
+      "title": "[Presidential Daily Backup] 5/11/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_11_89-12796-020_415889821.pdf"
+    },
+    {
+      "naid": "415891361",
+      "title": "[Presidential Daily Diary] 6/19/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_19_91-12861-005_415891361.pdf"
+    },
+    {
+      "naid": "415889820",
+      "title": "[Presidential Daily Diary] 5/11/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_11_89-12796-019_415889820.pdf"
+    },
+    {
+      "naid": "415891403",
+      "title": "[Presidential Daily Diary] 7/10/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_10_91-12863-007_415891403.pdf"
+    },
+    {
+      "naid": "415891224",
+      "title": "[Presidential Daily Diary] 4/12/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_12_91-12854-005_415891224.pdf"
+    },
+    {
+      "naid": "415891633",
+      "title": "[Presidential Daily Diary] 11/1/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_01_91-12872-004_415891633.pdf"
+    },
+    {
+      "naid": "415890073",
+      "title": "[Presidential Daily Backup] 9/14/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_14_89-12805-018_415890073.pdf"
+    },
+    {
+      "naid": "415890835",
+      "title": "[Presidential Daily Backup] 9/30/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-002_415890835.pdf"
+    },
+    {
+      "naid": "415890992",
+      "title": "[Presidential Daily Diary] 12/17/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_17_90-12845-007_415890992.pdf"
+    },
+    {
+      "naid": "415891630",
+      "title": "[Presidential Daily Diary] 10/31/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_31_91-12872-001_415891630.pdf"
+    },
+    {
+      "naid": "415891225",
+      "title": "[Presidential Daily Backup] 4/12/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_12_91-12854-006_415891225.pdf"
+    },
+    {
+      "naid": "415891222",
+      "title": "[Presidential Daily Diary] 4/11/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_11_91-12854-003_415891222.pdf"
+    },
+    {
+      "naid": "415891458",
+      "title": "[Presidential Daily Backup] 8/6/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_06_91-12865-018_415891458.pdf"
+    },
+    {
+      "naid": "415891713",
+      "title": "[Presidential Daily Backup] 12/10/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_10_91-12875-020_415891713.pdf"
+    },
+    {
+      "naid": "415891871",
+      "title": "[Presidential Daily Backup] 2/26/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-02_26_92-12882-010_415891871.pdf"
+    },
+    {
+      "naid": "415891873",
+      "title": "[Presidential Daily Backup] 2/27/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-02_27_92-12882-012_415891873.pdf"
+    },
+    {
+      "naid": "415891809",
+      "title": "[Presidential Daily Diary] 1/27/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_27_92-12879-011_415891809.pdf"
+    },
+    {
+      "naid": "415891490",
+      "title": "[Presidential Daily Backup] 8/22/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_22_91-12866-010_415891490.pdf"
+    },
+    {
+      "naid": "415889697",
+      "title": "[Presidential Daily Backup] 3/10/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_10_89-12792-010_415889697.pdf"
+    },
+    {
+      "naid": "415890845",
+      "title": "[Presidential Daily Backup] 10/5/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_05_90-12838-012_415890845.pdf"
+    },
+    {
+      "naid": "415891810",
+      "title": "[Presidential Daily Backup] 1/27/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_27_92-12879-012_415891810.pdf"
+    },
+    {
+      "naid": "415890243",
+      "title": "[Presidential Daily Backup] 12/8/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_08_89-12812-034_415890243.pdf"
+    },
+    {
+      "naid": "415890844",
+      "title": "[Presidential Daily Diary] 10/5/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_05_90-12838-011_415890844.pdf"
+    },
+    {
+      "naid": "415890013",
+      "title": "[Presidential Daily Backup] 8/15/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_15_89-12804-002_415890013.pdf"
+    },
+    {
+      "naid": "415891344",
+      "title": "[Presidential Daily Backup] 6/10/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_10_91-12860-006_415891344.pdf"
+    },
+    {
+      "naid": "415890645",
+      "title": "[Presidential Daily Backup] 6/27/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_27_90-12830-020_415890645.pdf"
+    },
+    {
+      "naid": "415889721",
+      "title": "[Presidential Daily Backup] 3/22/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_22_89-12793-010_415889721.pdf"
+    },
+    {
+      "naid": "415890056",
+      "title": "[Presidential Daily Diary] 9/6/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_06_89-12805-001_415890056.pdf"
+    },
+    {
+      "naid": "415890057",
+      "title": "[Presidential Daily Backup] 9/6/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_06_89-12805-002_415890057.pdf"
+    },
+    {
+      "naid": "415890959",
+      "title": "[Presidential Daily Backup] 11/30/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_30_90-12843-020_415890959.pdf"
+    },
+    {
+      "naid": "415892014",
+      "title": "[Presidential Daily Backup] 5/7/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_07_92-12889-012_415892014.pdf"
+    },
+    {
+      "naid": "415890375",
+      "title": "[Presidential Daily Backup] 2/12/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_12_90-12818-004_415890375.pdf"
+    },
+    {
+      "naid": "415890985",
+      "title": "[Presidential Daily Backup] 12/13/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_13_90-12844-018_415890985.pdf"
+    },
+    {
+      "naid": "415892267",
+      "title": "[Presidential Daily Backup] 9/9/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-09_09_92-12900-020_415892267.pdf"
+    },
+    {
+      "naid": "415890045",
+      "title": "[Presidential Daily Backup] 8/31/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_31_89-12804-034_415890045.pdf"
+    },
+    {
+      "naid": "415889793",
+      "title": "[Presidential Daily Backup] 4/27/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_27_89-12795-024_415889793.pdf"
+    },
+    {
+      "naid": "415892086",
+      "title": "[Presidential Daily Diary] 6/12/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_12_92-12892-021_415892086.pdf"
+    },
+    {
+      "naid": "415892088",
+      "title": "[Presidential Daily Diary] 6/13/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_13_92-12892-023_415892088.pdf"
+    },
+    {
+      "naid": "415892523",
+      "title": "[Presidential Daily Backup] 01/15/1993",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1993/41-bpr-apts_sch-dd-01_15_93-26867-012_415892523.pdf"
+    },
+    {
+      "naid": "415892087",
+      "title": "[Presidential Daily Backup] 6/12/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_12_92-12892-022_415892087.pdf"
+    },
+    {
+      "naid": "415892084",
+      "title": "[Presidential Daily Diary] 6/11/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_11_92-12892-019_415892084.pdf"
+    },
+    {
+      "naid": "415890083",
+      "title": "[Presidential Daily Backup] 9/19/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_19_89-12806-004_415890083.pdf"
+    },
+    {
+      "naid": "415892073",
+      "title": "[Presidential Daily Backup] 6/5/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_05_92-12892-008_415892073.pdf"
+    },
+    {
+      "naid": "415892085",
+      "title": "[Presidential Daily Backup] 6/11/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_11_92-12892-020_415892085.pdf"
+    },
+    {
+      "naid": "415890834",
+      "title": "[Presidential Daily Diary] 9/30/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-001_415890834.pdf"
+    },
+    {
+      "naid": "415890644",
+      "title": "[Presidential Daily Diary] 6/27/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_27_90-12830-019_415890644.pdf"
+    },
+    {
+      "naid": "415892080",
+      "title": "[Presidential Daily Diary] 6/9/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_09_92-12892-015_415892080.pdf"
+    },
+    {
+      "naid": "415891992",
+      "title": "[Presidential Daily Diary] 4/27/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_27_92-12888-003_415891992.pdf"
+    },
+    {
+      "naid": "415892089",
+      "title": "[Presidential Daily Backup] 6/13/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_13_92-12892-024_415892089.pdf"
+    },
+    {
+      "naid": "415889673",
+      "title": "[Presidential Daily Backup] 2/26/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_26_89-12791-020_415889673.pdf"
+    },
+    {
+      "naid": "415892072",
+      "title": "[Presidential Daily Diary] 6/5/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_05_92-12892-007_415892072.pdf"
+    },
+    {
+      "naid": "415892064",
+      "title": "[Presidential Daily Diary] 6/1/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_01_92-12891-021_415892064.pdf"
+    },
+    {
+      "naid": "415890961",
+      "title": "[Presidential Daily Backup] 12/1/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_01_90-12843-022_415890961.pdf"
+    },
+    {
+      "naid": "415892081",
+      "title": "[Presidential Daily Backup] 6/9/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_09_92-12892-016_415892081.pdf"
+    },
+    {
+      "naid": "415889675",
+      "title": "[Presidential Daily Backup] 2/27/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_27_89-12791-022_415889675.pdf"
+    },
+    {
+      "naid": "415892075",
+      "title": "[Presidential Daily Backup] 6/6/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_06_92-12892-010_415892075.pdf"
+    },
+    {
+      "naid": "415891348",
+      "title": "[Presidential Daily Backup] 6/12/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_12_91-12860-010_415891348.pdf"
+    },
+    {
+      "naid": "415892065",
+      "title": "[Presidential Daily Backup] 6/1/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_01_92-12891-022_415892065.pdf"
+    },
+    {
+      "naid": "415892090",
+      "title": "[Presidential Daily Diary] 6/14/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_14_92-12893-001_415892090.pdf"
+    },
+    {
+      "naid": "415891120",
+      "title": "[Presidential Daily Diary] 2/19/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/56/1863/186356/content/arcmedia/media/images/40/22/40-2184a.gif"
+    },
+    {
+      "naid": "415890487",
+      "title": "[Presidential Daily Backup] 4/9/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_09_90-12823-012_415890487.pdf"
+    },
+    {
+      "naid": "415891519",
+      "title": "[Presidential Daily Diary] 9/6/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_06_91-12866-039_415891519.pdf"
+    },
+    {
+      "naid": "415892001",
+      "title": "[Presidential Daily Diary] 5/1/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_01_92-12888-012_415892001.pdf"
+    },
+    {
+      "naid": "415890528",
+      "title": "[Presidential Daily Diary] 4/30/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_30_90-12825-009_415890528.pdf"
+    },
+    {
+      "naid": "415890675",
+      "title": "[Presidential Daily Backup] 7/12/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_12_90-12832-002_415890675.pdf"
+    },
+    {
+      "naid": "415891071",
+      "title": "[Presidential Daily Backup] 1/25/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_25_91-12847-020_415891071.pdf"
+    },
+    {
+      "naid": "415890125",
+      "title": "[Presidential Daily Backup] 10/10/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_10_89-12808-002_415890125.pdf"
+    },
+    {
+      "naid": "415889689",
+      "title": "[Presidential Daily Backup] 3/6/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_06_89-12792-002_415889689.pdf"
+    },
+    {
+      "naid": "415892002",
+      "title": "[Presidential Daily Backup] 5/1/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_01_92-12888-013_415892002.pdf"
+    },
+    {
+      "naid": "415890541",
+      "title": "[Presidential Daily Backup] 5/6/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_06_90-12826-006_415890541.pdf"
+    },
+    {
+      "naid": "415889665",
+      "title": "[Presidential Daily Backup] 2/22/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_22_89-12791-012_415889665.pdf"
+    },
+    {
+      "naid": "415891121",
+      "title": "[Presidential Daily Backup] 2/19/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_19_91-12849-010_415891121.pdf"
+    },
+    {
+      "naid": "415889669",
+      "title": "[Presidential Daily Backup] 2/24/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_24_89-12791-016_415889669.pdf"
+    },
+    {
+      "naid": "415890113",
+      "title": "[Presidential Daily Backup] 10/4/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_04_89-12807-012_415890113.pdf"
+    },
+    {
+      "naid": "415891699",
+      "title": "[Presidential Daily Backup] 12/3/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_03_91-12875-006_415891699.pdf"
+    },
+    {
+      "naid": "415889703",
+      "title": "[Presidential Daily Backup] 3/13/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_13_89-12792-016_415889703.pdf"
+    },
+    {
+      "naid": "415889803",
+      "title": "[Presidential Daily Backup] 5/2/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_02_89-12796-002_415889803.pdf"
+    },
+    {
+      "naid": "415889997",
+      "title": "[Presidential Daily Backup] 8/7/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_07_89-12803-012_415889997.pdf"
+    },
+    {
+      "naid": "415890171",
+      "title": "[Presidential Daily Backup] 11/2/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_02_89-12810-004_415890171.pdf"
+    },
+    {
+      "naid": "415890249",
+      "title": "[Presidential Daily Backup] 12/11/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_11_89-12813-004_415890249.pdf"
+    },
+    {
+      "naid": "415892269",
+      "title": "[Presidential Daily Backup] 9/10/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-09_10_92-26856-002_415892269.pdf"
+    },
+    {
+      "naid": "415889947",
+      "title": "[Presidential Daily Backup] 7/13/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_13_89-12801-028_415889947.pdf"
+    },
+    {
+      "naid": "415890124",
+      "title": "[Presidential Daily Diary] 10/10/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_10_89-12808-001_415890124.pdf"
+    },
+    {
+      "naid": "415889667",
+      "title": "[Presidential Daily Backup] 2/23/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_23_89-12791-014_415889667.pdf"
+    },
+    {
+      "naid": "415891354",
+      "title": "[Presidential Daily Backup] 6/15/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_15_91-12860-016_415891354.pdf"
+    },
+    {
+      "naid": "415890973",
+      "title": "[Presidential Daily Backup] 12/7/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_07_90-12844-006_415890973.pdf"
+    },
+    {
+      "naid": "415890978",
+      "title": "[Presidential Daily Diary] 12/10/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_10_90-12844-011_415890978.pdf"
+    },
+    {
+      "naid": "415889804",
+      "title": "[Presidential Daily Diary] 5/3/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_03_89-12796-003_415889804.pdf"
+    },
+    {
+      "naid": "415890587",
+      "title": "[Presidential Daily Backup] 5/29/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_29_90-12828-012_415890587.pdf"
+    },
+    {
+      "naid": "415889805",
+      "title": "[Presidential Daily Backup] 5/3/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_03_89-12796-004_415889805.pdf"
+    },
+    {
+      "naid": "415890586",
+      "title": "[Presidential Daily Diary] 5/29/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_29_90-12828-011_415890586.pdf"
+    },
+    {
+      "naid": "415890178",
+      "title": "[Presidential Daily Diary] 11/6/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_06_89-12810-011_415890178.pdf"
+    },
+    {
+      "naid": "415891377",
+      "title": "[Presidential Daily Diary] 6/27/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_27_91-12862-001_415891377.pdf"
+    },
+    {
+      "naid": "415890179",
+      "title": "[Presidential Daily Backup] 11/6/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_06_89-12810-012_415890179.pdf"
+    },
+    {
+      "naid": "415890507",
+      "title": "[Presidential Daily Backup] 4/19/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_19_90-12824-012_415890507.pdf"
+    },
+    {
+      "naid": "415890392",
+      "title": "[Presidential Daily Diary] 2/21/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_21_90-12818-021_415890392.pdf"
+    },
+    {
+      "naid": "415891293",
+      "title": "[Presidential Daily Backup] 5/16/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_16_91-12857-018_415891293.pdf"
+    },
+    {
+      "naid": "415892439",
+      "title": "[Presidential Daily Backup] 12/04/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_04_92-26864-002_415892439.pdf"
+    },
+    {
+      "naid": "415889737",
+      "title": "[Presidential Daily Backup] 3/30/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_30_89-12793-026_415889737.pdf"
+    },
+    {
+      "naid": "415890473",
+      "title": "[Presidential Daily Backup] 4/2/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_02_90-12822-020_415890473.pdf"
+    },
+    {
+      "naid": "415889711",
+      "title": "[Presidential Daily Backup] 3/17/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_17_89-12792-024_415889711.pdf"
+    },
+    {
+      "naid": "415890393",
+      "title": "[Presidential Daily Backup] 2/21/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_21_90-12818-022_415890393.pdf"
+    },
+    {
+      "naid": "415889653",
+      "title": "[Presidential Daily Backup] 2/16/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_16_89-12790-028_415889653.pdf"
+    },
+    {
+      "naid": "415890043",
+      "title": "[Presidential Daily Backup] 8/30/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_30_89-12804-032_415890043.pdf"
+    },
+    {
+      "naid": "415890385",
+      "title": "[Presidential Daily Backup] 2/17/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_17_90-12818-014_415890385.pdf"
+    },
+    {
+      "naid": "415890033",
+      "title": "[Presidential Daily Backup] 8/25/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_25_89-12804-022_415890033.pdf"
+    },
+    {
+      "naid": "415890029",
+      "title": "[Presidential Daily Backup] 8/23/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_23_89-12804-018_415890029.pdf"
+    },
+    {
+      "naid": "415890041",
+      "title": "[Presidential Daily Backup] 8/29/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_29_89-12804-030_415890041.pdf"
+    },
+    {
+      "naid": "415890031",
+      "title": "[Presidential Daily Backup] 8/24/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_24_89-12804-020_415890031.pdf"
+    },
+    {
+      "naid": "415890158",
+      "title": "[Presidential Daily Diary] 10/27/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_27_89-12809-015_415890158.pdf"
+    },
+    {
+      "naid": "415890339",
+      "title": "[Presidential Daily Backup] 1/25/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_25_90-12816-004_415890339.pdf"
+    },
+    {
+      "naid": "415890308",
+      "title": "[Presidential Daily Diary] 1/10/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_10_90-12814-029_415890308.pdf"
+    },
+    {
+      "naid": "415891376",
+      "title": "[Presidential Daily Backup] 6/26/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_26_91-12861-020_415891376.pdf"
+    },
+    {
+      "naid": "415889733",
+      "title": "[Presidential Daily Backup] 3/28/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_28_89-12793-022_415889733.pdf"
+    },
+    {
+      "naid": "415890365",
+      "title": "[Presidential Daily Backup] 2/7/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_07_90-12817-012_415890365.pdf"
+    },
+    {
+      "naid": "415890143",
+      "title": "[Presidential Daily Backup] 10/19/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_19_89-12808-020_415890143.pdf"
+    },
+    {
+      "naid": "415890858",
+      "title": "[Presidential Daily Diary] 10/12/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_12_90-12839-005_415890858.pdf"
+    },
+    {
+      "naid": "415890337",
+      "title": "[Presidential Daily Backup] 1/24/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_24_90-12816-002_415890337.pdf"
+    },
+    {
+      "naid": "415890369",
+      "title": "[Presidential Daily Backup] 2/9/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_09_90-12817-016_415890369.pdf"
+    },
+    {
+      "naid": "415890081",
+      "title": "[Presidential Daily Backup] 9/18/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_18_89-12806-002_415890081.pdf"
+    },
+    {
+      "naid": "415889977",
+      "title": "[Presidential Daily Backup] 7/28/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_28_89-12802-018_415889977.pdf"
+    },
+    {
+      "naid": "415890535",
+      "title": "[Presidential Daily Backup] 5/3/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_03_90-12825-016_415890535.pdf"
+    },
+    {
+      "naid": "415890055",
+      "title": "[Presidential Daily Backup] 9/5/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_05_89-12804-044_415890055.pdf"
+    },
+    {
+      "naid": "415890047",
+      "title": "[Presidential Daily Backup] 9/1/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_01_89-12804-036_415890047.pdf"
+    },
+    {
+      "naid": "415890395",
+      "title": "[Presidential Daily Backup] 2/22/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_22_90-12819-002_415890395.pdf"
+    },
+    {
+      "naid": "415890037",
+      "title": "[Presidential Daily Backup] 8/27/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_27_89-12804-026_415890037.pdf"
+    },
+    {
+      "naid": "415890335",
+      "title": "[Presidential Daily Backup] 1/23/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_23_90-12815-026_415890335.pdf"
+    },
+    {
+      "naid": "415890465",
+      "title": "[Presidential Daily Backup] 3/29/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_29_90-12822-012_415890465.pdf"
+    },
+    {
+      "naid": "415890305",
+      "title": "[Presidential Daily Backup] 1/8/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_08_90-12814-026_415890305.pdf"
+    },
+    {
+      "naid": "415890207",
+      "title": "[Presidential Daily Backup] 11/20/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_20_89-12811-020_415890207.pdf"
+    },
+    {
+      "naid": "415890481",
+      "title": "[Presidential Daily Backup] 4/6/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_06_90-12823-006_415890481.pdf"
+    },
+    {
+      "naid": "415890477",
+      "title": "[Presidential Daily Backup] 4/4/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_04_90-12823-002_415890477.pdf"
+    },
+    {
+      "naid": "415892170",
+      "title": "[Presidential Daily Backup] 7/23/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_23_92-12896-014_415892170.pdf"
+    },
+    {
+      "naid": "415891885",
+      "title": "[Presidential Daily Backup] 3/4/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_04_92-12883-002_415891885.pdf"
+    },
+    {
+      "naid": "415891659",
+      "title": "[Presidential Daily Backup] 11/13/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_13_91-12873-011_415891659.pdf"
+    },
+    {
+      "naid": "415891657",
+      "title": "[Presidential Daily Backup] 11/12/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_12_91-12873-009_415891657.pdf"
+    },
+    {
+      "naid": "415891909",
+      "title": "[Presidential Daily Backup] 3/16/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_16_92-12884-010_415891909.pdf"
+    },
+    {
+      "naid": "415890259",
+      "title": "[Presidential Daily Backup] 12/16/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_16_89-12813-014_415890259.pdf"
+    },
+    {
+      "naid": "415890309",
+      "title": "[Presidential Daily Backup] 1/10/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_10_90-12814-030_415890309.pdf"
+    },
+    {
+      "naid": "415890327",
+      "title": "[Presidential Daily Backup] 1/19/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_19_90-12815-018_415890327.pdf"
+    },
+    {
+      "naid": "415890859",
+      "title": "[Presidential Daily Backup] 10/12/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_12_90-12839-006_415890859.pdf"
+    },
+    {
+      "naid": "415891137",
+      "title": "[Presidential Daily Backup] 2/27/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_27_91-12850-004_415891137.pdf"
+    },
+    {
+      "naid": "415890695",
+      "title": "[Presidential Daily Backup] 7/22/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_22_90-12832-022_415890695.pdf"
+    },
+    {
+      "naid": "415892409",
+      "title": "[Presidential Daily Backup] 11/19/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-11_19_92-26863-008_415892409.pdf"
+    },
+    {
+      "naid": "415890694",
+      "title": "[Presidential Daily Diary] 7/22/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_22_90-12832-021_415890694.pdf"
+    },
+    {
+      "naid": "415891817",
+      "title": "[Presidential Daily Diary] 1/31/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-019_415891817.pdf"
+    },
+    {
+      "naid": "415890297",
+      "title": "[Presidential Daily Backup] 1/4/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_04_90-12814-018_415890297.pdf"
+    },
+    {
+      "naid": "415891818",
+      "title": "[Presidential Daily Backup] 1/31/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-020_415891818.pdf"
+    },
+    {
+      "naid": "415889635",
+      "title": "[Presidential Daily Backup] 2/7/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_07_89-12790-010_415889635.pdf"
+    },
+    {
+      "naid": "415892436",
+      "title": "[Presidential Daily Diary] 12/03/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_03_92-26863-035_415892436.pdf"
+    },
+    {
+      "naid": "415892408",
+      "title": "[Presidential Daily Diary] 11/19/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-11_19_92-26863-007_415892408.pdf"
+    },
+    {
+      "naid": "415889634",
+      "title": "[Presidential Daily Diary] 2/7/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_07_89-12790-009_415889634.pdf"
+    },
+    {
+      "naid": "415891939",
+      "title": "[Presidential Daily Backup] 3/31/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_31_92-12885-018_415891939.pdf"
+    },
+    {
+      "naid": "415892407",
+      "title": "[Presidential Daily Backup] 11/18/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-11_18_92-26863-006_415892407.pdf"
+    },
+    {
+      "naid": "415890929",
+      "title": "[Presidential Daily Backup] 11/15/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_15_90-12842-018_415890929.pdf"
+    },
+    {
+      "naid": "415891605",
+      "title": "[Presidential Daily Backup] 10/18/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_18_91-12870-024_415891605.pdf"
+    },
+    {
+      "naid": "415890693",
+      "title": "[Presidential Daily Backup] 7/21/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_21_90-12832-020_415890693.pdf"
+    },
+    {
+      "naid": "415890211",
+      "title": "[Presidential Daily Backup] 11/22/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_22_89-12812-002_415890211.pdf"
+    },
+    {
+      "naid": "415889633",
+      "title": "[Presidential Daily Backup] 2/6/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_06_89-12790-008_415889633.pdf"
+    },
+    {
+      "naid": "415891941",
+      "title": "[Presidential Daily Backup] 4/1/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_01_92-12885-020_415891941.pdf"
+    },
+    {
+      "naid": "415889625",
+      "title": "[Presidential Daily Backup] 2/2/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_02_89-12789-028_415889625.pdf"
+    },
+    {
+      "naid": "415890441",
+      "title": "[Presidential Daily Backup] 3/17/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_17_90-12821-008_415890441.pdf"
+    },
+    {
+      "naid": "415890399",
+      "title": "[Presidential Daily Backup] 2/24/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_24_90-12819-006_415890399.pdf"
+    },
+    {
+      "naid": "415890357",
+      "title": "[Presidential Daily Backup] 2/3/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_03_90-12817-004_415890357.pdf"
+    },
+    {
+      "naid": "415890313",
+      "title": "[Presidential Daily Backup] 1/12/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_12_90-12815-004_415890313.pdf"
+    },
+    {
+      "naid": "415890173",
+      "title": "[Presidential Daily Backup] 11/3/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_03_89-12810-006_415890173.pdf"
+    },
+    {
+      "naid": "415890639",
+      "title": "[Presidential Daily Backup] 6/24/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_24_90-12830-014_415890639.pdf"
+    },
+    {
+      "naid": "415891687",
+      "title": "[Presidential Daily Backup] 11/27/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_27_91-12874-020_415891687.pdf"
+    },
+    {
+      "naid": "415890483",
+      "title": "[Presidential Daily Backup] 4/7/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_07_90-12823-008_415890483.pdf"
+    },
+    {
+      "naid": "415891980",
+      "title": "[Presidential Daily Diary] 4/21/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_21_92-12887-015_415891980.pdf"
+    },
+    {
+      "naid": "415889791",
+      "title": "[Presidential Daily Backup] 4/26/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_26_89-12795-022_415889791.pdf"
+    },
+    {
+      "naid": "415890543",
+      "title": "[Presidential Daily Backup] 5/7/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_07_90-12826-008_415890543.pdf"
+    },
+    {
+      "naid": "415890430",
+      "title": "[Presidential Daily Diary] 3/12/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_12_90-12820-021_415890430.pdf"
+    },
+    {
+      "naid": "415891434",
+      "title": "[Presidential Daily Backup] 7/25/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_25_91-12864-018_415891434.pdf"
+    },
+    {
+      "naid": "415892010",
+      "title": "[Presidential Daily Backup] 5/5/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_05_92-12889-008_415892010.pdf"
+    },
+    {
+      "naid": "415890193",
+      "title": "[Presidential Daily Backup] 11/13/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_13_89-12811-006_415890193.pdf"
+    },
+    {
+      "naid": "415892009",
+      "title": "[Presidential Daily Diary] 5/5/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_05_92-12889-007_415892009.pdf"
+    },
+    {
+      "naid": "415891433",
+      "title": "[Presidential Daily Diary] 7/25/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_25_91-12864-017_415891433.pdf"
+    },
+    {
+      "naid": "415890431",
+      "title": "[Presidential Daily Backup] 3/12/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_12_90-12820-022_415890431.pdf"
+    },
+    {
+      "naid": "415890192",
+      "title": "[Presidential Daily Diary] 11/13/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_13_89-12811-005_415890192.pdf"
+    },
+    {
+      "naid": "415890999",
+      "title": "[Presidential Daily Backup] 12/20/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_20_90-12845-014_415890999.pdf"
+    },
+    {
+      "naid": "415890197",
+      "title": "[Presidential Daily Backup] 11/15/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_15_89-12811-010_415890197.pdf"
+    },
+    {
+      "naid": "415892264",
+      "title": "[Presidential Daily Diary] 9/8/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-09_08_92-12900-017_415892264.pdf"
+    },
+    {
+      "naid": "415892447",
+      "title": "[Presidential Daily Backup] 12/8/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_08_92-26864-010_415892447.pdf"
+    },
+    {
+      "naid": "415891995",
+      "title": "[Presidential Daily Backup] 4/28/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_28_92-12888-006_415891995.pdf"
+    },
+    {
+      "naid": "415890955",
+      "title": "[Presidential Daily Backup] 11/28/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_28_90-12843-016_415890955.pdf"
+    },
+    {
+      "naid": "415890531",
+      "title": "[Presidential Daily Backup] 5/1/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_01_90-12825-012_415890531.pdf"
+    },
+    {
+      "naid": "415891177",
+      "title": "[Presidential Daily Backup] 3/19/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_19_91-12851-022_415891177.pdf"
+    },
+    {
+      "naid": "415890643",
+      "title": "[Presidential Daily Backup] 6/26/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_26_90-12830-018_415890643.pdf"
+    },
+    {
+      "naid": "415891123",
+      "title": "[Presidential Daily Backup] 2/20/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_20_91-12849-012_415891123.pdf"
+    },
+    {
+      "naid": "415891955",
+      "title": "[Presidential Daily Backup] 4/8/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_08_92-12886-008_415891955.pdf"
+    },
+    {
+      "naid": "415891548",
+      "title": "[Presidential Daily Backup] 9/20/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_20_91-12868-004_415891548.pdf"
+    },
+    {
+      "naid": "415891476",
+      "title": "[Presidential Daily Backup] 8/15/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_15_91-12865-036_415891476.pdf"
+    },
+    {
+      "naid": "415891470",
+      "title": "[Presidential Daily Backup] 8/12/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_12_91-12865-030_415891470.pdf"
+    },
+    {
+      "naid": "415890223",
+      "title": "[Presidential Daily Backup] 11/28/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_28_89-12812-014_415890223.pdf"
+    },
+    {
+      "naid": "415890269",
+      "title": "[Presidential Daily Backup] 12/21/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_21_89-12813-024_415890269.pdf"
+    },
+    {
+      "naid": "415891474",
+      "title": "[Presidential Daily Backup] 8/14/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_14_91-12865-034_415891474.pdf"
+    },
+    {
+      "naid": "415891111",
+      "title": "[Presidential Daily Backup] 2/14/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_14_91-12848-028_415891111.pdf"
+    },
+    {
+      "naid": "415890605",
+      "title": "[Presidential Daily Backup] 6/7/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_07_90-12829-002_415890605.pdf"
+    },
+    {
+      "naid": "415891478",
+      "title": "[Presidential Daily Backup] 8/16/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_16_91-12865-038_415891478.pdf"
+    },
+    {
+      "naid": "415891472",
+      "title": "[Presidential Daily Backup] 8/13/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_13_91-12865-032_415891472.pdf"
+    },
+    {
+      "naid": "415889823",
+      "title": "[Presidential Daily Backup] 5/12/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_12_89-12796-022_415889823.pdf"
+    },
+    {
+      "naid": "415891466",
+      "title": "[Presidential Daily Backup] 8/10/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_10_91-12865-026_415891466.pdf"
+    },
+    {
+      "naid": "415891468",
+      "title": "[Presidential Daily Backup] 8/11/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_11_91-12865-028_415891468.pdf"
+    },
+    {
+      "naid": "415891309",
+      "title": "[Presidential Daily Backup] 5/24/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_24_91-12858-014_415891309.pdf"
+    },
+    {
+      "naid": "415890537",
+      "title": "[Presidential Daily Backup] 5/4/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_04_90-12826-002_415890537.pdf"
+    },
+    {
+      "naid": "415891717",
+      "title": "[Presidential Daily Backup] 12/12/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_12_91-12875-024_415891717.pdf"
+    },
+    {
+      "naid": "415890355",
+      "title": "[Presidential Daily Backup] 2/2/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_02_90-12817-002_415890355.pdf"
+    },
+    {
+      "naid": "415890882",
+      "title": "[Presidential Daily Backup] 10/23/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_23_90-12840-014_415890882.pdf"
+    },
+    {
+      "naid": "415890089",
+      "title": "[Presidential Daily Backup] 9/22/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_22_89-12806-010_415890089.pdf"
+    },
+    {
+      "naid": "415891917",
+      "title": "[Presidential Daily Backup] 3/20/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_20_92-12884-018_415891917.pdf"
+    },
+    {
+      "naid": "415890801",
+      "title": "[Presidential Daily Backup] 9/13/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_13_90-12836-004_415890801.pdf"
+    },
+    {
+      "naid": "415892329",
+      "title": "[Presidential Daily Backup] 10/10/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-10_10_92-26859-012_415892329.pdf"
+    },
+    {
+      "naid": "415889985",
+      "title": "[Presidential Daily Backup] 8/1/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_01_89-12802-026_415889985.pdf"
+    },
+    {
+      "naid": "415890547",
+      "title": "[Presidential Daily Backup] 5/9/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_09_90-12826-012_415890547.pdf"
+    },
+    {
+      "naid": "415891269",
+      "title": "[Presidential Daily Backup] 5/4/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_04_91-12856-008_415891269.pdf"
+    },
+    {
+      "naid": "415889807",
+      "title": "[Presidential Daily Backup] 5/4/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_04_89-12796-006_415889807.pdf"
+    },
+    {
+      "naid": "415891558",
+      "title": "[Presidential Daily Backup] 9/25/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_25_91-12868-014_415891558.pdf"
+    },
+    {
+      "naid": "415892449",
+      "title": "[Presidential Daily Backup] 12/9/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_09_92-26864-012_415892449.pdf"
+    },
+    {
+      "naid": "415891235",
+      "title": "[Presidential Daily Backup] 4/17/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_17_91-12854-016_415891235.pdf"
+    },
+    {
+      "naid": "415890853",
+      "title": "[Presidential Daily Backup] 10/9/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_09_90-12838-020_415890853.pdf"
+    },
+    {
+      "naid": "415890565",
+      "title": "[Presidential Daily Backup] 5/18/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_18_90-12827-008_415890565.pdf"
+    },
+    {
+      "naid": "415889970",
+      "title": "[Presidential Daily Diary] 7/25/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_25_89-12802-011_415889970.pdf"
+    },
+    {
+      "naid": "415890827",
+      "title": "[Presidential Daily Backup] 9/26/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_26_90-12837-004_415890827.pdf"
+    },
+    {
+      "naid": "415889815",
+      "title": "[Presidential Daily Backup] 5/8/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_08_89-12796-014_415889815.pdf"
+    },
+    {
+      "naid": "415889814",
+      "title": "[Presidential Daily Diary] 5/8/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_08_89-12796-013_415889814.pdf"
+    },
+    {
+      "naid": "415891221",
+      "title": "[Presidential Daily Backup] 4/10/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_10_91-12854-002_415891221.pdf"
+    },
+    {
+      "naid": "415889817",
+      "title": "[Presidential Daily Backup] 5/9/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_09_89-12796-016_415889817.pdf"
+    },
+    {
+      "naid": "415891725",
+      "title": "[Presidential Daily Backup] 12/16/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_16_91-12876-008_415891725.pdf"
+    },
+    {
+      "naid": "415891546",
+      "title": "[Presidential Daily Backup] 9/19/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_19_91-12868-002_415891546.pdf"
+    },
+    {
+      "naid": "415891715",
+      "title": "[Presidential Daily Backup] 12/11/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_11_91-12875-022_415891715.pdf"
+    },
+    {
+      "naid": "415889971",
+      "title": "[Presidential Daily Backup] 7/25/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_25_89-12802-012_415889971.pdf"
+    },
+    {
+      "naid": "415890407",
+      "title": "[Presidential Daily Backup] 2/28/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_28_90-12819-014_415890407.pdf"
+    },
+    {
+      "naid": "415890687",
+      "title": "[Presidential Daily Backup] 7/18/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_18_90-12832-014_415890687.pdf"
+    },
+    {
+      "naid": "415890701",
+      "title": "[Presidential Daily Backup] 7/25/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_25_90-12833-002_415890701.pdf"
+    },
+    {
+      "naid": "415891247",
+      "title": "[Presidential Daily Backup] 4/23/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_23_91-12855-008_415891247.pdf"
+    },
+    {
+      "naid": "415891291",
+      "title": "[Presidential Daily Backup] 5/15/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_15_91-12857-016_415891291.pdf"
+    },
+    {
+      "naid": "415891631",
+      "title": "[Presidential Daily Backup] 10/31/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_31_91-12872-002_415891631.pdf"
+    },
+    {
+      "naid": "415891211",
+      "title": "[Presidential Daily Backup] 4/5/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_05_91-12853-004_415891211.pdf"
+    },
+    {
+      "naid": "415891394",
+      "title": "[Presidential Daily Backup] 7/5/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_05_91-12862-018_415891394.pdf"
+    },
+    {
+      "naid": "415891798",
+      "title": "[Presidential Daily Backup] 1/21/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_21_92-12878-026_415891798.pdf"
+    },
+    {
+      "naid": "415891217",
+      "title": "[Presidential Daily Backup] 4/8/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_08_91-12853-010_415891217.pdf"
+    },
+    {
+      "naid": "415891209",
+      "title": "[Presidential Daily Backup] 4/4/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_04_91-12853-002_415891209.pdf"
+    },
+    {
+      "naid": "415891402",
+      "title": "[Presidential Daily Backup] 7/9/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_09_91-12863-006_415891402.pdf"
+    },
+    {
+      "naid": "415891532",
+      "title": "[Presidential Daily Backup] 9/12/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_12_91-12867-012_415891532.pdf"
+    },
+    {
+      "naid": "415890998",
+      "title": "[Presidential Daily Diary] 12/20/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_20_90-12845-013_415890998.pdf"
+    },
+    {
+      "naid": "415891823",
+      "title": "[Presidential Daily Diary] 2/3/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-02_03_92-12880-001_415891823.pdf"
+    },
+    {
+      "naid": "415891824",
+      "title": "[Presidential Daily Backup] 2/3/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-02_03_92-12880-002_415891824.pdf"
+    },
+    {
+      "naid": "415891346",
+      "title": "[Presidential Daily Backup] 6/11/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_11_91-12860-008_415891346.pdf"
+    },
+    {
+      "naid": "415891721",
+      "title": "[Presidential Daily Backup] 12/14/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_14_91-12876-004_415891721.pdf"
+    },
+    {
+      "naid": "415891310",
+      "title": "[Presidential Daily Backup] 5/24/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_24_91-12858-015_415891310.pdf"
+    },
+    {
+      "naid": "415889735",
+      "title": "[Presidential Daily Backup] 3/29/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_29_89-12793-024_415889735.pdf"
+    },
+    {
+      "naid": "415889949",
+      "title": "[Presidential Daily Backup] 7/14/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_14_89-12801-030_415889949.pdf"
+    },
+    {
+      "naid": "415890954",
+      "title": "[Presidential Daily Diary] 11/28/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_28_90-12843-015_415890954.pdf"
+    },
+    {
+      "naid": "415892323",
+      "title": "[Presidential Daily Backup] 10/7/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-10_07_92-26859-006_415892323.pdf"
+    },
+    {
+      "naid": "415891414",
+      "title": "[Presidential Daily Backup] 7/15/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_15_91-12863-018_415891414.pdf"
+    },
+    {
+      "naid": "415890830",
+      "title": "[Presidential Daily Diary] 9/28/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_28_90-12837-007_415890830.pdf"
+    },
+    {
+      "naid": "415891757",
+      "title": "[Presidential Daily Backup] 1/1/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_01_92-12877-012_415891757.pdf"
+    },
+    {
+      "naid": "415890831",
+      "title": "[Presidential Daily Backup] 9/28/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_28_90-12837-008_415890831.pdf"
+    },
+    {
+      "naid": "415891731",
+      "title": "[Presidential Daily Backup] 12/19/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_19_91-12876-014_415891731.pdf"
+    },
+    {
+      "naid": "415891983",
+      "title": "[Presidential Daily Backup] 4/22/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_22_92-12887-018_415891983.pdf"
+    },
+    {
+      "naid": "415891685",
+      "title": "[Presidential Daily Backup] 11/26/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_26_91-12874-018_415891685.pdf"
+    },
+    {
+      "naid": "415891149",
+      "title": "[Presidential Daily Backup] 3/5/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_05_91-12850-016_415891149.pdf"
+    },
+    {
+      "naid": "415890517",
+      "title": "[Presidential Daily Backup] 4/24/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_24_90-12824-022_415890517.pdf"
+    },
+    {
+      "naid": "415890885",
+      "title": "[Presidential Daily Backup] 10/24/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_24_90-12840-017_415890885.pdf"
+    },
+    {
+      "naid": "415892467",
+      "title": "[Presidential Daily Backup] 12/18/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_18_92-26865-008_415892467.pdf"
+    },
+    {
+      "naid": "415891763",
+      "title": "[Presidential Daily Backup] 1/4/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_04_92-12877-018_415891763.pdf"
+    },
+    {
+      "naid": "415889933",
+      "title": "[Presidential Daily Backup] 7/6/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_06_89-12801-014_415889933.pdf"
+    },
+    {
+      "naid": "415891263",
+      "title": "[Presidential Daily Backup] 5/1/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_02_91-12856-002_415891263.pdf"
+    },
+    {
+      "naid": "415890633",
+      "title": "[Presidential Daily Backup] 6/21/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_21_90-12830-008_415890633.pdf"
+    },
+    {
+      "naid": "415891774",
+      "title": "[Presidential Daily Backup] 1/9/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_09_92-12878-002_415891774.pdf"
+    },
+    {
+      "naid": "415891400",
+      "title": "[Presidential Daily Backup] 7/8/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_08_91-12863-004_415891400.pdf"
+    },
+    {
+      "naid": "415891723",
+      "title": "[Presidential Daily Backup] 12/15/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_15_91-12876-006_415891723.pdf"
+    },
+    {
+      "naid": "415891259",
+      "title": "[Presidential Daily Backup] 4/29/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_27_91-12855-020_415891259.pdf"
+    },
+    {
+      "naid": "415891759",
+      "title": "[Presidential Daily Backup] 1/2/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_02_92-12877-014_415891759.pdf"
+    },
+    {
+      "naid": "415891482",
+      "title": "[Presidential Daily Backup] 8/18/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_18_91-12866-002_415891482.pdf"
+    },
+    {
+      "naid": "415890825",
+      "title": "[Presidential Daily Backup] 9/25/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_25_90-12837-002_415890825.pdf"
+    },
+    {
+      "naid": "415891043",
+      "title": "[Presidential Daily Backup] 1/11/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_11_91-12846-026_415891043.pdf"
+    },
+    {
+      "naid": "415889609",
+      "title": "[Presidential Daily Backup] 1/25/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-01_25_89-12789-012_415889609.pdf"
+    },
+    {
+      "naid": "415891418",
+      "title": "[Presidential Daily Backup] 7/17/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_17_91-12864-002_415891418.pdf"
+    },
+    {
+      "naid": "415892411",
+      "title": "[Presidential Daily Backup] 11/20/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-11_20_92-26863-010_415892411.pdf"
+    },
+    {
+      "naid": "415891307",
+      "title": "[Presidential Daily Backup] 5/23/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_23_91-12858-012_415891307.pdf"
+    },
+    {
+      "naid": "415889705",
+      "title": "[Presidential Daily Backup] 3/14/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_14_89-12792-018_415889705.pdf"
+    },
+    {
+      "naid": "415890575",
+      "title": "[Presidential Daily Backup] 5/23/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_23_90-12827-018_415890575.pdf"
+    },
+    {
+      "naid": "415890884",
+      "title": "[Presidential Daily Diary] 10/24/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_24_90-12840-016_415890884.pdf"
+    },
+    {
+      "naid": "415891782",
+      "title": "[Presidential Daily Backup] 1/13/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_13_92-12878-010_415891782.pdf"
+    },
+    {
+      "naid": "415890619",
+      "title": "[Presidential Daily Backup] 6/14/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_14_90-12829-016_415890619.pdf"
+    },
+    {
+      "naid": "415891943",
+      "title": "[Presidential Daily Backup] 4/2/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_02_92-12885-022_415891943.pdf"
+    },
+    {
+      "naid": "415889915",
+      "title": "[Presidential Daily Backup] 6/27/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_27_89-12800-016_415889915.pdf"
+    },
+    {
+      "naid": "415891925",
+      "title": "[Presidential Daily Backup] 3/24/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_24_92-12885-004_415891925.pdf"
+    },
+    {
+      "naid": "415891231",
+      "title": "[Presidential Daily Backup] 4/15/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_15_91-12854-012_415891231.pdf"
+    },
+    {
+      "naid": "415891767",
+      "title": "[Presidential Daily Backup] 1/6/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_06_92-12877-022_415891767.pdf"
+    },
+    {
+      "naid": "415892061",
+      "title": "[Presidential Daily Backup] 5/30/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_30_92-12891-018_415892061.pdf"
+    },
+    {
+      "naid": "415892126",
+      "title": "[Presidential Daily Backup] 7/1/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_01_92-12894-015_415892126.pdf"
+    },
+    {
+      "naid": "415892391",
+      "title": "[Presidential Daily Backup] 11/10/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-11_10_92-26862-022_415892391.pdf"
+    },
+    {
+      "naid": "415892093",
+      "title": "[Presidential Daily Backup] 6/15/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-06_15_92-12893-004_415892093.pdf"
+    },
+    {
+      "naid": "415890445",
+      "title": "[Presidential Daily Backup] 3/19/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_19_90-12821-012_415890445.pdf"
+    },
+    {
+      "naid": "415891422",
+      "title": "[Presidential Daily Backup] 7/19/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_19_91-12864-006_415891422.pdf"
+    },
+    {
+      "naid": "415890914",
+      "title": "[Presidential Daily Diary] 11/8/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_08_90-12842-003_415890914.pdf"
+    },
+    {
+      "naid": "415891305",
+      "title": "[Presidential Daily Backup] 5/22/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_22_91-12858-010_415891305.pdf"
+    },
+    {
+      "naid": "415891825",
+      "title": "[Presidential Daily Diary] 2/4/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-02_04_92-12880-003_415891825.pdf"
+    },
+    {
+      "naid": "415890273",
+      "title": "[Presidential Daily Backup] 12/23/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_23_89-12813-028_415890273.pdf"
+    },
+    {
+      "naid": "415890012",
+      "title": "[Presidential Daily Diary] 8/15/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_15_89-12804-001_415890012.pdf"
+    },
+    {
+      "naid": "415891883",
+      "title": "[Presidential Daily Backup] 3/3/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_03_92-12882-022_415891883.pdf"
+    },
+    {
+      "naid": "415891055",
+      "title": "[Presidential Daily Backup] 1/17/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_17_91-12847-004_415891055.pdf"
+    },
+    {
+      "naid": "415891826",
+      "title": "[Presidential Daily Backup] 2/4/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-02_04_92-12880-004_415891826.pdf"
+    },
+    {
+      "naid": "415889816",
+      "title": "[Presidential Daily Diary] 5/9/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_09_89-12796-015_415889816.pdf"
+    },
+    {
+      "naid": "415891695",
+      "title": "[Presidential Daily Backup] 12/1/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_01_91-12875-002_415891695.pdf"
+    },
+    {
+      "naid": "415890579",
+      "title": "[Presidential Daily Backup] 5/25/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_25_90-12828-004_415890579.pdf"
+    },
+    {
+      "naid": "415889743",
+      "title": "[Presidential Daily Backup] 4/2/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_02_89-12793-032_415889743.pdf"
+    },
+    {
+      "naid": "415889681",
+      "title": "[Presidential Daily Backup] 3/2/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_02_89-12791-028_415889681.pdf"
+    },
+    {
+      "naid": "415891544",
+      "title": "[Presidential Daily Backup] 9/18/1991",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_18_91-12867-024_415891544.pdf"
+    },
+    {
+      "naid": "415890103",
+      "title": "[Presidential Daily Backup] 9/29/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_29_89-12807-002_415890103.pdf"
+    },
+    {
+      "naid": "415891882",
+      "title": "[Presidential Daily Diary] 3/3/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_03_92-12882-021_415891882.pdf"
+    },
+    {
+      "naid": "415890561",
+      "title": "[Presidential Daily Backup] 5/16/1990",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_16_90-12827-004_415890561.pdf"
+    },
+    {
+      "naid": "415890111",
+      "title": "[Presidential Daily Backup] 10/3/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_03_89-12807-010_415890111.pdf"
+    },
+    {
+      "naid": "415892211",
+      "title": "[Presidential Daily Backup] 8/12/1992",
+      "hydrated": true,
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-08_12_92-12898-014_415892211.pdf"
+    },
+    {
+      "naid": "415890131",
+      "title": "[Presidential Daily Backup] 10/13/1989",
+      "hydrated": true,
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_13_89-12808-008_415890131.pdf"
+    }
+  ]
+}

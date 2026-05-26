@@ -23,6 +23,7 @@
         <a href="#compiler-gaps">Gaps</a>
         <a href="#print-candidates">Print Candidates</a>
         <a href="#public-statements">Public Statements</a>
+        <a href="#daily-diary">Diary/Backup</a>
         <a href="persons.html">Persons</a>
         <a href="#records">Records</a>
         <a href="#sources">Sources</a>
@@ -47,6 +48,7 @@
             <a class="button secondary" href="#compiler-gaps">Gap Audit</a>
             <a class="button secondary" href="#print-candidates">Print Candidate Leads</a>
             <a class="button secondary" href="#public-statements">Public Statements</a>
+            <a class="button secondary" href="#daily-diary">Diary/Backup References</a>
             <a class="button secondary" href="persons.html">Persons</a>
           </div>
         </div>
@@ -119,6 +121,7 @@
           <article><h3>Presidential Memcon Files</h3><p><strong class="source-count" data-source-count="memcon">0</strong> memorandum-of-conversation records from the same public table and the Presidential Memcon Files series.</p></article>
           <article><h3>Scowcroft Page Ranges</h3><p><strong class="source-count" data-source-count="scowcroft">0</strong> local PDF extracts from the Brent Scowcroft Papers, Presidential Correspondence Files, when the cataloged scan bundles multiple conversations.</p></article>
           <article><h3>Deduped Cross-References</h3><p><strong class="source-count" data-source-count="duplicates">0</strong> records retain Scowcroft or catalog cross-references inside the Source note rather than appearing twice in the public list.</p></article>
+          <article><h3>Daily Diary/Backup</h3><p><strong class="source-count" data-source-count="dailyDiary">0</strong> listed memcons and telcons now include same-date references to the Presidential Daily Diary and Daily Backup Materials.</p></article>
         </div>
       </section>
 
@@ -131,6 +134,7 @@
           <article><h3>Selection Standard</h3><p>Flag records that document major policy decisions, significant diplomatic activity, and high-level decision pathways for the South America chapter sequence.</p></article>
           <article><h3>Chronology Rule</h3><p>Memcons and telcons are sorted by the date of the conversation, matching the FRUS practice of arranging documents by Washington, DC time.</p></article>
           <article><h3>Source Note Model</h3><p>Citations follow the Volume XXXI Bush-document pattern: repository, Bush Presidential Records, office or collection, series, OA/ID or file unit, folder title, then release facts. Scowcroft citations are drawn from the PDF provenance sheet.</p></article>
+          <article><h3>Diary/Backup Use</h3><p>Presidential Daily Diary and Daily Backup files are treated as schedule and call-reference evidence. They help identify times, participants, and supporting materials but are kept separate from substantive memcon and telcon texts.</p></article>
           <article><h3>Declassification Check</h3><p>Partial releases, local page-range extracts, and catalog-only provenance are exposed as review cues for later comparison with restricted or newly opened files.</p></article>
         </div>
         <p class="method-source">
@@ -298,6 +302,65 @@
         </div>
       </section>
 
+      <section class="section statement-section" id="daily-diary" aria-labelledby="daily-diary-title">
+        <div class="section-heading">
+          <p class="kicker">Reference</p>
+          <h2 id="daily-diary-title">Presidential Daily Diary and Backup</h2>
+        </div>
+        <p class="records-intro">
+          Date-file references from the White House Office of Appointments and Scheduling Files,
+          NAID 186322. Same-date diary/backup files are linked from every listed memcon or telcon;
+          additional Catalog-search leads are included as a separate compiler worklist. The series
+          documents schedule, call status, participants, and supporting materials, not substantive
+          meeting minutes or telephone-call summaries.
+        </p>
+        <section class="stats compact-stats statement-stats" aria-label="Daily diary and backup summary">
+          <div>
+            <span id="daily-diary-total">0</span>
+            <p>diary/backup refs</p>
+          </div>
+          <div>
+            <span id="daily-diary-linked">0</span>
+            <p>same-date links</p>
+          </div>
+          <div>
+            <span id="daily-diary-countries">0</span>
+            <p>countries represented</p>
+          </div>
+        </section>
+        <div class="record-tools statement-tools daily-diary-tools" aria-label="Daily diary and backup filters">
+          <label>
+            Search
+            <input id="daily-diary-search" type="search" placeholder="Menem, schedule, backup, 12838-004" />
+          </label>
+          <label>
+            Country
+            <select id="daily-diary-country-filter">
+              <option value="">All countries</option>
+            </select>
+          </label>
+          <label>
+            Type
+            <select id="daily-diary-type-filter">
+              <option value="">All types</option>
+            </select>
+          </label>
+          <label>
+            Link
+            <select id="daily-diary-link-filter">
+              <option value="">All references</option>
+              <option value="Matched memcon/telcon date">Matched memcon/telcon date</option>
+              <option value="Catalog search lead">Catalog search lead</option>
+            </select>
+          </label>
+          <button id="clear-daily-diary-filters" class="button secondary small" type="button">Clear</button>
+          <p id="daily-diary-result-summary" class="result-summary">0 references</p>
+        </div>
+        <div id="daily-diary-root" class="daily-diary-root" aria-live="polite">
+          <p class="loading">Loading daily diary and backup references...</p>
+        </div>
+      </section>
+
       <section class="section records-section" id="records" aria-labelledby="records-title">
         <div class="section-heading">
           <p class="kicker">Chronological Files</p>
@@ -366,6 +429,7 @@
           <a href="https://catalog.archives.gov/id/321498039" rel="noreferrer">Presidential Memcon Files</a>
           <a href="https://catalog.archives.gov/id/322361434" rel="noreferrer">January 1989 Presidential Telcon folder</a>
           <a href="https://catalog.archives.gov/id/2554810" rel="noreferrer">Timothy E. Deal Subject Files, NAID 2554810</a>
+          <a href="https://catalog.archives.gov/id/186322" rel="noreferrer">Presidential Daily Diary and Presidential Daily Backup Materials, NAID 186322</a>
           <a href="https://www.bush41library.gov/digital-research-room/about-textual-collections/memcons-and-telcons" rel="noreferrer">Bush Library Memcons and Telcons index</a>
           <a href="https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-memcons-and-telcons-january-1989-december-1991" rel="noreferrer">FOIA 2000-0429-F finding aid</a>
           <a href="https://www.govinfo.gov/app/collection/ppp/president-41_Bush,%20George%20H.%20W." rel="noreferrer">GovInfo Public Papers: George H.W. Bush</a>
@@ -382,6 +446,7 @@
     <script src="data/subject-print-candidates.js"></script>
     <script src="data/deal-print-candidates.js"></script>
     <script src="data/public-statements.js"></script>
+    <script src="data/daily-diary-references.js"></script>
     <script src="data/compiler-gaps.js"></script>
     <script src="app.js"></script>
   </body>

@@ -40,10 +40,18 @@ const statementYearFilter = document.querySelector("#statement-year-filter");
 const statementBookFilter = document.querySelector("#statement-book-filter");
 const clearStatementFilters = document.querySelector("#clear-statement-filters");
 const statementResultSummary = document.querySelector("#statement-result-summary");
+const dailyDiaryRoot = document.querySelector("#daily-diary-root");
+const dailyDiarySearchInput = document.querySelector("#daily-diary-search");
+const dailyDiaryCountryFilter = document.querySelector("#daily-diary-country-filter");
+const dailyDiaryTypeFilter = document.querySelector("#daily-diary-type-filter");
+const dailyDiaryLinkFilter = document.querySelector("#daily-diary-link-filter");
+const clearDailyDiaryFilters = document.querySelector("#clear-daily-diary-filters");
+const dailyDiaryResultSummary = document.querySelector("#daily-diary-result-summary");
 const compilerGapsRoot = document.querySelector("#compiler-gaps-root");
 let allRecords = [];
 let allPrintCandidates = [];
 let allPublicStatements = [];
+let allDailyDiaryReferences = [];
 
 function chapterId(chapterName) {
   return `chapter-${chapterName.toLowerCase().replace(/\s+/g, "-")}`;
@@ -285,7 +293,8 @@ function setProvenanceCounts(records) {
     telcon: records.filter((record) => record.source?.series === "Presidential Telcon Files").length,
     memcon: records.filter((record) => record.source?.series === "Presidential Memcon Files").length,
     scowcroft: records.filter((record) => record.source?.name === "Brent Scowcroft Papers").length,
-    duplicates: records.filter((record) => (record.source?.duplicateSources || []).length > 0).length
+    duplicates: records.filter((record) => (record.source?.duplicateSources || []).length > 0).length,
+    dailyDiary: records.filter((record) => (record.dailyDiaryReferences || []).length > 0).length
   };
 
   for (const [name, value] of Object.entries(counts)) {
@@ -405,6 +414,44 @@ function createReviewFlags(record) {
   return container;
 }
 
+function createRecordDailyDiaryReferences(record) {
+  const references = record.dailyDiaryReferences || [];
+  if (!references.length) return null;
+
+  const details = document.createElement("details");
+  details.className = "record-provenance daily-diary-provenance";
+  const summary = document.createElement("summary");
+  summary.textContent = "Daily diary/backup references";
+
+  const note = document.createElement("p");
+  note.textContent =
+    "Date-level references from the White House Office of Appointments and Scheduling Files. These files document schedule/call context and supporting materials; they are not substantive meeting minutes or telephone-call summaries.";
+
+  const list = document.createElement("ul");
+  list.className = "reference-list";
+  for (const reference of references) {
+    const item = document.createElement("li");
+    const link = document.createElement("a");
+    link.href = reference.pdfUrl || reference.catalogUrl;
+    link.rel = "noreferrer";
+    link.target = "_blank";
+    link.textContent = reference.title;
+    const meta = [
+      reference.type,
+      reference.localIdentifier,
+      reference.naid ? `NAID ${reference.naid}` : "",
+      reference.empty ? "empty diary folder" : ""
+    ]
+      .filter(Boolean)
+      .join("; ");
+    item.append(link, document.createTextNode(meta ? ` (${meta})` : ""));
+    list.append(item);
+  }
+
+  details.append(summary, note, list);
+  return details;
+}
+
 function createSourceNote(record) {
   const citation = document.createElement("div");
   citation.className = "record-citation";
@@ -413,6 +460,9 @@ function createSourceNote(record) {
   sourceNote.className = "record-source-note";
   sourceNote.textContent = frusSourceNote(record);
   citation.append(sourceNote);
+
+  const dailyDiaryReferences = createRecordDailyDiaryReferences(record);
+  if (dailyDiaryReferences) citation.append(dailyDiaryReferences);
 
   const provenanceNote = record.provenanceNote || (record.sourceNote !== sourceNote.textContent ? record.sourceNote : "");
 
@@ -447,6 +497,7 @@ function createDateLine(record) {
 function createRecordRow(record) {
   const row = document.createElement("article");
   row.className = "record-row";
+  row.id = record.id;
 
   const date = document.createElement("time");
   date.className = "record-date";
@@ -882,6 +933,200 @@ function updatePublicStatements() {
   renderPublicStatements(statements);
 }
 
+function dailyDiaryDateValue(reference) {
+  return reference.date || "";
+}
+
+function dailyDiarySearchText(reference) {
+  return [
+    reference.title,
+    reference.date,
+    reference.catalogDate,
+    reference.sourceType,
+    reference.localIdentifier,
+    reference.naid,
+    reference.accessRestriction,
+    reference.relationship,
+    reference.reviewReason,
+    reference.sourceNote,
+    reference.countries,
+    reference.matchedTerms,
+    reference.linkedRecordTitles
+  ]
+    .flat()
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function activeDailyDiaryFilters() {
+  return {
+    query: dailyDiarySearchInput?.value.trim().toLowerCase() || "",
+    country: dailyDiaryCountryFilter?.value || "",
+    type: dailyDiaryTypeFilter?.value || "",
+    relationship: dailyDiaryLinkFilter?.value || ""
+  };
+}
+
+function dailyDiaryMatches(reference, filters) {
+  if (filters.query && !dailyDiarySearchText(reference).includes(filters.query)) return false;
+  if (filters.country && !(reference.countries || []).includes(filters.country)) return false;
+  if (filters.type && reference.sourceType !== filters.type) return false;
+  if (filters.relationship && reference.relationship !== filters.relationship) return false;
+  return true;
+}
+
+function filteredDailyDiaryReferences(references) {
+  const filters = activeDailyDiaryFilters();
+  return references.filter((reference) => dailyDiaryMatches(reference, filters));
+}
+
+function setDailyDiaryCounts(references) {
+  setText("#daily-diary-total", references.length);
+  setText("#daily-diary-linked", references.filter((reference) => (reference.linkedRecordIds || []).length).length);
+  setText("#daily-diary-countries", new Set(references.flatMap((reference) => reference.countries || [])).size);
+}
+
+function populateDailyDiaryFilters(references) {
+  const referenceCountries = unique(references.flatMap((reference) => reference.countries || []));
+  const orderedCountries = [
+    ...CHAPTER_ORDER.filter((country) => referenceCountries.includes(country)),
+    ...referenceCountries.filter((country) => !CHAPTER_ORDER.includes(country))
+  ];
+  populateSelect(dailyDiaryCountryFilter, orderedCountries);
+  populateSelect(dailyDiaryTypeFilter, unique(references.map((reference) => reference.sourceType)));
+}
+
+function createDailyDiaryMeta(reference) {
+  const meta = document.createElement("div");
+  meta.className = "record-meta statement-meta daily-diary-meta";
+
+  const terms = (reference.matchedTerms || []).slice(0, 4).join(", ");
+  for (const value of [
+    reference.sourceType,
+    (reference.countries || []).join(", "),
+    reference.relationship,
+    reference.localIdentifier,
+    reference.naid ? `NAID ${reference.naid}` : "",
+    terms ? `Terms: ${terms}` : "",
+    reference.accessRestriction
+  ]) {
+    if (!value) continue;
+    const item = document.createElement("span");
+    item.textContent = value;
+    meta.append(item);
+  }
+
+  return meta;
+}
+
+function createDailyDiarySourceNote(reference) {
+  const citation = document.createElement("div");
+  citation.className = "record-citation";
+
+  const sourceNote = document.createElement("p");
+  sourceNote.className = "record-source-note";
+  sourceNote.textContent = reference.sourceNote || "Source: Daily diary/backup provenance pending.";
+  citation.append(sourceNote);
+
+  if (reference.reviewReason || (reference.linkedRecordTitles || []).length) {
+    const details = document.createElement("details");
+    details.className = "record-provenance statement-signal";
+    const summary = document.createElement("summary");
+    summary.textContent = "Review signal";
+    const signal = document.createElement("p");
+    const linked = (reference.linkedRecordTitles || []).length
+      ? `Linked memcons/telcons: ${reference.linkedRecordTitles.join("; ")}.`
+      : "";
+    signal.textContent = [reference.reviewReason, linked].filter(Boolean).join(" ");
+    details.append(summary, signal);
+    citation.append(details);
+  }
+
+  return citation;
+}
+
+function createDailyDiaryLinks(reference) {
+  const links = document.createElement("div");
+  links.className = "record-links statement-links daily-diary-links";
+  const seen = new Set();
+  for (const [label, url] of [
+    ["PDF", reference.pdfUrl],
+    ["Catalog", reference.catalogUrl]
+  ]) {
+    if (!url || seen.has(url)) continue;
+    seen.add(url);
+    const link = document.createElement("a");
+    link.href = url;
+    link.rel = "noreferrer";
+    link.target = "_blank";
+    link.textContent = label;
+    links.append(link);
+  }
+  return links;
+}
+
+function createDailyDiaryRow(reference) {
+  const row = document.createElement("article");
+  row.className = "statement-row daily-diary-row";
+
+  const date = document.createElement("time");
+  date.className = "record-date statement-date";
+  date.dateTime = reference.date || "";
+  date.textContent = shortDate(reference.date);
+
+  const body = document.createElement("div");
+  const title = document.createElement("a");
+  title.className = "record-title statement-title";
+  title.href = reference.pdfUrl || reference.catalogUrl;
+  title.rel = "noreferrer";
+  title.target = "_blank";
+  title.textContent = reference.title;
+
+  const dateLine = document.createElement("p");
+  dateLine.className = "record-date-line";
+  dateLine.textContent = `${formatDate(reference.date)}; ${reference.relationship}`;
+
+  body.append(title, dateLine, createDailyDiaryMeta(reference), createDailyDiarySourceNote(reference));
+  row.append(date, body, createDailyDiaryLinks(reference));
+  return row;
+}
+
+function updateDailyDiarySummary(references) {
+  if (!dailyDiaryResultSummary) return;
+  const linkedCount = references.filter((reference) => (reference.linkedRecordIds || []).length).length;
+  dailyDiaryResultSummary.textContent = `${references.length} references / ${linkedCount} matched to listed memcons or telcons`;
+}
+
+function renderDailyDiaryReferences(references) {
+  if (!dailyDiaryRoot) return;
+  const sorted = [...references].sort(
+    (a, b) =>
+      dailyDiaryDateValue(a).localeCompare(dailyDiaryDateValue(b)) ||
+      (a.sourceType || "").localeCompare(b.sourceType || "") ||
+      (a.title || "").localeCompare(b.title || "")
+  );
+  dailyDiaryRoot.replaceChildren();
+
+  if (!sorted.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-chapter";
+    empty.textContent = "No daily diary or backup references match the current filters.";
+    dailyDiaryRoot.append(empty);
+    return;
+  }
+
+  for (const reference of sorted) {
+    dailyDiaryRoot.append(createDailyDiaryRow(reference));
+  }
+}
+
+function updateDailyDiaryReferences() {
+  const references = filteredDailyDiaryReferences(allDailyDiaryReferences);
+  updateDailyDiarySummary(references);
+  renderDailyDiaryReferences(references);
+}
+
 function createGapBadge(level) {
   const badge = document.createElement("span");
   badge.className = `gap-risk ${String(level || "Monitor").toLowerCase()}`;
@@ -1021,9 +1266,18 @@ function searchText(record) {
     record.countries,
     record.topics,
     record.frusTopics,
+    record.dailyDiaryReferences?.map((reference) => [
+      reference.title,
+      reference.type,
+      reference.naid,
+      reference.localIdentifier,
+      reference.sourceNote
+    ]),
     record.source?.name,
     record.source?.series,
     record.source?.fileUnitTitle,
+    record.source?.dailyDiarySeries?.name,
+    record.source?.dailyDiarySeries?.naid,
     record.source?.priorityCollection?.name,
     record.source?.priorityCollection?.naid,
     record.source?.sourcePages
@@ -1224,6 +1478,27 @@ function enableStatementFilters() {
   });
 }
 
+function enableDailyDiaryFilters() {
+  for (const control of [
+    dailyDiarySearchInput,
+    dailyDiaryCountryFilter,
+    dailyDiaryTypeFilter,
+    dailyDiaryLinkFilter
+  ]) {
+    control?.addEventListener("input", updateDailyDiaryReferences);
+    control?.addEventListener("change", updateDailyDiaryReferences);
+  }
+
+  clearDailyDiaryFilters?.addEventListener("click", () => {
+    if (dailyDiarySearchInput) dailyDiarySearchInput.value = "";
+    if (dailyDiaryCountryFilter) dailyDiaryCountryFilter.value = "";
+    if (dailyDiaryTypeFilter) dailyDiaryTypeFilter.value = "";
+    if (dailyDiaryLinkFilter) dailyDiaryLinkFilter.value = "";
+    updateDailyDiaryReferences();
+    dailyDiarySearchInput?.focus();
+  });
+}
+
 function enableChapterCards() {
   for (const card of document.querySelectorAll(".chapter-card")) {
     card.addEventListener("click", (event) => {
@@ -1261,6 +1536,7 @@ async function init() {
 
   await initPrintCandidates();
   await initPublicStatements();
+  await initDailyDiaryReferences();
   await initCompilerGaps();
 }
 
@@ -1312,6 +1588,27 @@ async function initPublicStatements() {
 async function loadPublicStatements() {
   const response = await fetch("data/public-statements.json");
   if (!response.ok) throw new Error(`Could not load public statements: ${response.status}`);
+  return response.json();
+}
+
+async function initDailyDiaryReferences() {
+  if (!dailyDiaryRoot) return;
+  try {
+    const references = window.DAILY_DIARY_REFERENCES || (await loadDailyDiaryReferences());
+    allDailyDiaryReferences = references;
+    setDailyDiaryCounts(references);
+    populateDailyDiaryFilters(references);
+    enableDailyDiaryFilters();
+    updateDailyDiaryReferences();
+  } catch (error) {
+    dailyDiaryRoot.innerHTML =
+      '<p class="error">The daily diary and backup references could not be loaded. Try opening this site through a local server or GitHub Pages.</p>';
+  }
+}
+
+async function loadDailyDiaryReferences() {
+  const response = await fetch("data/daily-diary-references.json");
+  if (!response.ok) throw new Error(`Could not load daily diary references: ${response.status}`);
   return response.json();
 }
 

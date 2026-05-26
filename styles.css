@@ -702,6 +702,23 @@ footer {
   border-left: 3px solid rgba(24, 59, 91, 0.22);
 }
 
+.reference-list {
+  margin: 8px 0 0;
+  padding: 10px 12px 10px 28px;
+  color: var(--muted);
+  background: rgba(24, 59, 91, 0.05);
+  border-left: 3px solid rgba(24, 59, 91, 0.22);
+}
+
+.reference-list li + li {
+  margin-top: 6px;
+}
+
+.reference-list a {
+  color: var(--navy);
+  font-weight: 900;
+}
+
 .record-meta span,
 .record-links a,
 .record-flags span {
@@ -751,13 +768,15 @@ footer {
 }
 
 .candidate-root,
-.statement-root {
+.statement-root,
+.daily-diary-root {
   display: grid;
   gap: 8px;
 }
 
 .candidate-row,
-.statement-row {
+.statement-row,
+.daily-diary-row {
   display: grid;
   grid-template-columns: 132px minmax(0, 1fr) auto;
   gap: 16px;
@@ -1062,7 +1081,8 @@ footer a {
   .timeline li,
   .record-tools,
   .candidate-tools,
-  .statement-tools {
+  .statement-tools,
+  .daily-diary-tools {
     grid-template-columns: 1fr;
   }
 
@@ -1070,6 +1090,7 @@ footer a {
   .record-row,
   .candidate-row,
   .statement-row,
+  .daily-diary-row,
   .gap-row {
     min-height: auto;
   }
@@ -1078,6 +1099,7 @@ footer a {
   .record-row,
   .candidate-row,
   .statement-row,
+  .daily-diary-row,
   .gap-row {
     grid-template-columns: 1fr;
   }

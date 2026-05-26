@@ -213,6 +213,22 @@ node scripts/refresh-frus-source-notes.js
 This writes `reports/source-note-audit.json` and keeps the visible notes aligned with the Volume
 XXXI pattern while preserving long catalog trails in `provenanceNote` when needed.
 
+## Presidential Daily Diary and Backup References
+
+Harvest date-file references from the White House Office of Appointments and Scheduling Files,
+Presidential Daily Diary and Presidential Daily Backup Materials, NAID 186322:
+
+```bash
+node scripts/harvest-daily-diary-references.js
+```
+
+The script attaches same-date diary/backup references to each listed South America memcon or telcon,
+creates the filterable reference layer in `data/daily-diary-references.json`, and writes
+`reports/daily-diary-references-harvest.json`. These files are schedule and call-reference evidence:
+they can document timing, participants, status of calls, and supporting materials, but they are not
+treated as substantive meeting minutes or telephone-call summaries. Broad country/person searches are
+limited to the first 100 Catalog results per term where the Catalog proxy requires abbreviated search.
+
 ## Persons List
 
 Generate the FRUS-style persons list from the user-provided Bush comprehensive names authority:
