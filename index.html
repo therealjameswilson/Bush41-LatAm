@@ -17,6 +17,7 @@
         <span>FRUS Volume XXV Files</span>
       </a>
       <nav aria-label="Primary navigation">
+        <a href="#records">Records</a>
         <a href="#chapters">Chapters</a>
         <a href="#provenance">Provenance</a>
         <a href="#method">Method</a>
@@ -25,7 +26,6 @@
         <a href="#public-statements">Public Statements</a>
         <a href="#daily-diary">Diary/Backup</a>
         <a href="persons.html">Persons</a>
-        <a href="#records">Records</a>
         <a href="#sources">Sources</a>
       </nav>
     </header>
@@ -73,6 +73,58 @@
             </div>
           </dl>
         </aside>
+      </section>
+
+      <section class="section records-section" id="records" aria-labelledby="records-title">
+        <div class="section-heading">
+          <p class="kicker">Declassified Chronology</p>
+          <h2 id="records-title">Chronology of Declassified Documents</h2>
+        </div>
+        <p class="records-intro">
+          Each chapter below is ordered by the date of the released memcon or telcon and uses a
+          FRUS-style structure: generic document title, place/date/time line, subject cue, page
+          count, Source note, and a direct PDF link when a digital object is available. The
+          provenance note is displayed directly on each record so the compiler can distinguish Bush
+          Library table rows, Catalog item records, and Scowcroft page-range extracts.
+        </p>
+        <div class="record-tools" aria-label="Compiler record filters">
+          <label>
+            Search
+            <input id="record-search" type="search" placeholder="Menem, narcotics, 321498039, partial" />
+          </label>
+          <label>
+            Country
+            <select id="country-filter">
+              <option value="">All countries</option>
+            </select>
+          </label>
+          <label>
+            Type
+            <select id="type-filter">
+              <option value="">All types</option>
+            </select>
+          </label>
+          <label>
+            Source
+            <select id="source-filter">
+              <option value="">All sources</option>
+              <option value="telcon">Presidential Telcon Files</option>
+              <option value="memcon">Presidential Memcon Files</option>
+              <option value="scowcroft">Scowcroft extracts</option>
+            </select>
+          </label>
+          <label>
+            Release
+            <select id="release-filter">
+              <option value="">All releases</option>
+            </select>
+          </label>
+          <button id="clear-filters" class="button secondary small" type="button">Clear</button>
+          <p id="result-summary" class="result-summary">0 records / 0 pages</p>
+        </div>
+        <div id="records-root" class="records-root" aria-live="polite">
+          <p class="loading">Loading memcon records...</p>
+        </div>
       </section>
 
       <section class="stats" aria-label="Archive summary">
@@ -358,58 +410,6 @@
         </div>
         <div id="daily-diary-root" class="daily-diary-root" aria-live="polite">
           <p class="loading">Loading daily diary and backup references...</p>
-        </div>
-      </section>
-
-      <section class="section records-section" id="records" aria-labelledby="records-title">
-        <div class="section-heading">
-          <p class="kicker">Chronological Files</p>
-          <h2 id="records-title">Chapter Records</h2>
-        </div>
-        <p class="records-intro">
-          Each chapter below is ordered by date and uses a FRUS-style structure: generic document
-          title, place/date/time line, subject cue, page count, Source note, and a direct PDF link
-          when a digital object is available. The provenance note is displayed directly on each
-          record so the compiler can distinguish Bush Library table rows, Catalog item records,
-          and Scowcroft page-range extracts.
-        </p>
-        <div class="record-tools" aria-label="Compiler record filters">
-          <label>
-            Search
-            <input id="record-search" type="search" placeholder="Menem, narcotics, 321498039, partial" />
-          </label>
-          <label>
-            Country
-            <select id="country-filter">
-              <option value="">All countries</option>
-            </select>
-          </label>
-          <label>
-            Type
-            <select id="type-filter">
-              <option value="">All types</option>
-            </select>
-          </label>
-          <label>
-            Source
-            <select id="source-filter">
-              <option value="">All sources</option>
-              <option value="telcon">Presidential Telcon Files</option>
-              <option value="memcon">Presidential Memcon Files</option>
-              <option value="scowcroft">Scowcroft extracts</option>
-            </select>
-          </label>
-          <label>
-            Release
-            <select id="release-filter">
-              <option value="">All releases</option>
-            </select>
-          </label>
-          <button id="clear-filters" class="button secondary small" type="button">Clear</button>
-          <p id="result-summary" class="result-summary">0 records / 0 pages</p>
-        </div>
-        <div id="records-root" class="records-root" aria-live="polite">
-          <p class="loading">Loading memcon records...</p>
         </div>
       </section>
 
