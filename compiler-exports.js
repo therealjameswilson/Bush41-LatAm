@@ -48,6 +48,59 @@ function exportCountries(record) {
   return (record.countries || []).filter((country) => country !== "United States");
 }
 
+function normalizePersonText(value) {
+  return String(value || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function personNameVariants(name) {
+  const [surnamePart, givenPart = ""] = String(name || "").split(",").map((part) => part.trim());
+  const surname = surnamePart.replace(/\([^)]*\)/g, "").trim();
+  const given = givenPart.replace(/\([^)]*\)/g, "").trim();
+  const firstGiven = given.split(/\s+/)[0] || "";
+  const variants = [
+    name,
+    [given, surname].filter(Boolean).join(" "),
+    [firstGiven, surname].filter(Boolean).join(" ")
+  ];
+
+  if (/^Bush,\s*George/i.test(name)) {
+    variants.push("George H. W. Bush", "George H W Bush", "President Bush");
+  }
+
+  return sortedUnique(variants.map(normalizePersonText).filter((variant) => variant.length > 5));
+}
+
+function personNameParts(name) {
+  const [surnamePart, givenPart = ""] = String(name || "").split(",").map((part) => part.trim());
+  return {
+    surname: normalizePersonText(surnamePart),
+    firstGiven: normalizePersonText(givenPart).split(/\s+/)[0] || ""
+  };
+}
+
+function personAuthorityCollisions(person, persons) {
+  const parts = personNameParts(person.name);
+  if (!parts.surname || !parts.firstGiven) return [];
+  return persons
+    .filter((other) => other.id !== person.id)
+    .filter((other) => {
+      const otherParts = personNameParts(other.name);
+      return otherParts.surname === parts.surname && otherParts.firstGiven === parts.firstGiven;
+    })
+    .map((other) => other.name);
+}
+
+function textMatchesPerson(value, variants) {
+  const normalized = ` ${normalizePersonText(value)} `;
+  return variants.some((variant) => normalized.includes(` ${variant} `));
+}
+
 function exportChapterNumber(record) {
   return record.chapter?.number || EXPORT_CHAPTER_ORDER.indexOf(record.chapter?.name) + 1 || 999;
 }
@@ -1127,6 +1180,103 @@ function coverageMatrixExportRows() {
   });
 }
 
+function personIndexExportRows() {
+  const persons = window.PERSONS_DATA?.persons || [];
+  const memcons = window.MEMCONS || [];
+  const printCandidates = [
+    ...(window.CHRONOLOGICAL_PRINT_CANDIDATES || []),
+    ...(window.SUBJECT_PRINT_CANDIDATES || []),
+    ...(window.DEAL_PRINT_CANDIDATES || [])
+  ];
+  const publicStatements = window.PUBLIC_STATEMENTS || [];
+  const diaryReferences = window.DAILY_DIARY_REFERENCES || [];
+
+  return persons.map((person) => {
+    const variants = personNameVariants(person.name);
+    const authorityCollisions = personAuthorityCollisions(person, persons);
+    const verifiedRecords = memcons.filter((record) =>
+      (record.participants || []).some((participant) => textMatchesPerson(participant, variants))
+    );
+    const printMentions = printCandidates.filter((candidate) =>
+      textMatchesPerson(
+        [candidate.documentTitle, candidate.ocrSnippet, candidate.reviewReason].filter(Boolean).join(" "),
+        variants
+      )
+    );
+    const statementMentions = publicStatements.filter((statement) =>
+      textMatchesPerson([statement.title, statement.snippet].filter(Boolean).join(" "), variants)
+    );
+    const diaryMentions = diaryReferences.filter((reference) =>
+      textMatchesPerson(
+        [
+          reference.title,
+          reference.reviewReason,
+          reference.matchedTerms || [],
+          reference.linkedRecordTitles || []
+        ]
+          .flat()
+          .filter(Boolean)
+          .join(" "),
+        variants
+      )
+    );
+    const allCountries = sortedUnique([
+      ...verifiedRecords.flatMap(exportCountries),
+      ...printMentions.flatMap(exportCountries),
+      ...statementMentions.flatMap(exportCountries),
+      ...diaryMentions.flatMap(exportCountries)
+    ]);
+    const verifiedDates = sortedUnique(verifiedRecords.map(recordDateValue));
+    const siteEvidenceTotal = verifiedRecords.length + printMentions.length + statementMentions.length + diaryMentions.length;
+
+    return {
+      person_name: person.name || "",
+      description: person.description || "",
+      included_reasons: person.reasons || [],
+      authority_name_collision_count: authorityCollisions.length,
+      authority_name_collisions: authorityCollisions,
+      match_caution: authorityCollisions.length
+        ? "Potential abbreviated-name collision; inspect mention rows before attribution."
+        : "",
+      has_site_evidence: siteEvidenceTotal ? "yes" : "no",
+      site_evidence_total: siteEvidenceTotal,
+      verified_participant_record_count: verifiedRecords.length,
+      print_candidate_mention_count: printMentions.length,
+      public_statement_mention_count: statementMentions.length,
+      daily_diary_reference_mention_count: diaryMentions.length,
+      countries: allCountries,
+      first_verified_record_date: verifiedDates[0] || "",
+      latest_verified_record_date: verifiedDates[verifiedDates.length - 1] || "",
+      verified_record_titles: verifiedRecords
+        .sort((a, b) => recordDateValue(a).localeCompare(recordDateValue(b)) || (a.title || "").localeCompare(b.title || ""))
+        .map((record) => [record.date, record.type, record.subjectLine || record.title || record.documentTitle].filter(Boolean).join(" - ")),
+      print_candidate_mentions: printMentions
+        .sort(
+          (a, b) =>
+            timelineSortValue(a.documentDate).localeCompare(timelineSortValue(b.documentDate)) ||
+            (a.documentTitle || "").localeCompare(b.documentTitle || "")
+        )
+        .slice(0, 20)
+        .map((candidate) => [candidate.documentDate, candidate.priority, candidate.documentTitle].filter(Boolean).join(" - ")),
+      public_statement_mentions: statementMentions
+        .sort(
+          (a, b) =>
+            timelineSortValue(a.sortDate || a.documentDate).localeCompare(timelineSortValue(b.sortDate || b.documentDate)) ||
+            (a.title || "").localeCompare(b.title || "")
+        )
+        .slice(0, 20)
+        .map((statement) => [statement.documentDate || statement.sortDate, statement.title].filter(Boolean).join(" - ")),
+      daily_diary_reference_mentions: diaryMentions
+        .sort((a, b) => timelineSortValue(a.date).localeCompare(timelineSortValue(b.date)) || (a.title || "").localeCompare(b.title || ""))
+        .slice(0, 20)
+        .map((reference) => [reference.date, reference.sourceType, reference.title].filter(Boolean).join(" - ")),
+      name_variants_used: variants,
+      source_entry: person.entry || "",
+      person_id: person.id || ""
+    };
+  });
+}
+
 function printCandidateExportRows() {
   const priority = { High: 0, Medium: 1, Reference: 2 };
   return [
@@ -1431,6 +1581,7 @@ function attachCompilerExports() {
   attachExport('[data-export="citationWorkbench"]', "citation-workbench.csv", citationWorkbenchExportRows());
   attachExport('[data-export="selectionMatrix"]', "selection-matrix.csv", selectionMatrixExportRows());
   attachExport('[data-export="coverageMatrix"]', "coverage-matrix.csv", coverageMatrixExportRows());
+  attachExport('[data-export="personIndex"]', "person-index.csv", personIndexExportRows());
   attachExport('[data-export="reviewQueue"]', "compiler-review-queue.csv", reviewQueueExportRows());
   attachExport('[data-export="countryDossiers"]', "country-dossiers.csv", countryDossierExportRows());
   attachExport('[data-export="printCandidates"]', "print-candidates.csv", printCandidateExportRows());

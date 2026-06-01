@@ -245,8 +245,10 @@ path fields, FOIA/access data, provenance trails, link fields, and review flags.
 matrix export ranks verified private records and OCR-derived print-candidate leads together by
 country risk, date scope, source-note status, nearby evidence, and likely print value. The coverage
 matrix export gives one row per country-year for 1989-1992, exposing private-record gaps against
-print leads, public statements, and Daily Diary/backup references. The country dossier export gives
-one rollup row per South America chapter with private-record coverage, source mix, year gaps,
+print leads, public statements, and Daily Diary/backup references. The person index export connects
+the FRUS-style persons authority to verified memcon/telcon participants and likely mentions in print
+leads, public statements, and diary/backup references. The country dossier export gives one rollup
+row per South America chapter with private-record coverage, source mix, year gaps,
 public-statement counts, diary/backup counts, print-candidate pressure, risk signals, and
 recommended actions. The other downloads preserve the full chronology, print-candidate, daily
 diary/backup, and public-statement datasets.
