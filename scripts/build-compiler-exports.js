@@ -57,6 +57,27 @@ function bestCountryRisk(countries, riskMap) {
     .sort((a, b) => riskRank(a.riskLevel) - riskRank(b.riskLevel) || (b.riskScore || 0) - (a.riskScore || 0))[0];
 }
 
+function countBy(values) {
+  return values.filter(Boolean).reduce((counts, value) => {
+    counts[value] = (counts[value] || 0) + 1;
+    return counts;
+  }, {});
+}
+
+function countSummary(values) {
+  return Object.entries(countBy(values))
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .map(([value, count]) => `${value}: ${count}`);
+}
+
+function sortedUnique(values) {
+  return [...new Set(values.filter(Boolean))].sort();
+}
+
+function recordDateValue(record) {
+  return record.sortDate || record.date || "";
+}
+
 function chronologyRows(records) {
   return [...records]
     .sort(
@@ -179,6 +200,76 @@ function publicStatementRows(statements) {
       details_url: statement.detailsUrl || "",
       page_link: statement.pageLink || ""
     }));
+}
+
+function countryDossierRows({ audit, memcons, printCandidates, dailyDiaryReferences, publicStatements }) {
+  const chapterOrder = [
+    "Argentina",
+    "Bolivia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Ecuador",
+    "Guyana",
+    "Paraguay",
+    "Peru",
+    "Suriname",
+    "Uruguay",
+    "Venezuela"
+  ];
+  const riskMap = riskByCountry(audit);
+  const targetYears = ["1989", "1990", "1991", "1992"];
+
+  return chapterOrder.map((country, index) => {
+    const countryRecords = memcons.filter((record) => (record.countries || []).includes(country));
+    const countryPrint = printCandidates.filter((candidate) => (candidate.countries || []).includes(country));
+    const highPrint = countryPrint.filter((candidate) => candidate.priority === "High");
+    const countryStatements = publicStatements.filter((statement) => (statement.countries || []).includes(country));
+    const countryDiary = dailyDiaryReferences.filter((reference) => (reference.countries || []).includes(country));
+    const linkedDiary = countryDiary.filter((reference) => (reference.linkedRecordIds || []).length);
+    const risk = riskMap.get(country);
+    const sortedRecords = [...countryRecords].sort((a, b) => recordDateValue(a).localeCompare(recordDateValue(b)));
+    const yearsCovered = sortedUnique(countryRecords.map((record) => (record.date || "").slice(0, 4)));
+    const missingYears = targetYears.filter((year) => !yearsCovered.includes(year));
+
+    return {
+      chapter_number: index + 1,
+      country,
+      risk_level: risk?.riskLevel || "Monitor",
+      risk_score: risk?.riskScore || "",
+      private_record_count: countryRecords.length,
+      private_page_count: countryRecords.reduce((total, record) => total + (record.pageCount || 0), 0),
+      private_date_span: sortedRecords.length
+        ? `${recordDateValue(sortedRecords[0])} to ${recordDateValue(sortedRecords[sortedRecords.length - 1])}`
+        : "",
+      private_years_covered: yearsCovered,
+      private_years_missing: missingYears,
+      partial_private_records: countryRecords.filter((record) => record.releaseStatus === "Partial").length,
+      private_source_mix: countSummary(countryRecords.map(sourceShort)),
+      print_candidate_count: countryPrint.length,
+      high_priority_print_candidates: highPrint.length,
+      print_source_mix: countSummary(countryPrint.map(sourceName)),
+      public_statement_count: countryStatements.length,
+      daily_diary_reference_count: countryDiary.length,
+      linked_daily_diary_references: linkedDiary.length,
+      top_private_topics: countSummary(countryRecords.flatMap((record) => record.frusTopics || record.topics || [])).slice(0, 8),
+      top_print_themes: countSummary(countryPrint.flatMap((candidate) => candidate.themes || [])).slice(0, 8),
+      first_private_record: sortedRecords[0]?.documentTitle || sortedRecords[0]?.title || "",
+      latest_private_record:
+        sortedRecords[sortedRecords.length - 1]?.documentTitle || sortedRecords[sortedRecords.length - 1]?.title || "",
+      highest_priority_print_leads: highPrint
+        .sort(
+          (a, b) =>
+            (b.score || 0) - (a.score || 0) ||
+            (a.documentDate || "").localeCompare(b.documentDate || "") ||
+            (a.documentTitle || "").localeCompare(b.documentTitle || "")
+        )
+        .slice(0, 8)
+        .map((candidate) => [candidate.documentDate, candidate.documentTitle].filter(Boolean).join(" - ")),
+      risk_signals: risk?.riskSignals || [],
+      recommended_actions: risk?.recommendedActions || []
+    };
+  });
 }
 
 function reviewQueueRows({ audit, memcons, printCandidates }) {
@@ -316,6 +407,16 @@ function main() {
   const exports = [
     writeCsv("compiler-chronology.csv", chronologyRows(memcons)),
     writeCsv("compiler-review-queue.csv", reviewQueueRows({ audit: compilerGaps, memcons, printCandidates })),
+    writeCsv(
+      "country-dossiers.csv",
+      countryDossierRows({
+        audit: compilerGaps,
+        memcons,
+        printCandidates,
+        dailyDiaryReferences,
+        publicStatements
+      })
+    ),
     writeCsv("print-candidates.csv", printCandidateRows(printCandidates)),
     writeCsv("daily-diary-references.csv", diaryReferenceRows(dailyDiaryReferences)),
     writeCsv("public-statements.csv", publicStatementRows(publicStatements))

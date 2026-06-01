@@ -235,8 +235,11 @@ The public site builds spreadsheet-ready CSV downloads in the browser from the l
 The export links sit at the top of the chronology section so a compiler can immediately download the
 core declassified chronology and related review worklists. The compiler review queue is the triage
 sheet: structural risks, country coverage gaps, partial releases, and high-priority print-candidate
-leads sorted by urgency and country risk. The other downloads preserve the full chronology,
-print-candidate, daily diary/backup, and public-statement datasets.
+leads sorted by urgency and country risk. The country dossier export gives one rollup row per South
+America chapter with private-record coverage, source mix, year gaps, public-statement counts,
+diary/backup counts, print-candidate pressure, risk signals, and recommended actions. The other
+downloads preserve the full chronology, print-candidate, daily diary/backup, and public-statement
+datasets.
 
 To produce the same CSV files locally, run:
 
