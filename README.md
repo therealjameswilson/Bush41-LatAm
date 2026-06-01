@@ -237,10 +237,13 @@ core declassified chronology and related review worklists. The compiler review q
 sheet: structural risks, country coverage gaps, partial releases, and high-priority print-candidate
 leads sorted by urgency and country risk. The document context export gives one row per declassified
 memcon/telcon with same-date diary/backup references, nearby high-priority print leads, and nearby
-public statements. The country dossier export gives one rollup row per South America chapter with
-private-record coverage, source mix, year gaps, public-statement counts, diary/backup counts,
-print-candidate pressure, risk signals, and recommended actions. The other downloads preserve the
-full chronology, print-candidate, daily diary/backup, and public-statement datasets.
+public statements. The all-evidence timeline export merges private memcons/telcons,
+print-candidate leads, Daily Diary/backup references, and public statements into one date-sorted
+worklist with source notes, direct links, and a volume-date-scope flag. The country dossier export
+gives one rollup row per South America chapter with private-record coverage, source mix, year gaps,
+public-statement counts, diary/backup counts, print-candidate pressure, risk signals, and
+recommended actions. The other downloads preserve the full chronology, print-candidate,
+daily diary/backup, and public-statement datasets.
 
 To produce the same CSV files locally, run:
 

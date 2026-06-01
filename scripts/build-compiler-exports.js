@@ -92,6 +92,30 @@ function recordDateValue(record) {
   return record.sortDate || record.date || "";
 }
 
+function primaryCountry(countries) {
+  const chapterOrder = [
+    "Argentina",
+    "Bolivia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Ecuador",
+    "Guyana",
+    "Paraguay",
+    "Peru",
+    "Suriname",
+    "Uruguay",
+    "Venezuela"
+  ];
+  const rank = (country) => {
+    const value = chapterOrder.indexOf(country);
+    return value === -1 ? 999 : value;
+  };
+  return [...(countries || [])]
+    .filter((country) => country !== "United States")
+    .sort((a, b) => rank(a) - rank(b))[0] || "Regional/No single country";
+}
+
 function dateObject(value) {
   if (!value) return null;
   const text = String(value).trim();
@@ -107,6 +131,19 @@ function dateObject(value) {
     return new Date(Date.UTC(Number(match[3]), MONTHS[match[1].toLowerCase()], Number(match[2])));
   }
   return null;
+}
+
+function normalizedDate(value) {
+  const parsed = dateObject(value);
+  return parsed ? parsed.toISOString().slice(0, 10) : "";
+}
+
+function volumeDateScope(value) {
+  const date = normalizedDate(value);
+  if (!date) return "Undated/needs verification";
+  if (date < "1989-01-20") return "Pre-Bush/background";
+  if (date > "1992-12-31") return "Post-1992/review scope";
+  return "Volume date range";
 }
 
 function dayDistance(a, b) {
@@ -238,6 +275,160 @@ function documentContextRows({ audit, memcons, printCandidates, publicStatements
         catalog_url: record.catalogUrl || ""
       };
     });
+}
+
+function timelineSortValue(value) {
+  return normalizedDate(value) || "9999-99-99";
+}
+
+function evidenceTimelineRows({ memcons, printCandidates, dailyDiaryReferences, publicStatements }) {
+  const chapterOrder = [
+    "Argentina",
+    "Bolivia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Ecuador",
+    "Guyana",
+    "Paraguay",
+    "Peru",
+    "Suriname",
+    "Uruguay",
+    "Venezuela"
+  ];
+  const countryRank = (country) => {
+    const value = chapterOrder.indexOf(country);
+    return value === -1 ? 999 : value;
+  };
+  const rows = [];
+
+  for (const record of memcons) {
+    const countries = countryList(record);
+    rows.push({
+      sort_date: normalizedDate(recordDateValue(record)),
+      display_date: record.date || "",
+      volume_date_scope: volumeDateScope(recordDateValue(record)),
+      countries,
+      primary_chapter_country: record.chapter?.name || primaryCountry(countries),
+      record_class: "Declassified memcon/telcon",
+      document_type: record.type || "",
+      title: record.documentTitle || record.title || "",
+      subject_or_context: record.subjectLine || record.title || "",
+      priority_or_status: record.releaseStatus || "",
+      score: "",
+      page_count_or_range: record.pageCount || 0,
+      source_collection: record.source?.name || "",
+      source_series: sourceShort(record),
+      source_folder_or_title: record.sourceTitle || "",
+      local_identifier: record.localIdentifier || "",
+      naid_or_folder_naid: record.naid || "",
+      source_note: record.sourceNote || "",
+      provenance_note: record.provenanceNote || "",
+      review_note: "Verified declassified private record; compare with same-date diary/backup and nearby print leads before final selection.",
+      pdf_url: record.pdfUrl || "",
+      catalog_or_details_url: record.catalogUrl || "",
+      page_link: "",
+      record_id: record.id || ""
+    });
+  }
+
+  for (const candidate of printCandidates) {
+    const countries = countryList(candidate);
+    rows.push({
+      sort_date: normalizedDate(candidate.documentDate),
+      display_date: candidate.documentDate || "",
+      volume_date_scope: volumeDateScope(candidate.documentDate),
+      countries,
+      primary_chapter_country: primaryCountry(countries),
+      record_class: "Print-candidate lead",
+      document_type: candidate.documentType || "",
+      title: candidate.documentTitle || "",
+      subject_or_context: candidate.reviewReason || candidate.ocrSnippet || "",
+      priority_or_status: candidate.priority || "",
+      score: candidate.score || "",
+      page_count_or_range: [candidate.pageStart, candidate.pageEnd].filter(Boolean).join("-"),
+      source_collection: "George H.W. Bush Library",
+      source_series: sourceName(candidate),
+      source_folder_or_title: candidate.folderTitle || "",
+      local_identifier: candidate.localIdentifier || "",
+      naid_or_folder_naid: candidate.folderNaid || "",
+      source_note: candidate.sourceNote || "",
+      provenance_note: "",
+      review_note: "OCR-derived lead; verify the page image, date, title, and folder provenance before printing.",
+      pdf_url: candidate.pdfUrl || "",
+      catalog_or_details_url: candidate.catalogUrl || "",
+      page_link: candidate.pageLink || "",
+      record_id: candidate.id || ""
+    });
+  }
+
+  for (const reference of dailyDiaryReferences) {
+    const countries = countryList(reference);
+    rows.push({
+      sort_date: normalizedDate(reference.date),
+      display_date: reference.catalogDate || reference.date || "",
+      volume_date_scope: volumeDateScope(reference.date),
+      countries,
+      primary_chapter_country: primaryCountry(countries),
+      record_class: "Daily diary/backup reference",
+      document_type: reference.sourceType || "",
+      title: reference.title || "",
+      subject_or_context: reference.relationship || reference.reviewReason || "",
+      priority_or_status: reference.empty ? "Empty folder" : reference.accessRestriction || "",
+      score: "",
+      page_count_or_range: "",
+      source_collection: reference.sourceSeries?.collection || "White House Office of Appointments and Scheduling Files",
+      source_series: reference.sourceSeries?.name || "Presidential Daily Diary and Presidential Daily Backup Materials",
+      source_folder_or_title: reference.title || "",
+      local_identifier: reference.localIdentifier || "",
+      naid_or_folder_naid: reference.naid || "",
+      source_note: reference.sourceNote || "",
+      provenance_note: "",
+      review_note: "Schedule/supporting-materials evidence; use to confirm timing, calls, meetings, and backup packets.",
+      pdf_url: reference.pdfUrl || "",
+      catalog_or_details_url: reference.catalogUrl || "",
+      page_link: "",
+      record_id: reference.id || ""
+    });
+  }
+
+  for (const statement of publicStatements) {
+    const countries = countryList(statement);
+    rows.push({
+      sort_date: normalizedDate(statement.sortDate || statement.documentDate),
+      display_date: statement.documentDate || statement.sortDate || "",
+      volume_date_scope: volumeDateScope(statement.sortDate || statement.documentDate),
+      countries,
+      primary_chapter_country: primaryCountry(countries),
+      record_class: "Public statement",
+      document_type: statement.documentType || "",
+      title: statement.title || "",
+      subject_or_context: statement.snippet || "",
+      priority_or_status: "",
+      score: "",
+      page_count_or_range: [statement.pageStart, statement.pageEnd].filter(Boolean).join("-"),
+      source_collection: statement.sourceCollection?.name || "Public Papers of the Presidents of the United States: George H. W. Bush",
+      source_series: statement.bookLabel || "",
+      source_folder_or_title: statement.packageId || "",
+      local_identifier: statement.granuleId || "",
+      naid_or_folder_naid: "",
+      source_note: statement.sourceNote || "",
+      provenance_note: "",
+      review_note: "Public line/reference evidence; compare against private record and final source-note context.",
+      pdf_url: statement.pdfUrl || "",
+      catalog_or_details_url: statement.detailsUrl || statement.htmlUrl || "",
+      page_link: statement.pageLink || statement.htmlUrl || "",
+      record_id: statement.id || ""
+    });
+  }
+
+  return rows.sort(
+    (a, b) =>
+      timelineSortValue(a.sort_date).localeCompare(timelineSortValue(b.sort_date)) ||
+      countryRank(a.primary_chapter_country) - countryRank(b.primary_chapter_country) ||
+      String(a.record_class || "").localeCompare(String(b.record_class || "")) ||
+      String(a.title || "").localeCompare(String(b.title || ""))
+  );
 }
 
 function printCandidateRows(candidates) {
@@ -540,6 +731,15 @@ function main() {
         audit: compilerGaps,
         memcons,
         printCandidates,
+        publicStatements
+      })
+    ),
+    writeCsv(
+      "evidence-timeline.csv",
+      evidenceTimelineRows({
+        memcons,
+        printCandidates,
+        dailyDiaryReferences,
         publicStatements
       })
     ),
