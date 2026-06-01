@@ -49,6 +49,21 @@ function exportCandidateSource(candidate) {
   return "Latin American Affairs Directorate Subject Files";
 }
 
+function riskRank(level) {
+  return { Critical: 0, High: 1, Medium: 2, Monitor: 3, Reference: 4 }[level] ?? 9;
+}
+
+function riskByCountry() {
+  return new Map((window.COMPILER_GAPS?.countryRisks || []).map((risk) => [risk.country, risk]));
+}
+
+function bestCountryRisk(countries, riskMap) {
+  return (countries || [])
+    .map((country) => riskMap.get(country))
+    .filter(Boolean)
+    .sort((a, b) => riskRank(a.riskLevel) - riskRank(b.riskLevel) || (b.riskScore || 0) - (a.riskScore || 0))[0];
+}
+
 function chronologyExportRows() {
   return [...(window.MEMCONS || [])]
     .sort(
@@ -177,6 +192,134 @@ function publicStatementExportRows() {
     }));
 }
 
+function reviewQueueExportRows() {
+  const audit = window.COMPILER_GAPS || {};
+  const riskMap = riskByCountry();
+  const rows = [];
+
+  for (const gap of audit.structuralGaps || []) {
+    rows.push({
+      queue_order: 1000 + riskRank(gap.riskLevel) * 100,
+      action_type: "Structural gap",
+      urgency: gap.riskLevel || "",
+      country: "",
+      country_risk_score: "",
+      private_record_count: "",
+      high_priority_print_candidates: audit.summary?.highPriorityPrintCandidateCount || "",
+      date: "",
+      document_type: "Compiler audit",
+      title: gap.title || "",
+      source_series: "Compiler gap audit",
+      source_folder: "",
+      priority: "",
+      score: "",
+      release_or_access_status: "",
+      page_count_or_range: "",
+      evidence: gap.evidence || "",
+      recommended_action: gap.recommendedAction || "",
+      source_note: "",
+      pdf_url: "",
+      catalog_url: ""
+    });
+  }
+
+  for (const gap of audit.countryRisks || []) {
+    rows.push({
+      queue_order: 2000 + riskRank(gap.riskLevel) * 100 - (gap.riskScore || 0),
+      action_type: "Country coverage gap",
+      urgency: gap.riskLevel || "",
+      country: gap.country || "",
+      country_risk_score: gap.riskScore || "",
+      private_record_count: gap.privateRecordCount || 0,
+      high_priority_print_candidates: gap.highPriorityCandidateCount || 0,
+      date: "",
+      document_type: "Country chapter audit",
+      title: `${gap.country || "Country"} coverage risk`,
+      source_series: "Compiler gap audit",
+      source_folder: "",
+      priority: "",
+      score: "",
+      release_or_access_status: "",
+      page_count_or_range: gap.privatePageCount || 0,
+      evidence: gap.riskSignals || [],
+      recommended_action: gap.recommendedActions || [],
+      source_note: "",
+      pdf_url: "",
+      catalog_url: ""
+    });
+  }
+
+  for (const record of window.MEMCONS || []) {
+    if (record.releaseStatus !== "Partial") continue;
+    const countryRisk = bestCountryRisk(record.countries || [], riskMap);
+    rows.push({
+      queue_order: 3000 + riskRank(countryRisk?.riskLevel) * 100 - (countryRisk?.riskScore || 0),
+      action_type: "Partial release",
+      urgency: "Medium",
+      country: exportCountries(record),
+      country_risk_score: countryRisk?.riskScore || "",
+      private_record_count: countryRisk?.privateRecordCount || "",
+      high_priority_print_candidates: countryRisk?.highPriorityCandidateCount || "",
+      date: record.date || "",
+      document_type: record.type || "",
+      title: record.documentTitle || record.title || "",
+      source_series: exportSourceLabel(record),
+      source_folder: record.sourceTitle || "",
+      priority: "",
+      score: "",
+      release_or_access_status: record.releaseStatus || "",
+      page_count_or_range: record.pageCount || 0,
+      evidence: "Partial release in verified private memcon/telcon chronology.",
+      recommended_action: "Check for less-redacted copies in parallel files, later releases, or cited backup material before final selection.",
+      source_note: record.sourceNote || "",
+      pdf_url: record.pdfUrl || "",
+      catalog_url: record.catalogUrl || ""
+    });
+  }
+
+  for (const candidate of printCandidateExportRows()) {
+    if (candidate.priority !== "High") continue;
+    const countries = Array.isArray(candidate.countries)
+      ? candidate.countries
+      : String(candidate.countries || "")
+          .split(";")
+          .map((country) => country.trim())
+          .filter(Boolean);
+    const countryRisk = bestCountryRisk(countries, riskMap);
+    rows.push({
+      queue_order: 4000 + riskRank(countryRisk?.riskLevel) * 100 - (countryRisk?.riskScore || 0),
+      action_type: "High-priority print candidate",
+      urgency: countryRisk?.riskLevel || "Review",
+      country: candidate.countries || "",
+      country_risk_score: countryRisk?.riskScore || "",
+      private_record_count: countryRisk?.privateRecordCount || "",
+      high_priority_print_candidates: countryRisk?.highPriorityCandidateCount || "",
+      date: candidate.document_date || "",
+      document_type: candidate.document_type || "",
+      title: candidate.document_title || "",
+      source_series: candidate.source_series || "",
+      source_folder: candidate.folder_title || "",
+      priority: candidate.priority || "",
+      score: candidate.score || "",
+      release_or_access_status: candidate.access_restriction || "",
+      page_count_or_range: [candidate.page_start, candidate.page_end].filter(Boolean).join("-"),
+      evidence: candidate.review_reason || candidate.ocr_snippet || "",
+      recommended_action: "Verify page image, source folder, and date; compare against the country chronology before print selection.",
+      source_note: candidate.source_note || "",
+      pdf_url: candidate.pdf_url || "",
+      catalog_url: candidate.catalog_url || candidate.page_link || ""
+    });
+  }
+
+  return rows.sort(
+    (a, b) =>
+      (a.queue_order || 9999) - (b.queue_order || 9999) ||
+      String(a.country || "").localeCompare(String(b.country || "")) ||
+      String(a.date || "").localeCompare(String(b.date || "")) ||
+      String(a.title || "").localeCompare(String(b.title || ""))
+  );
+}
+
 function attachExport(selector, filename, rows) {
   const link = document.querySelector(selector);
   if (!link) return;
@@ -190,6 +333,7 @@ function attachCompilerExports() {
   for (const href of exportObjectUrls) URL.revokeObjectURL(href);
   exportObjectUrls.length = 0;
   attachExport('[data-export="chronology"]', "compiler-chronology.csv", chronologyExportRows());
+  attachExport('[data-export="reviewQueue"]', "compiler-review-queue.csv", reviewQueueExportRows());
   attachExport('[data-export="printCandidates"]', "print-candidates.csv", printCandidateExportRows());
   attachExport('[data-export="dailyDiary"]', "daily-diary-references.csv", dailyDiaryExportRows());
   attachExport('[data-export="publicStatements"]', "public-statements.csv", publicStatementExportRows());
