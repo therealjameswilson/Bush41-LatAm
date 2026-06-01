@@ -146,6 +146,106 @@ function volumeDateScope(value) {
   return "Volume date range";
 }
 
+function foiaNumberFromText(...values) {
+  const match = values
+    .filter(Boolean)
+    .join(" ")
+    .match(/\bFOIA\s+([0-9]{4}-[0-9]{4}-[A-Z])\b/i);
+  return match ? match[1] : "";
+}
+
+function archivalSourceNoteConforms(note) {
+  return (
+    /^Source: /.test(note || "") &&
+    !/https?:\/\//i.test(note || "") &&
+    !/\bNAID\b/i.test(note || "") &&
+    !/Digital object|Digital Research Room|National Archives Catalog|Folder ID Number|Catalog:|Project PDF/i.test(note || "")
+  );
+}
+
+function citationStatus(recordClass, note) {
+  if (!note) return "Missing source note";
+  if (recordClass === "Public statement") return "Published reference";
+  if (recordClass === "Daily diary/backup reference") return "Supporting reference";
+  return archivalSourceNoteConforms(note) ? "FRUS-style ready" : "Needs source-note review";
+}
+
+function citationStatusRank(status) {
+  return {
+    "Missing source note": 0,
+    "Needs source-note review": 1,
+    "FRUS-style ready": 2,
+    "Supporting reference": 3,
+    "Published reference": 4
+  }[status] ?? 9;
+}
+
+function citationReviewFlags(fields) {
+  const flags = [];
+  const note = fields.sourceNote || "";
+  if (!note) flags.push("missing_source_note");
+  if (/https?:\/\//i.test(note)) flags.push("source_note_contains_url");
+  if (/\bNAID\b/i.test(note)) flags.push("source_note_contains_naid");
+  if (/Digital object|Digital Research Room|National Archives Catalog|Folder ID Number|Catalog:|Project PDF/i.test(note)) {
+    flags.push("source_note_contains_catalog_trail");
+  }
+  if (!normalizedDate(fields.date)) flags.push("missing_or_unparsed_date");
+  if (!fields.title) flags.push("missing_title");
+  if (!fields.pdfUrl) flags.push("missing_pdf_url");
+  if (!fields.catalogUrl) flags.push("missing_catalog_or_details_url");
+  if (fields.volumeScope && fields.volumeScope !== "Volume date range") flags.push("outside_volume_date_scope_or_undated");
+  if (fields.primaryCountry === "Regional/No single country") flags.push("regional_no_single_country");
+
+  if (fields.recordClass === "Declassified memcon/telcon") {
+    if (!fields.provenanceNote) flags.push("missing_provenance_note");
+    if (!fields.pageCountOrRange) flags.push("missing_page_count");
+    if (/partial/i.test(fields.releaseOrAccessStatus || "")) flags.push("partial_release_check_less_redacted_copy");
+    if (fields.sourceName === "Brent Scowcroft Papers" && !fields.hasProvenanceSheet) {
+      flags.push("scowcroft_missing_pdf_provenance_sheet");
+    }
+  }
+
+  if (fields.recordClass === "Print-candidate lead") {
+    flags.push("ocr_lead_verify_page_image");
+    if (!fields.pageCountOrRange) flags.push("missing_page_start_or_range");
+    if (!fields.pageLink) flags.push("missing_pdf_page_link");
+    if (fields.priority === "High") flags.push("high_priority_print_candidate");
+  }
+
+  if (fields.recordClass === "Daily diary/backup reference" && /empty/i.test(fields.releaseOrAccessStatus || "")) {
+    flags.push("empty_folder");
+  }
+
+  return flags;
+}
+
+function citationAction(recordClass, status, flags) {
+  if (status === "Missing source note" || status === "Needs source-note review") {
+    return "Repair visible Source note against the Volume XXXI Bush-document model before selection.";
+  }
+  if (recordClass === "Print-candidate lead") {
+    return "Verify OCR, page image, document boundaries, date, and folder provenance before printing.";
+  }
+  if (flags.includes("partial_release_check_less_redacted_copy")) {
+    return "Check parallel files or later releases for a less-redacted copy before final selection.";
+  }
+  if (recordClass === "Daily diary/backup reference") {
+    return "Use as schedule and backup-material evidence for timing, calls, meetings, and support packets.";
+  }
+  if (recordClass === "Public statement") {
+    return "Use as public-line reference and compare against private record context.";
+  }
+  return "Source note is ready for compiler review with provenance retained separately.";
+}
+
+function candidateFileGroup(candidate) {
+  const source = sourceName(candidate);
+  if (/Chronological/i.test(source)) return "Latin American Affairs Directorate Files, Chronological Files";
+  if (/Latin American Affairs Directorate Subject/i.test(source)) return "Latin American Affairs Directorate Files, Subject File 1989";
+  if (/Timothy E\.?\s*Deal/i.test(source)) return "Deal, Timothy E., Files, Subject Files";
+  return "";
+}
+
 function dayDistance(a, b) {
   const left = dateObject(a);
   const right = dateObject(b);
@@ -426,6 +526,227 @@ function evidenceTimelineRows({ memcons, printCandidates, dailyDiaryReferences, 
     (a, b) =>
       timelineSortValue(a.sort_date).localeCompare(timelineSortValue(b.sort_date)) ||
       countryRank(a.primary_chapter_country) - countryRank(b.primary_chapter_country) ||
+      String(a.record_class || "").localeCompare(String(b.record_class || "")) ||
+      String(a.title || "").localeCompare(String(b.title || ""))
+  );
+}
+
+function citationWorkbenchRows({ memcons, printCandidates, dailyDiaryReferences, publicStatements }) {
+  const chapterOrder = [
+    "Argentina",
+    "Bolivia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Ecuador",
+    "Guyana",
+    "Paraguay",
+    "Peru",
+    "Suriname",
+    "Uruguay",
+    "Venezuela"
+  ];
+  const countryRank = (country) => {
+    const value = chapterOrder.indexOf(country);
+    return value === -1 ? 999 : value;
+  };
+  const rows = [];
+
+  const pushRow = (fields) => {
+    const status = citationStatus(fields.recordClass, fields.sourceNote);
+    const flags = citationReviewFlags(fields);
+    rows.push({
+      source_note_status: status,
+      source_note_review_flags: flags,
+      compiler_action: citationAction(fields.recordClass, status, flags),
+      record_class: fields.recordClass,
+      primary_chapter_country: fields.primaryCountry,
+      countries: fields.countries,
+      sort_date: normalizedDate(fields.date),
+      display_date: fields.displayDate || fields.date || "",
+      volume_date_scope: fields.volumeScope || volumeDateScope(fields.date),
+      document_type: fields.documentType || "",
+      title: fields.title || "",
+      source_note_model: fields.sourceNoteModel,
+      source_note: fields.sourceNote || "",
+      provenance_note: fields.provenanceNote || "",
+      repository: fields.repository || "",
+      record_group_or_collection: fields.recordGroupOrCollection || "",
+      office_or_collection: fields.officeOrCollection || "",
+      series: fields.series || "",
+      subseries_or_file_group: fields.subseriesOrFileGroup || "",
+      oa_or_local_identifier: fields.oaOrLocalIdentifier || "",
+      folder_or_source_title: fields.folderOrSourceTitle || "",
+      record_naid: fields.recordNaid || "",
+      series_or_folder_naid: fields.seriesOrFolderNaid || "",
+      page_count_or_range: fields.pageCountOrRange || "",
+      release_or_access_status: fields.releaseOrAccessStatus || "",
+      foia_or_processing: fields.foiaOrProcessing || "",
+      pdf_url: fields.pdfUrl || "",
+      catalog_or_details_url: fields.catalogUrl || "",
+      page_link: fields.pageLink || "",
+      record_id: fields.recordId || ""
+    });
+  };
+
+  for (const record of memcons) {
+    const source = record.source || {};
+    const provenance = source.provenanceSheet || {};
+    const countries = countryList(record);
+    const recordClass = "Declassified memcon/telcon";
+    const date = recordDateValue(record);
+    const primaryChapterCountry = record.chapter?.name || primaryCountry(countries);
+
+    pushRow({
+      recordClass,
+      countries,
+      primaryCountry: primaryChapterCountry,
+      date,
+      displayDate: record.date || "",
+      volumeScope: volumeDateScope(date),
+      documentType: record.type || "",
+      title: record.documentTitle || record.title || "",
+      sourceNoteModel: "FRUS Volume XXXI Bush-document source-note model",
+      sourceNote: record.sourceNote || "",
+      provenanceNote: record.provenanceNote || "",
+      repository: "George H.W. Bush Library",
+      recordGroupOrCollection: provenance.recordGroupCollection || "Bush Presidential Records",
+      officeOrCollection:
+        provenance.collectionOfficeOfOrigin ||
+        (source.name === "Brent Scowcroft Papers" ? "Brent Scowcroft Collection" : "National Security Council"),
+      series: provenance.series || source.series || "",
+      subseriesOrFileGroup: provenance.subseries || "",
+      oaOrLocalIdentifier: provenance.folderIdNumber || provenance.oaIdNumber || record.localIdentifier || "",
+      folderOrSourceTitle: provenance.folderTitle || source.fileUnitTitle || record.sourceTitle || "",
+      recordNaid: record.naid || "",
+      seriesOrFolderNaid: source.fileUnitNaid || source.seriesNaid || "",
+      pageCountOrRange: source.sourcePages || record.pageCount || "",
+      releaseOrAccessStatus: record.releaseStatus || "",
+      foiaOrProcessing: provenance.foiaNumber || source.foiaNumber || foiaNumberFromText(record.sourceNote, record.provenanceNote),
+      pdfUrl: record.pdfUrl || "",
+      catalogUrl: record.catalogUrl || "",
+      pageLink: "",
+      recordId: record.id || "",
+      sourceName: source.name || "",
+      hasProvenanceSheet: Boolean(source.provenanceSheet)
+    });
+  }
+
+  for (const candidate of printCandidates) {
+    const countries = countryList(candidate);
+    const recordClass = "Print-candidate lead";
+    const date = candidate.documentDate || "";
+    const pageRange = [candidate.pageStart, candidate.pageEnd].filter(Boolean).join("-");
+
+    pushRow({
+      recordClass,
+      countries,
+      primaryCountry: primaryCountry(countries),
+      date,
+      displayDate: date,
+      volumeScope: volumeDateScope(date),
+      documentType: candidate.documentType || "",
+      title: candidate.documentTitle || "",
+      sourceNoteModel: "FRUS Volume XXXI Bush-document source-note model",
+      sourceNote: candidate.sourceNote || "",
+      provenanceNote: "",
+      repository: "George H.W. Bush Library",
+      recordGroupOrCollection: "Bush Presidential Records",
+      officeOrCollection: "National Security Council",
+      series: sourceName(candidate),
+      subseriesOrFileGroup: candidateFileGroup(candidate),
+      oaOrLocalIdentifier: candidate.localIdentifier || "",
+      folderOrSourceTitle: candidate.folderTitle || "",
+      recordNaid: "",
+      seriesOrFolderNaid: candidate.folderNaid || candidate.sourceSeries?.naid || "",
+      pageCountOrRange: pageRange,
+      releaseOrAccessStatus: candidate.accessRestriction || "",
+      foiaOrProcessing: foiaNumberFromText(candidate.sourceNote),
+      pdfUrl: candidate.pdfUrl || "",
+      catalogUrl: candidate.catalogUrl || "",
+      pageLink: candidate.pageLink || "",
+      recordId: candidate.id || "",
+      priority: candidate.priority || ""
+    });
+  }
+
+  for (const reference of dailyDiaryReferences) {
+    const countries = countryList(reference);
+    const recordClass = "Daily diary/backup reference";
+    const date = reference.date || "";
+
+    pushRow({
+      recordClass,
+      countries,
+      primaryCountry: primaryCountry(countries),
+      date,
+      displayDate: reference.catalogDate || date,
+      volumeScope: volumeDateScope(date),
+      documentType: reference.sourceType || "",
+      title: reference.title || "",
+      sourceNoteModel: "Supporting Daily Diary and backup-material source citation",
+      sourceNote: reference.sourceNote || "",
+      provenanceNote: "",
+      repository: reference.sourceSeries?.repository || "George H.W. Bush Library",
+      recordGroupOrCollection: reference.sourceSeries?.recordGroup || "Bush Presidential Records",
+      officeOrCollection: reference.sourceSeries?.collection || "White House Office of Appointments and Scheduling Files",
+      series: reference.sourceSeries?.name || "Presidential Daily Diary and Presidential Daily Backup Materials",
+      subseriesOrFileGroup: "",
+      oaOrLocalIdentifier: reference.localIdentifier || "",
+      folderOrSourceTitle: reference.title || "",
+      recordNaid: reference.naid || "",
+      seriesOrFolderNaid: reference.sourceSeries?.naid || "",
+      pageCountOrRange: "",
+      releaseOrAccessStatus: reference.empty ? "Empty folder" : reference.accessRestriction || "",
+      foiaOrProcessing: foiaNumberFromText(reference.sourceNote),
+      pdfUrl: reference.pdfUrl || "",
+      catalogUrl: reference.catalogUrl || "",
+      pageLink: "",
+      recordId: reference.id || ""
+    });
+  }
+
+  for (const statement of publicStatements) {
+    const countries = countryList(statement);
+    const recordClass = "Public statement";
+    const date = statement.sortDate || statement.documentDate || "";
+
+    pushRow({
+      recordClass,
+      countries,
+      primaryCountry: primaryCountry(countries),
+      date,
+      displayDate: statement.documentDate || statement.sortDate || "",
+      volumeScope: volumeDateScope(date),
+      documentType: statement.documentType || "",
+      title: statement.title || "",
+      sourceNoteModel: "GovInfo Public Papers published reference",
+      sourceNote: statement.sourceNote || "",
+      provenanceNote: "",
+      repository: "Government Publishing Office",
+      recordGroupOrCollection: statement.sourceCollection?.name || "Public Papers of the Presidents of the United States: George H. W. Bush",
+      officeOrCollection: "GovInfo",
+      series: statement.bookLabel || "",
+      subseriesOrFileGroup: statement.packageId || "",
+      oaOrLocalIdentifier: statement.granuleId || "",
+      folderOrSourceTitle: statement.title || "",
+      recordNaid: "",
+      seriesOrFolderNaid: statement.packageId || "",
+      pageCountOrRange: [statement.pageStart, statement.pageEnd].filter(Boolean).join("-"),
+      releaseOrAccessStatus: "",
+      foiaOrProcessing: "",
+      pdfUrl: statement.pdfUrl || "",
+      catalogUrl: statement.detailsUrl || statement.htmlUrl || "",
+      pageLink: statement.pageLink || statement.htmlUrl || "",
+      recordId: statement.id || ""
+    });
+  }
+
+  return rows.sort(
+    (a, b) =>
+      citationStatusRank(a.source_note_status) - citationStatusRank(b.source_note_status) ||
+      countryRank(a.primary_chapter_country) - countryRank(b.primary_chapter_country) ||
+      timelineSortValue(a.sort_date).localeCompare(timelineSortValue(b.sort_date)) ||
       String(a.record_class || "").localeCompare(String(b.record_class || "")) ||
       String(a.title || "").localeCompare(String(b.title || ""))
   );
@@ -737,6 +1058,15 @@ function main() {
     writeCsv(
       "evidence-timeline.csv",
       evidenceTimelineRows({
+        memcons,
+        printCandidates,
+        dailyDiaryReferences,
+        publicStatements
+      })
+    ),
+    writeCsv(
+      "citation-workbench.csv",
+      citationWorkbenchRows({
         memcons,
         printCandidates,
         dailyDiaryReferences,
