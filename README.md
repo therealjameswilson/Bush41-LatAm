@@ -243,11 +243,13 @@ worklist with source notes, direct links, and a volume-date-scope flag. The cita
 export turns the same evidence layers into a Source-note and reference audit sheet with repository
 path fields, FOIA/access data, provenance trails, link fields, and review flags. The selection
 matrix export ranks verified private records and OCR-derived print-candidate leads together by
-country risk, date scope, source-note status, nearby evidence, and likely print value. The country
-dossier export gives one rollup row per South America chapter with private-record coverage, source
-mix, year gaps, public-statement counts, diary/backup counts, print-candidate pressure, risk
-signals, and recommended actions. The other downloads preserve the full chronology, print-candidate,
-daily diary/backup, and public-statement datasets.
+country risk, date scope, source-note status, nearby evidence, and likely print value. The coverage
+matrix export gives one row per country-year for 1989-1992, exposing private-record gaps against
+print leads, public statements, and Daily Diary/backup references. The country dossier export gives
+one rollup row per South America chapter with private-record coverage, source mix, year gaps,
+public-statement counts, diary/backup counts, print-candidate pressure, risk signals, and
+recommended actions. The other downloads preserve the full chronology, print-candidate, daily
+diary/backup, and public-statement datasets.
 
 To produce the same CSV files locally, run:
 

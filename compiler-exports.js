@@ -140,6 +140,10 @@ function volumeDateScope(value) {
   return "Volume date range";
 }
 
+function exportYear(value) {
+  return normalizedDate(value).slice(0, 4);
+}
+
 function foiaNumberFromText(...values) {
   const match = values
     .filter(Boolean)
@@ -335,6 +339,46 @@ function selectionActionFor(row) {
     return "Use to fill country chronology gaps or support annotation after high-priority leads are checked.";
   }
   return "Retain as reference unless it resolves a country gap, public-private mismatch, or annotation need.";
+}
+
+function coverageSignal({ privateRecords, highPrintCandidates, printCandidates, publicStatements, partialRecords }) {
+  if (!privateRecords && highPrintCandidates) return "No private records; high print pressure";
+  if (!privateRecords && publicStatements) return "No private records; public-private mismatch";
+  if (!privateRecords && printCandidates) return "No private records; print leads exist";
+  if (!privateRecords) return "No private record identified";
+  if (partialRecords) return "Private record includes partial release";
+  if (privateRecords <= 1 && highPrintCandidates >= 3) return "Thin private record; high print pressure";
+  if (privateRecords <= 1 && publicStatements >= 3) return "Thin private record; public-private mismatch";
+  if (highPrintCandidates >= 5) return "Private record present; high print pressure";
+  return "Coverage present";
+}
+
+function coverageAction(signal) {
+  if (/No private records; high print pressure/.test(signal)) {
+    return "Prioritize high-priority print leads and adjacent NSC/State files for this country-year before closing the chapter chronology.";
+  }
+  if (/No private records; public-private mismatch/.test(signal)) {
+    return "Map public statements to surrounding briefing papers, memoranda, cables, and schedule records for this country-year.";
+  }
+  if (/No private records; print leads exist/.test(signal)) {
+    return "Verify print leads and decide whether they supply the missing country-year narrative.";
+  }
+  if (/No private record identified/.test(signal)) {
+    return "Treat this country-year as a gap until non-presidential and agency files are checked.";
+  }
+  if (/partial release/.test(signal)) {
+    return "Check parallel files and later releases for less-redacted copies before selecting or annotating.";
+  }
+  if (/Thin private record; high print pressure/.test(signal)) {
+    return "Use high-priority print leads to test whether the private chronology is only a presidential-contact skeleton.";
+  }
+  if (/Thin private record; public-private mismatch/.test(signal)) {
+    return "Compare public line to surrounding private material and add explanatory context where needed.";
+  }
+  if (/high print pressure/.test(signal)) {
+    return "Triage high-priority leads against the verified private records for possible print additions or annotations.";
+  }
+  return "Use existing private records as the anchor and scan leads only for annotation or missing-decision context.";
 }
 
 function dayDistance(a, b) {
@@ -987,6 +1031,102 @@ function selectionMatrixExportRows() {
     }));
 }
 
+function coverageMatrixExportRows() {
+  const years = ["1989", "1990", "1991", "1992"];
+  const memcons = window.MEMCONS || [];
+  const printCandidates = [
+    ...(window.CHRONOLOGICAL_PRINT_CANDIDATES || []),
+    ...(window.SUBJECT_PRINT_CANDIDATES || []),
+    ...(window.DEAL_PRINT_CANDIDATES || [])
+  ];
+  const publicStatements = window.PUBLIC_STATEMENTS || [];
+  const diaryReferences = window.DAILY_DIARY_REFERENCES || [];
+  const riskMap = riskByCountry();
+
+  return EXPORT_CHAPTER_ORDER.flatMap((country, countryIndex) => {
+    const risk = riskMap.get(country);
+    const countryPrintAll = printCandidates.filter((candidate) => (candidate.countries || []).includes(country));
+    const outOfGridPrint = countryPrintAll.filter((candidate) => !years.includes(exportYear(candidate.documentDate)));
+    const outOfGridHighPrint = outOfGridPrint.filter((candidate) => candidate.priority === "High");
+    return years.map((year) => {
+      const countryRecords = memcons.filter(
+        (record) => (record.countries || []).includes(country) && exportYear(recordDateValue(record)) === year
+      );
+      const countryPrint = printCandidates.filter(
+        (candidate) => (candidate.countries || []).includes(country) && exportYear(candidate.documentDate) === year
+      );
+      const highPrint = countryPrint.filter((candidate) => candidate.priority === "High");
+      const mediumPrint = countryPrint.filter((candidate) => candidate.priority === "Medium");
+      const countryStatements = publicStatements.filter(
+        (statement) =>
+          (statement.countries || []).includes(country) &&
+          exportYear(statement.sortDate || statement.documentDate) === year
+      );
+      const countryDiary = diaryReferences.filter(
+        (reference) => (reference.countries || []).includes(country) && exportYear(reference.date) === year
+      );
+      const linkedDiary = countryDiary.filter((reference) => (reference.linkedRecordIds || []).length);
+      const partialRecords = countryRecords.filter((record) => /partial/i.test(record.releaseStatus || ""));
+      const signal = coverageSignal({
+        privateRecords: countryRecords.length,
+        highPrintCandidates: highPrint.length,
+        printCandidates: countryPrint.length,
+        publicStatements: countryStatements.length,
+        partialRecords: partialRecords.length
+      });
+
+      return {
+        chapter_number: countryIndex + 1,
+        country,
+        year,
+        country_risk_level: risk?.riskLevel || "Monitor",
+        country_risk_score: risk?.riskScore || "",
+        coverage_signal: signal,
+        compiler_action: coverageAction(signal),
+        private_record_count: countryRecords.length,
+        private_page_count: countryRecords.reduce((total, record) => total + (record.pageCount || 0), 0),
+        partial_private_records: partialRecords.length,
+        private_source_mix: countSummary(countryRecords.map(exportSourceLabel)),
+        private_record_titles: countryRecords
+          .sort((a, b) => recordDateValue(a).localeCompare(recordDateValue(b)) || (a.title || "").localeCompare(b.title || ""))
+          .map((record) => [record.date, record.type, record.subjectLine || record.title || record.documentTitle].filter(Boolean).join(" - ")),
+        print_candidate_count: countryPrint.length,
+        high_priority_print_candidates: highPrint.length,
+        medium_priority_print_candidates: mediumPrint.length,
+        undated_or_out_of_scope_country_print_candidates: outOfGridPrint.length,
+        undated_or_out_of_scope_high_priority_print_candidates: outOfGridHighPrint.length,
+        print_source_mix: countSummary(countryPrint.map(exportCandidateSource)),
+        top_print_leads: highPrint
+          .sort(
+            (a, b) =>
+              (b.score || 0) - (a.score || 0) ||
+              (normalizedDate(a.documentDate) || "9999").localeCompare(normalizedDate(b.documentDate) || "9999") ||
+              (a.documentTitle || "").localeCompare(b.documentTitle || "")
+          )
+          .slice(0, 10)
+          .map((candidate) => [candidate.documentDate, candidate.priority, candidate.score, candidate.documentTitle].filter(Boolean).join(" - ")),
+        public_statement_count: countryStatements.length,
+        public_statement_titles: countryStatements
+          .sort(
+            (a, b) =>
+              (a.sortDate || a.documentDate || "").localeCompare(b.sortDate || b.documentDate || "") ||
+              (a.title || "").localeCompare(b.title || "")
+          )
+          .slice(0, 10)
+          .map((statement) => [statement.documentDate || statement.sortDate, statement.title].filter(Boolean).join(" - ")),
+        daily_diary_reference_count: countryDiary.length,
+        linked_daily_diary_references: linkedDiary.length,
+        daily_diary_reference_titles: countryDiary
+          .sort((a, b) => (a.date || "").localeCompare(b.date || "") || (a.title || "").localeCompare(b.title || ""))
+          .slice(0, 10)
+          .map((reference) => [reference.date, reference.sourceType, reference.title].filter(Boolean).join(" - ")),
+        recommended_country_actions: risk?.recommendedActions || [],
+        risk_signals: risk?.riskSignals || []
+      };
+    });
+  });
+}
+
 function printCandidateExportRows() {
   const priority = { High: 0, Medium: 1, Reference: 2 };
   return [
@@ -1290,6 +1430,7 @@ function attachCompilerExports() {
   attachExport('[data-export="evidenceTimeline"]', "evidence-timeline.csv", evidenceTimelineExportRows());
   attachExport('[data-export="citationWorkbench"]', "citation-workbench.csv", citationWorkbenchExportRows());
   attachExport('[data-export="selectionMatrix"]', "selection-matrix.csv", selectionMatrixExportRows());
+  attachExport('[data-export="coverageMatrix"]', "coverage-matrix.csv", coverageMatrixExportRows());
   attachExport('[data-export="reviewQueue"]', "compiler-review-queue.csv", reviewQueueExportRows());
   attachExport('[data-export="countryDossiers"]', "country-dossiers.csv", countryDossierExportRows());
   attachExport('[data-export="printCandidates"]', "print-candidates.csv", printCandidateExportRows());
