@@ -14,6 +14,20 @@ const EXPORT_CHAPTER_ORDER = [
 ];
 
 const exportObjectUrls = [];
+const EXPORT_MONTHS = {
+  january: 0,
+  february: 1,
+  march: 2,
+  april: 3,
+  may: 4,
+  june: 5,
+  july: 6,
+  august: 7,
+  september: 8,
+  october: 9,
+  november: 10,
+  december: 11
+};
 
 function csvCell(value) {
   if (Array.isArray(value)) return csvCell(value.filter(Boolean).join("; "));
@@ -85,6 +99,72 @@ function recordDateValue(record) {
   return record.sortDate || record.date || "";
 }
 
+function dateObject(value) {
+  if (!value) return null;
+  const text = String(value).trim();
+  let match = text.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (match) return new Date(Date.UTC(Number(match[1]), Number(match[2]) - 1, Number(match[3])));
+  match = text.match(/^(\d{1,2})\/(\d{1,2})\/(\d{2}|\d{4})$/);
+  if (match) {
+    const year = Number(match[3]);
+    return new Date(Date.UTC(year < 100 ? 1900 + year : year, Number(match[1]) - 1, Number(match[2])));
+  }
+  match = text.match(/^([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})$/);
+  if (match && EXPORT_MONTHS[match[1].toLowerCase()] !== undefined) {
+    return new Date(Date.UTC(Number(match[3]), EXPORT_MONTHS[match[1].toLowerCase()], Number(match[2])));
+  }
+  return null;
+}
+
+function dayDistance(a, b) {
+  const left = dateObject(a);
+  const right = dateObject(b);
+  if (!left || !right) return null;
+  return Math.round((right.getTime() - left.getTime()) / 86400000);
+}
+
+function sharedExportCountries(left, right) {
+  const leftCountries = new Set(exportCountries(left));
+  return exportCountries(right).filter((country) => leftCountries.has(country));
+}
+
+function contextLabel(item, dateField = "documentDate") {
+  return [item[dateField] || item.sortDate || "", item.documentTitle || item.title || ""].filter(Boolean).join(" - ");
+}
+
+function nearbyPrintCandidates(record, candidates, maxDays) {
+  return candidates
+    .map((candidate) => ({
+      candidate,
+      distance: dayDistance(recordDateValue(record), candidate.documentDate),
+      sharedCountries: sharedExportCountries(record, candidate)
+    }))
+    .filter((item) => item.distance !== null && Math.abs(item.distance) <= maxDays && item.sharedCountries.length)
+    .sort(
+      (a, b) =>
+        Math.abs(a.distance) - Math.abs(b.distance) ||
+        (b.candidate.score || 0) - (a.candidate.score || 0) ||
+        (a.candidate.documentDate || "").localeCompare(b.candidate.documentDate || "") ||
+        (a.candidate.documentTitle || "").localeCompare(b.candidate.documentTitle || "")
+    );
+}
+
+function nearbyPublicStatements(record, statements, maxDays) {
+  return statements
+    .map((statement) => ({
+      statement,
+      distance: dayDistance(recordDateValue(record), statement.documentDate || statement.sortDate),
+      sharedCountries: sharedExportCountries(record, statement)
+    }))
+    .filter((item) => item.distance !== null && Math.abs(item.distance) <= maxDays && item.sharedCountries.length)
+    .sort(
+      (a, b) =>
+        Math.abs(a.distance) - Math.abs(b.distance) ||
+        (a.statement.documentDate || a.statement.sortDate || "").localeCompare(b.statement.documentDate || b.statement.sortDate || "") ||
+        (a.statement.title || "").localeCompare(b.statement.title || "")
+    );
+}
+
 function chronologyExportRows() {
   return [...(window.MEMCONS || [])]
     .sort(
@@ -117,6 +197,61 @@ function chronologyExportRows() {
       daily_diary_backup_pdfs: (record.dailyDiaryReferences || []).map((reference) => reference.pdfUrl),
       daily_diary_backup_catalog_urls: (record.dailyDiaryReferences || []).map((reference) => reference.catalogUrl)
     }));
+}
+
+function documentContextExportRows() {
+  const memcons = window.MEMCONS || [];
+  const printCandidates = [
+    ...(window.CHRONOLOGICAL_PRINT_CANDIDATES || []),
+    ...(window.SUBJECT_PRINT_CANDIDATES || []),
+    ...(window.DEAL_PRINT_CANDIDATES || [])
+  ];
+  const publicStatements = window.PUBLIC_STATEMENTS || [];
+  const riskMap = riskByCountry();
+
+  return [...memcons]
+    .sort(
+      (a, b) =>
+        exportChapterNumber(a) - exportChapterNumber(b) ||
+        recordDateValue(a).localeCompare(recordDateValue(b)) ||
+        (a.documentTitle || a.title || "").localeCompare(b.documentTitle || b.title || "")
+    )
+    .map((record) => {
+      const risk = bestCountryRisk(record.countries || [], riskMap);
+      const nearbyLeads = nearbyPrintCandidates(record, printCandidates, 14);
+      const nearbyHighLeads = nearbyLeads.filter((item) => item.candidate.priority === "High");
+      const nearbyStatements = nearbyPublicStatements(record, publicStatements, 7);
+
+      return {
+        chapter_number: record.chapter?.number || "",
+        chapter_country: record.chapter?.name || "",
+        date: record.date || "",
+        document_type: record.type || "",
+        document_title: record.documentTitle || record.title || "",
+        release_status: record.releaseStatus || "",
+        page_count: record.pageCount || 0,
+        source_bucket: exportSourceLabel(record),
+        country_risk_level: risk?.riskLevel || "",
+        country_risk_score: risk?.riskScore || "",
+        participants: record.participants || [],
+        frus_topics: record.frusTopics || record.topics || [],
+        same_date_diary_backup_count: (record.dailyDiaryReferences || []).length,
+        same_date_diary_backup_titles: (record.dailyDiaryReferences || []).map((reference) => reference.title),
+        nearby_high_priority_print_lead_count: nearbyHighLeads.length,
+        nearby_high_priority_print_leads: nearbyHighLeads
+          .slice(0, 10)
+          .map((item) => `${item.distance >= 0 ? "+" : ""}${item.distance}d ${contextLabel(item.candidate)}`),
+        nearby_print_lead_count_14_days: nearbyLeads.length,
+        nearby_public_statement_count_7_days: nearbyStatements.length,
+        nearby_public_statements: nearbyStatements
+          .slice(0, 10)
+          .map((item) => `${item.distance >= 0 ? "+" : ""}${item.distance}d ${contextLabel(item.statement, "documentDate")}`),
+        context_review_note: "Check nearby leads/statements as surrounding evidence; OCR-derived leads require page-image confirmation before selection.",
+        source_note: record.sourceNote || "",
+        pdf_url: record.pdfUrl || "",
+        catalog_url: record.catalogUrl || ""
+      };
+    });
 }
 
 function printCandidateExportRows() {
@@ -418,6 +553,7 @@ function attachCompilerExports() {
   for (const href of exportObjectUrls) URL.revokeObjectURL(href);
   exportObjectUrls.length = 0;
   attachExport('[data-export="chronology"]', "compiler-chronology.csv", chronologyExportRows());
+  attachExport('[data-export="documentContext"]', "document-context.csv", documentContextExportRows());
   attachExport('[data-export="reviewQueue"]', "compiler-review-queue.csv", reviewQueueExportRows());
   attachExport('[data-export="countryDossiers"]', "country-dossiers.csv", countryDossierExportRows());
   attachExport('[data-export="printCandidates"]', "print-candidates.csv", printCandidateExportRows());
