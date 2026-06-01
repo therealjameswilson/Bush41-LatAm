@@ -240,6 +240,103 @@ function candidateFileGroup(candidate) {
   return "";
 }
 
+function selectionRiskBonus(risk) {
+  return { Critical: 16, High: 10, Medium: 6, Monitor: 2, Reference: 0 }[risk?.riskLevel] || 0;
+}
+
+function selectionDatePenalty(scope) {
+  if (scope === "Volume date range") return 0;
+  if (scope === "Undated/needs verification") return 14;
+  return 8;
+}
+
+function selectionThemes(item) {
+  return item.frusTopics || item.topics || item.themes || [];
+}
+
+function selectionTopicBonus(themes) {
+  const text = (themes || []).join(" ").toLowerCase();
+  let bonus = 0;
+  if (/presidential diplomacy|head.of.state|head of state|president/.test(text)) bonus += 8;
+  if (/democracy|human rights|narcotics|debt|economy|trade|security|insurgency|enterprise/.test(text)) bonus += 6;
+  if (/regional policy|latin america|south america/.test(text)) bonus += 3;
+  return Math.min(bonus, 14);
+}
+
+function nearbyPrivateRecords(candidate, memcons, maxDays) {
+  return memcons
+    .map((record) => ({
+      record,
+      distance: dayDistance(candidate.documentDate, recordDateValue(record)),
+      sharedCountries: sharedExportCountries(candidate, record)
+    }))
+    .filter((item) => item.distance !== null && Math.abs(item.distance) <= maxDays && item.sharedCountries.length)
+    .sort(
+      (a, b) =>
+        Math.abs(a.distance) - Math.abs(b.distance) ||
+        recordDateValue(a.record).localeCompare(recordDateValue(b.record)) ||
+        (a.record.documentTitle || a.record.title || "").localeCompare(b.record.documentTitle || b.record.title || "")
+    );
+}
+
+function privateSelectionScore(record, risk, nearbyHighLeads, nearbyStatements) {
+  const scope = volumeDateScope(recordDateValue(record));
+  let score = 72 + selectionRiskBonus(risk) + selectionTopicBonus(selectionThemes(record));
+  if (/memcon/i.test(record.type || "")) score += 6;
+  if (/telcon/i.test(record.type || "")) score += 4;
+  if ((record.pageCount || 0) >= 5) score += 5;
+  if ((record.dailyDiaryReferences || []).length) score += 3;
+  score += Math.min(nearbyHighLeads.length * 2, 12);
+  score += Math.min(nearbyStatements.length, 6);
+  if (/partial/i.test(record.releaseStatus || "")) score += 4;
+  score -= selectionDatePenalty(scope);
+  return Math.max(0, Math.round(score));
+}
+
+function candidateSelectionScore(candidate, risk, nearbyPrivate) {
+  const scope = volumeDateScope(candidate.documentDate);
+  let score = Math.min(Number(candidate.score || 0), 100) + selectionRiskBonus(risk) + selectionTopicBonus(candidate.themes || []);
+  if (candidate.priority === "High") score += 14;
+  if (candidate.priority === "Medium") score += 5;
+  if (nearbyPrivate.length) score += 6;
+  if (/withdrawal/i.test(candidate.extraction || "")) score += 4;
+  score -= selectionDatePenalty(scope);
+  return Math.max(0, Math.round(score));
+}
+
+function selectionBand(recordClass, score, statusOrPriority, scope) {
+  if (scope !== "Volume date range") return "Verify date/scope before selection";
+  if (recordClass === "Declassified memcon/telcon") {
+    if (/partial/i.test(statusOrPriority || "")) return "Private record - partial release check";
+    if (score >= 105) return "Core private record";
+    if (score >= 90) return "Strong private record";
+    return "Private record - context";
+  }
+  if (statusOrPriority === "High" && score >= 110) return "Top print lead";
+  if (statusOrPriority === "High") return "High-priority print lead";
+  if (statusOrPriority === "Medium") return "Secondary print/context lead";
+  return "Reference lead";
+}
+
+function selectionActionFor(row) {
+  if (row.volume_date_scope !== "Volume date range") {
+    return "Verify date and volume scope before investing selection time.";
+  }
+  if (row.selection_band === "Private record - partial release check") {
+    return "Check for a less-redacted copy, then decide whether to print, annotate, or replace.";
+  }
+  if (row.record_class === "Declassified memcon/telcon") {
+    return "Evaluate for print or annotation, using nearby leads and public statements as surrounding context.";
+  }
+  if (/Top|High-priority/.test(row.selection_band)) {
+    return "Verify page image/OCR and compare against the private chronology before print selection.";
+  }
+  if (row.selection_band === "Secondary print/context lead") {
+    return "Use to fill country chronology gaps or support annotation after high-priority leads are checked.";
+  }
+  return "Retain as reference unless it resolves a country gap, public-private mismatch, or annotation need.";
+}
+
 function dayDistance(a, b) {
   const left = dateObject(a);
   const right = dateObject(b);
@@ -730,6 +827,166 @@ function citationWorkbenchExportRows() {
   );
 }
 
+function selectionMatrixExportRows() {
+  const memcons = window.MEMCONS || [];
+  const printCandidates = [
+    ...(window.CHRONOLOGICAL_PRINT_CANDIDATES || []),
+    ...(window.SUBJECT_PRINT_CANDIDATES || []),
+    ...(window.DEAL_PRINT_CANDIDATES || [])
+  ];
+  const publicStatements = window.PUBLIC_STATEMENTS || [];
+  const riskMap = riskByCountry();
+  const rows = [];
+
+  for (const record of memcons) {
+    const countries = exportCountries(record);
+    const risk = bestCountryRisk(record.countries || [], riskMap);
+    const nearbyLeads = nearbyPrintCandidates(record, printCandidates, 14);
+    const nearbyHighLeads = nearbyLeads.filter((item) => item.candidate.priority === "High");
+    const nearbyStatements = nearbyPublicStatements(record, publicStatements, 7);
+    const citationFields = {
+      recordClass: "Declassified memcon/telcon",
+      date: recordDateValue(record),
+      title: record.documentTitle || record.title || "",
+      pdfUrl: record.pdfUrl || "",
+      catalogUrl: record.catalogUrl || "",
+      volumeScope: volumeDateScope(recordDateValue(record)),
+      primaryCountry: record.chapter?.name || exportPrimaryCountry(countries),
+      sourceNote: record.sourceNote || "",
+      provenanceNote: record.provenanceNote || "",
+      pageCountOrRange: record.pageCount || "",
+      releaseOrAccessStatus: record.releaseStatus || "",
+      sourceName: record.source?.name || "",
+      hasProvenanceSheet: Boolean(record.source?.provenanceSheet)
+    };
+    const selectionScore = privateSelectionScore(record, risk, nearbyHighLeads, nearbyStatements);
+    const band = selectionBand(
+      "Declassified memcon/telcon",
+      selectionScore,
+      record.releaseStatus || "",
+      citationFields.volumeScope
+    );
+    const flags = citationReviewFlags(citationFields);
+
+    rows.push({
+      selection_rank: "",
+      selection_score: selectionScore,
+      selection_band: band,
+      compiler_action: "",
+      record_class: "Declassified memcon/telcon",
+      source_note_status: citationStatus("Declassified memcon/telcon", record.sourceNote || ""),
+      selection_flags: flags,
+      country_risk_level: risk?.riskLevel || "",
+      country_risk_score: risk?.riskScore || "",
+      primary_chapter_country: citationFields.primaryCountry,
+      countries,
+      sort_date: normalizedDate(recordDateValue(record)),
+      display_date: record.date || "",
+      volume_date_scope: citationFields.volumeScope,
+      document_type: record.type || "",
+      title: record.documentTitle || record.title || "",
+      subject_or_context: record.subjectLine || "",
+      priority_or_release_status: record.releaseStatus || "",
+      source_score: "",
+      page_count_or_range: record.pageCount || "",
+      themes_or_topics: selectionThemes(record),
+      same_date_diary_backup_count: (record.dailyDiaryReferences || []).length,
+      nearby_high_priority_print_lead_count: nearbyHighLeads.length,
+      nearby_high_priority_print_leads: nearbyHighLeads
+        .slice(0, 8)
+        .map((item) => `${item.distance >= 0 ? "+" : ""}${item.distance}d ${contextLabel(item.candidate)}`),
+      nearby_private_records_14_days: "",
+      nearby_public_statement_count_7_days: nearbyStatements.length,
+      source_series: exportSourceLabel(record),
+      source_folder_or_title: record.sourceTitle || "",
+      source_note: record.sourceNote || "",
+      provenance_note: record.provenanceNote || "",
+      pdf_url: record.pdfUrl || "",
+      catalog_or_details_url: record.catalogUrl || "",
+      page_link: "",
+      record_id: record.id || ""
+    });
+  }
+
+  for (const candidate of printCandidates) {
+    const countries = exportCountries(candidate);
+    const risk = bestCountryRisk(candidate.countries || [], riskMap);
+    const privateNeighbors = nearbyPrivateRecords(candidate, memcons, 14);
+    const citationFields = {
+      recordClass: "Print-candidate lead",
+      date: candidate.documentDate || "",
+      title: candidate.documentTitle || "",
+      pdfUrl: candidate.pdfUrl || "",
+      catalogUrl: candidate.catalogUrl || "",
+      volumeScope: volumeDateScope(candidate.documentDate),
+      primaryCountry: exportPrimaryCountry(countries),
+      sourceNote: candidate.sourceNote || "",
+      provenanceNote: "",
+      pageCountOrRange: [candidate.pageStart, candidate.pageEnd].filter(Boolean).join("-"),
+      releaseOrAccessStatus: candidate.accessRestriction || "",
+      pageLink: candidate.pageLink || ""
+    };
+    const selectionScore = candidateSelectionScore(candidate, risk, privateNeighbors);
+    const band = selectionBand("Print-candidate lead", selectionScore, candidate.priority || "", citationFields.volumeScope);
+    const flags = citationReviewFlags({ ...citationFields, priority: candidate.priority || "" });
+
+    rows.push({
+      selection_rank: "",
+      selection_score: selectionScore,
+      selection_band: band,
+      compiler_action: "",
+      record_class: "Print-candidate lead",
+      source_note_status: citationStatus("Print-candidate lead", candidate.sourceNote || ""),
+      selection_flags: flags,
+      country_risk_level: risk?.riskLevel || "",
+      country_risk_score: risk?.riskScore || "",
+      primary_chapter_country: citationFields.primaryCountry,
+      countries,
+      sort_date: normalizedDate(candidate.documentDate),
+      display_date: candidate.documentDate || "",
+      volume_date_scope: citationFields.volumeScope,
+      document_type: candidate.documentType || "",
+      title: candidate.documentTitle || "",
+      subject_or_context: candidate.reviewReason || candidate.ocrSnippet || "",
+      priority_or_release_status: candidate.priority || "",
+      source_score: candidate.score || "",
+      page_count_or_range: citationFields.pageCountOrRange,
+      themes_or_topics: candidate.themes || [],
+      same_date_diary_backup_count: "",
+      nearby_high_priority_print_lead_count: "",
+      nearby_high_priority_print_leads: "",
+      nearby_private_records_14_days: privateNeighbors
+        .slice(0, 8)
+        .map((item) => `${item.distance >= 0 ? "+" : ""}${item.distance}d ${contextLabel(item.record, "date")}`),
+      nearby_public_statement_count_7_days: "",
+      source_series: exportCandidateSource(candidate),
+      source_folder_or_title: candidate.folderTitle || "",
+      source_note: candidate.sourceNote || "",
+      provenance_note: "",
+      pdf_url: candidate.pdfUrl || "",
+      catalog_or_details_url: candidate.catalogUrl || "",
+      page_link: candidate.pageLink || "",
+      record_id: candidate.id || ""
+    });
+  }
+
+  return rows
+    .sort(
+      (a, b) =>
+        (b.selection_score || 0) - (a.selection_score || 0) ||
+        riskRank(a.country_risk_level) - riskRank(b.country_risk_level) ||
+        exportCountryRank(a.primary_chapter_country) - exportCountryRank(b.primary_chapter_country) ||
+        timelineSortValue(a.sort_date).localeCompare(timelineSortValue(b.sort_date)) ||
+        String(a.record_class || "").localeCompare(String(b.record_class || "")) ||
+        String(a.title || "").localeCompare(String(b.title || ""))
+    )
+    .map((row, index) => ({
+      ...row,
+      selection_rank: index + 1,
+      compiler_action: selectionActionFor(row)
+    }));
+}
+
 function printCandidateExportRows() {
   const priority = { High: 0, Medium: 1, Reference: 2 };
   return [
@@ -1032,6 +1289,7 @@ function attachCompilerExports() {
   attachExport('[data-export="documentContext"]', "document-context.csv", documentContextExportRows());
   attachExport('[data-export="evidenceTimeline"]', "evidence-timeline.csv", evidenceTimelineExportRows());
   attachExport('[data-export="citationWorkbench"]', "citation-workbench.csv", citationWorkbenchExportRows());
+  attachExport('[data-export="selectionMatrix"]', "selection-matrix.csv", selectionMatrixExportRows());
   attachExport('[data-export="reviewQueue"]', "compiler-review-queue.csv", reviewQueueExportRows());
   attachExport('[data-export="countryDossiers"]', "country-dossiers.csv", countryDossierExportRows());
   attachExport('[data-export="printCandidates"]', "print-candidates.csv", printCandidateExportRows());
