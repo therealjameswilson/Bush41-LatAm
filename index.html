@@ -87,6 +87,12 @@
           provenance note is displayed directly on each record so the compiler can distinguish Bush
           Library table rows, Catalog item records, and Scowcroft page-range extracts.
         </p>
+        <div class="source-list export-list" aria-label="Compiler exports">
+          <a href="#" data-export="chronology" download="compiler-chronology.csv">Download declassified chronology CSV</a>
+          <a href="#" data-export="printCandidates" download="print-candidates.csv">Download print-candidate leads CSV</a>
+          <a href="#" data-export="dailyDiary" download="daily-diary-references.csv">Download daily diary/backup references CSV</a>
+          <a href="#" data-export="publicStatements" download="public-statements.csv">Download public statements CSV</a>
+        </div>
         <div class="record-tools" aria-label="Compiler record filters">
           <label>
             Search
@@ -448,6 +454,7 @@
     <script src="data/public-statements.js"></script>
     <script src="data/daily-diary-references.js"></script>
     <script src="data/compiler-gaps.js"></script>
+    <script src="compiler-exports.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

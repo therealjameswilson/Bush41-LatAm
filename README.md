@@ -229,6 +229,19 @@ they can document timing, participants, status of calls, and supporting material
 treated as substantive meeting minutes or telephone-call summaries. Broad country/person searches are
 limited to the first 100 Catalog results per term where the Catalog proxy requires abbreviated search.
 
+## Compiler Exports
+
+The public site builds spreadsheet-ready CSV downloads in the browser from the loaded JSON datasets.
+The export links sit at the top of the chronology section so a compiler can immediately download the
+core declassified chronology and related review worklists: print-candidate leads, daily diary/backup
+references, and public statements.
+
+To produce the same CSV files locally, run:
+
+```bash
+node scripts/build-compiler-exports.js
+```
+
 ## Persons List
 
 Generate the FRUS-style persons list from the user-provided Bush comprehensive names authority:
