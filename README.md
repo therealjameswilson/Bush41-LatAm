@@ -263,7 +263,8 @@ connects the FRUS-style persons authority to verified memcon/telcon participants
 in print leads, public statements, and diary/backup references. The country dossier export gives one
 rollup row per South America chapter with private-record coverage, source mix, year gaps,
 public-statement counts, diary/backup counts, print-candidate pressure, risk signals, and recommended
-actions. The other downloads preserve the full chronology, print-candidate, daily diary/backup, and
+actions, and the Chapters section now renders those country-dossier rollups in the browser. The
+other downloads preserve the full chronology, print-candidate, daily diary/backup, and
 public-statement datasets.
 
 To produce the same CSV files locally, run:

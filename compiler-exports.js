@@ -2848,5 +2848,125 @@ function renderCompilerWorkplanPreview() {
   }
 }
 
+function countryDossierPreviewList(value, limit = 2) {
+  return workplanList(value).slice(0, limit);
+}
+
+function createCountryDossierMetric(label, value) {
+  const text = workplanPreviewText(value);
+  if (!text) return null;
+  const item = document.createElement("span");
+  item.textContent = `${label}: ${text}`;
+  return item;
+}
+
+function createCountryDossierBullets(label, values) {
+  const items = countryDossierPreviewList(values, 2);
+  if (!items.length) return null;
+
+  const block = document.createElement("div");
+  block.className = "chapter-dossier-list";
+  const heading = document.createElement("p");
+  heading.textContent = label;
+  const list = document.createElement("ul");
+  for (const value of items) {
+    const item = document.createElement("li");
+    item.textContent = value;
+    list.append(item);
+  }
+  block.append(heading, list);
+  return block;
+}
+
+function createCountryDossierRow(row) {
+  const article = document.createElement("article");
+  article.className = "chapter-dossier-row";
+
+  const rank = document.createElement("div");
+  rank.className = "chapter-dossier-rank";
+  const chapter = document.createElement("span");
+  chapter.className = "chapter-dossier-number";
+  chapter.textContent = `Chapter ${row.chapter_number}`;
+  const risk = document.createElement("span");
+  risk.className = `chapter-dossier-risk ${String(row.risk_level || "monitor").toLowerCase()}`;
+  risk.textContent = row.risk_level || "Monitor";
+  rank.append(chapter, risk);
+
+  const body = document.createElement("div");
+  body.className = "chapter-dossier-body";
+  const title = document.createElement("h4");
+  title.textContent = row.country || "Country";
+
+  const metrics = document.createElement("p");
+  metrics.className = "chapter-dossier-metrics";
+  metrics.append(
+    ...[
+      createCountryDossierMetric("Private records", row.private_record_count),
+      createCountryDossierMetric("Pages", row.private_page_count),
+      createCountryDossierMetric("Missing years", row.private_years_missing),
+      createCountryDossierMetric("High print leads", row.high_priority_print_candidates),
+      createCountryDossierMetric("Public statements", row.public_statement_count),
+      createCountryDossierMetric("Diary/backup", row.daily_diary_reference_count)
+    ].filter(Boolean)
+  );
+
+  const dateSpan = createCountryDossierMetric("Private span", row.private_date_span);
+  const sourceMix = createCountryDossierMetric("Private sources", countryDossierPreviewList(row.private_source_mix, 3));
+  const secondary = document.createElement("p");
+  secondary.className = "chapter-dossier-secondary";
+  secondary.append(...[dateSpan, sourceMix].filter(Boolean));
+
+  body.append(title);
+  if (metrics.childNodes.length) body.append(metrics);
+  if (secondary.childNodes.length) body.append(secondary);
+
+  const riskSignals = createCountryDossierBullets("Risk signals", row.risk_signals);
+  const actions = createCountryDossierBullets("Compiler actions", row.recommended_actions);
+  if (riskSignals || actions) {
+    const lists = document.createElement("div");
+    lists.className = "chapter-dossier-lists";
+    if (riskSignals) lists.append(riskSignals);
+    if (actions) lists.append(actions);
+    body.append(lists);
+  }
+
+  const link = document.createElement("a");
+  link.className = "chapter-dossier-link";
+  link.href = `#chapter-${String(row.country || "").toLowerCase().replace(/\s+/g, "-")}`;
+  link.textContent = "Open chronology";
+  body.append(link);
+
+  article.append(rank, body);
+  return article;
+}
+
+function renderCountryDossierPreview() {
+  const root = document.querySelector("#chapter-dossier-root");
+  if (!root) return;
+
+  const rows = countryDossierExportRows();
+  const criticalCount = rows.filter((row) => row.risk_level === "Critical").length;
+  const highCount = rows.filter((row) => row.risk_level === "High").length;
+  const highLeadCount = rows.reduce((total, row) => total + (Number(row.high_priority_print_candidates) || 0), 0);
+  const summary = document.querySelector("#chapter-dossier-summary");
+  if (summary) {
+    summary.textContent = `${rows.length} chapter dossiers; ${criticalCount} critical, ${highCount} high-risk, and ${highLeadCount} high-priority print leads across the country rollups.`;
+  }
+
+  root.replaceChildren();
+  if (!rows.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-chapter";
+    empty.textContent = "No country dossier rows are available.";
+    root.append(empty);
+    return;
+  }
+
+  for (const row of rows) {
+    root.append(createCountryDossierRow(row));
+  }
+}
+
 attachCompilerExports();
 renderCompilerWorkplanPreview();
+renderCountryDossierPreview();
