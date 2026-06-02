@@ -8,7 +8,7 @@
       name="description"
       content="A public research archive for declassified memoranda and telephone conversations relevant to Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America."
     />
-    <link rel="stylesheet" href="styles.css?v=20260602-chronology-first" />
+    <link rel="stylesheet" href="styles.css?v=20260602-source-ledger" />
     <style id="compiler-network-style">
       .compiler-network {
         border-bottom: 1px solid rgba(31, 41, 51, 0.14);
@@ -123,6 +123,7 @@
         <a href="#public-statements">Public Statements</a>
         <a href="#daily-diary">Diary/Backup</a>
         <a href="persons.html">Persons</a>
+        <a href="#source-ledger">Source Ledger</a>
         <a href="#sources">Sources</a>
       </nav>
     </header>
@@ -589,6 +590,31 @@
         </div>
       </section>
 
+      <section class="section source-ledger-section" id="source-ledger" aria-labelledby="source-ledger-title">
+        <div class="section-heading">
+          <p class="kicker">Archival Source Ledger</p>
+          <h2 id="source-ledger-title">Source Folder Follow-Up</h2>
+        </div>
+        <p class="records-intro">
+          A compiler-facing queue of source containers rolled up from verified private records,
+          Scowcroft duplicate holdings, OCR print-candidate leads, and Daily Diary/backup references.
+          These rows show where to verify page images, compare folder-level evidence against the
+          chronology, and decide whether a container needs additional printed documents or annotation.
+        </p>
+        <section class="source-ledger-preview" aria-label="Source ledger preview">
+          <div class="source-ledger-heading">
+            <div>
+              <p class="kicker">Folder Queue</p>
+              <h3>Priority Source Containers</h3>
+            </div>
+            <p id="source-ledger-summary" class="source-ledger-summary">Loading source ledger rows...</p>
+          </div>
+          <div id="source-ledger-root" class="source-ledger-root" aria-live="polite">
+            <p class="loading">Loading source ledger preview...</p>
+          </div>
+        </section>
+      </section>
+
       <section class="section source-section" id="sources" aria-labelledby="sources-title">
         <div class="section-heading">
           <p class="kicker">Official Anchors</p>
@@ -617,16 +643,16 @@
       <p>Published with GitHub Pages.</p>
       <a href="https://github.com/therealjameswilson/Bush41-LatAm">Repository</a>
     </footer>
-    <script src="data/memcons.js?v=20260602-chronology-first"></script>
-    <script src="data/chronological-print-candidates.js?v=20260602-chronology-first"></script>
-    <script src="data/subject-print-candidates.js?v=20260602-chronology-first"></script>
-    <script src="data/deal-print-candidates.js?v=20260602-chronology-first"></script>
-    <script src="data/public-statements.js?v=20260602-chronology-first"></script>
-    <script src="data/daily-diary-references.js?v=20260602-chronology-first"></script>
-    <script src="data/compiler-gaps.js?v=20260602-chronology-first"></script>
-    <script src="data/persons.js?v=20260602-chronology-first"></script>
-    <script src="compiler-exports.js?v=20260602-chronology-first"></script>
-    <script src="app.js?v=20260602-chronology-first"></script>
+    <script src="data/memcons.js?v=20260602-source-ledger"></script>
+    <script src="data/chronological-print-candidates.js?v=20260602-source-ledger"></script>
+    <script src="data/subject-print-candidates.js?v=20260602-source-ledger"></script>
+    <script src="data/deal-print-candidates.js?v=20260602-source-ledger"></script>
+    <script src="data/public-statements.js?v=20260602-source-ledger"></script>
+    <script src="data/daily-diary-references.js?v=20260602-source-ledger"></script>
+    <script src="data/compiler-gaps.js?v=20260602-source-ledger"></script>
+    <script src="data/persons.js?v=20260602-source-ledger"></script>
+    <script src="compiler-exports.js?v=20260602-source-ledger"></script>
+    <script src="app.js?v=20260602-source-ledger"></script>
     <script id="compiler-network-script">
       (() => {
         const button = document.querySelector("[data-compiler-handoff]");

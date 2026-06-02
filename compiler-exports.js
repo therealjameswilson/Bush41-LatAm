@@ -3242,8 +3242,149 @@ function renderIssueDossierPreview() {
   }
 }
 
+function sourceLedgerPreviewRows(rows, limit = 12) {
+  return rows.filter((row) => ["Critical", "High"].includes(row.review_priority || "")).slice(0, limit);
+}
+
+function createSourceLedgerMeta(label, value) {
+  const text = workplanPreviewText(value);
+  if (!text) return null;
+  const item = document.createElement("span");
+  item.textContent = `${label}: ${text}`;
+  return item;
+}
+
+function createSourceLedgerList(label, value, limit = 2) {
+  const items = workplanList(value).slice(0, limit);
+  if (!items.length) return null;
+
+  const block = document.createElement("div");
+  block.className = "source-ledger-list";
+  const heading = document.createElement("p");
+  heading.textContent = label;
+  const list = document.createElement("ul");
+  for (const value of items) {
+    const item = document.createElement("li");
+    item.textContent = value;
+    list.append(item);
+  }
+  block.append(heading, list);
+  return block;
+}
+
+function createSourceLedgerLink(label, href) {
+  const link = firstWorkplanLink(href);
+  if (!link) return null;
+  const item = document.createElement("a");
+  item.className = "source-ledger-link";
+  item.href = link;
+  item.rel = "noreferrer";
+  item.textContent = label;
+  return item;
+}
+
+function createSourceLedgerRow(row) {
+  const article = document.createElement("article");
+  article.className = "source-ledger-row";
+
+  const rank = document.createElement("div");
+  rank.className = "source-ledger-rank";
+  const order = document.createElement("span");
+  order.className = "source-ledger-order";
+  order.textContent = `#${row.ledger_rank}`;
+  const priority = document.createElement("span");
+  priority.className = `source-ledger-priority ${String(row.review_priority || "review").toLowerCase()}`;
+  priority.textContent = row.review_priority || "Review";
+  const countryRisk = document.createElement("span");
+  countryRisk.className = `source-ledger-risk ${String(row.country_risk_level || "review").toLowerCase()}`;
+  countryRisk.textContent = row.country_risk_level ? `${row.country_risk_level} country risk` : "Review";
+  rank.append(order, priority, countryRisk);
+
+  const body = document.createElement("div");
+  body.className = "source-ledger-body";
+  const title = document.createElement("h4");
+  title.textContent = row.folder_title || row.source_family || "Source container";
+
+  const meta = document.createElement("p");
+  meta.className = "source-ledger-meta";
+  meta.append(
+    ...[
+      createSourceLedgerMeta("Source family", row.source_family),
+      createSourceLedgerMeta("Countries", row.countries),
+      createSourceLedgerMeta("Years", row.years),
+      createSourceLedgerMeta("Date span", row.date_span),
+      createSourceLedgerMeta("Evidence rows", row.total_evidence_rows),
+      createSourceLedgerMeta("Private records", row.verified_private_record_count),
+      createSourceLedgerMeta("High print leads", row.high_priority_print_candidate_count),
+      createSourceLedgerMeta("Folder ID", row.folder_or_file_id || row.folder_naid)
+    ].filter(Boolean)
+  );
+
+  const action = document.createElement("p");
+  action.className = "source-ledger-action";
+  action.textContent = row.recommended_compiler_use || "Verify this source container against the chronology and supporting exports.";
+
+  const lists = document.createElement("div");
+  lists.className = "source-ledger-lists";
+  const printLeads = createSourceLedgerList("Sample print leads", row.sample_print_candidates, 3);
+  const privateRecords = createSourceLedgerList("Private anchors", row.sample_private_records, 2);
+  const sourceNotes = createSourceLedgerList("Source note", row.source_notes, 1);
+  const provenance = createSourceLedgerList("Provenance trail", row.provenance_trail, 3);
+  for (const block of [printLeads, privateRecords, sourceNotes, provenance].filter(Boolean)) {
+    lists.append(block);
+  }
+
+  const links = document.createElement("p");
+  links.className = "source-ledger-links";
+  links.append(
+    ...[
+      createSourceLedgerLink("Open PDF", row.pdf_url),
+      createSourceLedgerLink("Catalog", row.catalog_url),
+      createSourceLedgerLink("Parent collection", row.parent_collection_url)
+    ].filter(Boolean)
+  );
+
+  body.append(title);
+  if (meta.childNodes.length) body.append(meta);
+  body.append(action);
+  if (lists.childNodes.length) body.append(lists);
+  if (links.childNodes.length) body.append(links);
+
+  article.append(rank, body);
+  return article;
+}
+
+function renderSourceLedgerPreview() {
+  const root = document.querySelector("#source-ledger-root");
+  if (!root) return;
+
+  const rows = sourceLedgerExportRows();
+  const previewRows = sourceLedgerPreviewRows(rows, 12);
+  const criticalCount = rows.filter((row) => row.review_priority === "Critical").length;
+  const highCount = rows.filter((row) => row.review_priority === "High").length;
+  const sourceFamilies = new Set(previewRows.map((row) => row.source_family).filter(Boolean)).size;
+  const summary = document.querySelector("#source-ledger-summary");
+  if (summary) {
+    summary.textContent = `${previewRows.length} previewed from ${rows.length} source-ledger rows; ${criticalCount} critical and ${highCount} high-priority containers, spanning ${sourceFamilies} source families in the preview.`;
+  }
+
+  root.replaceChildren();
+  if (!previewRows.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-chapter";
+    empty.textContent = "No source-ledger rows are available.";
+    root.append(empty);
+    return;
+  }
+
+  for (const row of previewRows) {
+    root.append(createSourceLedgerRow(row));
+  }
+}
+
 attachCompilerExports();
 renderCompilerWorkplanPreview();
 renderCountryDossierPreview();
 renderSelectionShortlistPreview();
 renderIssueDossierPreview();
+renderSourceLedgerPreview();

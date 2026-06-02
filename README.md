@@ -255,7 +255,8 @@ citation workbench export turns the same evidence layers into a Source-note and 
 sheet with repository path fields, FOIA/access data, provenance trails, link fields, and review
 flags. The archival source ledger rolls the same private records, Scowcroft duplicate holdings, OCR
 print leads, and Daily Diary/backup references up by collection/folder so a compiler can plan
-archival follow-up from source containers instead of individual document rows. The issue dossier
+archival follow-up from source containers instead of individual document rows; the public page also
+renders the highest-priority source folders before the Primary Sources anchors. The issue dossier
 export groups the same evidence by policy issue and country, including narcotics/Andean policy,
 debt/EAI, democracy and elections, regional security/Panama spillover, regional/inter-American
 policy, Cuba/USSR, multilateral diplomacy, environment, and presidential diplomacy clusters, with a
