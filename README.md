@@ -254,7 +254,8 @@ print leads, and Daily Diary/backup references up by collection/folder so a comp
 archival follow-up from source containers instead of individual document rows. The issue dossier
 export groups the same evidence by policy issue and country, including narcotics/Andean policy,
 debt/EAI, democracy and elections, regional security/Panama spillover, regional/inter-American
-policy, Cuba/USSR, multilateral diplomacy, environment, and presidential diplomacy clusters. The
+policy, Cuba/USSR, multilateral diplomacy, environment, and presidential diplomacy clusters, with a
+balanced issue-family preview rendered in the browser. The
 selection matrix export ranks verified private records and OCR-derived print-candidate leads together
 by country risk, date scope, source-note status, nearby evidence, and likely print value; the
 Potential Memos section renders a deduped top-print-lead shortlist from that matrix. The

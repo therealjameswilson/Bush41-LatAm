@@ -3096,7 +3096,154 @@ function renderSelectionShortlistPreview() {
   }
 }
 
+function issuePreviewRows(rows, limit = 12) {
+  const selected = [];
+  const selectedKeys = new Set();
+  const issueIds = new Set();
+
+  for (const row of rows) {
+    if (!["Critical", "High"].includes(row.review_priority || "")) continue;
+    if (issueIds.has(row.issue_id)) continue;
+    selected.push(row);
+    selectedKeys.add(`${row.issue_id}|${row.primary_chapter_country}`);
+    issueIds.add(row.issue_id);
+    if (selected.length >= limit) return selected;
+  }
+
+  for (const row of rows) {
+    if (!["Critical", "High"].includes(row.review_priority || "")) continue;
+    const key = `${row.issue_id}|${row.primary_chapter_country}`;
+    if (selectedKeys.has(key)) continue;
+    selected.push(row);
+    selectedKeys.add(key);
+    if (selected.length >= limit) break;
+  }
+
+  return selected;
+}
+
+function createIssuePreviewMeta(label, value) {
+  const text = workplanPreviewText(value);
+  if (!text) return null;
+  const item = document.createElement("span");
+  item.textContent = `${label}: ${text}`;
+  return item;
+}
+
+function createIssuePreviewList(label, value) {
+  const items = workplanList(value).slice(0, 2);
+  if (!items.length) return null;
+
+  const block = document.createElement("div");
+  block.className = "issue-preview-list";
+  const heading = document.createElement("p");
+  heading.textContent = label;
+  const list = document.createElement("ul");
+  for (const value of items) {
+    const item = document.createElement("li");
+    item.textContent = value;
+    list.append(item);
+  }
+  block.append(heading, list);
+  return block;
+}
+
+function createIssuePreviewRow(row) {
+  const article = document.createElement("article");
+  article.className = "issue-preview-row";
+
+  const rank = document.createElement("div");
+  rank.className = "issue-preview-rank";
+  const issueRank = document.createElement("span");
+  issueRank.className = "issue-preview-order";
+  issueRank.textContent = `#${row.issue_rank}`;
+  const priority = document.createElement("span");
+  priority.className = `issue-preview-priority ${String(row.review_priority || "review").toLowerCase()}`;
+  priority.textContent = row.review_priority || "Review";
+  const score = document.createElement("span");
+  score.className = "issue-preview-score";
+  score.textContent = `Score ${row.issue_score}`;
+  rank.append(issueRank, priority, score);
+
+  const body = document.createElement("div");
+  body.className = "issue-preview-body";
+  const title = document.createElement("h3");
+  title.textContent = `${row.issue || "Issue"} - ${row.primary_chapter_country || "Regional"}`;
+
+  const meta = document.createElement("p");
+  meta.className = "issue-preview-meta";
+  meta.append(
+    ...[
+      createIssuePreviewMeta("Country risk", row.country_risk_level),
+      createIssuePreviewMeta("Date span", row.date_span),
+      createIssuePreviewMeta("Evidence", row.evidence_total),
+      createIssuePreviewMeta("Private records", row.verified_private_record_count),
+      createIssuePreviewMeta("High print leads", row.high_priority_print_candidate_count),
+      createIssuePreviewMeta("Public statements", row.public_statement_count),
+      createIssuePreviewMeta("Diary/backup", row.daily_diary_backup_reference_count)
+    ].filter(Boolean)
+  );
+
+  const action = document.createElement("p");
+  action.className = "issue-preview-action";
+  action.textContent = row.recommended_compiler_use || "Use this issue-country cluster for chapter selection and annotation review.";
+
+  const lists = document.createElement("div");
+  lists.className = "issue-preview-lists";
+  const privateRecords = createIssuePreviewList("Private anchors", row.top_private_records);
+  const printLeads = createIssuePreviewList("Print leads", row.top_print_leads);
+  if (privateRecords) lists.append(privateRecords);
+  if (printLeads) lists.append(printLeads);
+
+  body.append(title);
+  if (meta.childNodes.length) body.append(meta);
+  body.append(action);
+  if (lists.childNodes.length) body.append(lists);
+
+  const link = firstWorkplanLink(row.links || "");
+  if (link) {
+    const source = document.createElement("a");
+    source.className = "issue-preview-link";
+    source.href = link;
+    source.rel = "noreferrer";
+    source.textContent = "Open source";
+    body.append(source);
+  }
+
+  article.append(rank, body);
+  return article;
+}
+
+function renderIssueDossierPreview() {
+  const root = document.querySelector("#issue-preview-root");
+  if (!root) return;
+
+  const rows = issueDossierExportRows();
+  const previewRows = issuePreviewRows(rows, 12);
+  const issueFamilyCount = new Set(rows.map((row) => row.issue_id).filter(Boolean)).size;
+  const criticalCount = rows.filter((row) => row.review_priority === "Critical").length;
+  const highCount = rows.filter((row) => row.review_priority === "High").length;
+  const summary = document.querySelector("#issue-preview-summary");
+  if (summary) {
+    summary.textContent = `${previewRows.length} previewed from ${rows.length} issue-country dossiers; ${issueFamilyCount} issue families, ${criticalCount} critical, ${highCount} high-priority.`;
+  }
+
+  root.replaceChildren();
+  if (!previewRows.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-chapter";
+    empty.textContent = "No issue dossier rows are available.";
+    root.append(empty);
+    return;
+  }
+
+  for (const row of previewRows) {
+    root.append(createIssuePreviewRow(row));
+  }
+}
+
 attachCompilerExports();
 renderCompilerWorkplanPreview();
 renderCountryDossierPreview();
 renderSelectionShortlistPreview();
+renderIssueDossierPreview();

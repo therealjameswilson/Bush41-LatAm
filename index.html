@@ -8,7 +8,7 @@
       name="description"
       content="A public research archive for declassified memoranda and telephone conversations relevant to Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America."
     />
-    <link rel="stylesheet" href="styles.css?v=20260602-selection-shortlist" />
+    <link rel="stylesheet" href="styles.css?v=20260602-issue-dossiers" />
     <style id="compiler-network-style">
       .compiler-network {
         border-bottom: 1px solid rgba(31, 41, 51, 0.14);
@@ -118,6 +118,7 @@
         <a href="#provenance">Provenance</a>
         <a href="#method">Method</a>
         <a href="#compiler-gaps">Gaps</a>
+        <a href="#issue-dossiers">Issues</a>
         <a href="#print-candidates">Print Candidates</a>
         <a href="#public-statements">Public Statements</a>
         <a href="#daily-diary">Diary/Backup</a>
@@ -363,6 +364,31 @@
         </div>
       </section>
 
+      <section class="section issue-section" id="issue-dossiers" aria-labelledby="issue-dossiers-title">
+        <div class="section-heading">
+          <p class="kicker">Issue Dossiers</p>
+          <h2 id="issue-dossiers-title">Policy Issue Clusters</h2>
+        </div>
+        <p class="records-intro">
+          Ranked issue-country clusters from the same evidence layers as the chronology, print leads,
+          public statements, and Daily Diary/backup references. The preview balances the strongest
+          dossier from each issue family with the highest-scoring remaining clusters so a compiler can
+          spot both dominant presidential-contact files and thematic gaps.
+        </p>
+        <section class="issue-preview" aria-label="Issue dossier preview">
+          <div class="issue-preview-heading">
+            <div>
+              <p class="kicker">Compiler Map</p>
+              <h3>Top Issue-Country Dossiers</h3>
+            </div>
+            <p id="issue-preview-summary" class="issue-preview-summary">Loading issue dossier rows...</p>
+          </div>
+          <div id="issue-preview-root" class="issue-preview-root" aria-live="polite">
+            <p class="loading">Loading issue dossier preview...</p>
+          </div>
+        </section>
+      </section>
+
       <section class="section print-section" id="print-candidates" aria-labelledby="print-candidates-title">
         <div class="section-heading">
           <p class="kicker">Compiler Leads</p>
@@ -591,16 +617,16 @@
       <p>Published with GitHub Pages.</p>
       <a href="https://github.com/therealjameswilson/Bush41-LatAm">Repository</a>
     </footer>
-    <script src="data/memcons.js?v=20260602-selection-shortlist"></script>
-    <script src="data/chronological-print-candidates.js?v=20260602-selection-shortlist"></script>
-    <script src="data/subject-print-candidates.js?v=20260602-selection-shortlist"></script>
-    <script src="data/deal-print-candidates.js?v=20260602-selection-shortlist"></script>
-    <script src="data/public-statements.js?v=20260602-selection-shortlist"></script>
-    <script src="data/daily-diary-references.js?v=20260602-selection-shortlist"></script>
-    <script src="data/compiler-gaps.js?v=20260602-selection-shortlist"></script>
-    <script src="data/persons.js?v=20260602-selection-shortlist"></script>
-    <script src="compiler-exports.js?v=20260602-selection-shortlist"></script>
-    <script src="app.js?v=20260602-selection-shortlist"></script>
+    <script src="data/memcons.js?v=20260602-issue-dossiers"></script>
+    <script src="data/chronological-print-candidates.js?v=20260602-issue-dossiers"></script>
+    <script src="data/subject-print-candidates.js?v=20260602-issue-dossiers"></script>
+    <script src="data/deal-print-candidates.js?v=20260602-issue-dossiers"></script>
+    <script src="data/public-statements.js?v=20260602-issue-dossiers"></script>
+    <script src="data/daily-diary-references.js?v=20260602-issue-dossiers"></script>
+    <script src="data/compiler-gaps.js?v=20260602-issue-dossiers"></script>
+    <script src="data/persons.js?v=20260602-issue-dossiers"></script>
+    <script src="compiler-exports.js?v=20260602-issue-dossiers"></script>
+    <script src="app.js?v=20260602-issue-dossiers"></script>
     <script id="compiler-network-script">
       (() => {
         const button = document.querySelector("[data-compiler-handoff]");
