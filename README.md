@@ -241,14 +241,17 @@ public statements. The all-evidence timeline export merges private memcons/telco
 print-candidate leads, Daily Diary/backup references, and public statements into one date-sorted
 worklist with source notes, direct links, and a volume-date-scope flag. The citation workbench
 export turns the same evidence layers into a Source-note and reference audit sheet with repository
-path fields, FOIA/access data, provenance trails, link fields, and review flags. The selection
-matrix export ranks verified private records and OCR-derived print-candidate leads together by
-country risk, date scope, source-note status, nearby evidence, and likely print value. The coverage
-matrix export gives one row per country-year for 1989-1992, exposing private-record gaps against
-print leads, public statements, and Daily Diary/backup references. The person index export connects
-the FRUS-style persons authority to verified memcon/telcon participants and likely mentions in print
-leads, public statements, and diary/backup references. The country dossier export gives one rollup
-row per South America chapter with private-record coverage, source mix, year gaps,
+path fields, FOIA/access data, provenance trails, link fields, and review flags. The archival
+source ledger rolls the same private records, Scowcroft duplicate holdings, OCR print leads, and
+Daily Diary/backup references up by collection/folder so a compiler can plan archival follow-up from
+source containers instead of individual document rows. The selection matrix export ranks verified
+private records and OCR-derived print-candidate leads together by country risk, date scope,
+source-note status, nearby evidence, and likely print value. The coverage matrix export gives one
+row per country-year for 1989-1992, exposing private-record gaps against print leads, public
+statements, and Daily Diary/backup references. The person index export connects the FRUS-style
+persons authority to verified memcon/telcon participants and likely mentions in print leads, public
+statements, and diary/backup references. The country dossier export gives one rollup row per South
+America chapter with private-record coverage, source mix, year gaps,
 public-statement counts, diary/backup counts, print-candidate pressure, risk signals, and
 recommended actions. The other downloads preserve the full chronology, print-candidate, daily
 diary/backup, and public-statement datasets.

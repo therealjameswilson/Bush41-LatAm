@@ -144,6 +144,238 @@ function countSummary(values) {
     .map(([value, count]) => `${value}: ${count}`);
 }
 
+function ledgerKeyPart(value) {
+  return String(value || "")
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function ledgerSourceKey(fields) {
+  return [
+    fields.sourceFamily,
+    fields.recordGroupOrCollection,
+    fields.series,
+    fields.subseriesOrFileGroup,
+    fields.folderOrFileId,
+    fields.folderNaid,
+    fields.folderTitle,
+    fields.pdfUrl
+  ]
+    .map(ledgerKeyPart)
+    .join("|");
+}
+
+function newLedgerEntry(fields) {
+  return {
+    sourceFamily: fields.sourceFamily || "",
+    repository: fields.repository || "",
+    recordGroupOrCollection: fields.recordGroupOrCollection || "",
+    series: fields.series || "",
+    subseriesOrFileGroup: fields.subseriesOrFileGroup || "",
+    folderTitle: fields.folderTitle || "",
+    folderOrFileId: fields.folderOrFileId || "",
+    folderNaid: fields.folderNaid || "",
+    parentCollectionNaid: fields.parentCollectionNaid || "",
+    catalogUrl: fields.catalogUrl || "",
+    pdfUrl: fields.pdfUrl || "",
+    parentCollectionUrl: fields.parentCollectionUrl || "",
+    provenanceTrail: new Set(fields.provenanceTrail || []),
+    countries: new Set(),
+    years: new Set(),
+    dates: [],
+    evidenceClasses: new Set(),
+    accessStatuses: new Set(),
+    foiaNumbers: new Set(),
+    sourceNoteStatuses: new Set(),
+    sourceNotes: new Set(),
+    candidatePageStarts: new Set(),
+    privateTitles: [],
+    duplicatePrivateTitles: [],
+    printTitles: [],
+    diaryTitles: [],
+    verifiedPrivateRecordCount: 0,
+    duplicatePrivateRecordCount: 0,
+    printCandidateCount: 0,
+    highPriorityPrintCandidateCount: 0,
+    dailyDiaryBackupReferenceCount: 0,
+    verifiedPrivatePageTotal: 0,
+    duplicateSourcePageTotal: 0
+  };
+}
+
+function sourceLedgerEntry(ledger, fields) {
+  const key = ledgerSourceKey(fields);
+  if (!ledger.has(key)) ledger.set(key, newLedgerEntry(fields));
+  const entry = ledger.get(key);
+  for (const field of ["catalogUrl", "pdfUrl", "parentCollectionUrl", "parentCollectionNaid", "folderNaid"]) {
+    if (!entry[field] && fields[field]) entry[field] = fields[field];
+  }
+  for (const trail of fields.provenanceTrail || []) entry.provenanceTrail.add(trail);
+  return entry;
+}
+
+function addSourceLedgerEvidence(ledger, fields, evidence) {
+  const entry = sourceLedgerEntry(ledger, fields);
+  entry.evidenceClasses.add(evidence.evidenceClass);
+  for (const country of evidence.countries || []) entry.countries.add(country);
+  const date = normalizedDate(evidence.date);
+  if (date) {
+    entry.dates.push(date);
+    entry.years.add(date.slice(0, 4));
+  } else if (evidence.year) {
+    entry.years.add(evidence.year);
+  }
+  if (evidence.accessStatus) entry.accessStatuses.add(evidence.accessStatus);
+  if (evidence.foiaNumber) entry.foiaNumbers.add(evidence.foiaNumber);
+  if (evidence.sourceNoteStatus) entry.sourceNoteStatuses.add(evidence.sourceNoteStatus);
+  if (evidence.sourceNote) entry.sourceNotes.add(evidence.sourceNote);
+  if (evidence.pageStart) entry.candidatePageStarts.add(evidence.pageStart);
+
+  const sample = [date || evidence.date, evidence.title].filter(Boolean).join(" - ");
+  if (evidence.evidenceClass === "Verified private record") {
+    entry.verifiedPrivateRecordCount += 1;
+    entry.verifiedPrivatePageTotal += Number(evidence.pageCount || 0);
+    entry.privateTitles.push(sample);
+  } else if (evidence.evidenceClass === "Duplicate private source") {
+    entry.duplicatePrivateRecordCount += 1;
+    entry.duplicateSourcePageTotal += Number(evidence.pageCount || 0);
+    entry.duplicatePrivateTitles.push(sample);
+  } else if (evidence.evidenceClass === "Print-candidate lead") {
+    entry.printCandidateCount += 1;
+    if (evidence.priority === "High") entry.highPriorityPrintCandidateCount += 1;
+    entry.printTitles.push([date || evidence.date, evidence.priority, evidence.title].filter(Boolean).join(" - "));
+  } else if (evidence.evidenceClass === "Daily diary/backup reference") {
+    entry.dailyDiaryBackupReferenceCount += 1;
+    entry.diaryTitles.push(sample);
+  }
+}
+
+function privateLedgerSourceFields(record) {
+  const source = record.source || {};
+  const sheet = source.provenanceSheet || {};
+  const scowcroft = source.name === "Brent Scowcroft Papers";
+  return {
+    sourceFamily: scowcroft ? "Brent Scowcroft Papers" : "Presidential memcon/telcon files",
+    repository: source.referenceUnit || "George H.W. Bush Library",
+    recordGroupOrCollection: scowcroft ? sheet.recordGroupCollection || source.name || "" : source.name || "",
+    series: source.series || sheet.series || "",
+    subseriesOrFileGroup: sheet.subseries || source.priorityCollection?.name || "",
+    folderTitle: sheet.folderTitle || source.fileUnitTitle || record.sourceTitle || record.localIdentifier || "",
+    folderOrFileId: sheet.folderIdNumber || source.fileUnitNaid || record.localIdentifier || "",
+    folderNaid: source.fileUnitNaid || record.naid || "",
+    parentCollectionNaid: source.seriesNaid || source.priorityCollection?.naid || "",
+    catalogUrl: record.catalogUrl || source.url || "",
+    pdfUrl: record.pdfUrl || source.objectUrl || "",
+    parentCollectionUrl: source.seriesUrl || source.priorityCollection?.url || source.url || "",
+    provenanceTrail: [
+      source.name,
+      source.series,
+      sheet.subseries,
+      sheet.folderIdNumber,
+      sheet.folderTitle,
+      source.priorityCollection?.name
+    ].filter(Boolean)
+  };
+}
+
+function duplicateLedgerSourceFields(record, duplicate) {
+  const sheet = duplicate.provenanceSheet || {};
+  return {
+    sourceFamily: "Brent Scowcroft duplicate source",
+    repository: "George H.W. Bush Library",
+    recordGroupOrCollection: sheet.recordGroupCollection || duplicate.sourceName || "Brent Scowcroft Papers",
+    series: duplicate.series || sheet.series || "",
+    subseriesOrFileGroup: sheet.subseries || "",
+    folderTitle: sheet.folderTitle || duplicate.localIdentifier || "",
+    folderOrFileId: sheet.folderIdNumber || duplicate.localIdentifier || "",
+    folderNaid: duplicate.naid || "",
+    parentCollectionNaid: "4522156",
+    catalogUrl: duplicate.catalogUrl || "",
+    pdfUrl: duplicate.pdfUrl || "",
+    parentCollectionUrl: "https://catalog.archives.gov/id/4522156",
+    provenanceTrail: [
+      duplicate.sourceName,
+      duplicate.series,
+      sheet.subseries,
+      sheet.folderIdNumber,
+      sheet.folderTitle,
+      duplicate.sourcePages ? `Source-folder pages ${duplicate.sourcePages}` : ""
+    ].filter(Boolean)
+  };
+}
+
+function printLedgerSourceFields(candidate) {
+  const source = candidate.sourceSeries || {};
+  return {
+    sourceFamily: source.name || exportCandidateSource(candidate),
+    repository: "George H.W. Bush Library",
+    recordGroupOrCollection: source.name || exportCandidateSource(candidate),
+    series: source.name || exportCandidateSource(candidate),
+    subseriesOrFileGroup: candidate.localIdentifier || "",
+    folderTitle: candidate.folderTitle || "",
+    folderOrFileId: candidate.localIdentifier || candidate.folderNaid || "",
+    folderNaid: candidate.folderNaid || "",
+    parentCollectionNaid: source.naid || "",
+    catalogUrl: candidate.catalogUrl || "",
+    pdfUrl: candidate.pdfUrl || "",
+    parentCollectionUrl: source.url || "",
+    provenanceTrail: [source.name, candidate.localIdentifier, candidate.folderTitle].filter(Boolean)
+  };
+}
+
+function diaryLedgerSourceFields(reference) {
+  const source = reference.sourceSeries || {};
+  return {
+    sourceFamily: "Presidential Daily Diary and Backup",
+    repository: source.repository || "George H.W. Bush Library",
+    recordGroupOrCollection: source.collection || source.recordGroup || "",
+    series: source.name || "",
+    subseriesOrFileGroup: reference.sourceType || "",
+    folderTitle: reference.title || "",
+    folderOrFileId: reference.localIdentifier || reference.naid || "",
+    folderNaid: reference.naid || "",
+    parentCollectionNaid: source.naid || source.collectionNaid || "",
+    catalogUrl: reference.catalogUrl || "",
+    pdfUrl: reference.pdfUrl || "",
+    parentCollectionUrl: source.url || source.collectionUrl || "",
+    provenanceTrail: [source.recordGroup, source.collection, source.name, reference.sourceType, reference.localIdentifier].filter(Boolean)
+  };
+}
+
+function ledgerDateSpan(dates) {
+  const sorted = sortedUnique(dates);
+  if (!sorted.length) return "";
+  return sorted[0] === sorted[sorted.length - 1] ? sorted[0] : `${sorted[0]} to ${sorted[sorted.length - 1]}`;
+}
+
+function ledgerPriority(entry, risk) {
+  if (entry.highPriorityPrintCandidateCount && ["Critical", "High"].includes(risk?.riskLevel || "")) return "Critical";
+  if (entry.highPriorityPrintCandidateCount >= 3 || (entry.printCandidateCount && !entry.verifiedPrivateRecordCount)) return "High";
+  if (entry.verifiedPrivateRecordCount || entry.duplicatePrivateRecordCount) return "Medium";
+  if (entry.dailyDiaryBackupReferenceCount) return "Reference";
+  return "Monitor";
+}
+
+function ledgerRecommendedUse(entry, risk) {
+  if (entry.highPriorityPrintCandidateCount && ["Critical", "High"].includes(risk?.riskLevel || "")) {
+    return "Start here: verify high-priority OCR leads against page images, then compare with country chronology and gap audit.";
+  }
+  if (entry.printCandidateCount && !entry.verifiedPrivateRecordCount) {
+    return "Use this folder to test whether print leads fill a country or year with thin private-record coverage.";
+  }
+  if (entry.verifiedPrivateRecordCount && entry.duplicatePrivateRecordCount) {
+    return "Use as verified private-record source and compare duplicate Scowcroft holdings/provenance before final citation.";
+  }
+  if (entry.verifiedPrivateRecordCount) {
+    return "Use as the folder-level provenance anchor for released memcons/telcons in the chronology.";
+  }
+  if (entry.dailyDiaryBackupReferenceCount) {
+    return "Use to confirm timing, participants, call status, and backup packets around candidate documents.";
+  }
+  return "Retain as a source-control row for provenance review.";
+}
+
 function sortedUnique(values) {
   return [...new Set(values.filter(Boolean))].sort();
 }
@@ -1180,6 +1412,135 @@ function coverageMatrixExportRows() {
   });
 }
 
+function sourceLedgerExportRows() {
+  const ledger = new Map();
+  const riskMap = riskByCountry();
+  const memcons = window.MEMCONS || [];
+  const printCandidates = [
+    ...(window.CHRONOLOGICAL_PRINT_CANDIDATES || []),
+    ...(window.SUBJECT_PRINT_CANDIDATES || []),
+    ...(window.DEAL_PRINT_CANDIDATES || [])
+  ];
+  const diaryReferences = window.DAILY_DIARY_REFERENCES || [];
+
+  for (const record of memcons) {
+    addSourceLedgerEvidence(ledger, privateLedgerSourceFields(record), {
+      evidenceClass: "Verified private record",
+      countries: exportCountries(record),
+      date: recordDateValue(record),
+      title: record.subjectLine || record.title || record.documentTitle,
+      accessStatus: record.releaseStatus || "",
+      foiaNumber: foiaNumberFromText(record.sourceNote, record.provenanceNote, record.source?.foiaNumber),
+      sourceNoteStatus: citationStatus("Declassified memcon/telcon", record.sourceNote || ""),
+      sourceNote: record.sourceNote || "",
+      pageCount: record.pageCount || 0
+    });
+
+    for (const duplicate of record.source?.duplicateSources || []) {
+      addSourceLedgerEvidence(ledger, duplicateLedgerSourceFields(record, duplicate), {
+        evidenceClass: "Duplicate private source",
+        countries: exportCountries(record),
+        date: recordDateValue(record),
+        title: `${record.subjectLine || record.title || record.documentTitle || "Memcon/telcon"} (${duplicate.sourcePages || "source pages"})`,
+        accessStatus: record.releaseStatus || "",
+        foiaNumber: foiaNumberFromText(duplicate.sourceNote, duplicate.provenanceSheet?.foiaNumber),
+        sourceNoteStatus: citationStatus("Declassified memcon/telcon", duplicate.sourceNote || ""),
+        sourceNote: duplicate.sourceNote || "",
+        pageCount: duplicate.pageCount || 0
+      });
+    }
+  }
+
+  for (const candidate of printCandidates) {
+    addSourceLedgerEvidence(ledger, printLedgerSourceFields(candidate), {
+      evidenceClass: "Print-candidate lead",
+      countries: exportCountries(candidate),
+      date: candidate.documentDate || "",
+      title: candidate.documentTitle || "",
+      accessStatus: candidate.accessRestriction || "",
+      foiaNumber: foiaNumberFromText(candidate.sourceNote),
+      sourceNoteStatus: citationStatus("Print-candidate lead", candidate.sourceNote || ""),
+      sourceNote: candidate.sourceNote || "",
+      pageStart: candidate.pageStart || "",
+      priority: candidate.priority || ""
+    });
+  }
+
+  for (const reference of diaryReferences) {
+    addSourceLedgerEvidence(ledger, diaryLedgerSourceFields(reference), {
+      evidenceClass: "Daily diary/backup reference",
+      countries: exportCountries(reference),
+      date: reference.date || "",
+      title: reference.title || "",
+      accessStatus: reference.accessRestriction || "",
+      foiaNumber: foiaNumberFromText(reference.sourceNote),
+      sourceNoteStatus: citationStatus("Daily diary/backup reference", reference.sourceNote || ""),
+      sourceNote: reference.sourceNote || ""
+    });
+  }
+
+  return [...ledger.values()]
+    .map((entry) => {
+      const countries = sortedUnique([...entry.countries]);
+      const risk = bestCountryRisk(countries, riskMap);
+      const priority = ledgerPriority(entry, risk);
+      return {
+        review_priority: priority,
+        country_risk_level: risk?.riskLevel || "",
+        country_risk_score: risk?.riskScore || "",
+        source_family: entry.sourceFamily,
+        repository: entry.repository,
+        record_group_or_collection: entry.recordGroupOrCollection,
+        series: entry.series,
+        subseries_or_file_group: entry.subseriesOrFileGroup,
+        folder_title: entry.folderTitle,
+        folder_or_file_id: entry.folderOrFileId,
+        folder_naid: entry.folderNaid,
+        parent_collection_naid: entry.parentCollectionNaid,
+        evidence_classes: sortedUnique([...entry.evidenceClasses]),
+        countries,
+        years: sortedUnique([...entry.years]),
+        date_span: ledgerDateSpan(entry.dates),
+        verified_private_record_count: entry.verifiedPrivateRecordCount,
+        duplicate_private_source_count: entry.duplicatePrivateRecordCount,
+        print_candidate_count: entry.printCandidateCount,
+        high_priority_print_candidate_count: entry.highPriorityPrintCandidateCount,
+        daily_diary_backup_reference_count: entry.dailyDiaryBackupReferenceCount,
+        total_evidence_rows:
+          entry.verifiedPrivateRecordCount +
+          entry.duplicatePrivateRecordCount +
+          entry.printCandidateCount +
+          entry.dailyDiaryBackupReferenceCount,
+        verified_private_page_total: entry.verifiedPrivatePageTotal,
+        duplicate_source_page_total: entry.duplicateSourcePageTotal,
+        print_candidate_page_starts: sortedUnique([...entry.candidatePageStarts]).join("; "),
+        access_or_release_statuses: sortedUnique([...entry.accessStatuses]),
+        foia_numbers: sortedUnique([...entry.foiaNumbers]),
+        source_note_statuses: sortedUnique([...entry.sourceNoteStatuses]),
+        sample_private_records: entry.privateTitles.slice(0, 12),
+        sample_duplicate_private_sources: entry.duplicatePrivateTitles.slice(0, 12),
+        sample_print_candidates: entry.printTitles.slice(0, 12),
+        sample_diary_backup_references: entry.diaryTitles.slice(0, 12),
+        recommended_compiler_use: ledgerRecommendedUse(entry, risk),
+        catalog_url: entry.catalogUrl,
+        pdf_url: entry.pdfUrl,
+        parent_collection_url: entry.parentCollectionUrl,
+        source_notes: sortedUnique([...entry.sourceNotes]).slice(0, 4),
+        provenance_trail: sortedUnique([...entry.provenanceTrail])
+      };
+    })
+    .sort(
+      (a, b) =>
+        riskRank(a.review_priority) - riskRank(b.review_priority) ||
+        (Number(b.high_priority_print_candidate_count) || 0) - (Number(a.high_priority_print_candidate_count) || 0) ||
+        (Number(b.print_candidate_count) || 0) - (Number(a.print_candidate_count) || 0) ||
+        (Number(b.verified_private_record_count) || 0) - (Number(a.verified_private_record_count) || 0) ||
+        String(a.source_family || "").localeCompare(String(b.source_family || "")) ||
+        String(a.folder_title || "").localeCompare(String(b.folder_title || ""))
+    )
+    .map((row, index) => ({ ledger_rank: index + 1, ...row }));
+}
+
 function personIndexExportRows() {
   const persons = window.PERSONS_DATA?.persons || [];
   const memcons = window.MEMCONS || [];
@@ -1579,6 +1940,7 @@ function attachCompilerExports() {
   attachExport('[data-export="documentContext"]', "document-context.csv", documentContextExportRows());
   attachExport('[data-export="evidenceTimeline"]', "evidence-timeline.csv", evidenceTimelineExportRows());
   attachExport('[data-export="citationWorkbench"]', "citation-workbench.csv", citationWorkbenchExportRows());
+  attachExport('[data-export="sourceLedger"]', "archival-source-ledger.csv", sourceLedgerExportRows());
   attachExport('[data-export="selectionMatrix"]', "selection-matrix.csv", selectionMatrixExportRows());
   attachExport('[data-export="coverageMatrix"]', "coverage-matrix.csv", coverageMatrixExportRows());
   attachExport('[data-export="personIndex"]', "person-index.csv", personIndexExportRows());

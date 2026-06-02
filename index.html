@@ -57,6 +57,32 @@
         border-color: #0b5cab;
         background: #edf6ff;
       }
+
+      .compiler-network__links button {
+        display: inline-flex;
+        align-items: center;
+        min-height: 30px;
+        border: 1px solid #b8c7d9;
+        border-radius: 7px;
+        padding: 0 9px;
+        color: #1f2933;
+        background: #ffffff;
+        font: inherit;
+        font-size: 0.82rem;
+        font-weight: 900;
+        line-height: 1;
+        cursor: pointer;
+      }
+      .compiler-network__links button:hover,
+      .compiler-network__links button:focus-visible {
+        border-color: #0b5cab;
+        background: #edf6ff;
+        outline: none;
+      }
+      .compiler-network__links button[data-copied="true"] {
+        border-color: #2f675f;
+        color: #2f675f;
+      }
       @media (max-width: 640px) {
         .compiler-network__inner {
           align-items: flex-start;
@@ -77,6 +103,7 @@
           <a href="https://history.state.gov/historicaldocuments/status-of-the-series" rel="noreferrer">FRUS Status</a>
           <a href="https://therealjameswilson.github.io/nara-scout/" rel="noreferrer">NARA Scout</a>
           <a href="https://therealjameswilson.github.io/strobe-talbott-foia/" rel="noreferrer">Strobe FOIA</a>
+          <button class="compiler-network__copy" type="button" data-compiler-handoff>Copy Handoff</button>
         </div>
       </div>
     </div>
@@ -161,6 +188,7 @@
           <a href="#" data-export="documentContext" download="document-context.csv">Download document context CSV</a>
           <a href="#" data-export="evidenceTimeline" download="evidence-timeline.csv">Download all-evidence timeline CSV</a>
           <a href="#" data-export="citationWorkbench" download="citation-workbench.csv">Download citation workbench CSV</a>
+          <a href="#" data-export="sourceLedger" download="archival-source-ledger.csv">Download archival source ledger CSV</a>
           <a href="#" data-export="selectionMatrix" download="selection-matrix.csv">Download selection matrix CSV</a>
           <a href="#" data-export="coverageMatrix" download="coverage-matrix.csv">Download country-year coverage matrix CSV</a>
           <a href="#" data-export="personIndex" download="person-index.csv">Download person index CSV</a>
@@ -534,5 +562,55 @@
     <script src="data/persons.js"></script>
     <script src="compiler-exports.js"></script>
     <script src="app.js"></script>
+    <script id="compiler-network-script">
+      (() => {
+        const button = document.querySelector("[data-compiler-handoff]");
+        if (!button) return;
+
+        function fallbackCopy(text) {
+          const area = document.createElement("textarea");
+          area.value = text;
+          area.setAttribute("readonly", "");
+          area.style.position = "fixed";
+          area.style.left = "-9999px";
+          document.body.append(area);
+          area.select();
+          try { document.execCommand("copy"); } finally { area.remove(); }
+        }
+
+        function handoffText() {
+          const title = document.querySelector("h1")?.textContent.trim() || document.title || "FRUS compiler page";
+          return [
+            "# " + title,
+            "",
+            "Page: " + window.location.href,
+            "Compiler Assist: https://therealjameswilson.github.io/Compiler-Assist/",
+            "FRUS Status: https://history.state.gov/historicaldocuments/status-of-the-series",
+            "NARA Scout: https://therealjameswilson.github.io/nara-scout/",
+            "Strobe FOIA: https://therealjameswilson.github.io/strobe-talbott-foia/",
+            "",
+            "Use this note as the starting point for a pull request, source-note check, or compiler handoff."
+          ].join("\n");
+        }
+
+        button.addEventListener("click", async () => {
+          const text = handoffText();
+          try {
+            if (navigator.clipboard?.writeText) await navigator.clipboard.writeText(text);
+            else fallbackCopy(text);
+            button.textContent = "Copied";
+            button.dataset.copied = "true";
+            window.setTimeout(() => {
+              button.textContent = "Copy Handoff";
+              delete button.dataset.copied;
+            }, 1800);
+          } catch (error) {
+            fallbackCopy(text);
+            button.textContent = "Copied";
+            button.dataset.copied = "true";
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
