@@ -256,7 +256,8 @@ export groups the same evidence by policy issue and country, including narcotics
 debt/EAI, democracy and elections, regional security/Panama spillover, regional/inter-American
 policy, Cuba/USSR, multilateral diplomacy, environment, and presidential diplomacy clusters. The
 selection matrix export ranks verified private records and OCR-derived print-candidate leads together
-by country risk, date scope, source-note status, nearby evidence, and likely print value. The
+by country risk, date scope, source-note status, nearby evidence, and likely print value; the
+Potential Memos section renders a deduped top-print-lead shortlist from that matrix. The
 coverage matrix export gives one row per country-year for 1989-1992, exposing private-record gaps
 against print leads, public statements, and Daily Diary/backup references. The person index export
 connects the FRUS-style persons authority to verified memcon/telcon participants and likely mentions

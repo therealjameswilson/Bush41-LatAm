@@ -2967,6 +2967,136 @@ function renderCountryDossierPreview() {
   }
 }
 
+function selectionShortlistKey(row) {
+  return [
+    row.primary_chapter_country,
+    row.sort_date,
+    row.title,
+    row.source_folder_or_title
+  ]
+    .map((value) =>
+      String(value || "")
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, " ")
+        .trim()
+    )
+    .join("|");
+}
+
+function selectionShortlistRows(rows, limit = 12) {
+  const seen = new Set();
+  const shortlist = [];
+  for (const row of rows) {
+    if (row.record_class !== "Print-candidate lead" || row.selection_band !== "Top print lead") continue;
+    const key = selectionShortlistKey(row);
+    if (seen.has(key)) continue;
+    seen.add(key);
+    shortlist.push(row);
+    if (shortlist.length >= limit) break;
+  }
+  return shortlist;
+}
+
+function createSelectionShortlistMeta(label, value) {
+  const text = workplanPreviewText(value);
+  if (!text) return null;
+  const item = document.createElement("span");
+  item.textContent = `${label}: ${text}`;
+  return item;
+}
+
+function createSelectionShortlistRow(row) {
+  const article = document.createElement("article");
+  article.className = "selection-shortlist-row";
+
+  const rank = document.createElement("div");
+  rank.className = "selection-shortlist-rank";
+  const selectionRank = document.createElement("span");
+  selectionRank.className = "selection-shortlist-order";
+  selectionRank.textContent = `#${row.selection_rank}`;
+  const score = document.createElement("span");
+  score.className = "selection-shortlist-score";
+  score.textContent = `Score ${row.selection_score}`;
+  const risk = document.createElement("span");
+  risk.className = `selection-shortlist-risk ${String(row.country_risk_level || "review").toLowerCase()}`;
+  risk.textContent = row.country_risk_level || "Review";
+  rank.append(selectionRank, score, risk);
+
+  const body = document.createElement("div");
+  body.className = "selection-shortlist-body";
+  const title = document.createElement("h4");
+  title.textContent = row.title || "Untitled print lead";
+
+  const meta = document.createElement("p");
+  meta.className = "selection-shortlist-meta";
+  meta.append(
+    ...[
+      createSelectionShortlistMeta("Country", row.primary_chapter_country),
+      createSelectionShortlistMeta("Date", row.display_date || row.sort_date),
+      createSelectionShortlistMeta("Type", row.document_type),
+      createSelectionShortlistMeta("Source", row.source_series),
+      createSelectionShortlistMeta("Folder", row.source_folder_or_title),
+      createSelectionShortlistMeta("Page", row.page_count_or_range)
+    ].filter(Boolean)
+  );
+
+  const flags = createSelectionShortlistMeta("Flags", workplanList(row.selection_flags).slice(0, 3).map((flag) => flag.replace(/_/g, " ")));
+  const context = createSelectionShortlistMeta("Nearby private records", workplanList(row.nearby_private_records_14_days).slice(0, 2));
+  const contextLine = document.createElement("p");
+  contextLine.className = "selection-shortlist-context";
+  contextLine.append(...[flags, context].filter(Boolean));
+
+  const action = document.createElement("p");
+  action.className = "selection-shortlist-action";
+  action.textContent = row.compiler_action || "Verify page image/OCR and compare against the private chronology before print selection.";
+
+  body.append(title);
+  if (meta.childNodes.length) body.append(meta);
+  if (contextLine.childNodes.length) body.append(contextLine);
+  body.append(action);
+
+  const link = row.page_link || row.pdf_url || row.catalog_or_details_url;
+  if (link) {
+    const source = document.createElement("a");
+    source.className = "selection-shortlist-link";
+    source.href = link;
+    source.rel = "noreferrer";
+    source.textContent = "Open source";
+    body.append(source);
+  }
+
+  article.append(rank, body);
+  return article;
+}
+
+function renderSelectionShortlistPreview() {
+  const root = document.querySelector("#selection-shortlist-root");
+  if (!root) return;
+
+  const rows = selectionMatrixExportRows();
+  const topLeads = rows.filter((row) => row.record_class === "Print-candidate lead" && row.selection_band === "Top print lead");
+  const shortlist = selectionShortlistRows(rows, 12);
+  const topCountries = new Set(topLeads.map((row) => row.primary_chapter_country).filter(Boolean));
+  const summary = document.querySelector("#selection-shortlist-summary");
+  if (summary) {
+    summary.textContent = `${shortlist.length} distinct leads previewed from ${topLeads.length} top print-lead rows across ${topCountries.size} countries.`;
+  }
+
+  root.replaceChildren();
+  if (!shortlist.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-chapter";
+    empty.textContent = "No top print-lead rows are available.";
+    root.append(empty);
+    return;
+  }
+
+  for (const row of shortlist) {
+    root.append(createSelectionShortlistRow(row));
+  }
+}
+
 attachCompilerExports();
 renderCompilerWorkplanPreview();
 renderCountryDossierPreview();
+renderSelectionShortlistPreview();

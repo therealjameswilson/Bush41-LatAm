@@ -913,6 +913,142 @@ footer {
   padding-bottom: 24px;
 }
 
+.selection-shortlist {
+  display: grid;
+  gap: 16px;
+  margin: 0 0 28px;
+  padding: 18px;
+  background: rgba(255, 253, 248, 0.78);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.selection-shortlist-heading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+}
+
+.selection-shortlist-heading h3 {
+  margin: 0;
+  font-size: clamp(1.55rem, 3vw, 2.1rem);
+}
+
+.selection-shortlist-summary {
+  max-width: 460px;
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  font-weight: 800;
+  line-height: 1.45;
+  text-align: right;
+}
+
+.selection-shortlist-root {
+  display: grid;
+  gap: 10px;
+}
+
+.selection-shortlist-row {
+  display: grid;
+  grid-template-columns: 116px minmax(0, 1fr);
+  gap: 16px;
+  align-items: start;
+  min-height: auto;
+  padding: 16px;
+  background: white;
+  border: 1px solid rgba(216, 208, 194, 0.9);
+  border-radius: 8px;
+}
+
+.selection-shortlist-rank {
+  display: grid;
+  gap: 8px;
+  justify-items: start;
+}
+
+.selection-shortlist-order,
+.selection-shortlist-score,
+.selection-shortlist-risk,
+.selection-shortlist-meta span,
+.selection-shortlist-context span,
+.selection-shortlist-link {
+  display: inline-flex;
+  min-height: 28px;
+  align-items: center;
+  padding: 0 9px;
+  font-size: 0.78rem;
+  font-weight: 900;
+  border-radius: 6px;
+}
+
+.selection-shortlist-order,
+.selection-shortlist-score {
+  color: var(--navy);
+  background: rgba(24, 59, 91, 0.1);
+}
+
+.selection-shortlist-risk {
+  color: white;
+  background: var(--navy);
+}
+
+.selection-shortlist-risk.critical {
+  background: var(--red);
+}
+
+.selection-shortlist-risk.high {
+  background: var(--green);
+}
+
+.selection-shortlist-risk.medium,
+.selection-shortlist-risk.monitor,
+.selection-shortlist-risk.review {
+  color: var(--ink);
+  background: rgba(201, 151, 59, 0.32);
+}
+
+.selection-shortlist-body {
+  min-width: 0;
+}
+
+.selection-shortlist-body h4 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.13rem;
+  line-height: 1.25;
+}
+
+.selection-shortlist-meta,
+.selection-shortlist-context {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 10px 0 0;
+}
+
+.selection-shortlist-meta span,
+.selection-shortlist-context span {
+  color: var(--muted);
+  background: rgba(24, 59, 91, 0.06);
+}
+
+.selection-shortlist-action {
+  margin: 10px 0 0;
+  color: #2d3740;
+  font-weight: 800;
+  line-height: 1.55;
+}
+
+.selection-shortlist-link {
+  width: fit-content;
+  margin-top: 12px;
+  color: white;
+  text-decoration: none;
+  background: var(--navy);
+}
+
 .candidate-tools,
 .statement-tools {
   grid-template-columns: minmax(240px, 1.35fr) repeat(4, minmax(132px, 0.75fr)) auto;
@@ -1368,6 +1504,7 @@ footer a {
   .method-grid,
   .source-list,
   .chapter-dossier-row,
+  .selection-shortlist-row,
   .workplan-preview-row,
   .timeline li,
   .record-tools,
@@ -1389,6 +1526,7 @@ footer a {
   .stats,
   .record-row,
   .chapter-dossier-row,
+  .selection-shortlist-row,
   .candidate-row,
   .statement-row,
   .daily-diary-row,
@@ -1418,6 +1556,16 @@ footer a {
 
   .chapter-dossier-lists {
     grid-template-columns: 1fr;
+  }
+
+  .selection-shortlist-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .selection-shortlist-summary {
+    max-width: none;
+    text-align: left;
   }
 
   .record-links,
