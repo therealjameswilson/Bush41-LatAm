@@ -2751,4 +2751,102 @@ function attachCompilerExports() {
   attachExport('[data-export="publicStatements"]', "public-statements.csv", publicStatementExportRows());
 }
 
+function workplanPreviewText(value) {
+  if (Array.isArray(value)) return value.filter(Boolean).join("; ");
+  return String(value || "").trim();
+}
+
+function createWorkplanPreviewMeta(label, value) {
+  const text = workplanPreviewText(value);
+  if (!text) return null;
+  const item = document.createElement("span");
+  item.textContent = `${label}: ${text}`;
+  return item;
+}
+
+function createWorkplanPreviewRow(row) {
+  const article = document.createElement("article");
+  article.className = "workplan-preview-row";
+
+  const rank = document.createElement("div");
+  rank.className = "workplan-preview-rank";
+  const order = document.createElement("span");
+  order.className = "workplan-preview-order";
+  order.textContent = `#${row.work_order}`;
+  const priority = document.createElement("span");
+  priority.className = `workplan-preview-priority ${String(row.priority || "review").toLowerCase()}`;
+  priority.textContent = row.priority || "Review";
+  rank.append(order, priority);
+
+  const body = document.createElement("div");
+  body.className = "workplan-preview-body";
+  const title = document.createElement("h4");
+  title.textContent = row.title_or_scope || row.workstream || "Compiler workplan action";
+
+  const meta = document.createElement("p");
+  meta.className = "workplan-preview-meta";
+  meta.append(
+    ...[
+      createWorkplanPreviewMeta("Stream", row.workstream),
+      createWorkplanPreviewMeta("Country", row.country),
+      createWorkplanPreviewMeta("Date", row.date_or_span),
+      createWorkplanPreviewMeta("Export", row.related_export)
+    ].filter(Boolean)
+  );
+
+  const action = document.createElement("p");
+  action.className = "workplan-preview-action";
+  action.textContent = row.recommended_action || "Review this row against the chronology and supporting exports.";
+
+  const why = document.createElement("p");
+  why.className = "workplan-preview-why";
+  why.textContent = row.why_it_matters || "";
+
+  body.append(title);
+  if (meta.childNodes.length) body.append(meta);
+  body.append(action);
+  if (why.textContent) body.append(why);
+
+  const link = workplanPreviewText(row.first_link);
+  if (link) {
+    const source = document.createElement("a");
+    source.className = "workplan-preview-link";
+    source.href = link;
+    source.rel = "noreferrer";
+    source.textContent = "Open source";
+    body.append(source);
+  }
+
+  article.append(rank, body);
+  return article;
+}
+
+function renderCompilerWorkplanPreview() {
+  const root = document.querySelector("#workplan-preview-root");
+  if (!root) return;
+
+  const rows = compilerWorkplanExportRows();
+  const topRows = rows.slice(0, 8);
+  const criticalCount = rows.filter((row) => row.priority === "Critical").length;
+  const highCount = rows.filter((row) => row.priority === "High").length;
+  const summary = document.querySelector("#workplan-preview-summary");
+  if (summary) {
+    summary.textContent = `${rows.length} ranked actions; ${criticalCount} critical and ${highCount} high-priority rows in the full workplan.`;
+  }
+
+  root.replaceChildren();
+  if (!topRows.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty-chapter";
+    empty.textContent = "No compiler workplan rows are available.";
+    root.append(empty);
+    return;
+  }
+
+  for (const row of topRows) {
+    root.append(createWorkplanPreviewRow(row));
+  }
+}
+
 attachCompilerExports();
+renderCompilerWorkplanPreview();

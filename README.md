@@ -234,9 +234,11 @@ limited to the first 100 Catalog results per term where the Catalog proxy requir
 The public site builds spreadsheet-ready CSV downloads in the browser from the loaded JSON datasets.
 The chronology of declassified memcons and telcons is the first substantive public section and the
 first download in that section, so a compiler lands on the country-by-country document sequence
-before the broader review aids. The compiler workplan follows as the main action list: structural
-risks, country gaps, issue clusters, source-folder follow-ups, partial release checks, and top print
-leads ordered into a single next-step sheet. The compiler review queue is the deeper triage sheet:
+before the broader review aids. The public chronology section also previews the top-ranked compiler
+workplan rows in the browser so the highest-priority structural, country, and issue checks are
+visible without opening a spreadsheet. The compiler workplan download remains the full action list:
+structural risks, country gaps, issue clusters, source-folder follow-ups, partial release checks, and
+top print leads ordered into a single next-step sheet. The compiler review queue is the deeper triage sheet:
 structural risks, country coverage gaps, partial releases, and high-priority print-candidate leads
 sorted by urgency and country risk. The document context export gives one row per declassified
 memcon/telcon with same-date diary/backup references, nearby high-priority print leads, and nearby

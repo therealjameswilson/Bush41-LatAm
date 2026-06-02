@@ -972,6 +972,144 @@ footer {
   background: #5d4b2a;
 }
 
+.workplan-preview {
+  display: grid;
+  gap: 16px;
+  margin: 24px 0 28px;
+  padding: 18px;
+  background: rgba(255, 253, 248, 0.78);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.workplan-preview-heading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+}
+
+.workplan-preview-heading h3 {
+  margin: 0;
+  font-size: clamp(1.55rem, 3vw, 2.1rem);
+}
+
+.workplan-preview-summary {
+  max-width: 420px;
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  font-weight: 800;
+  line-height: 1.45;
+  text-align: right;
+}
+
+.workplan-preview-root {
+  display: grid;
+  gap: 10px;
+}
+
+.workplan-preview-row {
+  display: grid;
+  grid-template-columns: 120px minmax(0, 1fr);
+  gap: 16px;
+  align-items: start;
+  min-height: auto;
+  padding: 16px;
+  background: white;
+  border: 1px solid rgba(216, 208, 194, 0.9);
+  border-radius: 8px;
+}
+
+.workplan-preview-rank {
+  display: grid;
+  gap: 8px;
+  justify-items: start;
+}
+
+.workplan-preview-order,
+.workplan-preview-priority,
+.workplan-preview-meta span,
+.workplan-preview-link {
+  display: inline-flex;
+  min-height: 28px;
+  align-items: center;
+  padding: 0 9px;
+  font-size: 0.78rem;
+  font-weight: 900;
+  border-radius: 6px;
+}
+
+.workplan-preview-order {
+  color: var(--navy);
+  background: rgba(24, 59, 91, 0.1);
+}
+
+.workplan-preview-priority {
+  color: white;
+  background: var(--navy);
+}
+
+.workplan-preview-priority.critical {
+  background: var(--red);
+}
+
+.workplan-preview-priority.high {
+  background: var(--green);
+}
+
+.workplan-preview-priority.medium,
+.workplan-preview-priority.monitor {
+  color: var(--ink);
+  background: rgba(201, 151, 59, 0.32);
+}
+
+.workplan-preview-body {
+  min-width: 0;
+}
+
+.workplan-preview-body h4 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.13rem;
+  line-height: 1.25;
+}
+
+.workplan-preview-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 10px 0;
+}
+
+.workplan-preview-meta span {
+  color: var(--muted);
+  background: rgba(24, 59, 91, 0.06);
+}
+
+.workplan-preview-action,
+.workplan-preview-why {
+  margin: 8px 0 0;
+  color: #2d3740;
+  line-height: 1.55;
+}
+
+.workplan-preview-action {
+  font-weight: 800;
+}
+
+.workplan-preview-why {
+  color: var(--muted);
+}
+
+.workplan-preview-link {
+  width: fit-content;
+  margin-top: 12px;
+  color: white;
+  text-decoration: none;
+  background: var(--navy);
+}
+
 .collection-links {
   grid-template-columns: repeat(3, minmax(0, 1fr));
   margin-bottom: 28px;
@@ -1078,6 +1216,7 @@ footer a {
   .chapter-grid,
   .method-grid,
   .source-list,
+  .workplan-preview-row,
   .timeline li,
   .record-tools,
   .candidate-tools,
@@ -1102,6 +1241,16 @@ footer a {
   .daily-diary-row,
   .gap-row {
     grid-template-columns: 1fr;
+  }
+
+  .workplan-preview-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .workplan-preview-summary {
+    max-width: none;
+    text-align: left;
   }
 
   .record-links,
