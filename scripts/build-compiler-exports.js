@@ -382,6 +382,64 @@ function issueRecommendedUse(entry, risk) {
   return "Retain as context for chapter annotation, chronology checking, or source-note review.";
 }
 
+function workplanPriorityRank(priority) {
+  return { Critical: 0, High: 1, Medium: 2, Monitor: 3, Review: 4, Reference: 5 }[priority] ?? 9;
+}
+
+function workplanList(value) {
+  if (Array.isArray(value)) return value.filter(Boolean);
+  return String(value || "")
+    .split(";")
+    .map((item) => item.trim())
+    .filter(Boolean);
+}
+
+function firstWorkplanLink(value) {
+  return workplanList(value).find((item) => /^https?:\/\//i.test(item)) || "";
+}
+
+function workplanRow({
+  sortKey,
+  priority,
+  workstream,
+  country = "",
+  issue = "",
+  dateOrSpan = "",
+  titleOrScope = "",
+  evidenceCount = "",
+  privateRecordCount = "",
+  highPriorityPrintLeads = "",
+  publicStatementCount = "",
+  sourceOrFolder = "",
+  relatedExport = "",
+  relatedRankOrId = "",
+  recommendedAction = "",
+  whyItMatters = "",
+  links = []
+}) {
+  const linkList = workplanList(links);
+  return {
+    _sort_key: sortKey,
+    priority: priority || "Review",
+    workstream,
+    country,
+    issue,
+    date_or_span: dateOrSpan,
+    title_or_scope: titleOrScope,
+    evidence_count: evidenceCount,
+    private_record_count: privateRecordCount,
+    high_priority_print_leads: highPriorityPrintLeads,
+    public_statement_count: publicStatementCount,
+    source_or_folder: sourceOrFolder,
+    related_export: relatedExport,
+    related_rank_or_id: relatedRankOrId,
+    recommended_action: recommendedAction,
+    why_it_matters: whyItMatters,
+    first_link: firstWorkplanLink(linkList),
+    supporting_links: linkList.slice(0, 8)
+  };
+}
+
 function sourceName(candidate) {
   if (candidate.sourceSeries?.name) return candidate.sourceSeries.name;
   if (/^chronological-print-/.test(candidate.id || "")) return "Latin American Directorate Chronological Files";
