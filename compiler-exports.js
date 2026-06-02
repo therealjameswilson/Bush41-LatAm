@@ -29,6 +29,163 @@ const EXPORT_MONTHS = {
   december: 11
 };
 
+const ISSUE_DEFINITIONS = [
+  {
+    id: "narcotics-andean-policy",
+    label: "Narcotics and Andean drug policy",
+    themes: ["narcotics", "drug", "Andean"],
+    keywords: [
+      "narcotic",
+      "drug",
+      "andean",
+      "cartagena",
+      "cocaine",
+      "cartel",
+      "medellin",
+      "eradication",
+      "anti narcotics",
+      "anti-drug",
+      "traffick"
+    ]
+  },
+  {
+    id: "debt-trade-eai",
+    label: "Debt, trade, and Enterprise for the Americas",
+    themes: ["debt and economy", "enterprise for the americas", "trade policy", "business groups", "debt"],
+    keywords: [
+      "debt",
+      "trade",
+      "enterprise for the americas",
+      "eai",
+      "investment",
+      "export",
+      "economic",
+      "finance",
+      "brady",
+      "imf",
+      "world bank",
+      "development"
+    ]
+  },
+  {
+    id: "democracy-elections-transitions",
+    label: "Democracy, elections, and transitions",
+    themes: ["democracy"],
+    keywords: [
+      "democracy",
+      "democratic",
+      "election",
+      "transition",
+      "inauguration",
+      "human rights",
+      "constitutional",
+      "coup",
+      "plebiscite",
+      "opposition"
+    ]
+  },
+  {
+    id: "regional-security-panama",
+    label: "Regional security and Panama spillover",
+    themes: ["panama spillover"],
+    keywords: [
+      "panama",
+      "noriega",
+      "regional security",
+      "military",
+      "terrorism",
+      "intelligence",
+      "border",
+      "hostage",
+      "sanctions"
+    ]
+  },
+  {
+    id: "regional-policy-inter-american",
+    label: "Regional policy and inter-American affairs",
+    themes: ["regional policy", "Latin America", "South America"],
+    keywords: [
+      "latin america",
+      "south america",
+      "western hemisphere",
+      "inter american",
+      "inter-american",
+      "regional policy",
+      "hemisphere",
+      "oas",
+      "organization of american states"
+    ]
+  },
+  {
+    id: "cuba-ussr-cold-war",
+    label: "Cuba, USSR, and Cold War transition",
+    themes: ["ussr/cuba"],
+    keywords: [
+      "cuba",
+      "castro",
+      "soviet",
+      "ussr",
+      "gorbachev",
+      "communist",
+      "cold war",
+      "nicaragua",
+      "sandinista"
+    ]
+  },
+  {
+    id: "summits-multilateral-diplomacy",
+    label: "Summits and multilateral diplomacy",
+    themes: ["summit diplomacy", "Columbus Group"],
+    keywords: [
+      "summit",
+      "cartagena",
+      "unga",
+      "united nations",
+      "oas",
+      "rio group",
+      "columbus group",
+      "multilateral",
+      "ministerial",
+      "conference"
+    ]
+  },
+  {
+    id: "environment-energy-development",
+    label: "Environment, energy, and development",
+    themes: ["environment"],
+    keywords: [
+      "environment",
+      "environmental",
+      "rain forest",
+      "rainforest",
+      "amazon",
+      "energy",
+      "climate",
+      "conservation",
+      "development"
+    ]
+  },
+  {
+    id: "presidential-diplomacy",
+    label: "Presidential diplomacy and head-of-state contacts",
+    themes: ["presidential diplomacy"],
+    keywords: [
+      "president",
+      "presidential",
+      "bilateral",
+      "meeting",
+      "telephone",
+      "telcon",
+      "memcon",
+      "conversation",
+      "call",
+      "state visit",
+      "working visit",
+      "letter"
+    ]
+  }
+];
+
 function csvCell(value) {
   if (Array.isArray(value)) return csvCell(value.filter(Boolean).join("; "));
   if (value === null || value === undefined) return "";
@@ -99,6 +256,133 @@ function personAuthorityCollisions(person, persons) {
 function textMatchesPerson(value, variants) {
   const normalized = ` ${normalizePersonText(value)} `;
   return variants.some((variant) => normalized.includes(` ${variant} `));
+}
+
+function issueText(values) {
+  return normalizePersonText(values.flat().filter(Boolean).join(" "));
+}
+
+function evidenceIssues({ themes = [], textValues = [], forcePresidential = false }) {
+  const normalizedText = issueText([themes, textValues]);
+  const matches = ISSUE_DEFINITIONS.filter((issue) =>
+    [...(issue.themes || []), ...(issue.keywords || [])].some((term) => {
+      const normalizedTerm = normalizePersonText(term);
+      return normalizedTerm && normalizedText.includes(normalizedTerm);
+    })
+  );
+  if (forcePresidential) {
+    const presidential = ISSUE_DEFINITIONS.find((issue) => issue.id === "presidential-diplomacy");
+    if (presidential && !matches.includes(presidential)) matches.push(presidential);
+  }
+  return matches;
+}
+
+function issueCountries(record) {
+  const countries = exportCountries(record);
+  return countries.length ? countries : ["Regional/No single country"];
+}
+
+function newIssueDossier(issue, country) {
+  return {
+    issue,
+    country,
+    dates: [],
+    years: new Set(),
+    sourceMix: new Set(),
+    sourceFolders: new Set(),
+    recordIds: new Set(),
+    links: new Set(),
+    privateRecords: [],
+    printLeads: [],
+    publicStatements: [],
+    diaryReferences: [],
+    evidenceTotal: 0,
+    verifiedPrivateRecordCount: 0,
+    printCandidateCount: 0,
+    highPriorityPrintCandidateCount: 0,
+    publicStatementCount: 0,
+    dailyDiaryBackupReferenceCount: 0
+  };
+}
+
+function issueDossierEntry(dossiers, issue, country) {
+  const key = `${issue.id}|${country}`;
+  if (!dossiers.has(key)) dossiers.set(key, newIssueDossier(issue, country));
+  return dossiers.get(key);
+}
+
+function addIssueDossierEvidence(dossiers, issue, country, evidence) {
+  const entry = issueDossierEntry(dossiers, issue, country);
+  const date = normalizedDate(evidence.date);
+  if (date) {
+    entry.dates.push(date);
+    entry.years.add(date.slice(0, 4));
+  }
+  if (evidence.source) entry.sourceMix.add(evidence.source);
+  if (evidence.sourceFolder) entry.sourceFolders.add(evidence.sourceFolder);
+  if (evidence.recordId) entry.recordIds.add(evidence.recordId);
+  if (evidence.link) entry.links.add(evidence.link);
+  entry.evidenceTotal += 1;
+
+  const label = [date || evidence.date, evidence.priority, evidence.title].filter(Boolean).join(" - ");
+  if (evidence.recordClass === "Verified private record") {
+    entry.verifiedPrivateRecordCount += 1;
+    entry.privateRecords.push(label);
+  } else if (evidence.recordClass === "Print-candidate lead") {
+    entry.printCandidateCount += 1;
+    if (evidence.priority === "High") entry.highPriorityPrintCandidateCount += 1;
+    entry.printLeads.push(label);
+  } else if (evidence.recordClass === "Public statement") {
+    entry.publicStatementCount += 1;
+    entry.publicStatements.push(label);
+  } else if (evidence.recordClass === "Daily diary/backup reference") {
+    entry.dailyDiaryBackupReferenceCount += 1;
+    entry.diaryReferences.push(label);
+  }
+}
+
+function issueDateSpan(dates) {
+  const sorted = sortedUnique(dates);
+  if (!sorted.length) return "";
+  return sorted[0] === sorted[sorted.length - 1] ? sorted[0] : `${sorted[0]} to ${sorted[sorted.length - 1]}`;
+}
+
+function issuePriority(entry, risk) {
+  if (entry.highPriorityPrintCandidateCount >= 10 || (entry.highPriorityPrintCandidateCount >= 5 && risk?.riskLevel === "Critical")) {
+    return "Critical";
+  }
+  if (entry.highPriorityPrintCandidateCount >= 3 || (entry.printCandidateCount && ["Critical", "High"].includes(risk?.riskLevel || ""))) {
+    return "High";
+  }
+  if (entry.verifiedPrivateRecordCount || entry.printCandidateCount || entry.publicStatementCount >= 3) return "Medium";
+  return "Reference";
+}
+
+function issueScore(entry, risk) {
+  return (
+    (risk?.riskScore || 0) +
+    entry.highPriorityPrintCandidateCount * 5 +
+    entry.printCandidateCount * 2 +
+    entry.verifiedPrivateRecordCount * 3 +
+    Math.min(entry.publicStatementCount, 20) +
+    Math.min(entry.dailyDiaryBackupReferenceCount, 10)
+  );
+}
+
+function issueRecommendedUse(entry, risk) {
+  if (entry.highPriorityPrintCandidateCount && ["Critical", "High"].includes(risk?.riskLevel || "")) {
+    return "Use this issue-country cluster to test top OCR leads against a thin or risky chapter chronology.";
+  }
+  if (!entry.verifiedPrivateRecordCount && entry.printCandidateCount) {
+    return "Use this as a candidate issue trail where no released private memcon/telcon currently anchors the chapter.";
+  }
+  if (entry.verifiedPrivateRecordCount && entry.printCandidateCount) {
+    return "Compare print leads against verified private records before deciding whether the issue needs additional printed documents or annotation.";
+  }
+  if (entry.publicStatementCount && !entry.verifiedPrivateRecordCount) {
+    return "Use public statements as a signpost for possible private-record gaps and annotation needs.";
+  }
+  return "Retain as context for chapter annotation, chronology checking, or source-note review.";
 }
 
 function exportChapterNumber(record) {
@@ -1541,6 +1825,153 @@ function sourceLedgerExportRows() {
     .map((row, index) => ({ ledger_rank: index + 1, ...row }));
 }
 
+function issueDossierExportRows() {
+  const dossiers = new Map();
+  const riskMap = riskByCountry();
+  const memcons = window.MEMCONS || [];
+  const printCandidates = [
+    ...(window.CHRONOLOGICAL_PRINT_CANDIDATES || []),
+    ...(window.SUBJECT_PRINT_CANDIDATES || []),
+    ...(window.DEAL_PRINT_CANDIDATES || [])
+  ];
+  const publicStatements = window.PUBLIC_STATEMENTS || [];
+  const diaryReferences = window.DAILY_DIARY_REFERENCES || [];
+
+  for (const record of memcons) {
+    const issues = evidenceIssues({
+      themes: [...(record.topics || []), ...(record.frusTopics || [])],
+      textValues: [record.title, record.documentTitle, record.subjectLine, record.participants || [], record.notes || []],
+      forcePresidential: true
+    });
+    for (const issue of issues) {
+      for (const country of issueCountries(record)) {
+        addIssueDossierEvidence(dossiers, issue, country, {
+          recordClass: "Verified private record",
+          date: recordDateValue(record),
+          title: record.subjectLine || record.title || record.documentTitle,
+          source: exportSourceLabel(record),
+          sourceFolder: record.sourceTitle || record.source?.fileUnitTitle || record.localIdentifier || "",
+          recordId: record.id || "",
+          link: record.pdfUrl || record.catalogUrl || ""
+        });
+      }
+    }
+  }
+
+  for (const candidate of printCandidates) {
+    const issues = evidenceIssues({
+      themes: candidate.themes || [],
+      textValues: [candidate.documentTitle, candidate.documentType, candidate.reviewReason, candidate.ocrSnippet],
+      forcePresidential: /memcon|telcon|telephone|conversation/i.test([candidate.documentType, candidate.documentTitle].join(" "))
+    });
+    for (const issue of issues) {
+      for (const country of issueCountries(candidate)) {
+        addIssueDossierEvidence(dossiers, issue, country, {
+          recordClass: "Print-candidate lead",
+          date: candidate.documentDate || "",
+          title: candidate.documentTitle || "",
+          priority: candidate.priority || "",
+          source: exportCandidateSource(candidate),
+          sourceFolder: candidate.folderTitle || candidate.localIdentifier || "",
+          recordId: candidate.id || "",
+          link: candidate.pageLink || candidate.pdfUrl || candidate.catalogUrl || ""
+        });
+      }
+    }
+  }
+
+  for (const statement of publicStatements) {
+    const issues = evidenceIssues({
+      textValues: [statement.title, statement.documentType, statement.snippet]
+    });
+    for (const issue of issues) {
+      for (const country of issueCountries(statement)) {
+        addIssueDossierEvidence(dossiers, issue, country, {
+          recordClass: "Public statement",
+          date: statement.sortDate || statement.documentDate || "",
+          title: statement.title || "",
+          source: "Public Papers of the Presidents",
+          sourceFolder: statement.bookLabel || statement.packageId || "",
+          recordId: statement.id || "",
+          link: statement.pageLink || statement.pdfUrl || statement.detailsUrl || ""
+        });
+      }
+    }
+  }
+
+  for (const reference of diaryReferences) {
+    const issues = evidenceIssues({
+      themes: reference.matchedTerms || [],
+      textValues: [reference.title, reference.sourceType, reference.reviewReason, reference.linkedRecordTitles || []],
+      forcePresidential: (reference.linkedRecordTitles || []).some((title) => /conversation|telephone|memcon|telcon/i.test(title))
+    });
+    for (const issue of issues) {
+      for (const country of issueCountries(reference)) {
+        addIssueDossierEvidence(dossiers, issue, country, {
+          recordClass: "Daily diary/backup reference",
+          date: reference.date || "",
+          title: reference.title || "",
+          source: reference.sourceType || "Daily Diary/Backup",
+          sourceFolder: reference.localIdentifier || reference.title || "",
+          recordId: reference.id || "",
+          link: reference.pdfUrl || reference.catalogUrl || ""
+        });
+      }
+    }
+  }
+
+  return [...dossiers.values()]
+    .map((entry) => {
+      const risk = riskMap.get(entry.country);
+      const priority = issuePriority(entry, risk);
+      const score = issueScore(entry, risk);
+      const sortedPrivate = sortedUnique(entry.privateRecords);
+      const sortedPrint = sortedUnique(entry.printLeads).sort(
+        (a, b) => Number(b.includes("High")) - Number(a.includes("High")) || a.localeCompare(b)
+      );
+      const sortedStatements = sortedUnique(entry.publicStatements);
+      const sortedDiary = sortedUnique(entry.diaryReferences);
+      return {
+        issue_rank: "",
+        review_priority: priority,
+        issue_score: score,
+        issue: entry.issue.label,
+        issue_id: entry.issue.id,
+        primary_chapter_country: entry.country,
+        country_risk_level: risk?.riskLevel || "",
+        country_risk_score: risk?.riskScore || "",
+        date_span: issueDateSpan(entry.dates),
+        years: sortedUnique([...entry.years]),
+        evidence_total: entry.evidenceTotal,
+        verified_private_record_count: entry.verifiedPrivateRecordCount,
+        print_candidate_count: entry.printCandidateCount,
+        high_priority_print_candidate_count: entry.highPriorityPrintCandidateCount,
+        public_statement_count: entry.publicStatementCount,
+        daily_diary_backup_reference_count: entry.dailyDiaryBackupReferenceCount,
+        no_private_anchor: entry.verifiedPrivateRecordCount ? "no" : "yes",
+        public_private_mismatch_signal: entry.publicStatementCount && !entry.verifiedPrivateRecordCount ? "yes" : "no",
+        source_mix: sortedUnique([...entry.sourceMix]),
+        source_folders: sortedUnique([...entry.sourceFolders]).slice(0, 18),
+        top_private_records: sortedPrivate.slice(0, 12),
+        top_print_leads: sortedPrint.slice(0, 14),
+        public_statement_examples: sortedStatements.slice(0, 10),
+        daily_diary_backup_examples: sortedDiary.slice(0, 10),
+        recommended_compiler_use: issueRecommendedUse(entry, risk),
+        issue_search_terms: sortedUnique([...(entry.issue.themes || []), ...(entry.issue.keywords || [])]).slice(0, 18),
+        links: sortedUnique([...entry.links]).slice(0, 14),
+        record_ids: sortedUnique([...entry.recordIds]).slice(0, 30)
+      };
+    })
+    .sort(
+      (a, b) =>
+        riskRank(a.review_priority) - riskRank(b.review_priority) ||
+        (b.issue_score || 0) - (a.issue_score || 0) ||
+        exportCountryRank(a.primary_chapter_country) - exportCountryRank(b.primary_chapter_country) ||
+        String(a.issue || "").localeCompare(String(b.issue || ""))
+    )
+    .map((row, index) => ({ ...row, issue_rank: index + 1 }));
+}
+
 function personIndexExportRows() {
   const persons = window.PERSONS_DATA?.persons || [];
   const memcons = window.MEMCONS || [];
@@ -1941,6 +2372,7 @@ function attachCompilerExports() {
   attachExport('[data-export="evidenceTimeline"]', "evidence-timeline.csv", evidenceTimelineExportRows());
   attachExport('[data-export="citationWorkbench"]', "citation-workbench.csv", citationWorkbenchExportRows());
   attachExport('[data-export="sourceLedger"]', "archival-source-ledger.csv", sourceLedgerExportRows());
+  attachExport('[data-export="issueDossiers"]', "issue-dossiers.csv", issueDossierExportRows());
   attachExport('[data-export="selectionMatrix"]', "selection-matrix.csv", selectionMatrixExportRows());
   attachExport('[data-export="coverageMatrix"]', "coverage-matrix.csv", coverageMatrixExportRows());
   attachExport('[data-export="personIndex"]', "person-index.csv", personIndexExportRows());

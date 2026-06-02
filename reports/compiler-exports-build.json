@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T01:28:31.816Z",
+  "generatedAt": "2026-06-02T01:39:13.873Z",
   "exports": [
     {
       "filename": "compiler-chronology.csv",
@@ -25,6 +25,11 @@
       "filename": "archival-source-ledger.csv",
       "rows": 820,
       "columns": 39
+    },
+    {
+      "filename": "issue-dossiers.csv",
+      "rows": 100,
+      "columns": 28
     },
     {
       "filename": "selection-matrix.csv",
