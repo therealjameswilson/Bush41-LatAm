@@ -233,32 +233,33 @@ limited to the first 100 Catalog results per term where the Catalog proxy requir
 
 The public site builds spreadsheet-ready CSV downloads in the browser from the loaded JSON datasets.
 The export links sit at the top of the chronology section so a compiler can immediately download the
-core declassified chronology and related review worklists. The compiler review queue is the triage
-sheet: structural risks, country coverage gaps, partial releases, and high-priority print-candidate
-leads sorted by urgency and country risk. The document context export gives one row per declassified
-memcon/telcon with same-date diary/backup references, nearby high-priority print leads, and nearby
-public statements. The all-evidence timeline export merges private memcons/telcons,
-print-candidate leads, Daily Diary/backup references, and public statements into one date-sorted
-worklist with source notes, direct links, and a volume-date-scope flag. The citation workbench
-export turns the same evidence layers into a Source-note and reference audit sheet with repository
-path fields, FOIA/access data, provenance trails, link fields, and review flags. The archival
-source ledger rolls the same private records, Scowcroft duplicate holdings, OCR print leads, and
-Daily Diary/backup references up by collection/folder so a compiler can plan archival follow-up from
-source containers instead of individual document rows. The issue dossier export groups the same
-evidence by policy issue and country, including narcotics/Andean policy, debt/EAI, democracy and
-elections, regional security/Panama spillover, regional/inter-American policy, Cuba/USSR,
-multilateral diplomacy, environment, and presidential diplomacy clusters. The selection matrix export
-ranks verified private records and OCR-derived print-candidate leads together by country risk, date
-scope, source-note status, nearby evidence, and likely print value. The coverage matrix export gives
-one row per country-year for
-1989-1992, exposing private-record gaps against print leads, public statements, and Daily
-Diary/backup references. The person index export connects the FRUS-style persons authority to
-verified memcon/telcon participants and likely mentions in print leads, public statements, and
-diary/backup references. The country dossier export gives one rollup row per South America chapter
-with private-record coverage, source mix, year gaps,
-public-statement counts, diary/backup counts, print-candidate pressure, risk signals, and
-recommended actions. The other downloads preserve the full chronology, print-candidate, daily
-diary/backup, and public-statement datasets.
+core declassified chronology and related review worklists. The compiler workplan is the front-door
+action list: structural risks, country gaps, issue clusters, source-folder follow-ups, partial
+release checks, and top print leads ordered into a single next-step sheet. The compiler review queue
+is the deeper triage sheet: structural risks, country coverage gaps, partial releases, and
+high-priority print-candidate leads sorted by urgency and country risk. The document context export
+gives one row per declassified memcon/telcon with same-date diary/backup references, nearby
+high-priority print leads, and nearby public statements. The all-evidence timeline export merges
+private memcons/telcons, print-candidate leads, Daily Diary/backup references, and public statements
+into one date-sorted worklist with source notes, direct links, and a volume-date-scope flag. The
+citation workbench export turns the same evidence layers into a Source-note and reference audit
+sheet with repository path fields, FOIA/access data, provenance trails, link fields, and review
+flags. The archival source ledger rolls the same private records, Scowcroft duplicate holdings, OCR
+print leads, and Daily Diary/backup references up by collection/folder so a compiler can plan
+archival follow-up from source containers instead of individual document rows. The issue dossier
+export groups the same evidence by policy issue and country, including narcotics/Andean policy,
+debt/EAI, democracy and elections, regional security/Panama spillover, regional/inter-American
+policy, Cuba/USSR, multilateral diplomacy, environment, and presidential diplomacy clusters. The
+selection matrix export ranks verified private records and OCR-derived print-candidate leads together
+by country risk, date scope, source-note status, nearby evidence, and likely print value. The
+coverage matrix export gives one row per country-year for 1989-1992, exposing private-record gaps
+against print leads, public statements, and Daily Diary/backup references. The person index export
+connects the FRUS-style persons authority to verified memcon/telcon participants and likely mentions
+in print leads, public statements, and diary/backup references. The country dossier export gives one
+rollup row per South America chapter with private-record coverage, source mix, year gaps,
+public-statement counts, diary/backup counts, print-candidate pressure, risk signals, and recommended
+actions. The other downloads preserve the full chronology, print-candidate, daily diary/backup, and
+public-statement datasets.
 
 To produce the same CSV files locally, run:
 

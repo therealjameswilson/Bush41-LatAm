@@ -2576,6 +2576,7 @@ function attachExport(selector, filename, rows) {
 function attachCompilerExports() {
   for (const href of exportObjectUrls) URL.revokeObjectURL(href);
   exportObjectUrls.length = 0;
+  attachExport('[data-export="workplan"]', "compiler-workplan.csv", compilerWorkplanExportRows());
   attachExport('[data-export="chronology"]', "compiler-chronology.csv", chronologyExportRows());
   attachExport('[data-export="documentContext"]', "document-context.csv", documentContextExportRows());
   attachExport('[data-export="evidenceTimeline"]', "evidence-timeline.csv", evidenceTimelineExportRows());

@@ -2069,6 +2069,156 @@ function issueDossierRows({ audit, memcons, printCandidates, dailyDiaryReference
     .map((row, index) => ({ ...row, issue_rank: index + 1 }));
 }
 
+function compilerWorkplanRows({ audit, memcons, printCandidates, dailyDiaryReferences, publicStatements }) {
+  const riskMap = riskByCountry(audit);
+  const issueRows = issueDossierRows({ audit, memcons, printCandidates, dailyDiaryReferences, publicStatements });
+  const sourceRows = sourceLedgerRows({ audit, memcons, printCandidates, dailyDiaryReferences });
+  const selectionRows = selectionMatrixRows({ audit, memcons, printCandidates, publicStatements });
+  const rows = [];
+
+  for (const gap of audit.structuralGaps || []) {
+    rows.push(
+      workplanRow({
+        sortKey: 1000 + workplanPriorityRank(gap.riskLevel) * 100,
+        priority: gap.riskLevel || "Review",
+        workstream: "Structural audit",
+        titleOrScope: gap.title || "",
+        evidenceCount: audit.summary?.highPriorityPrintCandidateCount || "",
+        relatedExport: "compiler-review-queue.csv",
+        relatedRankOrId: gap.title || "",
+        recommendedAction: gap.recommendedAction || "",
+        whyItMatters: gap.evidence || ""
+      })
+    );
+  }
+
+  for (const gap of audit.countryRisks || []) {
+    rows.push(
+      workplanRow({
+        sortKey: 2000 + workplanPriorityRank(gap.riskLevel) * 100 - (gap.riskScore || 0),
+        priority: gap.riskLevel || "Monitor",
+        workstream: "Country coverage",
+        country: gap.country || "",
+        titleOrScope: `${gap.country || "Country"} chapter coverage`,
+        evidenceCount: gap.riskSignals?.length || "",
+        privateRecordCount: gap.privateRecordCount || 0,
+        highPriorityPrintLeads: gap.highPriorityCandidateCount || 0,
+        relatedExport: "coverage-matrix.csv; country-dossiers.csv; compiler-review-queue.csv",
+        relatedRankOrId: gap.country || "",
+        recommendedAction: workplanList(gap.recommendedActions).join(" "),
+        whyItMatters: workplanList(gap.riskSignals).join(" ")
+      })
+    );
+  }
+
+  for (const issue of issueRows.filter((row) => ["Critical", "High"].includes(row.review_priority)).slice(0, 35)) {
+    rows.push(
+      workplanRow({
+        sortKey: 3000 + workplanPriorityRank(issue.review_priority) * 100 + Number(issue.issue_rank || 0),
+        priority: issue.review_priority,
+        workstream: "Issue dossier",
+        country: issue.primary_chapter_country || "",
+        issue: issue.issue || "",
+        dateOrSpan: issue.date_span || "",
+        titleOrScope: `${issue.issue || "Issue"} - ${issue.primary_chapter_country || ""}`,
+        evidenceCount: issue.evidence_total || "",
+        privateRecordCount: issue.verified_private_record_count || 0,
+        highPriorityPrintLeads: issue.high_priority_print_candidate_count || 0,
+        publicStatementCount: issue.public_statement_count || 0,
+        sourceOrFolder: workplanList(issue.source_folders).slice(0, 3),
+        relatedExport: "issue-dossiers.csv; selection-matrix.csv; evidence-timeline.csv",
+        relatedRankOrId: issue.issue_rank || "",
+        recommendedAction: issue.recommended_compiler_use || "",
+        whyItMatters: [
+          `${issue.high_priority_print_candidate_count || 0} high-priority print leads`,
+          `${issue.verified_private_record_count || 0} verified private records`,
+          issue.no_private_anchor === "yes" ? "no private anchor" : ""
+        ].filter(Boolean),
+        links: issue.links || []
+      })
+    );
+  }
+
+  for (const source of sourceRows.filter((row) => ["Critical", "High"].includes(row.review_priority)).slice(0, 30)) {
+    rows.push(
+      workplanRow({
+        sortKey: 4000 + workplanPriorityRank(source.review_priority) * 100 + Number(source.ledger_rank || 0),
+        priority: source.review_priority,
+        workstream: "Source-folder follow-up",
+        country: source.countries || "",
+        dateOrSpan: source.date_span || "",
+        titleOrScope: source.folder_title || source.source_family || "",
+        evidenceCount: source.total_evidence_rows || "",
+        privateRecordCount: source.verified_private_record_count || 0,
+        highPriorityPrintLeads: source.high_priority_print_candidate_count || 0,
+        sourceOrFolder: [source.source_family, source.folder_title || source.folder_or_file_id].filter(Boolean).join(" - "),
+        relatedExport: "archival-source-ledger.csv; print-candidates.csv",
+        relatedRankOrId: source.ledger_rank || "",
+        recommendedAction: source.recommended_compiler_use || "",
+        whyItMatters: source.provenance_trail || "",
+        links: [source.catalog_url, source.pdf_url, source.parent_collection_url].filter(Boolean)
+      })
+    );
+  }
+
+  for (const record of memcons) {
+    if (record.releaseStatus !== "Partial") continue;
+    const countries = countryList(record);
+    const risk = bestCountryRisk(countries, riskMap);
+    rows.push(
+      workplanRow({
+        sortKey: 5000 + workplanPriorityRank(risk?.riskLevel || "Medium") * 100 - (risk?.riskScore || 0),
+        priority: risk?.riskLevel || "Medium",
+        workstream: "Partial release check",
+        country: countries,
+        dateOrSpan: record.date || "",
+        titleOrScope: record.documentTitle || record.title || "",
+        privateRecordCount: 1,
+        sourceOrFolder: record.sourceTitle || "",
+        relatedExport: "compiler-chronology.csv; citation-workbench.csv",
+        relatedRankOrId: record.id || "",
+        recommendedAction: "Check for less-redacted copies in Scowcroft files, backup material, or later releases before deciding print status.",
+        whyItMatters: "Verified private record is marked Partial.",
+        links: [record.pdfUrl, record.catalogUrl].filter(Boolean)
+      })
+    );
+  }
+
+  for (const item of selectionRows.filter((row) => row.record_class === "Print-candidate lead" && row.selection_band === "Top print lead").slice(0, 45)) {
+    rows.push(
+      workplanRow({
+        sortKey: 6000 + Number(item.selection_rank || 0),
+        priority: item.country_risk_level || "Review",
+        workstream: "Top print lead",
+        country: item.primary_chapter_country || item.countries || "",
+        dateOrSpan: item.display_date || item.sort_date || "",
+        titleOrScope: item.title || "",
+        evidenceCount: item.selection_score || "",
+        highPriorityPrintLeads: item.nearby_high_priority_print_lead_count || "",
+        sourceOrFolder: item.source_folder_or_title || item.source_series || "",
+        relatedExport: "selection-matrix.csv; print-candidates.csv",
+        relatedRankOrId: item.selection_rank || item.record_id || "",
+        recommendedAction: item.compiler_action || "",
+        whyItMatters: item.selection_flags || item.subject_or_context || "",
+        links: [item.page_link, item.pdf_url, item.catalog_or_details_url].filter(Boolean)
+      })
+    );
+  }
+
+  return rows
+    .sort(
+      (a, b) =>
+        workplanPriorityRank(a.priority) - workplanPriorityRank(b.priority) ||
+        (a._sort_key || 99999) - (b._sort_key || 99999) ||
+        String(a.country || "").localeCompare(String(b.country || "")) ||
+        String(a.title_or_scope || "").localeCompare(String(b.title_or_scope || ""))
+    )
+    .map((row, index) => {
+      const { _sort_key, ...exportRow } = row;
+      return { work_order: index + 1, ...exportRow };
+    });
+}
+
 function personIndexRows({ persons, memcons, printCandidates, dailyDiaryReferences, publicStatements }) {
   return persons.map((person) => {
     const variants = personNameVariants(person.name);
@@ -2450,6 +2600,16 @@ function main() {
   const persons = readJson("data/persons.json").persons || [];
 
   const exports = [
+    writeCsv(
+      "compiler-workplan.csv",
+      compilerWorkplanRows({
+        audit: compilerGaps,
+        memcons,
+        printCandidates,
+        dailyDiaryReferences,
+        publicStatements
+      })
+    ),
     writeCsv("compiler-chronology.csv", chronologyRows(memcons)),
     writeCsv(
       "document-context.csv",
