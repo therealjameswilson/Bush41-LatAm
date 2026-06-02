@@ -283,9 +283,9 @@ function duplicateLedgerSourceFields(record, duplicate) {
     folderTitle: sheet.folderTitle || duplicate.localIdentifier || "",
     folderOrFileId: sheet.folderIdNumber || duplicate.localIdentifier || "",
     folderNaid: duplicate.naid || "",
-    parentCollectionNaid: sheet.oaIdNumber || "",
+    parentCollectionNaid: "4522156",
     catalogUrl: duplicate.catalogUrl || "",
-    pdfUrl: record.pdfUrl || "",
+    pdfUrl: duplicate.pdfUrl || "",
     parentCollectionUrl: "https://catalog.archives.gov/id/4522156",
     provenanceTrail: [
       duplicate.sourceName,

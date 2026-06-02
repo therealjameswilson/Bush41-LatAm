@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-06-02T01:26:28.872Z",
+  "exports": [
+    {
+      "filename": "compiler-chronology.csv",
+      "rows": 126,
+      "columns": 22
+    },
+    {
+      "filename": "document-context.csv",
+      "rows": 126,
+      "columns": 23
+    },
+    {
+      "filename": "evidence-timeline.csv",
+      "rows": 1878,
+      "columns": 24
+    },
+    {
+      "filename": "citation-workbench.csv",
+      "rows": 1878,
+      "columns": 30
+    },
+    {
+      "filename": "archival-source-ledger.csv",
+      "rows": 820,
+      "columns": 39
+    },
+    {
+      "filename": "selection-matrix.csv",
+      "rows": 1061,
+      "columns": 34
+    },
+    {
+      "filename": "coverage-matrix.csv",
+      "rows": 48,
+      "columns": 26
+    },
+    {
+      "filename": "person-index.csv",
+      "rows": 318,
+      "columns": 22
+    },
+    {
+      "filename": "compiler-review-queue.csv",
+      "rows": 579,
+      "columns": 21
+    },
+    {
+      "filename": "country-dossiers.csv",
+      "rows": 12,
+      "columns": 24
+    },
+    {
+      "filename": "print-candidates.csv",
+      "rows": 935,
+      "columns": 22
+    },
+    {
+      "filename": "daily-diary-references.csv",
+      "rows": 556,
+      "columns": 15
+    },
+    {
+      "filename": "public-statements.csv",
+      "rows": 261,
+      "columns": 16
+    }
+  ]
+}
