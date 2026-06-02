@@ -1024,6 +1024,49 @@ function contextLabel(item, dateField = "documentDate") {
   return [item[dateField] || item.sortDate || "", item.documentTitle || item.title || ""].filter(Boolean).join(" - ");
 }
 
+function annotationPriorityRank(priority) {
+  return { High: 0, Medium: 1, Reference: 2 }[priority] ?? 9;
+}
+
+function annotationRow({
+  priority,
+  annotationType,
+  anchorRecord,
+  contextDate = "",
+  distanceDays = "",
+  contextTitle = "",
+  contextSource = "",
+  contextPriorityOrStatus = "",
+  issueOrTheme = "",
+  recommendedUse = "",
+  sourceNote = "",
+  contextLink = "",
+  contextRecordId = ""
+}) {
+  return {
+    annotation_order: "",
+    priority,
+    annotation_type: annotationType,
+    anchor_chapter_country: anchorRecord.chapter?.name || exportPrimaryCountry(exportCountries(anchorRecord)),
+    anchor_date: recordDateValue(anchorRecord),
+    anchor_document_type: anchorRecord.type || "",
+    anchor_title: anchorRecord.documentTitle || anchorRecord.title || "",
+    context_date: contextDate,
+    context_distance_days: distanceDays,
+    context_title: contextTitle,
+    context_source: contextSource,
+    context_priority_or_status: contextPriorityOrStatus,
+    issue_or_theme: issueOrTheme,
+    recommended_annotation_use: recommendedUse,
+    source_note: sourceNote,
+    anchor_pdf_url: anchorRecord.pdfUrl || "",
+    anchor_catalog_url: anchorRecord.catalogUrl || "",
+    context_link: contextLink,
+    anchor_record_id: anchorRecord.id || "",
+    context_record_id: contextRecordId
+  };
+}
+
 function nearbyPrintCandidates(record, candidates, maxDays) {
   return candidates
     .map((candidate) => ({
@@ -1144,6 +1187,120 @@ function documentContextExportRows() {
         catalog_url: record.catalogUrl || ""
       };
     });
+}
+
+function annotationRegisterExportRows() {
+  const memcons = window.MEMCONS || [];
+  const printCandidates = [
+    ...(window.CHRONOLOGICAL_PRINT_CANDIDATES || []),
+    ...(window.SUBJECT_PRINT_CANDIDATES || []),
+    ...(window.DEAL_PRINT_CANDIDATES || [])
+  ];
+  const publicStatements = window.PUBLIC_STATEMENTS || [];
+  const riskMap = riskByCountry();
+  const rows = [];
+
+  for (const record of memcons) {
+    const risk = bestCountryRisk(record.countries || [], riskMap);
+
+    if (/partial/i.test(record.releaseStatus || "")) {
+      rows.push(
+        annotationRow({
+          priority: ["Critical", "High"].includes(risk?.riskLevel || "") ? "High" : "Medium",
+          annotationType: "Partial release / alternate-copy check",
+          anchorRecord: record,
+          contextDate: recordDateValue(record),
+          contextTitle: record.documentTitle || record.title || "",
+          contextSource: exportSourceLabel(record),
+          contextPriorityOrStatus: record.releaseStatus || "",
+          issueOrTheme: selectionThemes(record),
+          recommendedUse:
+            "Before printing or annotating this document, check parallel Scowcroft, backup, later-release, or agency files for a less-redacted copy.",
+          sourceNote: record.sourceNote || "",
+          contextLink: record.pdfUrl || record.catalogUrl || "",
+          contextRecordId: record.id || ""
+        })
+      );
+    }
+
+    for (const reference of record.dailyDiaryReferences || []) {
+      rows.push(
+        annotationRow({
+          priority: reference.empty ? "Reference" : "Medium",
+          annotationType: reference.empty ? "Daily Diary empty-file check" : "Daily Diary/backup timing support",
+          anchorRecord: record,
+          contextDate: recordDateValue(record),
+          distanceDays: 0,
+          contextTitle: reference.title || "",
+          contextSource: reference.type || "Presidential Daily Diary/Backup",
+          contextPriorityOrStatus: reference.accessRestriction || "",
+          issueOrTheme: selectionThemes(record),
+          recommendedUse: reference.empty
+            ? "Use only to confirm that the diary file was empty or that no schedule detail is presently available."
+            : "Use to confirm timing, call/meeting status, participants, or backup packet context for a possible source note or editorial note.",
+          sourceNote: reference.sourceNote || "",
+          contextLink: reference.pdfUrl || reference.catalogUrl || "",
+          contextRecordId: reference.naid || ""
+        })
+      );
+    }
+
+    for (const item of nearbyPublicStatements(record, publicStatements, 7).slice(0, 8)) {
+      const statement = item.statement;
+      rows.push(
+        annotationRow({
+          priority: Math.abs(item.distance) <= 1 ? "Medium" : "Reference",
+          annotationType: "Nearby public statement",
+          anchorRecord: record,
+          contextDate: statement.documentDate || statement.sortDate || "",
+          distanceDays: item.distance,
+          contextTitle: statement.title || "",
+          contextSource: "Public Papers of the Presidents",
+          contextPriorityOrStatus: statement.documentType || "",
+          issueOrTheme: statement.countries || [],
+          recommendedUse:
+            "Compare the public line with the private conversation; use for annotation when it explains public posture, timing, or follow-up.",
+          sourceNote: statement.sourceNote || "",
+          contextLink: statement.pageLink || statement.pdfUrl || statement.detailsUrl || "",
+          contextRecordId: statement.id || ""
+        })
+      );
+    }
+
+    for (const item of nearbyPrintCandidates(record, printCandidates, 14).filter((lead) => lead.candidate.priority === "High").slice(0, 8)) {
+      const candidate = item.candidate;
+      rows.push(
+        annotationRow({
+          priority: Math.abs(item.distance) <= 3 ? "High" : "Medium",
+          annotationType: "Nearby high-priority print lead",
+          anchorRecord: record,
+          contextDate: candidate.documentDate || "",
+          distanceDays: item.distance,
+          contextTitle: candidate.documentTitle || "",
+          contextSource: exportCandidateSource(candidate),
+          contextPriorityOrStatus: [candidate.priority, candidate.score].filter(Boolean).join(" / "),
+          issueOrTheme: candidate.themes || [],
+          recommendedUse:
+            "Verify the page image/OCR and decide whether this lead should be printed, used as annotation context, or ruled out against the anchor document.",
+          sourceNote: candidate.sourceNote || "",
+          contextLink: candidate.pageLink || candidate.pdfUrl || candidate.catalogUrl || "",
+          contextRecordId: candidate.id || ""
+        })
+      );
+    }
+  }
+
+  return rows
+    .sort(
+      (a, b) =>
+        annotationPriorityRank(a.priority) - annotationPriorityRank(b.priority) ||
+        exportCountryRank(a.anchor_chapter_country) - exportCountryRank(b.anchor_chapter_country) ||
+        timelineSortValue(a.anchor_date).localeCompare(timelineSortValue(b.anchor_date)) ||
+        Math.abs(Number(a.context_distance_days) || 0) - Math.abs(Number(b.context_distance_days) || 0) ||
+        String(a.annotation_type || "").localeCompare(String(b.annotation_type || "")) ||
+        String(a.context_title || "").localeCompare(String(b.context_title || ""))
+    )
+    .map((row, index) => ({ ...row, annotation_order: index + 1 }));
 }
 
 function timelineSortValue(value) {
@@ -2579,6 +2736,7 @@ function attachCompilerExports() {
   attachExport('[data-export="workplan"]', "compiler-workplan.csv", compilerWorkplanExportRows());
   attachExport('[data-export="chronology"]', "compiler-chronology.csv", chronologyExportRows());
   attachExport('[data-export="documentContext"]', "document-context.csv", documentContextExportRows());
+  attachExport('[data-export="annotationRegister"]', "annotation-register.csv", annotationRegisterExportRows());
   attachExport('[data-export="evidenceTimeline"]', "evidence-timeline.csv", evidenceTimelineExportRows());
   attachExport('[data-export="citationWorkbench"]', "citation-workbench.csv", citationWorkbenchExportRows());
   attachExport('[data-export="sourceLedger"]', "archival-source-ledger.csv", sourceLedgerExportRows());

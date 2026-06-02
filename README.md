@@ -232,14 +232,17 @@ limited to the first 100 Catalog results per term where the Catalog proxy requir
 ## Compiler Exports
 
 The public site builds spreadsheet-ready CSV downloads in the browser from the loaded JSON datasets.
-The export links sit at the top of the chronology section so a compiler can immediately download the
-core declassified chronology and related review worklists. The compiler workplan is the front-door
-action list: structural risks, country gaps, issue clusters, source-folder follow-ups, partial
-release checks, and top print leads ordered into a single next-step sheet. The compiler review queue
-is the deeper triage sheet: structural risks, country coverage gaps, partial releases, and
-high-priority print-candidate leads sorted by urgency and country risk. The document context export
-gives one row per declassified memcon/telcon with same-date diary/backup references, nearby
-high-priority print leads, and nearby public statements. The all-evidence timeline export merges
+The chronology of declassified memcons and telcons is the first substantive public section and the
+first download in that section, so a compiler lands on the country-by-country document sequence
+before the broader review aids. The compiler workplan follows as the main action list: structural
+risks, country gaps, issue clusters, source-folder follow-ups, partial release checks, and top print
+leads ordered into a single next-step sheet. The compiler review queue is the deeper triage sheet:
+structural risks, country coverage gaps, partial releases, and high-priority print-candidate leads
+sorted by urgency and country risk. The document context export gives one row per declassified
+memcon/telcon with same-date diary/backup references, nearby high-priority print leads, and nearby
+public statements. The annotation register breaks that context into one row per potential source-note
+or editorial-note lead, including partial-release checks, Daily Diary/backup timing evidence, nearby
+public statements, and nearby print-candidate leads. The all-evidence timeline export merges
 private memcons/telcons, print-candidate leads, Daily Diary/backup references, and public statements
 into one date-sorted worklist with source notes, direct links, and a volume-date-scope flag. The
 citation workbench export turns the same evidence layers into a Source-note and reference audit

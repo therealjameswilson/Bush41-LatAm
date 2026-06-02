@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T01:46:14.342Z",
+  "generatedAt": "2026-06-02T01:53:48.523Z",
   "exports": [
     {
       "filename": "compiler-workplan.csv",
@@ -15,6 +15,11 @@
       "filename": "document-context.csv",
       "rows": 126,
       "columns": 23
+    },
+    {
+      "filename": "annotation-register.csv",
+      "rows": 642,
+      "columns": 20
     },
     {
       "filename": "evidence-timeline.csv",
