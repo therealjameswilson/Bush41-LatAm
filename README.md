@@ -17,6 +17,10 @@ drawn from GovInfo's *Public Papers of the Presidents* collection. That section 
 part of the archival memcon/telcon corpus; it is a chronology and citation aid for checking public
 line, travel, nominations, treaty messages, and speech material against the private record.
 
+The live page is arranged for compiler use: the chronology of declassified memcons and telcons is
+the first content section, followed by chapter rollups, provenance, gaps, print leads, public
+statements, Daily Diary/backup references, and source anchors.
+
 ## Priority Collection
 
 The first source to prioritize is the National Archives Catalog series:

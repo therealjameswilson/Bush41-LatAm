@@ -104,8 +104,9 @@ main {
   grid-template-columns: minmax(0, 1.32fr) minmax(280px, 0.68fr);
   gap: clamp(24px, 5vw, 72px);
   align-items: stretch;
-  min-height: calc(100vh - 92px);
-  padding: clamp(44px, 8vw, 96px) 0 40px;
+  min-height: auto;
+  padding: clamp(44px, 7vw, 72px) 0 42px;
+  border-top: 1px solid var(--line);
 }
 
 .stats {
@@ -254,6 +255,17 @@ dd {
   border-top: 1px solid var(--line);
 }
 
+.records-section {
+  padding-top: clamp(38px, 6vw, 64px);
+  border-top: 0;
+}
+
+.records-section .section-heading {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 0;
+}
+
 .section-heading {
   display: flex;
   align-items: end;
@@ -267,6 +279,13 @@ h2 {
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(2.2rem, 5vw, 4rem);
   line-height: 1;
+}
+
+.records-section h1 {
+  max-width: 980px;
+  margin-bottom: 0;
+  font-size: clamp(2.6rem, 6vw, 5.2rem);
+  line-height: 0.98;
 }
 
 .feature-grid,
