@@ -61,7 +61,7 @@
           "sourcePages": "12-13",
           "catalogUrl": "https://catalog.archives.gov/id/366551686",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 12-13. Catalog: https://catalog.archives.gov/id/366551686.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -71,7 +71,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-001",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 12-13. Catalog: https://catalog.archives.gov/id/366551686."
         }
       ],
       "dailyDiarySeries": {
@@ -197,7 +198,7 @@
           "sourcePages": "24-28",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 24-28. Catalog: https://catalog.archives.gov/id/366551687.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -207,7 +208,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-002",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 24-28. Catalog: https://catalog.archives.gov/id/366551687."
         }
       ],
       "dailyDiarySeries": {
@@ -1887,7 +1889,7 @@
           "sourcePages": "21-24",
           "catalogUrl": "https://catalog.archives.gov/id/366551673",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-004, Presidential Meetings - Memorandum of Conversations 01/14/91 - 03/08/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 21-24. Catalog: https://catalog.archives.gov/id/366551673.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-004, Presidential Meetings - Memorandum of Conversations 01/14/91 - 03/08/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -1897,7 +1899,8 @@
             "oaIdNumber": "91108",
             "folderIdNumber": "91108-004",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 01/14/91 - 03/08/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-004, Presidential Meetings - Memorandum of Conversations 01/14/91 - 03/08/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 21-24. Catalog: https://catalog.archives.gov/id/366551673."
         }
       ],
       "dailyDiarySeries": {
@@ -4026,7 +4029,7 @@
           "sourcePages": "92-95",
           "catalogUrl": "https://catalog.archives.gov/id/366551660",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-001, Presidential Meetings - Memorandum of Conversations 1/24/89 - 2/25/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 92-95. Catalog: https://catalog.archives.gov/id/366551660.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-001, Presidential Meetings - Memorandum of Conversations 1/24/89 - 2/25/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -4036,7 +4039,8 @@
             "oaIdNumber": "91107",
             "folderIdNumber": "91107-001",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 1/24/89 - 2/25/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-001, Presidential Meetings - Memorandum of Conversations 1/24/89 - 2/25/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 92-95. Catalog: https://catalog.archives.gov/id/366551660."
         }
       ],
       "dailyDiarySeries": {
@@ -4162,7 +4166,7 @@
           "sourcePages": "41-43",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 41-43. Catalog: https://catalog.archives.gov/id/366551687.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -4172,7 +4176,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-002",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 41-43. Catalog: https://catalog.archives.gov/id/366551687."
         }
       ],
       "dailyDiarySeries": {
@@ -4486,7 +4491,7 @@
           "sourcePages": "25-26",
           "catalogUrl": "https://catalog.archives.gov/id/366551691",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 25-26. Catalog: https://catalog.archives.gov/id/366551691.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -4496,7 +4501,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-006",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 25-26. Catalog: https://catalog.archives.gov/id/366551691."
         }
       ],
       "dailyDiarySeries": {
@@ -4622,7 +4628,7 @@
           "sourcePages": "91-93",
           "catalogUrl": "https://catalog.archives.gov/id/366551691",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 91-93. Catalog: https://catalog.archives.gov/id/366551691.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -4632,7 +4638,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-006",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 91-93. Catalog: https://catalog.archives.gov/id/366551691."
         }
       ],
       "dailyDiarySeries": {
@@ -4758,7 +4765,7 @@
           "sourcePages": "14-15",
           "catalogUrl": "https://catalog.archives.gov/id/366551692",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 14-15. Catalog: https://catalog.archives.gov/id/366551692.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -4768,7 +4775,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-007",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 14-15. Catalog: https://catalog.archives.gov/id/366551692."
         }
       ],
       "dailyDiarySeries": {
@@ -4894,7 +4902,7 @@
           "sourcePages": "82-86",
           "catalogUrl": "https://catalog.archives.gov/id/366551671",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 82-86. Catalog: https://catalog.archives.gov/id/366551671.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -4904,7 +4912,8 @@
             "oaIdNumber": "91108",
             "folderIdNumber": "91108-002",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 82-86. Catalog: https://catalog.archives.gov/id/366551671."
         }
       ],
       "dailyDiarySeries": {
@@ -5030,7 +5039,7 @@
           "sourcePages": "103-108",
           "catalogUrl": "https://catalog.archives.gov/id/366551672",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-003, Presidential Meetings - Memorandum of Conversations 11/13/90 - 12/21/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 103-108. Catalog: https://catalog.archives.gov/id/366551672.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-003, Presidential Meetings - Memorandum of Conversations 11/13/90 - 12/21/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -5040,7 +5049,8 @@
             "oaIdNumber": "91108",
             "folderIdNumber": "91108-003",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 11/13/90 - 12/21/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-003, Presidential Meetings - Memorandum of Conversations 11/13/90 - 12/21/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 103-108. Catalog: https://catalog.archives.gov/id/366551672."
         }
       ],
       "dailyDiarySeries": {
@@ -5166,7 +5176,7 @@
           "sourcePages": "98-103",
           "catalogUrl": "https://catalog.archives.gov/id/366551675",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 98-103. Catalog: https://catalog.archives.gov/id/366551675.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -5176,7 +5186,8 @@
             "oaIdNumber": "91108",
             "folderIdNumber": "91108-006",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 98-103. Catalog: https://catalog.archives.gov/id/366551675."
         }
       ],
       "dailyDiarySeries": {
@@ -5302,7 +5313,7 @@
           "sourcePages": "96-100",
           "catalogUrl": "https://catalog.archives.gov/id/366551677",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-002, Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 96-100. Catalog: https://catalog.archives.gov/id/366551677.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-002, Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -5312,7 +5323,8 @@
             "oaIdNumber": "91109",
             "folderIdNumber": "91109-002",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-002, Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 96-100. Catalog: https://catalog.archives.gov/id/366551677."
         }
       ],
       "dailyDiarySeries": {
@@ -5545,7 +5557,7 @@
           "sourcePages": "33-34",
           "catalogUrl": "https://catalog.archives.gov/id/366551704",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 33-34. Catalog: https://catalog.archives.gov/id/366551704.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -5555,7 +5567,8 @@
             "oaIdNumber": "91113",
             "folderIdNumber": "91113-004",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 33-34. Catalog: https://catalog.archives.gov/id/366551704."
         }
       ],
       "dailyDiarySeries": {
@@ -5681,7 +5694,7 @@
           "sourcePages": "6-7",
           "catalogUrl": "https://catalog.archives.gov/id/366551705",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 6-7. Catalog: https://catalog.archives.gov/id/366551705.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -5691,7 +5704,8 @@
             "oaIdNumber": "91113",
             "folderIdNumber": "91113-005",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-005, Presidential Telephone Calls - Memorandum of Conversations 7/10/92 - 11/5/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 6-7. Catalog: https://catalog.archives.gov/id/366551705."
         }
       ],
       "dailyDiarySeries": {
@@ -5931,7 +5945,7 @@
           "sourcePages": "119-124",
           "catalogUrl": "https://catalog.archives.gov/id/366551671",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 119-124. Catalog: https://catalog.archives.gov/id/366551671.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -5941,7 +5955,8 @@
             "oaIdNumber": "91108",
             "folderIdNumber": "91108-002",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 119-124. Catalog: https://catalog.archives.gov/id/366551671."
         }
       ],
       "dailyDiarySeries": {
@@ -6067,7 +6082,7 @@
           "sourcePages": "49-54",
           "catalogUrl": "https://catalog.archives.gov/id/366551683",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92 - 6/17/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 49-54. Catalog: https://catalog.archives.gov/id/366551683.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92 - 6/17/92. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -6077,7 +6092,8 @@
             "oaIdNumber": "91109",
             "folderIdNumber": "91109-008",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 5/1/92 - 6/17/92"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-008, Presidential Meetings - Memorandum of Conversations 5/1/92 - 6/17/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 49-54. Catalog: https://catalog.archives.gov/id/366551683."
         }
       ],
       "dailyDiarySeries": {
@@ -6317,7 +6333,7 @@
           "sourcePages": "76-77",
           "catalogUrl": "https://catalog.archives.gov/id/366551686",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 76-77. Catalog: https://catalog.archives.gov/id/366551686.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -6327,7 +6343,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-001",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 76-77. Catalog: https://catalog.archives.gov/id/366551686."
         }
       ],
       "dailyDiarySeries": {
@@ -6674,7 +6691,7 @@
           "sourcePages": "43-45",
           "catalogUrl": "https://catalog.archives.gov/id/366551688",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 43-45. Catalog: https://catalog.archives.gov/id/366551688.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -6684,7 +6701,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-003",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 43-45. Catalog: https://catalog.archives.gov/id/366551688."
         }
       ],
       "dailyDiarySeries": {
@@ -6810,7 +6828,7 @@
           "sourcePages": "55-58",
           "catalogUrl": "https://catalog.archives.gov/id/366551688",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-58. Catalog: https://catalog.archives.gov/id/366551688.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -6820,7 +6838,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-003",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-58. Catalog: https://catalog.archives.gov/id/366551688."
         }
       ],
       "dailyDiarySeries": {
@@ -6946,7 +6965,7 @@
           "sourcePages": "72-73",
           "catalogUrl": "https://catalog.archives.gov/id/366551688",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 72-73. Catalog: https://catalog.archives.gov/id/366551688.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -6956,7 +6975,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-003",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 72-73. Catalog: https://catalog.archives.gov/id/366551688."
         }
       ],
       "dailyDiarySeries": {
@@ -7538,7 +7558,7 @@
           "sourcePages": "34-36",
           "catalogUrl": "https://catalog.archives.gov/id/366551690",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 34-36. Catalog: https://catalog.archives.gov/id/366551690.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -7548,7 +7568,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-005",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 34-36. Catalog: https://catalog.archives.gov/id/366551690."
         }
       ],
       "dailyDiarySeries": {
@@ -7674,7 +7695,7 @@
           "sourcePages": "55-57",
           "catalogUrl": "https://catalog.archives.gov/id/366551691",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-57. Catalog: https://catalog.archives.gov/id/366551691.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -7684,7 +7705,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-006",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-57. Catalog: https://catalog.archives.gov/id/366551691."
         }
       ],
       "dailyDiarySeries": {
@@ -9029,7 +9051,7 @@
           "sourcePages": "86-91",
           "catalogUrl": "https://catalog.archives.gov/id/366551670",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-001, Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 86-91. Catalog: https://catalog.archives.gov/id/366551670.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-001, Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -9039,7 +9061,8 @@
             "oaIdNumber": "91108",
             "folderIdNumber": "91108-001",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-001, Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 86-91. Catalog: https://catalog.archives.gov/id/366551670."
         },
         {
           "id": "scowcroft-366551670-79-rodrigo-borja-memcon",
@@ -9050,7 +9073,7 @@
           "sourcePages": "79-85",
           "catalogUrl": "https://catalog.archives.gov/id/366551670",
           "pageCount": 7,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-001, Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 79-85. Catalog: https://catalog.archives.gov/id/366551670.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-001, Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -9060,7 +9083,8 @@
             "oaIdNumber": "91108",
             "folderIdNumber": "91108-001",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-001, Presidential Meetings - Memorandum of Conversations 7/5/90 - 9/24/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 79-85. Catalog: https://catalog.archives.gov/id/366551670."
         }
       ],
       "dailyDiarySeries": {
@@ -9300,7 +9324,7 @@
           "sourcePages": "24-28",
           "catalogUrl": "https://catalog.archives.gov/id/366551685",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-002, Presidential Meetings - Memorandum of Conversations 7/9/92 - 12/22/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 24-28. Catalog: https://catalog.archives.gov/id/366551685.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-002, Presidential Meetings - Memorandum of Conversations 7/9/92 - 12/22/92. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -9310,7 +9334,8 @@
             "oaIdNumber": "91110",
             "folderIdNumber": "91110-002",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/9/92 - 12/22/92"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91110-002, Presidential Meetings - Memorandum of Conversations 7/9/92 - 12/22/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 24-28. Catalog: https://catalog.archives.gov/id/366551685."
         }
       ],
       "dailyDiarySeries": {
@@ -9436,7 +9461,7 @@
           "sourcePages": "45-48",
           "catalogUrl": "https://catalog.archives.gov/id/366551663",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-004, Presidential Meetings - Memorandum of Conversations 6/1/89 - 7/12/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 45-48. Catalog: https://catalog.archives.gov/id/366551663.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-004, Presidential Meetings - Memorandum of Conversations 6/1/89 - 7/12/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -9446,7 +9471,8 @@
             "oaIdNumber": "91107",
             "folderIdNumber": "91107-004",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 6/1/89 - 7/12/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-004, Presidential Meetings - Memorandum of Conversations 6/1/89 - 7/12/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 45-48. Catalog: https://catalog.archives.gov/id/366551663."
         }
       ],
       "dailyDiarySeries": {
@@ -9780,7 +9806,7 @@
           "sourcePages": "17-20",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 17-20. Catalog: https://catalog.archives.gov/id/366551687.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -9790,7 +9816,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-002",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 17-20. Catalog: https://catalog.archives.gov/id/366551687."
         }
       ],
       "dailyDiarySeries": {
@@ -9916,7 +9943,7 @@
           "sourcePages": "82-87",
           "catalogUrl": "https://catalog.archives.gov/id/366551677",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-002, Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 82-87. Catalog: https://catalog.archives.gov/id/366551677.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-002, Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -9926,7 +9953,8 @@
             "oaIdNumber": "91109",
             "folderIdNumber": "91109-002",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91109-002, Presidential Meetings - Memorandum of Conversations 7/24/91 - 9/24/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 82-87. Catalog: https://catalog.archives.gov/id/366551677."
         }
       ],
       "dailyDiarySeries": {
@@ -10166,7 +10194,7 @@
           "sourcePages": "11-14",
           "catalogUrl": "https://catalog.archives.gov/id/366551704",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 11-14. Catalog: https://catalog.archives.gov/id/366551704.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -10176,7 +10204,8 @@
             "oaIdNumber": "91113",
             "folderIdNumber": "91113-004",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 11-14. Catalog: https://catalog.archives.gov/id/366551704."
         }
       ],
       "dailyDiarySeries": {
@@ -10416,7 +10445,7 @@
           "sourcePages": "21-23",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 21-23. Catalog: https://catalog.archives.gov/id/366551687.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -10426,7 +10455,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-002",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 21-23. Catalog: https://catalog.archives.gov/id/366551687."
         }
       ],
       "dailyDiarySeries": {
@@ -10552,7 +10582,7 @@
           "sourcePages": "53-62",
           "catalogUrl": "https://catalog.archives.gov/id/366551664",
           "pageCount": 10,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-005, Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 53-62. Catalog: https://catalog.archives.gov/id/366551664.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-005, Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -10562,7 +10592,8 @@
             "oaIdNumber": "91107",
             "folderIdNumber": "91107-005",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-005, Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 53-62. Catalog: https://catalog.archives.gov/id/366551664."
         }
       ],
       "dailyDiarySeries": {
@@ -10688,7 +10719,7 @@
           "sourcePages": "57-61",
           "catalogUrl": "https://catalog.archives.gov/id/366551666",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-007, Presidential Meetings - Memorandum of Conversations 1/11/90 - 2/21/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 57-61. Catalog: https://catalog.archives.gov/id/366551666.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-007, Presidential Meetings - Memorandum of Conversations 1/11/90 - 2/21/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -10698,7 +10729,8 @@
             "oaIdNumber": "91107",
             "folderIdNumber": "91107-007",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 1/11/90 - 2/21/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-007, Presidential Meetings - Memorandum of Conversations 1/11/90 - 2/21/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 57-61. Catalog: https://catalog.archives.gov/id/366551666."
         }
       ],
       "dailyDiarySeries": {
@@ -10824,7 +10856,7 @@
           "sourcePages": "16-17",
           "catalogUrl": "https://catalog.archives.gov/id/366551692",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 16-17. Catalog: https://catalog.archives.gov/id/366551692.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -10834,7 +10866,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-007",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-007, Presidential Telephone Calls - Memorandum of Conversations 6/23/90 - 7/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 16-17. Catalog: https://catalog.archives.gov/id/366551692."
         }
       ],
       "dailyDiarySeries": {
@@ -10960,7 +10993,7 @@
           "sourcePages": "112-115",
           "catalogUrl": "https://catalog.archives.gov/id/366551671",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 112-115. Catalog: https://catalog.archives.gov/id/366551671.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -10970,7 +11003,8 @@
             "oaIdNumber": "91108",
             "folderIdNumber": "91108-002",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 112-115. Catalog: https://catalog.archives.gov/id/366551671."
         }
       ],
       "dailyDiarySeries": {
@@ -11210,7 +11244,7 @@
           "sourcePages": "51-51",
           "catalogUrl": "https://catalog.archives.gov/id/366551696",
           "pageCount": 1,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 51-51. Catalog: https://catalog.archives.gov/id/366551696.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -11220,7 +11254,8 @@
             "oaIdNumber": "91112",
             "folderIdNumber": "91112-004",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-004, Presidential Telephone Calls - Memorandum of Conversations 1/1/91 - 1/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 51-51. Catalog: https://catalog.archives.gov/id/366551696."
         }
       ],
       "dailyDiarySeries": {
@@ -11346,7 +11381,7 @@
           "sourcePages": "55-60",
           "catalogUrl": "https://catalog.archives.gov/id/366551675",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-60. Catalog: https://catalog.archives.gov/id/366551675.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -11356,7 +11391,8 @@
             "oaIdNumber": "91108",
             "folderIdNumber": "91108-006",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-60. Catalog: https://catalog.archives.gov/id/366551675."
         }
       ],
       "dailyDiarySeries": {
@@ -11482,7 +11518,7 @@
           "sourcePages": "29-30",
           "catalogUrl": "https://catalog.archives.gov/id/366551686",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 29-30. Catalog: https://catalog.archives.gov/id/366551686.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -11492,7 +11528,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-001",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 29-30. Catalog: https://catalog.archives.gov/id/366551686."
         }
       ],
       "dailyDiarySeries": {
@@ -11618,7 +11655,7 @@
           "sourcePages": "55-59",
           "catalogUrl": "https://catalog.archives.gov/id/366551686",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-59. Catalog: https://catalog.archives.gov/id/366551686.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -11628,7 +11665,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-001",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-001, Presidential Telephone Calls - Memorandum of Conversations 1/23/89 - 5/10/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 55-59. Catalog: https://catalog.archives.gov/id/366551686."
         }
       ],
       "dailyDiarySeries": {
@@ -11754,7 +11792,7 @@
           "sourcePages": "90-99",
           "catalogUrl": "https://catalog.archives.gov/id/366551661",
           "pageCount": 10,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-002, Presidential Meetings - Memorandum of Conversations 2/26/89 - 4/19/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 90-99. Catalog: https://catalog.archives.gov/id/366551661.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-002, Presidential Meetings - Memorandum of Conversations 2/26/89 - 4/19/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -11764,7 +11802,8 @@
             "oaIdNumber": "91107",
             "folderIdNumber": "91107-002",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 2/26/89 - 4/19/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-002, Presidential Meetings - Memorandum of Conversations 2/26/89 - 4/19/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 90-99. Catalog: https://catalog.archives.gov/id/366551661."
         }
       ],
       "dailyDiarySeries": {
@@ -11890,7 +11929,7 @@
           "sourcePages": "7-9",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 7-9. Catalog: https://catalog.archives.gov/id/366551687.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -11900,7 +11939,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-002",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 7-9. Catalog: https://catalog.archives.gov/id/366551687."
         }
       ],
       "dailyDiarySeries": {
@@ -12026,7 +12066,7 @@
           "sourcePages": "73-75",
           "catalogUrl": "https://catalog.archives.gov/id/366551687",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 73-75. Catalog: https://catalog.archives.gov/id/366551687.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -12036,7 +12076,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-002",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-002, Presidential Telephone Calls - Memorandum of Conversations 5/10/89 - 7/27/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 73-75. Catalog: https://catalog.archives.gov/id/366551687."
         }
       ],
       "dailyDiarySeries": {
@@ -12162,7 +12203,7 @@
           "sourcePages": "46-51",
           "catalogUrl": "https://catalog.archives.gov/id/366551688",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 46-51. Catalog: https://catalog.archives.gov/id/366551688.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -12172,7 +12213,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-003",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-003, Presidential Telephone Calls - Memorandum of Conversations 8/1/89 - 10/23/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 46-51. Catalog: https://catalog.archives.gov/id/366551688."
         }
       ],
       "dailyDiarySeries": {
@@ -12298,7 +12340,7 @@
           "sourcePages": "86-89",
           "catalogUrl": "https://catalog.archives.gov/id/366551664",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-005, Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 86-89. Catalog: https://catalog.archives.gov/id/366551664.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-005, Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -12308,7 +12350,8 @@
             "oaIdNumber": "91107",
             "folderIdNumber": "91107-005",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91107-005, Presidential Meetings - Memorandum of Conversations 7/14/89 - 10/2/89. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 86-89. Catalog: https://catalog.archives.gov/id/366551664."
         }
       ],
       "dailyDiarySeries": {
@@ -12662,7 +12705,7 @@
           "sourcePages": "76-78",
           "catalogUrl": "https://catalog.archives.gov/id/366551690",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 76-78. Catalog: https://catalog.archives.gov/id/366551690.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -12672,7 +12715,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-005",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-005, Presidential Telephone Calls - Memorandum of Conversations 1/1/90 - 3/15/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 76-78. Catalog: https://catalog.archives.gov/id/366551690."
         }
       ],
       "dailyDiarySeries": {
@@ -12798,7 +12842,7 @@
           "sourcePages": "17-20",
           "catalogUrl": "https://catalog.archives.gov/id/366551691",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 17-20. Catalog: https://catalog.archives.gov/id/366551691.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -12808,7 +12852,8 @@
             "oaIdNumber": "91111",
             "folderIdNumber": "91111-006",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91111-006, Presidential Telephone Calls - Memorandum of Conversations 3/15/90 - 6/22/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 17-20. Catalog: https://catalog.archives.gov/id/366551691."
         }
       ],
       "dailyDiarySeries": {
@@ -13028,7 +13073,7 @@
           "sourcePages": "85-87",
           "catalogUrl": "https://catalog.archives.gov/id/366551693",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90 - 8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 85-87. Catalog: https://catalog.archives.gov/id/366551693.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90 - 8/20/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -13038,7 +13083,8 @@
             "oaIdNumber": "91112",
             "folderIdNumber": "91112-001",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/2/90 - 8/20/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-001, Presidential Telephone Calls - Memorandum of Conversations 8/2/90 - 8/20/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 85-87. Catalog: https://catalog.archives.gov/id/366551693."
         }
       ],
       "dailyDiarySeries": {
@@ -13164,7 +13210,7 @@
           "sourcePages": "107-111",
           "catalogUrl": "https://catalog.archives.gov/id/366551671",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 107-111. Catalog: https://catalog.archives.gov/id/366551671.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -13174,7 +13220,8 @@
             "oaIdNumber": "91108",
             "folderIdNumber": "91108-002",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-002, Presidential Meetings - Memorandum of Conversations 9/25/90 - 10/31/90. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 107-111. Catalog: https://catalog.archives.gov/id/366551671."
         }
       ],
       "dailyDiarySeries": {
@@ -13414,7 +13461,7 @@
           "sourcePages": "57-62",
           "catalogUrl": "https://catalog.archives.gov/id/366551697",
           "pageCount": 6,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 57-62. Catalog: https://catalog.archives.gov/id/366551697.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -13424,7 +13471,8 @@
             "oaIdNumber": "91112",
             "folderIdNumber": "91112-005",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 57-62. Catalog: https://catalog.archives.gov/id/366551697."
         },
         {
           "id": "scowcroft-366551697-56-carlos-andres-perez-telcon",
@@ -13435,7 +13483,7 @@
           "sourcePages": "56-56",
           "catalogUrl": "https://catalog.archives.gov/id/366551697",
           "pageCount": 1,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 56-56. Catalog: https://catalog.archives.gov/id/366551697.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -13445,7 +13493,8 @@
             "oaIdNumber": "91112",
             "folderIdNumber": "91112-005",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-005, Presidential Telephone Calls - Memorandum of Conversations 1/30/91 - 2/22/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 56-56. Catalog: https://catalog.archives.gov/id/366551697."
         }
       ],
       "dailyDiarySeries": {
@@ -13685,7 +13734,7 @@
           "sourcePages": "61-64",
           "catalogUrl": "https://catalog.archives.gov/id/366551699",
           "pageCount": 4,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91 - 4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 61-64. Catalog: https://catalog.archives.gov/id/366551699.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91 - 4/25/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -13695,7 +13744,8 @@
             "oaIdNumber": "91112",
             "folderIdNumber": "91112-007",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 3/7/91 - 4/25/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91112-007, Presidential Telephone Calls - Memorandum of Conversations 3/7/91 - 4/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 61-64. Catalog: https://catalog.archives.gov/id/366551699."
         }
       ],
       "dailyDiarySeries": {
@@ -13821,7 +13871,7 @@
           "sourcePages": "6-13",
           "catalogUrl": "https://catalog.archives.gov/id/366551675",
           "pageCount": 8,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 6-13. Catalog: https://catalog.archives.gov/id/366551675.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -13831,7 +13881,8 @@
             "oaIdNumber": "91108",
             "folderIdNumber": "91108-006",
             "folderTitle": "Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Memcons Files, OA/ID 91108-006, Presidential Meetings - Memorandum of Conversations 05/03/91 - 06/28/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 6-13. Catalog: https://catalog.archives.gov/id/366551675."
         }
       ],
       "dailyDiarySeries": {
@@ -13957,7 +14008,7 @@
           "sourcePages": "93-95",
           "catalogUrl": "https://catalog.archives.gov/id/366551701",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91 - 9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 93-95. Catalog: https://catalog.archives.gov/id/366551701.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91 - 9/25/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -13967,7 +14018,8 @@
             "oaIdNumber": "91113",
             "folderIdNumber": "91113-001",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 8/5/91 - 9/25/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-001, Presidential Telephone Calls - Memorandum of Conversations 8/5/91 - 9/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 93-95. Catalog: https://catalog.archives.gov/id/366551701."
         }
       ],
       "dailyDiarySeries": {
@@ -14207,7 +14259,7 @@
           "sourcePages": "26-28",
           "catalogUrl": "https://catalog.archives.gov/id/366551702",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 26-28. Catalog: https://catalog.archives.gov/id/366551702.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -14217,7 +14269,8 @@
             "oaIdNumber": "91113",
             "folderIdNumber": "91113-002",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 26-28. Catalog: https://catalog.archives.gov/id/366551702."
         }
       ],
       "dailyDiarySeries": {
@@ -14343,7 +14396,7 @@
           "sourcePages": "29-30",
           "catalogUrl": "https://catalog.archives.gov/id/366551702",
           "pageCount": 2,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 29-30. Catalog: https://catalog.archives.gov/id/366551702.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -14353,7 +14406,8 @@
             "oaIdNumber": "91113",
             "folderIdNumber": "91113-002",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 29-30. Catalog: https://catalog.archives.gov/id/366551702."
         }
       ],
       "dailyDiarySeries": {
@@ -14479,7 +14533,7 @@
           "sourcePages": "36-45",
           "catalogUrl": "https://catalog.archives.gov/id/366551702",
           "pageCount": 10,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 36-45. Catalog: https://catalog.archives.gov/id/366551702.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -14489,7 +14543,8 @@
             "oaIdNumber": "91113",
             "folderIdNumber": "91113-002",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 36-45. Catalog: https://catalog.archives.gov/id/366551702."
         }
       ],
       "dailyDiarySeries": {
@@ -14615,7 +14670,7 @@
           "sourcePages": "62-64",
           "catalogUrl": "https://catalog.archives.gov/id/366551702",
           "pageCount": 3,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 62-64. Catalog: https://catalog.archives.gov/id/366551702.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -14625,7 +14680,8 @@
             "oaIdNumber": "91113",
             "folderIdNumber": "91113-002",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 62-64. Catalog: https://catalog.archives.gov/id/366551702."
         }
       ],
       "dailyDiarySeries": {
@@ -14751,7 +14807,7 @@
           "sourcePages": "139-143",
           "catalogUrl": "https://catalog.archives.gov/id/366551702",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 139-143. Catalog: https://catalog.archives.gov/id/366551702.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -14761,7 +14817,8 @@
             "oaIdNumber": "91113",
             "folderIdNumber": "91113-002",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-002, Presidential Telephone Calls - Memorandum of Conversations 9/27/91 - 12/25/91. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 139-143. Catalog: https://catalog.archives.gov/id/366551702."
         }
       ],
       "dailyDiarySeries": {
@@ -14994,7 +15051,7 @@
           "sourcePages": "54-58",
           "catalogUrl": "https://catalog.archives.gov/id/366551704",
           "pageCount": 5,
-          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 54-58. Catalog: https://catalog.archives.gov/id/366551704.",
+          "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified.",
           "provenanceSheet": {
             "foiaNumber": "2009-0275-S",
             "recordGroupCollection": "George H.W. Bush Presidential Records",
@@ -15004,7 +15061,8 @@
             "oaIdNumber": "91113",
             "folderIdNumber": "91113-004",
             "folderTitle": "Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92"
-          }
+          },
+          "provenanceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Presidential Correspondence Files, Presidential Telcon Files, OA/ID 91113-004, Presidential Telephone Calls - Memorandum of Conversations 4/10/92 - 6/30/92. Declassified. Originally processed under FOIA 2009-0275-S. Source-folder pages 54-58. Catalog: https://catalog.archives.gov/id/366551704."
         }
       ],
       "dailyDiarySeries": {

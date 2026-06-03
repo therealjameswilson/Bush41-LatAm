@@ -117,6 +117,21 @@ function scowcroftSubseries(record) {
   return "Presidential Memcons Files";
 }
 
+function scowcroftDuplicateSubseries(parentRecord, duplicate) {
+  const provenance = duplicate.provenanceSheet || {};
+  if (
+    provenance.subseries &&
+    !isMarkerLabel(provenance.subseries) &&
+    !/George H\.?W\.?\s*Bush Presidential Records/i.test(provenance.subseries)
+  ) {
+    return provenance.subseries;
+  }
+  if (/telcon|telephone/i.test(`${duplicate.series || ""} ${duplicate.sourceFile || ""} ${parentRecord.type || ""} ${parentRecord.title || ""}`)) {
+    return "Presidential Telcon Files";
+  }
+  return "Presidential Memcons Files";
+}
+
 function scowcroftSourcePath(record) {
   const source = record.source || {};
   const provenance = source.provenanceSheet || {};
@@ -131,6 +146,22 @@ function scowcroftSourcePath(record) {
     scowcroftSubseries(record),
     `OA/ID ${folderId}`,
     cleanFolderTitle(record)
+  ]).join(", ");
+}
+
+function scowcroftDuplicateSourcePath(parentRecord, duplicate) {
+  const provenance = duplicate.provenanceSheet || {};
+  const folderId = /^\d{5}-\d{3}$/.test(provenance.folderIdNumber || "")
+    ? provenance.folderIdNumber
+    : duplicate.localIdentifier || provenance.folderIdNumber || provenance.oaIdNumber;
+  return uniqueInOrder([
+    "George H.W. Bush Library",
+    recordGroupName(provenance.recordGroupCollection || "Bush Presidential Records"),
+    collectionName(provenance.collectionOfficeOfOrigin || "Brent Scowcroft Collection"),
+    isMarkerLabel(provenance.series) ? "Presidential Correspondence Files" : provenance.series || duplicate.series || "Presidential Correspondence Files",
+    scowcroftDuplicateSubseries(parentRecord, duplicate),
+    `OA/ID ${folderId}`,
+    provenance.folderTitle || duplicate.sourceFile || duplicate.localIdentifier || parentRecord.sourceTitle
   ]).join(", ");
 }
 
@@ -158,9 +189,18 @@ function frusMemconSourceNote(record) {
   return sentence(record.sourceNote || "Source: Provenance pending.");
 }
 
+function duplicateSourceNote(parentRecord, duplicate) {
+  if (duplicate.sourceName === "Brent Scowcroft Papers" || duplicate.provenanceSheet) {
+    return `Source: ${scowcroftDuplicateSourcePath(parentRecord, duplicate)}. Declassified.`;
+  }
+  return sentence(duplicate.sourceNote || "");
+}
+
 function updateMemconSourceNotes(records) {
   let changed = 0;
   let preserved = 0;
+  let duplicateChanged = 0;
+  let duplicatePreserved = 0;
   for (const record of records) {
     const oldNote = record.sourceNote || "";
     const newNote = frusMemconSourceNote(record);
@@ -172,8 +212,21 @@ function updateMemconSourceNotes(records) {
       record.sourceNote = newNote;
       changed += 1;
     }
+
+    for (const duplicate of record.source?.duplicateSources || []) {
+      const oldDuplicateNote = duplicate.sourceNote || "";
+      const newDuplicateNote = duplicateSourceNote(record, duplicate);
+      if (oldDuplicateNote && oldDuplicateNote !== newDuplicateNote && !duplicate.provenanceNote) {
+        duplicate.provenanceNote = oldDuplicateNote;
+        duplicatePreserved += 1;
+      }
+      if (newDuplicateNote && duplicate.sourceNote !== newDuplicateNote) {
+        duplicate.sourceNote = newDuplicateNote;
+        duplicateChanged += 1;
+      }
+    }
   }
-  return { changed, preserved };
+  return { changed, preserved, duplicateChanged, duplicatePreserved };
 }
 
 function candidateSeriesPath(record) {
@@ -253,14 +306,20 @@ function main() {
   for (const dataset of DATASETS) {
     const records = readJson(dataset.json);
     const result = dataset.update(records);
+    const duplicateSources = records.flatMap((record) => record.source?.duplicateSources || []);
     writeDataset(dataset, records);
     report.datasets.push({
       dataset: dataset.json,
       records: records.length,
       sourceNotesChangedThisRun: result.changed,
       provenanceNotesPreservedThisRun: result.preserved,
+      duplicateSourceNotes: duplicateSources.length,
+      duplicateSourceNotesChangedThisRun: result.duplicateChanged || 0,
+      duplicateProvenanceNotesPreservedThisRun: result.duplicatePreserved || 0,
       conformingSourceNotes: records.filter(sourceNoteConforms).length,
-      provenanceNotesPresent: records.filter((record) => record.provenanceNote).length
+      conformingDuplicateSourceNotes: duplicateSources.filter(sourceNoteConforms).length,
+      provenanceNotesPresent: records.filter((record) => record.provenanceNote).length,
+      duplicateProvenanceNotesPresent: duplicateSources.filter((duplicate) => duplicate.provenanceNote).length
     });
   }
 

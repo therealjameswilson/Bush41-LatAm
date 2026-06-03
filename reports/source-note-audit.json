@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T11:19:55.663Z",
+  "generatedAt": "2026-06-03T02:14:26.914Z",
   "model": {
     "volume": "Foreign Relations of the United States, 1989-1992, Volume XXXI, START I, 1989-1991",
     "url": "https://history.state.gov/historicaldocuments/frus1989-92v31"
@@ -11,32 +11,52 @@
       "records": 126,
       "sourceNotesChangedThisRun": 0,
       "provenanceNotesPreservedThisRun": 0,
+      "duplicateSourceNotes": 58,
+      "duplicateSourceNotesChangedThisRun": 0,
+      "duplicateProvenanceNotesPreservedThisRun": 0,
       "conformingSourceNotes": 126,
-      "provenanceNotesPresent": 126
+      "conformingDuplicateSourceNotes": 58,
+      "provenanceNotesPresent": 126,
+      "duplicateProvenanceNotesPresent": 58
     },
     {
       "dataset": "data/chronological-print-candidates.json",
       "records": 362,
       "sourceNotesChangedThisRun": 0,
       "provenanceNotesPreservedThisRun": 0,
+      "duplicateSourceNotes": 0,
+      "duplicateSourceNotesChangedThisRun": 0,
+      "duplicateProvenanceNotesPreservedThisRun": 0,
       "conformingSourceNotes": 362,
-      "provenanceNotesPresent": 0
+      "conformingDuplicateSourceNotes": 0,
+      "provenanceNotesPresent": 0,
+      "duplicateProvenanceNotesPresent": 0
     },
     {
       "dataset": "data/subject-print-candidates.json",
       "records": 557,
       "sourceNotesChangedThisRun": 0,
       "provenanceNotesPreservedThisRun": 0,
+      "duplicateSourceNotes": 0,
+      "duplicateSourceNotesChangedThisRun": 0,
+      "duplicateProvenanceNotesPreservedThisRun": 0,
       "conformingSourceNotes": 557,
-      "provenanceNotesPresent": 0
+      "conformingDuplicateSourceNotes": 0,
+      "provenanceNotesPresent": 0,
+      "duplicateProvenanceNotesPresent": 0
     },
     {
       "dataset": "data/deal-print-candidates.json",
       "records": 16,
       "sourceNotesChangedThisRun": 0,
       "provenanceNotesPreservedThisRun": 0,
+      "duplicateSourceNotes": 0,
+      "duplicateSourceNotesChangedThisRun": 0,
+      "duplicateProvenanceNotesPreservedThisRun": 0,
       "conformingSourceNotes": 16,
-      "provenanceNotesPresent": 0
+      "conformingDuplicateSourceNotes": 0,
+      "provenanceNotesPresent": 0,
+      "duplicateProvenanceNotesPresent": 0
     }
   ]
 }
