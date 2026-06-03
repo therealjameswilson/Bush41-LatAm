@@ -673,6 +673,20 @@ footer {
   line-height: 1.6;
 }
 
+.trust-note {
+  max-width: 860px;
+  margin: -12px 0 28px;
+  padding: 12px 14px;
+  color: #34414d;
+  font-size: 0.98rem;
+  font-weight: 750;
+  line-height: 1.55;
+  background: rgba(255, 253, 248, 0.68);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--gold);
+  border-radius: 8px;
+}
+
 .record-tools {
   display: grid;
   grid-template-columns: minmax(240px, 1.35fr) repeat(4, minmax(128px, 0.75fr)) auto;

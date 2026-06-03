@@ -8,7 +8,7 @@
       name="description"
       content="A public research archive for declassified memoranda and telephone conversations relevant to Foreign Relations of the United States, 1989-1992, Volume XXV, Latin America."
     />
-    <link rel="stylesheet" href="styles.css?v=20260602-source-ledger" />
+    <link rel="stylesheet" href="styles.css?v=20260602-trust-pass" />
     <style id="compiler-network-style">
       .compiler-network {
         border-bottom: 1px solid rgba(31, 41, 51, 0.14);
@@ -140,6 +140,10 @@
           count, Source note, and a direct PDF link when a digital object is available. The
           provenance note is displayed directly on each record so the compiler can distinguish Bush
           Library table rows, Catalog item records, and Scowcroft page-range extracts.
+        </p>
+        <p class="trust-note">
+          Built for audit rather than persuasion: source links, provenance trails, and downloadable
+          data stay visible, while rankings and gap labels remain review cues for the compiler.
         </p>
         <div class="source-list export-list" aria-label="Compiler exports">
           <a href="#" data-export="chronology" download="compiler-chronology.csv">Download declassified chronology CSV</a>
@@ -314,6 +318,7 @@
           <article><h3>Scowcroft Page Ranges</h3><p><strong class="source-count" data-source-count="scowcroft">0</strong> local PDF extracts from the Brent Scowcroft Papers, Presidential Correspondence Files, when the cataloged scan bundles multiple conversations.</p></article>
           <article><h3>Deduped Cross-References</h3><p><strong class="source-count" data-source-count="duplicates">0</strong> records retain Scowcroft or catalog cross-references inside the Source note rather than appearing twice in the public list.</p></article>
           <article><h3>Daily Diary/Backup</h3><p><strong class="source-count" data-source-count="dailyDiary">0</strong> listed memcons and telcons now include same-date references to the Presidential Daily Diary and Daily Backup Materials.</p></article>
+          <article><h3>Traceable Rows</h3><p>Every rollup keeps the underlying Source note, provenance trail, and public PDF or Catalog path close enough to check before relying on it.</p></article>
         </div>
       </section>
 
@@ -328,6 +333,7 @@
           <article><h3>Source Note Model</h3><p>Citations follow the Volume XXXI Bush-document pattern: repository, Bush Presidential Records, office or collection, series, OA/ID or file unit, folder title, then release facts. Scowcroft citations are drawn from the PDF provenance sheet.</p></article>
           <article><h3>Diary/Backup Use</h3><p>Presidential Daily Diary and Daily Backup files are treated as schedule and call-reference evidence. They help identify times, participants, and supporting materials but are kept separate from substantive memcon and telcon texts.</p></article>
           <article><h3>Declassification Check</h3><p>Partial releases, local page-range extracts, and catalog-only provenance are exposed as review cues for later comparison with restricted or newly opened files.</p></article>
+          <article><h3>Review Boundary</h3><p>Rankings, gap labels, and print leads are triage aids. Final selection, interpretation, and exclusion remain with the compiler and the cited documents.</p></article>
         </div>
         <p class="method-source">
           Method anchor:
@@ -643,16 +649,16 @@
       <p>Published with GitHub Pages.</p>
       <a href="https://github.com/therealjameswilson/Bush41-LatAm">Repository</a>
     </footer>
-    <script src="data/memcons.js?v=20260602-source-ledger"></script>
-    <script src="data/chronological-print-candidates.js?v=20260602-source-ledger"></script>
-    <script src="data/subject-print-candidates.js?v=20260602-source-ledger"></script>
-    <script src="data/deal-print-candidates.js?v=20260602-source-ledger"></script>
-    <script src="data/public-statements.js?v=20260602-source-ledger"></script>
-    <script src="data/daily-diary-references.js?v=20260602-source-ledger"></script>
-    <script src="data/compiler-gaps.js?v=20260602-source-ledger"></script>
-    <script src="data/persons.js?v=20260602-source-ledger"></script>
-    <script src="compiler-exports.js?v=20260602-source-ledger"></script>
-    <script src="app.js?v=20260602-source-ledger"></script>
+    <script src="data/memcons.js?v=20260602-trust-pass"></script>
+    <script src="data/chronological-print-candidates.js?v=20260602-trust-pass"></script>
+    <script src="data/subject-print-candidates.js?v=20260602-trust-pass"></script>
+    <script src="data/deal-print-candidates.js?v=20260602-trust-pass"></script>
+    <script src="data/public-statements.js?v=20260602-trust-pass"></script>
+    <script src="data/daily-diary-references.js?v=20260602-trust-pass"></script>
+    <script src="data/compiler-gaps.js?v=20260602-trust-pass"></script>
+    <script src="data/persons.js?v=20260602-trust-pass"></script>
+    <script src="compiler-exports.js?v=20260602-trust-pass"></script>
+    <script src="app.js?v=20260602-trust-pass"></script>
     <script id="compiler-network-script">
       (() => {
         const button = document.querySelector("[data-compiler-handoff]");
